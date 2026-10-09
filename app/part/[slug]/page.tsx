@@ -45,7 +45,7 @@ export default async function PartPage({
 
   return (
     <main className="mx-auto max-w-4xl px-6 py-10">
-      <Link href="/" className="text-xs text-zinc-500 hover:text-zinc-300">
+      <Link href="/" className="text-xs text-zinc-400 hover:text-zinc-300">
         ← back to the build
       </Link>
 
@@ -54,7 +54,7 @@ export default async function PartPage({
         <p className="mt-1 text-sm text-zinc-400">
           {view?.title || "Offers for one exact SKU"}
         </p>
-        <p className="mt-2 text-xs text-zinc-500">
+        <p className="mt-2 text-xs text-zinc-400">
           <span className="font-mono text-zinc-300">engine=google_product</span> — who sells this
           one product, and for how much delivered.{" "}
           {view && (
@@ -75,7 +75,7 @@ export default async function PartPage({
       {view && <Offers offers={view.offers} />}
       {view && <History history={view.history} />}
 
-      <footer className="mt-12 border-t border-zinc-800 pt-5 text-xs text-zinc-600">
+      <footer className="mt-12 border-t border-zinc-800 pt-5 text-xs text-zinc-400">
         Shipping here is <strong className="font-medium text-zinc-400">not</strong> an estimate —
         `google_product` reports it per seller, so these totals are what each shop actually charges.
         The basket optimizer on the main page still uses a flat per-seller figure, because
@@ -87,7 +87,7 @@ export default async function PartPage({
 
 function Offers({ offers }: { offers: Offer[] }) {
   if (!offers.length) {
-    return <p className="mt-6 text-sm text-zinc-500">This SKU reported no sellers.</p>;
+    return <p className="mt-6 text-sm text-zinc-400">This SKU reported no sellers.</p>;
   }
   const byTotal = [...offers].sort((a, b) => a.total - b.total);
   const cheapestItem = Math.min(...offers.map((o) => o.price));
@@ -98,7 +98,7 @@ function Offers({ offers }: { offers: Offer[] }) {
 
   return (
     <section className="mt-8">
-      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">
+      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-300">
         Sellers of this exact SKU
       </h2>
       {flipped && (
@@ -108,7 +108,7 @@ function Offers({ offers }: { offers: Offer[] }) {
         </p>
       )}
       <table className="mt-3 w-full text-sm">
-        <thead className="text-xs uppercase text-zinc-600">
+        <thead className="text-xs uppercase text-zinc-400">
           <tr className="border-b border-zinc-800">
             <th className="py-2 text-left font-medium">Seller</th>
             <th className="py-2 text-right font-medium">Item</th>
@@ -135,7 +135,7 @@ function Offers({ offers }: { offers: Offer[] }) {
                   </span>
                 )}
                 {o.rating && (
-                  <div className="text-xs text-zinc-600">
+                  <div className="text-xs text-zinc-400">
                     {o.rating}★ ({o.reviews})
                   </div>
                 )}
@@ -145,12 +145,12 @@ function Offers({ offers }: { offers: Offer[] }) {
               </td>
               <td className="py-3 text-right font-mono tabular-nums">
                 {!Number.isFinite(o.shipping) ? (
-                  <span className="text-amber-600" title="Seller reported no delivery charge and no total">
+                  <span className="text-amber-500" title="Seller reported no delivery charge and no total">
                     unknown
                   </span>
                 ) : !o.shippingStated ? (
                   <span
-                    className="text-zinc-500"
+                    className="text-zinc-400"
                     title="Seller itemised no delivery charge; derived from Google's delivered total"
                   >
                     {o.shipping === 0 ? "not itemised" : inr(o.shipping)}
@@ -168,7 +168,7 @@ function Offers({ offers }: { offers: Offer[] }) {
               >
                 {Number.isFinite(o.total) ? inr(o.total) : "—"}
               </td>
-              <td className="py-3 pl-4 text-xs text-zinc-600">{o.notes.join(" · ")}</td>
+              <td className="py-3 pl-4 text-xs text-zinc-400">{o.notes.join(" · ")}</td>
             </tr>
           ))}
         </tbody>
@@ -192,8 +192,8 @@ function History({ history }: { history: { seller: string; points: PricePoint[] 
   if (!series.length) {
     return (
       <section className="mt-10">
-        <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">Price history</h2>
-        <p className="mt-2 text-sm text-zinc-500">
+        <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-300">Price history</h2>
+        <p className="mt-2 text-sm text-zinc-400">
           Google reported no multi-point price history for this SKU. Nothing is drawn rather than a
           trend inferred from a single observation.
         </p>
@@ -221,16 +221,34 @@ function History({ history }: { history: { seller: string; points: PricePoint[] 
     M.top + (1 - (v - yLo) / (yHi - yLo || 1)) * (H - M.top - M.bottom);
 
   const ticks = [yLo, (yLo + yHi) / 2, yHi];
+
+  /**
+   * End labels collide when two sellers finish at similar prices — mdcomputers
+   * at ₹25,660 and Computech at ₹25,310 overprinted each other. Walk them in
+   * price order and push each down to keep a readable gap, so the label stays
+   * near its line without sitting on its neighbour.
+   */
+  const GAP = 13;
+  const labelY = new Map<string, number>();
+  let prev = -Infinity;
+  for (const s2 of [...series].sort(
+    (a, b) => b.points[b.points.length - 1].price - a.points[a.points.length - 1].price,
+  )) {
+    const want = py(s2.points[s2.points.length - 1].price);
+    const y = Math.max(want, prev + GAP);
+    labelY.set(s2.seller, y);
+    prev = y;
+  }
   // "Oct 25" reads as a day; spell the year out.
   const fmtDate = (t: number) =>
     new Date(t).toLocaleDateString("en-IN", { month: "short", year: "numeric" });
 
   return (
     <section className="mt-10">
-      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">
+      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-300">
         Price history, per seller
       </h2>
-      <p className="mt-1 text-xs text-zinc-600">
+      <p className="mt-1 text-xs text-zinc-400">
         Reported by <span className="font-mono">price_insights</span> — real dated observations, not
         our own snapshots.
       </p>
@@ -238,14 +256,14 @@ function History({ history }: { history: { seller: string; points: PricePoint[] 
       <svg viewBox={`0 0 ${W} ${H}`} className="mt-4 w-full" role="img">
         {ticks.map((t) => (
           <g key={t}>
-            <line x1={M.left} x2={W - M.right} y1={py(t)} y2={py(t)} stroke="#27272a" strokeWidth="1" />
-            <text x={M.left - 8} y={py(t) + 4} textAnchor="end" fill="#71717a" fontSize="11" fontFamily="ui-monospace, monospace">
+            <line x1={M.left} x2={W - M.right} y1={py(t)} y2={py(t)} stroke="#3f3f46" strokeWidth="1" />
+            <text x={M.left - 8} y={py(t) + 4} textAnchor="end" fill="#a1a1aa" fontSize="11" fontFamily="ui-monospace, monospace">
               {inr(t)}
             </text>
           </g>
         ))}
         {[x0, x1].map((t, i) => (
-          <text key={t} x={px(t)} y={H - 10} textAnchor={i === 0 ? "start" : "end"} fill="#71717a" fontSize="11">
+          <text key={t} x={px(t)} y={H - 10} textAnchor={i === 0 ? "start" : "end"} fill="#a1a1aa" fontSize="11">
             {fmtDate(t)}
           </text>
         ))}
@@ -270,7 +288,7 @@ function History({ history }: { history: { seller: string; points: PricePoint[] 
               ))}
               <text
                 x={W - M.right + 10}
-                y={py(last.price) + 4}
+                y={(labelY.get(s.seller) ?? py(last.price)) + 4}
                 fill="#a1a1aa"
                 fontSize="11"
                 fontFamily="ui-monospace, monospace"
@@ -287,12 +305,12 @@ function History({ history }: { history: { seller: string; points: PricePoint[] 
           <li key={s.seller} className="flex items-center gap-2">
             <span className="h-2 w-2 rounded-sm" style={{ background: SERIES[i] }} />
             {s.seller}
-            <span className="text-zinc-600">({s.points.length} obs)</span>
+            <span className="text-zinc-400">({s.points.length} obs)</span>
           </li>
         ))}
       </ul>
       {history.length > series.length && (
-        <p className="mt-2 text-xs text-zinc-600">
+        <p className="mt-2 text-xs text-zinc-400">
           {history.length - series.length} further seller(s) had too few observations to plot.
         </p>
       )}

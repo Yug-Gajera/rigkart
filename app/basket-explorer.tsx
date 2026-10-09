@@ -54,10 +54,10 @@ export function BasketExplorer({
     <>
       <section className="mt-8">
         <div className="flex flex-wrap items-end justify-between gap-4">
-          <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">
+          <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-300">
             Shipping is charged per seller
           </h2>
-          <label className="flex items-center gap-3 text-xs text-zinc-500">
+          <label className="flex items-center gap-3 text-xs text-zinc-400">
             <span>delivery per seller</span>
             <input
               type="range"
@@ -76,7 +76,7 @@ export function BasketExplorer({
               <button
                 type="button"
                 onClick={() => setShipping(initialShipping)}
-                className="text-zinc-600 hover:text-zinc-300"
+                className="text-zinc-400 hover:text-zinc-300"
                 title={`Back to ${inr(initialShipping)}`}
               >
                 reset
@@ -105,7 +105,7 @@ export function BasketExplorer({
             </>
           )}{" "}
           {breakeven === null ? (
-            <span className="text-zinc-500">
+            <span className="text-zinc-400">
               Consolidating is cheaper at any delivery charge, including free.
             </span>
           ) : (
@@ -143,7 +143,7 @@ function Card({ basket, winner }: { basket: Basket; winner: boolean }) {
         {winner && <span className="text-xs font-medium uppercase text-emerald-400">cheaper</span>}
       </div>
       <div className="mt-2 font-mono text-2xl font-semibold tabular-nums">{inr(basket.total)}</div>
-      <dl className="mt-3 space-y-1 text-xs text-zinc-500">
+      <dl className="mt-3 space-y-1 text-xs text-zinc-400">
         <Row k="items" v={inr(basket.subtotal)} />
         <Row k={`delivery × ${basket.sellers.length}`} v={inr(basket.shipping)} />
         <Row k="sellers" v={basket.sellers.join(", ")} mono={false} />
@@ -187,10 +187,10 @@ function Curve({
 
   return (
     <section className="mt-10">
-      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">
+      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-300">
         Total by number of sellers
       </h2>
-      <p className="mt-1 text-xs text-zinc-600">
+      <p className="mt-1 text-xs text-zinc-400">
         Delivery falls as you consolidate; item prices rise.{" "}
         {breakeven !== null && (
           <>
@@ -202,9 +202,9 @@ function Curve({
       <div className="mt-4 space-y-2">
         {rows.map(([n, basket]) => (
           <div key={n} className="flex items-center gap-3 text-xs">
-            <span className="w-32 shrink-0 text-zinc-500">
+            <span className="w-32 shrink-0 text-zinc-400">
               {plural(n, "seller")}
-              {n === perItem.sellers.length && <span className="text-zinc-700"> · per item</span>}
+              {n === perItem.sellers.length && <span className="text-zinc-400"> · per item</span>}
             </span>
             <div className="flex h-6 flex-1 overflow-hidden rounded bg-zinc-900" title={`items ${inr(basket.subtotal)} + delivery ${inr(basket.shipping)}`}>
               <div
@@ -226,7 +226,7 @@ function Curve({
           </div>
         ))}
       </div>
-      <div className="mt-2 flex gap-4 text-xs text-zinc-600">
+      <div className="mt-2 flex gap-4 text-xs text-zinc-400">
         <span>
           <span className="mr-1 inline-block h-2 w-2 rounded-sm bg-sky-900/70" />
           items

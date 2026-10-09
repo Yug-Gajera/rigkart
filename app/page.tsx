@@ -61,7 +61,7 @@ export default async function Home({
             PC build price intelligence for India · Google Shopping via SerpApi
           </p>
         </div>
-        <div className="text-right text-xs text-zinc-500">
+        <div className="text-right text-xs text-zinc-400">
           <div>
             data source <span className="font-mono text-zinc-300">{sources || "none"}</span>
           </div>
@@ -80,9 +80,9 @@ export default async function Home({
       />
 
       <section className="mt-10">
-        <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">The build</h2>
+        <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-300">The build</h2>
         <table className="mt-3 w-full text-sm">
-          <thead className="text-xs uppercase text-zinc-600">
+          <thead className="text-xs uppercase text-zinc-400">
             <tr className="border-b border-zinc-800">
               <th className="py-2 text-left font-medium">Part</th>
               <th className="py-2 text-left font-medium">Cheapest seller</th>
@@ -114,18 +114,18 @@ export default async function Home({
                     {DEFAULT_BUILD.some((p) => p.slug === part.slug) ? (
                       <Link
                         href={`/part/${part.slug}`}
-                        className="font-medium text-zinc-100 underline decoration-zinc-700 underline-offset-2 hover:decoration-zinc-400"
+                        className="font-medium text-zinc-100 underline decoration-zinc-500 underline-offset-2 hover:decoration-zinc-400"
                       >
                         {part.label}
                       </Link>
                     ) : (
                       <div className="font-medium text-zinc-100">{part.label}</div>
                     )}
-                    <div className="text-xs uppercase text-zinc-600">
+                    <div className="text-xs uppercase text-zinc-400">
                       {part.category ?? `match: ${relaxedTo ?? part.must.join(" + ")}`}
                     </div>
                     {relaxedTo && (
-                      <div className="text-xs text-amber-600/80">
+                      <div className="text-xs text-amber-500">
                         no listing matched {part.must.join(" + ")} — relaxed to {relaxedTo}
                       </div>
                     )}
@@ -143,27 +143,27 @@ export default async function Home({
                     {cheapest ? inr(cheapest.price) : "—"}
                     {cheapest && corroborating < 2 && (
                       <div
-                        className="text-[10px] font-sans uppercase text-amber-600"
+                        className="text-[10px] font-sans uppercase text-amber-500"
                         title="No other seller is within 2x this price — treat it as unverified"
                       >
                         uncorroborated
                       </div>
                     )}
                   </td>
-                  <td className="py-3 text-right font-mono text-zinc-600">{listings.length || "—"}</td>
+                  <td className="py-3 text-right font-mono text-zinc-400">{listings.length || "—"}</td>
                   <td className="py-3 text-right">
                     {source ? (
                       <span
                         className={`rounded px-1.5 py-0.5 font-mono text-[10px] uppercase ${
                           source === "live"
                             ? "bg-emerald-900/50 text-emerald-300"
-                            : "bg-zinc-800 text-zinc-500"
+                            : "bg-zinc-800 text-zinc-400"
                         }`}
                       >
                         {source}
                       </span>
                     ) : (
-                      <span className="text-zinc-700">—</span>
+                      <span className="text-zinc-400">—</span>
                     )}
                   </td>
                   <td className="py-3 text-right">
@@ -180,7 +180,7 @@ export default async function Home({
             .filter((r) => r.listings.length > 1)
             .map(({ part, listings }) => (
               <details key={part.slug} className="group rounded-lg border border-zinc-900 bg-zinc-900/30">
-                <summary className="cursor-pointer list-none px-3 py-2 text-xs text-zinc-500 hover:text-zinc-300">
+                <summary className="cursor-pointer list-none px-3 py-2 text-xs text-zinc-400 hover:text-zinc-300">
                   <span className="mr-2 inline-block transition-transform group-open:rotate-90">▸</span>
                   all {listings.length} offers for {part.label}
                 </summary>
@@ -190,8 +190,8 @@ export default async function Home({
                       .sort((a, b) => a.price - b.price)
                       .map((l, i) => (
                         <tr key={l.link + i} className="border-t border-zinc-900/80">
-                          <td className="py-1.5 pl-8 pr-3 text-zinc-500">{l.seller}</td>
-                          <td className="py-1.5 pr-3 text-zinc-600">
+                          <td className="py-1.5 pl-8 pr-3 text-zinc-400">{l.seller}</td>
+                          <td className="py-1.5 pr-3 text-zinc-400">
                             <a href={l.link} target="_blank" rel="noreferrer" className="hover:text-zinc-300 hover:underline">
                               {l.title.slice(0, 68)}
                             </a>
@@ -207,7 +207,7 @@ export default async function Home({
             ))}
         </div>
         {failures.length > 0 && (
-          <p className="mt-3 text-xs text-amber-600/80">
+          <p className="mt-3 text-xs text-amber-500">
             {plural(failures.length, "part")} returned nothing usable. Google Shopping matches loosely;
             parts carry title-token filters, and a query with no genuine listings is reported as
             empty rather than filled with the nearest wrong product.
@@ -215,7 +215,7 @@ export default async function Home({
         )}
       </section>
 
-      <footer className="mt-12 border-t border-zinc-800 pt-5 text-xs text-zinc-600">
+      <footer className="mt-12 border-t border-zinc-800 pt-5 text-xs text-zinc-400">
         Delivery is a flat per-seller estimate, adjustable above. Google Shopping reports delivery
         only as free text on a minority of listings, so there is no honest per-seller figure to read
         here — the per-part pages use <span className="font-mono">google_product</span>, which does
@@ -232,10 +232,10 @@ export default async function Home({
 function BuildForm({ text, live }: { text: string; live: boolean }) {
   return (
     <form method="GET" className="mt-6">
-      <label htmlFor="build" className="text-sm font-medium uppercase tracking-wide text-zinc-500">
+      <label htmlFor="build" className="text-sm font-medium uppercase tracking-wide text-zinc-300">
         Your parts list
       </label>
-      <p className="mt-1 text-xs text-zinc-600">
+      <p className="mt-1 text-xs text-zinc-400">
         One part per line. Model numbers matter — they become the match filter, which is what keeps
         Google Shopping from answering a CPU query with clothing.
       </p>
@@ -276,11 +276,11 @@ function BuildForm({ text, live }: { text: string; live: boolean }) {
             force fresh (spends credits)
           </button>
         )}
-        <a href="/" className="text-xs text-zinc-500 hover:text-zinc-300">
+        <a href="/" className="text-xs text-zinc-400 hover:text-zinc-300">
           reset to demo build
         </a>
       </div>
-      <p className="mt-2 text-xs text-zinc-600">
+      <p className="mt-2 text-xs text-zinc-400">
         &ldquo;Search live&rdquo; skips the committed fixtures and answers from the Postgres cache,
         so pressing it repeatedly is free; only a query never seen before costs a credit.
         &ldquo;Force fresh&rdquo; bypasses the cache and always spends one per part.
@@ -295,7 +295,7 @@ function BuildForm({ text, live }: { text: string; live: boolean }) {
 
 /** Inline sparkline. Renders nothing until two runs exist — no invented trend. */
 function Spark({ points }: { points: Point[] }) {
-  if (points.length < 2) return <span className="text-xs text-zinc-700">—</span>;
+  if (points.length < 2) return <span className="text-xs text-zinc-400">—</span>;
   const prices = points.map((p) => p.min_price);
   const [lo, hi] = [Math.min(...prices), Math.max(...prices)];
   const span = hi - lo || 1;

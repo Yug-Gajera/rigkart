@@ -5,7 +5,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "smoke": "tsx scripts/smoke.mts"
+    "smoke": "tsx scripts/smoke.mts",
+    "fixture": "tsx --env-file-if-exists=.env.local scripts/fetch-fixture.mts",
+    "snapshot": "tsx --env-file-if-exists=.env.local scripts/snapshot.mts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",

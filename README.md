@@ -27,9 +27,15 @@ the app is fully demoable with **zero SerpApi credits and no Supabase project**.
 Set `DEMO_MODE=false` and add `SERPAPI_KEY` for live results.
 
 Optional, for price history: create a Supabase project, run
-`supabase/001_init.sql` in its SQL editor, fill the two Supabase vars, then
-`npx tsx scripts/snapshot.mts --live`. Run it twice, hours apart, and sparklines
-appear. With one run or no database, history is omitted rather than faked.
+`supabase/001_init.sql` in its SQL editor, fill the two Supabase vars, then:
+
+```bash
+npm run snapshot -- --live
+```
+
+Run it twice, hours apart, and sparklines appear. With one run or no database,
+history is omitted rather than faked. `npm run fixture "<search term>"` commits
+a new fixture. Both scripts read `.env.local` via Node's `--env-file-if-exists`.
 
 ## SerpApi usage
 
@@ -86,7 +92,7 @@ The free tier is 250 searches/month, so spending is deliberate:
 - **`scripts/fetch-fixture.mts`** refuses to overwrite an existing fixture, so a
   stray re-run cannot quietly burn credits.
 
-Total spend building this: 23 searches, including the query-tuning dead ends.
+Total spend building this: 29 searches — 23 building, 6 on the first price snapshot.
 
 ## How the optimizer works
 

@@ -11,15 +11,24 @@ const plural = (n: number, one: string, many = `${one}s`) => `${n} ${n === 1 ? o
 export default async function Home({
   searchParams,
 }: {
-  searchParams: Promise<{ build?: string }>;
+  searchParams: Promise<{ build?: string; live?: string }>;
 }) {
-  const text = (await searchParams).build ?? DEFAULT_BUILD_TEXT;
+  const params = await searchParams;
+  const text = params.build ?? DEFAULT_BUILD_TEXT;
   const build = parseBuild(text);
+
+  /**
+   * `live` bypasses the committed fixtures but still answers from the Postgres
+   * cache, so pressing it repeatedly costs nothing. `live=force` bypasses the
+   * cache too and is the only path that spends a credit per part.
+   */
+  const live = params.live !== undefined;
+  const opts = { live, refresh: params.live === "force" };
 
   const results = await Promise.all(
     build.map(async (part) => {
       try {
-        const { listings, source, fetchedAt } = await searchPart(part);
+        const { listings, source, fetchedAt } = await searchPart(part, opts);
         return { part, listings, source, fetchedAt, error: null as string | null };
       } catch (e) {
         return { part, listings: [] as Listing[], source: null, fetchedAt: "", error: (e as Error).message };
@@ -34,7 +43,7 @@ export default async function Home({
     await Promise.all(build.map(async (p) => [p.slug, await priceHistory(p.slug)] as const)),
   ) as Record<string, Point[]>;
 
-  const source = results.find((r) => r.source)?.source ?? "none";
+  const sources = [...new Set(results.map((r) => r.source).filter(Boolean))].join(" + ");
   const failures = results.filter((r) => r.error || !r.listings.length);
 
   return (
@@ -48,7 +57,7 @@ export default async function Home({
         </div>
         <div className="text-right text-xs text-zinc-500">
           <div>
-            data source <span className="font-mono text-zinc-300">{source}</span>
+            data source <span className="font-mono text-zinc-300">{sources || "none"}</span>
           </div>
           <div className="mt-0.5">
             <span className="font-mono text-zinc-300">gl=in</span> ·{" "}
@@ -57,7 +66,7 @@ export default async function Home({
         </div>
       </header>
 
-      <BuildForm text={text} />
+      <BuildForm text={text} live={live} />
 
       {consolidated && <Verdict perItem={perItem} consolidated={consolidated} saving={saving} />}
 
@@ -70,11 +79,12 @@ export default async function Home({
               <th className="py-2 text-left font-medium">Cheapest seller</th>
               <th className="py-2 text-right font-medium">Price</th>
               <th className="py-2 text-right font-medium">Offers</th>
+              <th className="py-2 text-right font-medium">Source</th>
               <th className="py-2 text-right font-medium">History</th>
             </tr>
           </thead>
           <tbody>
-            {results.map(({ part, listings, error }) => {
+            {results.map(({ part, listings, error, source }) => {
               const cheapest = listings.length
                 ? listings.reduce((b, l) => (l.price < b.price ? l : b))
                 : null;
@@ -99,6 +109,21 @@ export default async function Home({
                     {cheapest ? inr(cheapest.price) : "—"}
                   </td>
                   <td className="py-3 text-right font-mono text-zinc-600">{listings.length || "—"}</td>
+                  <td className="py-3 text-right">
+                    {source ? (
+                      <span
+                        className={`rounded px-1.5 py-0.5 font-mono text-[10px] uppercase ${
+                          source === "live"
+                            ? "bg-emerald-900/50 text-emerald-300"
+                            : "bg-zinc-800 text-zinc-500"
+                        }`}
+                      >
+                        {source}
+                      </span>
+                    ) : (
+                      <span className="text-zinc-700">—</span>
+                    )}
+                  </td>
                   <td className="py-3 text-right">
                     <Spark points={history[part.slug] ?? []} />
                   </td>
@@ -133,7 +158,7 @@ export default async function Home({
  * Plain GET form: the build lives in the URL, so a search is shareable and
  * reloadable with no client state. One part per line.
  */
-function BuildForm({ text }: { text: string }) {
+function BuildForm({ text, live }: { text: string; live: boolean }) {
   return (
     <form method="GET" className="mt-6">
       <label htmlFor="build" className="text-sm font-medium uppercase tracking-wide text-zinc-500">
@@ -152,17 +177,43 @@ function BuildForm({ text }: { text: string }) {
         className="mt-2 w-full rounded-lg border border-zinc-800 bg-zinc-900/60 p-3 font-mono text-sm
                    text-zinc-100 outline-none focus:border-zinc-600"
       />
-      <div className="mt-2 flex items-center gap-3">
+      <div className="mt-2 flex flex-wrap items-center gap-3">
         <button
           type="submit"
           className="rounded-md bg-zinc-100 px-3 py-1.5 text-sm font-medium text-zinc-900 hover:bg-white"
         >
           Price this build
         </button>
+        <button
+          type="submit"
+          name="live"
+          value="1"
+          className="rounded-md border border-emerald-800 px-3 py-1.5 text-sm font-medium
+                     text-emerald-300 hover:bg-emerald-950/40"
+        >
+          Search live
+        </button>
+        {live && (
+          <button
+            type="submit"
+            name="live"
+            value="force"
+            className="rounded-md border border-amber-800/70 px-3 py-1.5 text-xs font-medium
+                       text-amber-400 hover:bg-amber-950/30"
+            title="Bypasses the cache — spends one SerpApi credit per part"
+          >
+            force fresh (spends credits)
+          </button>
+        )}
         <a href="/" className="text-xs text-zinc-500 hover:text-zinc-300">
           reset to demo build
         </a>
       </div>
+      <p className="mt-2 text-xs text-zinc-600">
+        &ldquo;Search live&rdquo; skips the committed fixtures and answers from the Postgres cache,
+        so pressing it repeatedly is free; only a query never seen before costs a credit.
+        &ldquo;Force fresh&rdquo; bypasses the cache and always spends one per part.
+      </p>
     </form>
   );
 }

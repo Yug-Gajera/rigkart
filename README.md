@@ -26,6 +26,18 @@ npm run smoke                # asserts pricing, filtering and basket arithmetic
 the app is fully demoable with **zero SerpApi credits and no Supabase project**.
 Set `DEMO_MODE=false` and add `SERPAPI_KEY` for live results.
 
+Type any parts list into the page, one part per line. Three ways to run a search,
+each visible in the per-part **Source** column so credit spend is never hidden:
+
+| Button | Path | Cost |
+|---|---|---|
+| Price this build | committed fixtures (`DEMO_MODE=true`) | zero |
+| Search live | skips fixtures, answers from the Postgres cache | zero unless the query is new |
+| force fresh | bypasses the cache | 1 credit per part |
+
+Typed parts get their match tokens derived from model numbers, so a line like
+`Crucial P3 Plus 1TB NVMe SSD` filters on `p3` + `1tb`.
+
 Optional, for price history: create a Supabase project, run
 `supabase/001_init.sql` in its SQL editor, fill the two Supabase vars, then:
 

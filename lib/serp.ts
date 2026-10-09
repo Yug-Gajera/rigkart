@@ -140,7 +140,7 @@ export async function shoppingSearch(
   }
 
   const key = process.env.SERPAPI_KEY;
-  if (!key) throw new Error("SERPAPI_KEY is unset and DEMO_MODE is false");
+  if (!key) throw new Error("SERPAPI_KEY is unset — a live search needs a key");
 
   const url = new URL("https://serpapi.com/search.json");
   for (const [k, v] of Object.entries({ ...params, api_key: key })) url.searchParams.set(k, v);

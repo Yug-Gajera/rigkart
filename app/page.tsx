@@ -29,10 +29,17 @@ export default async function Home({
   const results = await Promise.all(
     build.map(async (part) => {
       try {
-        const { listings, source, fetchedAt } = await searchPart(part, opts);
-        return { part, listings, source, fetchedAt, error: null as string | null };
+        const { listings, source, fetchedAt, relaxedTo } = await searchPart(part, opts);
+        return { part, listings, source, fetchedAt, relaxedTo, error: null as string | null };
       } catch (e) {
-        return { part, listings: [] as Listing[], source: null, fetchedAt: "", error: (e as Error).message };
+        return {
+          part,
+          listings: [] as Listing[],
+          source: null,
+          fetchedAt: "",
+          relaxedTo: null,
+          error: (e as Error).message,
+        };
       }
     }),
   );
@@ -85,10 +92,21 @@ export default async function Home({
             </tr>
           </thead>
           <tbody>
-            {results.map(({ part, listings, error, source }) => {
+            {results.map(({ part, listings, error, source, relaxedTo }) => {
               const cheapest = listings.length
                 ? listings.reduce((b, l) => (l.price < b.price ? l : b))
                 : null;
+              /**
+               * A real market price has company. One seller alone at a price no
+               * other shop comes near is usually a decoy or a mislisting, and
+               * the decoy floor cannot catch it in a small result set — so say
+               * so rather than presenting it as the market rate.
+               */
+              const corroborating = cheapest
+                ? new Set(
+                    listings.filter((l) => l.price <= cheapest.price * 2).map((l) => l.seller),
+                  ).size
+                : 0;
               return (
                 <tr key={part.slug} className="border-b border-zinc-900">
                   <td className="py-3 pr-4">
@@ -103,8 +121,13 @@ export default async function Home({
                       <div className="font-medium text-zinc-100">{part.label}</div>
                     )}
                     <div className="text-xs uppercase text-zinc-600">
-                      {part.category ?? `match: ${part.must.join(" + ")}`}
+                      {part.category ?? `match: ${relaxedTo ?? part.must.join(" + ")}`}
                     </div>
+                    {relaxedTo && (
+                      <div className="text-xs text-amber-600/80">
+                        no listing matched {part.must.join(" + ")} — relaxed to {relaxedTo}
+                      </div>
+                    )}
                   </td>
                   <td className="py-3 pr-4 text-zinc-400">
                     {cheapest ? (
@@ -117,6 +140,14 @@ export default async function Home({
                   </td>
                   <td className="py-3 text-right font-mono tabular-nums">
                     {cheapest ? inr(cheapest.price) : "—"}
+                    {cheapest && corroborating < 2 && (
+                      <div
+                        className="text-[10px] font-sans uppercase text-amber-600"
+                        title="No other seller is within 2x this price — treat it as unverified"
+                      >
+                        uncorroborated
+                      </div>
+                    )}
                   </td>
                   <td className="py-3 text-right font-mono text-zinc-600">{listings.length || "—"}</td>
                   <td className="py-3 text-right">

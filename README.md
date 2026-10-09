@@ -124,9 +124,21 @@ Each of these came out of real responses, not speculation:
    wrong SKU entirely. Tokens under four characters are matched as whole words;
    longer ones stay substrings so `"rm650"` still finds *RM650e*.
 6. **Thin coverage is reported, not padded.** The NZXT H5 Flow has essentially
-   one genuine Indian listing, so that part became a brand-agnostic
-   `ATX mid tower cabinet` search. A query with no real listings renders empty
-   rather than filled with the nearest wrong product.
+   one genuine Indian listing, so that part became a brand-agnostic cabinet
+   search. A query with no real listings renders empty rather than filled with
+   the nearest wrong product, and a price no second seller comes within 2× of is
+   labelled **uncorroborated** instead of presented as the market rate.
+7. **Indian brands do not write the form factor.** Requiring `"atx"` on the
+   cabinet search dropped every Ant Esports and Zebronics listing titled only
+   "Mid Tower Cabinet" — including a *cheaper copy of the very model being
+   shown* (₹4,625 against the ₹4,879 on screen). Category parts now match
+   any-of `cabinet / case / tower`, and the cheapest case is an Ant Esports at
+   ₹3,449. Ant Esports, Zebronics, Chiptronex and Gamdias all reach the results.
+8. **Derived tokens get one retry.** Typing `Ant Esports VS650L 650W SMPS`
+   yields `vs650l` + `650w`, but the real listing reads "VS650L 650 Watt" and
+   matches neither pair. Rather than guess harder, a search that matches nothing
+   retries with the single most identifying token — a model number beats a
+   wattage — and the UI says the match was loosened.
 
 ### Credit discipline
 

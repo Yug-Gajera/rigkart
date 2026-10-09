@@ -21,6 +21,12 @@ export type Part = {
    * are the cheapest reliable filter.
    */
   must: string[];
+  /**
+   * At least one must appear. A category search needs this: requiring "atx" on
+   * a cabinet search drops every Ant Esports and Zebronics listing that says
+   * only "Mid Tower Cabinet", which is most of the Indian budget market.
+   */
+  anyOf?: string[];
   /** Whole-word exclusions — "RTX 4060 Ti" is a different, pricier card. */
   not?: string[];
 };
@@ -31,7 +37,7 @@ export const DEFAULT_BUILD: Part[] = [
   { slug: "ddr5-16gb-5600", category: "ram",         label: "Crucial DDR5 16GB",       searchTerm: "Crucial DDR5 16GB 5600",   must: ["ddr5", "16gb"],  not: ["32gb", "64gb", "sodimm", "ecc", "rdimm", "pc", "desktop"] },
   { slug: "b650m",          category: "motherboard", label: "B650M board (any brand)", searchTerm: "B650M motherboard",        must: ["b650m"] },
   { slug: "psu-650w-gold",  category: "psu",         label: "Corsair RM650e 650W",     searchTerm: "Corsair RM650e",                   must: ["rm650"] },
-  { slug: "atx-case",       category: "case",        label: "ATX mid-tower case",      searchTerm: "ATX mid tower cabinet",    must: ["atx"],           not: ["panel", "bracket", "riser", "filter", "cable", "fan", "psu", "prebuilt"] },
+  { slug: "atx-case",       category: "case",        label: "PC case / cabinet",       searchTerm: "ATX mid tower cabinet",    must: [], anyOf: ["cabinet", "case", "tower"], not: ["panel", "bracket", "riser", "filter", "cable", "fan", "keyboard", "mouse", "chair", "desk", "rack"] },
 ];
 
 export const slugify = (s: string) =>

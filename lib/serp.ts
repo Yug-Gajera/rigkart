@@ -197,9 +197,34 @@ export function relevant(listings: Listing[], part: Part): Listing[] {
   return listings.filter((l) => {
     const title = l.title.toLowerCase();
     if (!part.must.every((t) => matches(title, t))) return false;
+    if (part.anyOf?.length && !part.anyOf.some((t) => matches(title, t))) return false;
     if (PREBUILT.some((t) => word(t).test(title))) return false;
     return !(part.not ?? []).some((t) => word(t).test(title));
   });
+}
+
+/**
+ * How identifying a token is. A model number carrying both letters and digits
+ * ("vs650l", "rm650e") pins one product; a bare capacity or wattage ("650w",
+ * "16gb") does not. Longer wins within a class.
+ */
+function distinctiveness(t: string) {
+  const mixed = /[a-z]/i.test(t) && /\d/.test(t) && !/^\d+(gb|tb|mb|mhz|ghz|w|watt|mm|hz)$/i.test(t);
+  return (mixed ? 100 : 0) + t.length;
+}
+
+/**
+ * Relevance, with one retry. Derived tokens are a guess, and requiring all of
+ * them can exclude everything: "Ant Esports VS650L 650W SMPS" yields `vs650l`
+ * and `650w`, but the real listing reads "VS650L 650 Watt" and matches neither
+ * pair. Rather than guess harder, fall back to the single most identifying
+ * token and tell the caller the match was loosened.
+ */
+export function relevantOrRelax(listings: Listing[], part: Part) {
+  const strict = relevant(listings, part);
+  if (strict.length || part.must.length < 2) return { listings: strict, relaxedTo: null };
+  const best = [...part.must].sort((a, b) => distinctiveness(b) - distinctiveness(a))[0];
+  return { listings: relevant(listings, { ...part, must: [best] }), relaxedTo: best };
 }
 
 /** `shoppingSearch` plus part-aware relevance filtering. Use this, not the raw search. */
@@ -211,5 +236,6 @@ export function relevant(listings: Listing[], part: Part): Listing[] {
  */
 export async function searchPart(part: Part, opts: { refresh?: boolean; live?: boolean } = {}) {
   const result = await shoppingSearch(part.searchTerm, opts);
-  return { ...result, listings: rejectDecoys(relevant(result.listings, part)) };
+  const { listings, relaxedTo } = relevantOrRelax(result.listings, part);
+  return { ...result, listings: rejectDecoys(listings), relaxedTo };
 }

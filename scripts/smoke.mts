@@ -6,7 +6,7 @@
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { DEFAULT_BUILD, DEFAULT_BUILD_TEXT, parseBuild, parseLine } from "../lib/parts";
-import { canonicalSeller, fixtureName, normalize, rejectDecoys, relevant, type Listing } from "../lib/serp";
+import { canonicalSeller, fixtureName, normalize, rejectDecoys, relevant, relevantOrRelax, type Listing } from "../lib/serp";
 import { SHIPPING_PER_SELLER, compare, sellerCurve } from "../lib/basket";
 import { normalizeProduct, parseShipping, productFixture } from "../lib/product";
 import type { Part } from "../lib/parts";
@@ -92,6 +92,27 @@ assert.equal(relevant(titles(["NZXT H510i Mid Tower"]), h5).length, 0, "H510i mu
 assert.equal(relevant(titles(["Sony INZONE H5 Headset"]), h5).length, 0, "headset must not match");
 const rm = { slug: "t", label: "t", searchTerm: "t", must: ["rm650"] };
 assert.equal(relevant(titles(["Corsair RM650e 650W Gold"]), rm).length, 1, "RM650e should match");
+
+// anyOf: a category search must keep Indian-brand cabinets whose titles never
+// say "ATX" — requiring it dropped every Ant Esports and Zebronics listing.
+const cab = { slug: "t", label: "t", searchTerm: "t", must: [], anyOf: ["cabinet", "case", "tower"] };
+assert.equal(
+  relevant(titles(["Ant Esports Crystal Z2 Gaming Cabinet", "Zebronics Mid Tower Cabinet"]), cab).length,
+  2,
+  "brand-agnostic cabinets must survive",
+);
+assert.equal(relevant(titles(["Corsair RM650e PSU"]), cab).length, 0, "anyOf must still exclude");
+
+// Relaxation: requiring every derived token can exclude everything. The real
+// listing reads "VS650L 650 Watt", matching neither "vs650l + 650w" pair.
+const psu = { slug: "t", label: "t", searchTerm: "t", must: ["vs650l", "650w"] };
+const antTitles = titles(["Ant Esports VS650L 650 Watt Power Supply"]);
+assert.equal(relevant(antTitles, psu).length, 0, "strict match should find nothing here");
+const relaxed = relevantOrRelax(antTitles, psu);
+assert.equal(relaxed.listings.length, 1, "relaxation should recover the listing");
+assert.equal(relaxed.relaxedTo, "vs650l", "should relax to the model number, not the wattage");
+// A successful strict match must never be relaxed.
+assert.equal(relevantOrRelax(titles(["Ant Esports VS650L 650W PSU"]), psu).relaxedTo, null);
 
 // --- product endpoint ---
 assert.equal(parseShipping("Free", undefined), 0, "free delivery is 0, not unknown");

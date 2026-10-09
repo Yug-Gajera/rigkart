@@ -9,7 +9,8 @@ export type Category = (typeof CATEGORIES)[number];
 
 export type Part = {
   slug: string;
-  category: Category;
+  /** Absent for a part typed in by hand — it is display metadata only. */
+  category?: Category;
   label: string;
   /** Sent to Google Shopping as `q`. */
   searchTerm: string;
@@ -32,3 +33,55 @@ export const DEFAULT_BUILD: Part[] = [
   { slug: "psu-650w-gold",  category: "psu",         label: "Corsair RM650e 650W",     searchTerm: "Corsair RM650e",                   must: ["rm650"] },
   { slug: "nzxt-h5-flow",   category: "case",        label: "NZXT H5 Flow",            searchTerm: "NZXT H5 Flow",             must: ["nzxt", "h5"] },
 ];
+
+export const slugify = (s: string) =>
+  s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+
+/**
+ * Turn one typed line into a searchable part.
+ *
+ * The hand-written `must` tokens in DEFAULT_BUILD are what stop Google Shopping
+ * answering a CPU query with track pants, so typed lines need them too. Model
+ * numbers are the distinctive part of a component name, so tokens containing a
+ * digit ("4070", "16gb", "b650m") become the requirement — at most two, since
+ * every extra token narrows the match and three is usually enough to return
+ * nothing. A line with no digits falls back to its longest word.
+ *
+ * A line matching a default-build search term reuses that part, so its price
+ * history stays attached to the same slug.
+ */
+export function parseLine(line: string): Part | null {
+  const searchTerm = line.trim().replace(/\s+/g, " ");
+  if (!searchTerm) return null;
+
+  const known = DEFAULT_BUILD.find(
+    (p) => p.searchTerm.toLowerCase() === searchTerm.toLowerCase(),
+  );
+  if (known) return known;
+
+  // Lowercased to match the hand-written tokens; `relevant` compares case-insensitively.
+  const words = searchTerm
+    .toLowerCase()
+    .split(" ")
+    .map((w) => w.replace(/[^a-z0-9]/g, ""))
+    .filter(Boolean);
+  const numbered = words.filter((w) => w.length >= 2 && /\d/.test(w));
+  const must = numbered.length
+    ? numbered.slice(0, 2)
+    : [words.reduce((a, b) => (b.length > a.length ? b : a), "")].filter(Boolean);
+
+  return { slug: slugify(searchTerm), label: searchTerm, searchTerm, must };
+}
+
+/** One part per line. Blank lines ignored, duplicates collapsed. */
+export function parseBuild(text: string): Part[] {
+  const seen = new Set<string>();
+  return text
+    .split("\n")
+    .map(parseLine)
+    .filter((p): p is Part => !!p)
+    .filter((p) => !seen.has(p.slug) && seen.add(p.slug));
+}
+
+/** The default build as editable text for the textarea. */
+export const DEFAULT_BUILD_TEXT = DEFAULT_BUILD.map((p) => p.searchTerm).join("\n");

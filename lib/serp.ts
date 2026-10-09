@@ -101,7 +101,14 @@ export function normalize(raw: any): Listing[] {
 
 async function fromFixture(query: string) {
   const file = path.join(process.cwd(), "fixtures", `${fixtureName(query)}.json`);
-  return JSON.parse(await readFile(file, "utf8"));
+  try {
+    return JSON.parse(await readFile(file, "utf8"));
+  } catch {
+    throw new Error(
+      `no committed fixture for this search. Run \`npm run fixture "${query}"\` ` +
+        `(1 SerpApi credit) or set DEMO_MODE=false to search live.`,
+    );
+  }
 }
 
 /**

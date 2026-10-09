@@ -1,15 +1,23 @@
 import { SHIPPING_PER_SELLER, compare, sellerCurve, type Basket } from "@/lib/basket";
 import { priceHistory, type Point } from "@/lib/history";
-import { DEFAULT_BUILD, type Part } from "@/lib/parts";
+import { DEFAULT_BUILD_TEXT, parseBuild, type Part } from "@/lib/parts";
 import { searchPart, type Listing } from "@/lib/serp";
 
 export const dynamic = "force-dynamic";
 
 const inr = (n: number) => `₹${Math.round(n).toLocaleString("en-IN")}`;
+const plural = (n: number, one: string, many = `${one}s`) => `${n} ${n === 1 ? one : many}`;
 
-export default async function Home() {
+export default async function Home({
+  searchParams,
+}: {
+  searchParams: Promise<{ build?: string }>;
+}) {
+  const text = (await searchParams).build ?? DEFAULT_BUILD_TEXT;
+  const build = parseBuild(text);
+
   const results = await Promise.all(
-    DEFAULT_BUILD.map(async (part) => {
+    build.map(async (part) => {
       try {
         const { listings, source, fetchedAt } = await searchPart(part);
         return { part, listings, source, fetchedAt, error: null as string | null };
@@ -23,7 +31,7 @@ export default async function Home() {
   const { perItem, consolidated, saving } = compare(byPart);
   const curve = sellerCurve(byPart);
   const history = Object.fromEntries(
-    await Promise.all(DEFAULT_BUILD.map(async (p) => [p.slug, await priceHistory(p.slug)] as const)),
+    await Promise.all(build.map(async (p) => [p.slug, await priceHistory(p.slug)] as const)),
   ) as Record<string, Point[]>;
 
   const source = results.find((r) => r.source)?.source ?? "none";
@@ -49,6 +57,8 @@ export default async function Home() {
         </div>
       </header>
 
+      <BuildForm text={text} />
+
       {consolidated && <Verdict perItem={perItem} consolidated={consolidated} saving={saving} />}
 
       <section className="mt-10">
@@ -72,7 +82,9 @@ export default async function Home() {
                 <tr key={part.slug} className="border-b border-zinc-900">
                   <td className="py-3 pr-4">
                     <div className="font-medium text-zinc-100">{part.label}</div>
-                    <div className="text-xs uppercase text-zinc-600">{part.category}</div>
+                    <div className="text-xs uppercase text-zinc-600">
+                      {part.category ?? `match: ${part.must.join(" + ")}`}
+                    </div>
                   </td>
                   <td className="py-3 pr-4 text-zinc-400">
                     {cheapest ? (
@@ -97,14 +109,16 @@ export default async function Home() {
         </table>
         {failures.length > 0 && (
           <p className="mt-3 text-xs text-amber-600/80">
-            {failures.length} part(s) returned nothing usable. Google Shopping matches loosely;
+            {plural(failures.length, "part")} returned nothing usable. Google Shopping matches loosely;
             parts carry title-token filters, and a query with no genuine listings is reported as
             empty rather than filled with the nearest wrong product.
           </p>
         )}
       </section>
 
-      {curve.length > 1 && <Curve curve={curve} perItem={perItem} />}
+      {new Set([...curve.map((c) => c.basket.sellers.length), perItem.sellers.length]).size > 1 && (
+        <Curve curve={curve} perItem={perItem} />
+      )}
 
       <footer className="mt-12 border-t border-zinc-800 pt-5 text-xs text-zinc-600">
         Shipping is estimated at {inr(SHIPPING_PER_SELLER)} per seller. Google Shopping exposes
@@ -115,7 +129,47 @@ export default async function Home() {
   );
 }
 
+/**
+ * Plain GET form: the build lives in the URL, so a search is shareable and
+ * reloadable with no client state. One part per line.
+ */
+function BuildForm({ text }: { text: string }) {
+  return (
+    <form method="GET" className="mt-6">
+      <label htmlFor="build" className="text-sm font-medium uppercase tracking-wide text-zinc-500">
+        Your parts list
+      </label>
+      <p className="mt-1 text-xs text-zinc-600">
+        One part per line. Model numbers matter — they become the match filter, which is what keeps
+        Google Shopping from answering a CPU query with clothing.
+      </p>
+      <textarea
+        id="build"
+        name="build"
+        rows={6}
+        defaultValue={text}
+        spellCheck={false}
+        className="mt-2 w-full rounded-lg border border-zinc-800 bg-zinc-900/60 p-3 font-mono text-sm
+                   text-zinc-100 outline-none focus:border-zinc-600"
+      />
+      <div className="mt-2 flex items-center gap-3">
+        <button
+          type="submit"
+          className="rounded-md bg-zinc-100 px-3 py-1.5 text-sm font-medium text-zinc-900 hover:bg-white"
+        >
+          Price this build
+        </button>
+        <a href="/" className="text-xs text-zinc-500 hover:text-zinc-300">
+          reset to demo build
+        </a>
+      </div>
+    </form>
+  );
+}
+
 function Verdict({ perItem, consolidated, saving }: { perItem: Basket; consolidated: Basket; saving: number }) {
+  // Sub-rupee differences are rounding, not a real verdict.
+  const tied = Math.abs(saving) < 1;
   const consolidating = saving > 0;
   return (
     <section className="mt-8">
@@ -123,22 +177,27 @@ function Verdict({ perItem, consolidated, saving }: { perItem: Basket; consolida
         Shipping is charged per seller
       </h2>
       <div className="mt-3 grid gap-4 sm:grid-cols-2">
-        <Card basket={perItem} winner={!consolidating} />
-        <Card basket={consolidated} winner={consolidating} />
+        <Card basket={perItem} winner={!tied && !consolidating} />
+        <Card basket={consolidated} winner={!tied && consolidating} />
       </div>
       <p className="mt-4 text-sm text-zinc-300">
-        {consolidating ? (
+        {tied ? (
           <>
-            Consolidating to {consolidated.sellers.length} seller(s) saves{" "}
+            Same total either way — {plural(perItem.sellers.length, "seller")} already covers this
+            build, so there is nothing to consolidate.
+          </>
+        ) : consolidating ? (
+          <>
+            Consolidating to {plural(consolidated.sellers.length, "seller")} saves{" "}
             <span className="font-mono font-semibold text-emerald-400">{inr(saving)}</span> — the
-            higher item prices cost less than {perItem.sellers.length}× delivery.
+            higher item prices cost less than paying delivery {perItem.sellers.length}×.
           </>
         ) : (
           <>
             Buying each part from its own cheapest seller wins by{" "}
             <span className="font-mono font-semibold text-emerald-400">{inr(-saving)}</span>. Paying
-            delivery {perItem.sellers.length} times costs less than the premium the shops carrying
-            the whole build charge on items.
+            delivery {perItem.sellers.length}× costs less than the premium the shops carrying the
+            whole build charge on items.
           </>
         )}
       </p>
@@ -177,8 +236,22 @@ function Row({ k, v, mono = true }: { k: string; v: string; mono?: boolean }) {
 }
 
 function Curve({ curve, perItem }: { curve: { k: number; basket: Basket }[]; perItem: Basket }) {
-  const rows = [...curve.map(({ k, basket }) => ({ label: `${k} seller${k > 1 ? "s" : ""}`, basket })),
-    { label: `${perItem.sellers.length} sellers (per item)`, basket: perItem }];
+  /**
+   * Key by the sellers actually used, not the cap: a cap of 3 can still produce
+   * a 1-seller basket, which would otherwise render as three identical bars.
+   * Cheapest wins per distinct seller count.
+   */
+  const best = new Map<number, Basket>();
+  for (const { basket } of [...curve, { basket: perItem }]) {
+    const n = basket.sellers.length;
+    if (!best.has(n) || basket.total < best.get(n)!.total) best.set(n, basket);
+  }
+  const rows = [...best.entries()]
+    .sort((a, b) => a[0] - b[0])
+    .map(([n, basket]) => ({
+      label: n === perItem.sellers.length ? `${plural(n, "seller")} (per item)` : plural(n, "seller"),
+      basket,
+    }));
   const max = Math.max(...rows.map((r) => r.basket.total));
   return (
     <section className="mt-10">

@@ -5,7 +5,7 @@
  */
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { DEFAULT_BUILD } from "../lib/parts";
+import { DEFAULT_BUILD, DEFAULT_BUILD_TEXT, parseBuild, parseLine } from "../lib/parts";
 import { canonicalSeller, fixtureName, normalize, rejectDecoys, relevant, type Listing } from "../lib/serp";
 import { SHIPPING_PER_SELLER, compare, sellerCurve } from "../lib/basket";
 import type { Part } from "../lib/parts";
@@ -62,6 +62,24 @@ assert.equal(canonicalSeller("WWW.Example.IN "), "example.in");
 // Consolidation is the whole product; it needs sellers carrying multiple parts.
 const multi = [...bySeller.values()].filter((p) => p.size >= 2).length;
 assert.ok(multi >= 3, `only ${multi} sellers carry 2+ parts — consolidation has nothing to show`);
+
+// --- typed build parsing ---
+// Round-tripping the demo build must return the same parts, slugs included, or
+// typed searches would lose their price history.
+const round = parseBuild(DEFAULT_BUILD_TEXT);
+assert.equal(round.length, DEFAULT_BUILD.length, "round-trip changed the part count");
+for (let i = 0; i < round.length; i++) {
+  assert.equal(round[i].slug, DEFAULT_BUILD[i].slug, `round-trip changed slug ${i}`);
+  assert.deepEqual(round[i].must, DEFAULT_BUILD[i].must, `round-trip changed must ${i}`);
+}
+
+// Model numbers become the match filter, capped at two so the query still matches.
+assert.deepEqual(parseLine("NVIDIA RTX 4070 Ti 12GB")!.must, ["4070", "12gb"]);
+assert.deepEqual(parseLine("Crucial P3 Plus 1TB NVMe SSD")!.must, ["p3", "1tb"]);
+// No digits anywhere: fall back to the longest word rather than matching everything.
+assert.deepEqual(parseLine("Corsair cabinet")!.must, ["corsair"]);
+assert.equal(parseLine("   "), null, "blank line should parse to null");
+assert.equal(parseBuild("a 1\n\n a 1 \n").length, 1, "duplicates and blanks should collapse");
 
 // Small sets pass through rather than self-filtering into junk.
 assert.equal(rejectDecoys([{ price: 5 }, { price: 9000 }] as Listing[]).length, 2);

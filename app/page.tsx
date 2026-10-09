@@ -1,4 +1,5 @@
-import { SHIPPING_PER_SELLER, compare, sellerCurve, type Basket } from "@/lib/basket";
+import { SHIPPING_PER_SELLER } from "@/lib/basket";
+import { BasketExplorer } from "./basket-explorer";
 import { priceHistory, type Point } from "@/lib/history";
 import { DEFAULT_BUILD, DEFAULT_BUILD_TEXT, parseBuild, type Part } from "@/lib/parts";
 import { searchPart, type Listing } from "@/lib/serp";
@@ -44,9 +45,6 @@ export default async function Home({
     }),
   );
 
-  const byPart = new Map<Part, Listing[]>(results.map((r) => [r.part, r.listings]));
-  const { perItem, consolidated, saving } = compare(byPart);
-  const curve = sellerCurve(byPart);
   const history = Object.fromEntries(
     await Promise.all(build.map(async (p) => [p.slug, await priceHistory(p.slug)] as const)),
   ) as Record<string, Point[]>;
@@ -76,7 +74,10 @@ export default async function Home({
 
       <BuildForm text={text} live={live} />
 
-      {consolidated && <Verdict perItem={perItem} consolidated={consolidated} saving={saving} />}
+      <BasketExplorer
+        rows={results.map(({ part, listings }) => ({ part, listings }))}
+        initialShipping={SHIPPING_PER_SELLER}
+      />
 
       <section className="mt-10">
         <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">The build</h2>
@@ -173,6 +174,38 @@ export default async function Home({
             })}
           </tbody>
         </table>
+
+        <div className="mt-4 space-y-2">
+          {results
+            .filter((r) => r.listings.length > 1)
+            .map(({ part, listings }) => (
+              <details key={part.slug} className="group rounded-lg border border-zinc-900 bg-zinc-900/30">
+                <summary className="cursor-pointer list-none px-3 py-2 text-xs text-zinc-500 hover:text-zinc-300">
+                  <span className="mr-2 inline-block transition-transform group-open:rotate-90">▸</span>
+                  all {listings.length} offers for {part.label}
+                </summary>
+                <table className="w-full px-3 pb-2 text-xs">
+                  <tbody>
+                    {[...listings]
+                      .sort((a, b) => a.price - b.price)
+                      .map((l, i) => (
+                        <tr key={l.link + i} className="border-t border-zinc-900/80">
+                          <td className="py-1.5 pl-8 pr-3 text-zinc-500">{l.seller}</td>
+                          <td className="py-1.5 pr-3 text-zinc-600">
+                            <a href={l.link} target="_blank" rel="noreferrer" className="hover:text-zinc-300 hover:underline">
+                              {l.title.slice(0, 68)}
+                            </a>
+                          </td>
+                          <td className="py-1.5 pr-3 text-right font-mono tabular-nums text-zinc-400">
+                            {inr(l.price)}
+                          </td>
+                        </tr>
+                      ))}
+                  </tbody>
+                </table>
+              </details>
+            ))}
+        </div>
         {failures.length > 0 && (
           <p className="mt-3 text-xs text-amber-600/80">
             {plural(failures.length, "part")} returned nothing usable. Google Shopping matches loosely;
@@ -182,14 +215,11 @@ export default async function Home({
         )}
       </section>
 
-      {new Set([...curve.map((c) => c.basket.sellers.length), perItem.sellers.length]).size > 1 && (
-        <Curve curve={curve} perItem={perItem} />
-      )}
-
       <footer className="mt-12 border-t border-zinc-800 pt-5 text-xs text-zinc-600">
-        Shipping is estimated at {inr(SHIPPING_PER_SELLER)} per seller. Google Shopping exposes
-        delivery only as free text on a minority of listings, so a flat per-seller estimate is used
-        rather than a fabricated exact figure. Set <span className="font-mono">SHIPPING_PER_SELLER</span> to change it.
+        Delivery is a flat per-seller estimate, adjustable above. Google Shopping reports delivery
+        only as free text on a minority of listings, so there is no honest per-seller figure to read
+        here — the per-part pages use <span className="font-mono">google_product</span>, which does
+        report it. <span className="font-mono">SHIPPING_PER_SELLER</span> sets the starting value.
       </footer>
     </main>
   );
@@ -259,121 +289,9 @@ function BuildForm({ text, live }: { text: string; live: boolean }) {
   );
 }
 
-function Verdict({ perItem, consolidated, saving }: { perItem: Basket; consolidated: Basket; saving: number }) {
-  // Sub-rupee differences are rounding, not a real verdict.
-  const tied = Math.abs(saving) < 1;
-  const consolidating = saving > 0;
-  return (
-    <section className="mt-8">
-      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">
-        Shipping is charged per seller
-      </h2>
-      <div className="mt-3 grid gap-4 sm:grid-cols-2">
-        <Card basket={perItem} winner={!tied && !consolidating} />
-        <Card basket={consolidated} winner={!tied && consolidating} />
-      </div>
-      <p className="mt-4 text-sm text-zinc-300">
-        {tied ? (
-          <>
-            Same total either way — {plural(perItem.sellers.length, "seller")} already covers this
-            build, so there is nothing to consolidate.
-          </>
-        ) : consolidating ? (
-          <>
-            Consolidating to {plural(consolidated.sellers.length, "seller")} saves{" "}
-            <span className="font-mono font-semibold text-emerald-400">{inr(saving)}</span> — the
-            higher item prices cost less than paying delivery {perItem.sellers.length}×.
-          </>
-        ) : (
-          <>
-            Buying each part from its own cheapest seller wins by{" "}
-            <span className="font-mono font-semibold text-emerald-400">{inr(-saving)}</span>. Paying
-            delivery {perItem.sellers.length}× costs less than the premium the shops carrying the
-            whole build charge on items.
-          </>
-        )}
-      </p>
-    </section>
-  );
-}
 
-function Card({ basket, winner }: { basket: Basket; winner: boolean }) {
-  return (
-    <div
-      className={`rounded-lg border p-4 ${
-        winner ? "border-emerald-700/60 bg-emerald-950/20" : "border-zinc-800 bg-zinc-900/40"
-      }`}
-    >
-      <div className="flex items-baseline justify-between">
-        <span className="text-sm text-zinc-400">{basket.label}</span>
-        {winner && <span className="text-xs font-medium uppercase text-emerald-400">cheaper</span>}
-      </div>
-      <div className="mt-2 font-mono text-2xl font-semibold tabular-nums">{inr(basket.total)}</div>
-      <dl className="mt-3 space-y-1 text-xs text-zinc-500">
-        <Row k="items" v={inr(basket.subtotal)} />
-        <Row k={`delivery × ${basket.sellers.length}`} v={inr(basket.shipping)} />
-        <Row k="sellers" v={basket.sellers.join(", ")} mono={false} />
-      </dl>
-    </div>
-  );
-}
 
-function Row({ k, v, mono = true }: { k: string; v: string; mono?: boolean }) {
-  return (
-    <div className="flex justify-between gap-4">
-      <dt>{k}</dt>
-      <dd className={`text-right text-zinc-400 ${mono ? "font-mono tabular-nums" : ""}`}>{v}</dd>
-    </div>
-  );
-}
 
-function Curve({ curve, perItem }: { curve: { k: number; basket: Basket }[]; perItem: Basket }) {
-  /**
-   * Key by the sellers actually used, not the cap: a cap of 3 can still produce
-   * a 1-seller basket, which would otherwise render as three identical bars.
-   * Cheapest wins per distinct seller count.
-   */
-  const best = new Map<number, Basket>();
-  for (const { basket } of [...curve, { basket: perItem }]) {
-    const n = basket.sellers.length;
-    if (!best.has(n) || basket.total < best.get(n)!.total) best.set(n, basket);
-  }
-  const rows = [...best.entries()]
-    .sort((a, b) => a[0] - b[0])
-    .map(([n, basket]) => ({
-      label: n === perItem.sellers.length ? `${plural(n, "seller")} (per item)` : plural(n, "seller"),
-      basket,
-    }));
-  const max = Math.max(...rows.map((r) => r.basket.total));
-  return (
-    <section className="mt-10">
-      <h2 className="text-sm font-medium uppercase tracking-wide text-zinc-500">
-        Total by number of sellers
-      </h2>
-      <p className="mt-1 text-xs text-zinc-600">
-        Delivery falls as you consolidate; item prices rise. This is where they cross.
-      </p>
-      <div className="mt-4 space-y-2">
-        {rows.map(({ label, basket }) => (
-          <div key={label} className="flex items-center gap-3 text-xs">
-            <span className="w-36 shrink-0 text-zinc-500">{label}</span>
-            <div className="flex h-6 flex-1 overflow-hidden rounded bg-zinc-900">
-              <div className="h-full bg-sky-900/70" style={{ width: `${(basket.subtotal / max) * 100}%` }} />
-              <div className="h-full bg-amber-600/70" style={{ width: `${(basket.shipping / max) * 100}%` }} />
-            </div>
-            <span className="w-24 shrink-0 text-right font-mono tabular-nums text-zinc-300">
-              {inr(basket.total)}
-            </span>
-          </div>
-        ))}
-      </div>
-      <div className="mt-2 flex gap-4 text-xs text-zinc-600">
-        <span><span className="mr-1 inline-block h-2 w-2 rounded-sm bg-sky-900/70" />items</span>
-        <span><span className="mr-1 inline-block h-2 w-2 rounded-sm bg-amber-600/70" />delivery</span>
-      </div>
-    </section>
-  );
-}
 
 /** Inline sparkline. Renders nothing until two runs exist — no invented trend. */
 function Spark({ points }: { points: Point[] }) {

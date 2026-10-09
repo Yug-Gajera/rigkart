@@ -7,7 +7,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { DEFAULT_BUILD, DEFAULT_BUILD_TEXT, parseBuild, parseLine } from "../lib/parts";
 import { canonicalSeller, fixtureName, normalize, rejectDecoys, relevant, relevantOrRelax, type Listing } from "../lib/serp";
-import { SHIPPING_PER_SELLER, compare, sellerCurve } from "../lib/basket";
+import { SHIPPING_PER_SELLER, breakevenShipping, compare, sellerCurve } from "../lib/basket";
 import { normalizeProduct, parseShipping, productFixture } from "../lib/product";
 import type { Part } from "../lib/parts";
 
@@ -190,6 +190,32 @@ for (const b of [perItem, consolidated]) {
     assert.equal(pick.listing.price, min, `${b.label}/${pick.part.slug}: not the cheapest option`);
   }
 }
+
+// The breakeven must actually be the crossing point: a rupee below it the
+// per-item basket wins, a rupee above it consolidating does. This is the number
+// the UI invites you to drag to, so it has to be exact rather than indicative.
+const be = breakevenShipping(perItem, [...sellerCurve(byPart).map((c) => c.basket), consolidated]);
+if (be !== null) {
+  const below = compare(byPart, Math.max(0, be - 1));
+  const above = compare(byPart, be + 1);
+  assert.ok(below.saving < 0, `at ₹${Math.round(be - 1)} per-item should still win`);
+  assert.ok(above.saving > 0, `at ₹${Math.round(be + 1)} consolidating should win`);
+  console.log(`\nbreakeven ₹${Math.round(be)}/seller — verified either side`);
+} else {
+  // Null means consolidating already wins for free, so it must win at zero.
+  assert.ok(compare(byPart, 0).saving >= 0, "null breakeven but per-item wins at ₹0");
+}
+
+// Shipping must scale the totals, not the picks: a different delivery charge
+// cannot change which listing is cheapest for a part.
+const cheap = compare(byPart, 0);
+const dear = compare(byPart, 5000);
+assert.deepEqual(
+  cheap.perItem.picks.map((p) => p.listing.price),
+  dear.perItem.picks.map((p) => p.listing.price),
+  "per-item picks changed with the delivery charge",
+);
+assert.equal(cheap.perItem.shipping, 0, "zero delivery should cost nothing");
 
 // The curve must be monotonic in shipping: fewer sellers can never pay more of it.
 const curve = sellerCurve(byPart);

@@ -24,21 +24,21 @@ function price(picks: Pick[]) {
   return picks.reduce((s, p) => s + p.listing.price, 0);
 }
 
-function build(label: string, picks: Pick[]): Basket {
+function build(label: string, picks: Pick[], perSeller = SHIPPING_PER_SELLER): Basket {
   const sellers = [...new Set(picks.map((p) => p.listing.seller))].sort();
   const subtotal = price(picks);
-  const shipping = sellers.length * SHIPPING_PER_SELLER;
+  const shipping = sellers.length * perSeller;
   return { label, picks, sellers, subtotal, shipping, total: subtotal + shipping };
 }
 
 /** Cheapest listing for each part, ignoring how many sellers that spans. */
-export function cheapestPerItem(byPart: Map<Part, Listing[]>): Basket {
+export function cheapestPerItem(byPart: Map<Part, Listing[]>, perSeller?: number): Basket {
   const picks: Pick[] = [];
   for (const [part, listings] of byPart) {
     if (!listings.length) continue;
     picks.push({ part, listing: listings.reduce((b, l) => (l.price < b.price ? l : b)) });
   }
-  return build("Cheapest per item", picks);
+  return build("Cheapest per item", picks, perSeller);
 }
 
 /** Every combination of `arr` with exactly `k` members. */
@@ -60,17 +60,25 @@ function combinations<T>(arr: T[], k: number): T[][] {
  * ponytail: exact to k=3. Raising the cap is exponential; switch to greedy or
  * set-cover LP if a build ever needs more than three shops.
  */
-export function bestConsolidated(byPart: Map<Part, Listing[]>, maxSellers = 3): Basket | null {
+export function bestConsolidated(
+  byPart: Map<Part, Listing[]>,
+  maxSellers = 3,
+  perSeller?: number,
+): Basket | null {
   let best: Basket | null = null;
   for (let k = 1; k <= maxSellers; k++) {
-    const basket = bestForExactly(byPart, k);
+    const basket = bestForExactly(byPart, k, perSeller);
     if (basket && (!best || basket.total < best.total)) best = basket;
   }
   return best;
 }
 
 /** Cheapest complete basket using at most `k` distinct sellers, or null. */
-export function bestForExactly(byPart: Map<Part, Listing[]>, k: number): Basket | null {
+export function bestForExactly(
+  byPart: Map<Part, Listing[]>,
+  k: number,
+  perSeller?: number,
+): Basket | null {
   const parts = [...byPart.keys()].filter((p) => (byPart.get(p) ?? []).length > 0);
   const sellers = [...new Set(parts.flatMap((p) => byPart.get(p)!.map((l) => l.seller)))];
   if (k > sellers.length) return null;
@@ -85,7 +93,7 @@ export function bestForExactly(byPart: Map<Part, Listing[]>, k: number): Basket 
       picks.push({ part, listing: within.reduce((b, l) => (l.price < b.price ? l : b)) });
     }
     if (picks.length !== parts.length) continue;
-    const basket = build(k === 1 ? "Single seller" : `${k} sellers`, picks);
+    const basket = build(k === 1 ? "Single seller" : `${k} sellers`, picks, perSeller);
     if (!best || basket.total < best.total) best = basket;
   }
   return best;
@@ -96,19 +104,46 @@ export function bestForExactly(byPart: Map<Part, Listing[]>, k: number): Basket 
  * insight: shipping falls as you consolidate while item prices rise, and the
  * curve shows where the two cross for this specific build.
  */
-export function sellerCurve(byPart: Map<Part, Listing[]>, maxSellers = 3) {
+export function sellerCurve(byPart: Map<Part, Listing[]>, maxSellers = 3, perSeller?: number) {
   const out: { k: number; basket: Basket }[] = [];
   for (let k = 1; k <= maxSellers; k++) {
-    const basket = bestForExactly(byPart, k);
+    const basket = bestForExactly(byPart, k, perSeller);
     if (basket) out.push({ k, basket });
   }
   return out;
 }
 
+/**
+ * The delivery charge at which consolidating starts to pay.
+ *
+ * A basket's picks depend only on item prices, so each candidate crosses the
+ * per-item basket at exact arithmetic rather than a search:
+ *   Sp + n·S  vs  Sc + k·S   =>   S > (Sc − Sp) / (n − k)
+ *
+ * It must be the minimum across every candidate, not just the one that happens
+ * to be cheapest today: a two-seller basket can carry a bigger item premium yet
+ * save more deliveries, so it overtakes first. Taking the crossover of only the
+ * currently-winning basket overstated it by hundreds of rupees.
+ *
+ * Returns null when consolidating already wins at zero delivery, or never does.
+ */
+export function breakevenShipping(perItem: Basket, candidates: Basket[]): number | null {
+  let best: number | null = null;
+  for (const c of candidates) {
+    const sellersSaved = perItem.sellers.length - c.sellers.length;
+    if (sellersSaved <= 0) continue;
+    const itemPremium = c.subtotal - perItem.subtotal;
+    if (itemPremium <= 0) return null; // already cheaper with free delivery
+    const crossing = itemPremium / sellersSaved;
+    if (best === null || crossing < best) best = crossing;
+  }
+  return best;
+}
+
 /** The comparison the product exists to make. */
-export function compare(byPart: Map<Part, Listing[]>) {
-  const perItem = cheapestPerItem(byPart);
-  const consolidated = bestConsolidated(byPart);
+export function compare(byPart: Map<Part, Listing[]>, perSeller?: number) {
+  const perItem = cheapestPerItem(byPart, perSeller);
+  const consolidated = bestConsolidated(byPart, 3, perSeller);
   if (!consolidated) return { perItem, consolidated: null, saving: 0, winner: perItem };
   const saving = perItem.total - consolidated.total;
   return {

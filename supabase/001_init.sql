@@ -38,5 +38,5 @@ insert into parts (slug, category, label, search_term) values
   ('ddr5-16gb-5600',    'ram',         'Crucial DDR5 16GB',           'Crucial DDR5 16GB 5600'),
   ('b650m',             'motherboard', 'B650M board (any brand)',     'B650M motherboard'),
   ('psu-650w-gold',     'psu',         'Corsair RM650e 650W',         'Corsair RM650e'),
-  ('nzxt-h5-flow',      'case',        'NZXT H5 Flow',                'NZXT H5 Flow')
+  ('atx-case',          'case',        'ATX mid-tower case',          'ATX mid tower cabinet')
 on conflict (slug) do nothing;

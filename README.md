@@ -51,10 +51,12 @@ a new fixture. Both scripts read `.env.local` via Node's `--env-file-if-exists`.
 
 ## SerpApi usage
 
-One engine, one endpoint. Everything on screen derives from it — there is no
-seeded catalog and no scraped price list.
+Two engines, each answering a different question. Everything on screen derives
+from them — there is no seeded catalog and no scraped price list.
 
-**`GET https://serpapi.com/search.json`** with `engine=google_shopping`
+### 1. `engine=google_shopping` — what matches these words, across sellers
+
+**`GET https://serpapi.com/search.json`**
 
 | Param | Value | Why |
 |---|---|---|
@@ -72,8 +74,32 @@ Response fields consumed, from `shopping_results[]`:
 `extracted_price` is trusted as the price and parses Indian lakh grouping
 correctly (`₹1,34,045` → `134045`). `delivery` is **not** trusted as a number —
 it is free text (`"Free delivery"`, `"₹40 delivery"`) present on under a quarter
-of listings, so shipping is a flat per-seller estimate instead of a fabricated
-exact figure.
+of listings, so the basket optimizer uses a flat per-seller estimate instead of
+a fabricated exact figure.
+
+### 2. `engine=google_product` — who sells THIS exact SKU, delivered
+
+Every shopping result carries a `serpapi_product_api` URL; its `page_token` is
+the handle for this engine. One call per SKU, same cache and fixture path.
+
+| Param | Value | Why |
+|---|---|---|
+| `engine` | `google_product` | Collapses 40 loose listings into one product's real offers. |
+| `page_token` | from `serpapi_product_api` | Identifies the SKU. |
+| `offers` | `1` | Asks for the seller list. |
+| `gl` / `hl` / `google_domain` | `in` / `en` / `google.co.in` | As above. |
+
+This endpoint supplies two things `google_shopping` cannot, and both are visible
+on each part's page:
+
+- **`stores[].shipping_extracted` and `extracted_total`** — real per-seller
+  delivery, not an estimate. Sellers who itemise nothing but report a delivered
+  total get their shipping derived from the difference and labelled *not
+  itemised*, because that is a weaker claim than *free*. A seller reporting
+  neither stays **unknown** and is never silently treated as free.
+- **`price_insights.stores[].prices[]`** — a dated price series per seller.
+  Google's own history goes back a year: one 16GB DDR5 SKU runs from ₹5,664 to
+  ₹28,190 across 74 observations, which is the 2025-26 DRAM spike in the data.
 
 ### What the live data forced us to handle
 
@@ -93,6 +119,14 @@ Each of these came out of real responses, not speculation:
 4. **Seller identity.** SerpApi reports `amazon.in` and `Amazon.in` as separate
    `source` values. Unmerged, the optimizer charges delivery twice for one shop —
    the exact number this product exists to get right. Seller names are canonical.
+5. **Short tokens match too much.** Requiring `"h5"` as a substring matched
+   *NZXT H510i*, a different case, and the product lookup then resolved to the
+   wrong SKU entirely. Tokens under four characters are matched as whole words;
+   longer ones stay substrings so `"rm650"` still finds *RM650e*.
+6. **Thin coverage is reported, not padded.** The NZXT H5 Flow has essentially
+   one genuine Indian listing, so that part became a brand-agnostic
+   `ATX mid tower cabinet` search. A query with no real listings renders empty
+   rather than filled with the nearest wrong product.
 
 ### Credit discipline
 
@@ -104,7 +138,9 @@ The free tier is 250 searches/month, so spending is deliberate:
 - **`scripts/fetch-fixture.mts`** refuses to overwrite an existing fixture, so a
   stray re-run cannot quietly burn credits.
 
-Total spend building this: 29 searches — 23 building, 6 on the first price snapshot.
+Total spend building this: 44 searches — 23 on the shopping queries and their
+dead ends, 6 on the first price snapshot, 1 live UI test, 7 on product lookups,
+and a handful retargeting parts Google Shopping India does not stock.
 
 ## How the optimizer works
 

@@ -17,6 +17,8 @@ export type Listing = {
   link: string;
   thumbnail?: string;
   delivery?: string;
+  /** Opaque handle for the google_product engine, when SerpApi supplies one. */
+  pageToken?: string;
 };
 
 export type SearchResult = {
@@ -58,6 +60,16 @@ export function canonicalSeller(raw: string) {
   return raw.trim().toLowerCase().replace(/^www\./, "");
 }
 
+/** SerpApi hands back a ready-made product URL; the token is the part we need. */
+function productToken(apiUrl: unknown): string | undefined {
+  if (typeof apiUrl !== "string") return undefined;
+  try {
+    return new URL(apiUrl).searchParams.get("page_token") ?? undefined;
+  } catch {
+    return undefined;
+  }
+}
+
 /** Rupees. Decoy listings sit far below the real market price, so use median. */
 const DECOY_FLOOR_RATIO = 0.25;
 
@@ -94,6 +106,7 @@ export function normalize(raw: any): Listing[] {
       link: r.product_link ?? r.link ?? "",
       thumbnail: r.thumbnail,
       delivery: r.delivery,
+      pageToken: productToken(r.serpapi_product_api),
     }))
     .filter((l: Listing) => Number.isFinite(l.price) && l.price > 0 && l.seller !== "unknown");
   return listings;
@@ -163,18 +176,27 @@ export async function shoppingSearch(
 /**
  * Whole systems that merely *contain* the part. The "Ryzen 5 7600" query came
  * back with ₹79k-₹230k prebuilt gaming PCs, which are not a CPU purchase.
- * Shared across every part, since no component search wants them.
+ *
+ * "pc" and "desktop" belong in a part's own `not` list rather than here: they
+ * exclude prebuilts for a CPU, but a genuine case is often titled "Mid Tower
+ * Desktop Computer Case".
  */
-const PREBUILT = [
-  "prebuilt", "pre", "desktop", "pc", "laptop", "workstation", "računalo", "combo", "bundle",
-];
+const PREBUILT = ["prebuilt", "laptop", "workstation", "računalo", "combo", "bundle"];
 
 /** Keep only listings that are plausibly the requested part itself. */
 export function relevant(listings: Listing[], part: Part): Listing[] {
   const word = (t: string) => new RegExp(`(^|[^a-z0-9])${t}([^a-z0-9]|$)`, "i");
+  /**
+   * Short tokens are matched as whole words, longer ones as substrings. "h5" as
+   * a substring matches "NZXT H510i", a different case entirely — but requiring
+   * boundaries everywhere would reject "RM650e" for the token "rm650", which is
+   * the product we want. Four characters is where loose matching stops hurting.
+   */
+  const matches = (title: string, t: string) =>
+    t.length < 4 ? word(t).test(title) : title.includes(t.toLowerCase());
   return listings.filter((l) => {
     const title = l.title.toLowerCase();
-    if (!part.must.every((t) => title.includes(t.toLowerCase()))) return false;
+    if (!part.must.every((t) => matches(title, t))) return false;
     if (PREBUILT.some((t) => word(t).test(title))) return false;
     return !(part.not ?? []).some((t) => word(t).test(title));
   });

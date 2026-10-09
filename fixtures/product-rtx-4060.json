@@ -1,0 +1,392 @@
+{
+  "search_metadata": {
+    "id": "6ac93b58874d50f85d6a84ee",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zO6-EPKOkqhekGVRSAwCzH0pvM0ic9VTE7n8OksBirk/6ac93b58874d50f85d6a84ee.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zO6-EPKOkqhekGVRSAwCzH0pvM0ic9VTE7n8OksBirk/6ac93b58874d50f85d6a84ee.md",
+    "created_at": "2026-10-09 19:07:04 UTC",
+    "processed_at": "2026-10-09 19:07:04 UTC",
+    "google_product_url": "https://www.google.com/search?ibp=oshop&q=search&prds=productid%3A16031634335376324124%2CheadlineOfferDocid%3A16031634335376324124%2CimageDocid%3A13900674158129958457%2Cpvt%3Ahg&hl=en&gl=in&udm=28",
+    "raw_html_file": "https://serpapi.com/searches/zO6-EPKOkqhekGVRSAwCzH0pvM0ic9VTE7n8OksBirk/6ac93b58874d50f85d6a84ee.html",
+    "total_time_taken": 2.38
+  },
+  "search_parameters": {
+    "engine": "google_product",
+    "page_token": "9wfEnHicdZI5juNWAERtn8BHaMeNHnD7pNgNBVw-JUpNitvnlgifi8RVpEhKXE4zaHsGGIeGAae-xjjwPZy5bTh1UkmhHqqA-vOb79_S_Ldhed3hbl6k3dOxXTHG3J-c0ey_tF2T3OIhT34lWYImWZqhaUBzLE0xJMV8ifGAq-acJx9_yVKcVPklPZxOaSc38f9Efs5rfE7_82meIFiOIcGKpHgerBjA_dgl_cdP11vazV9_0F1VVoVHy_EfGYIlHlcb8fHc4TbL4_4xxl3y6dy-gz7-WP8j7X14y84_3W5V-vvbuXrLL29Z9ZZePje4vZ_iP74tYDNKUj-KJmpbV7YIR9Fz1xEof4lBChPCIci7vYEg2gDTJPRbcGkrC4YsrhQiVtq7hSY68LPWJF1bo62LgwY9UVxJJxM7WizTk0ikeW0eUC6RVALtwGyPtm2mE3pmk9XeoVsjosiLthUlq9KrmDiDkFoBpziPcSV6UenudQRmLJFsWgLTvVh5rIhLQLtOsIizAxPWfu9ubdtXTLtd4hFA93eMC10iVbIhJJMbcnk33GadSWWTg3gaUQrlykoQL67kyG6W-hVILlnmKCJwaXMMCL6EWUKk5bQP_B1IS33_6vLjQbbM1Ndrd5tY8dTkJrKWuKhq5Cl3BwJTg9po-4oWFfEQLCpAhF46i1VoCj8g86ep705fCUEBg31gwK1qaaTsCd9lOiHUuRVPCWEk6JzwTHI8CTiCJQHD8Z_jpinz9I_v_rIPkr2WBPXlwYaCJW2PtqBBW3XgWjqb6pGF4suDAKW1gDEPdw2_Q4IWAm17LSl4P-lBHl5NF5OEg3nyevWu2-s8ntwNqpdIKexQa4WXh83hsHmFR0FENjxCH2qGox70tSqvYxzxZJyuWD4hI4IFz462_rcoy3Mc_Sytu2fVWIMPNP-B5MEHCoCnZ3s9X0o-ZjL7wuk3XaxGitpgnJsvD7K7FjjWMuvwwBf9CWpMYodTPc3jlZ9QCrPm5eF4tNP41qVPtmMZa0HUM4E9Y6-pKBeE6uiQ4-01e5UMdN9oYe-g97_swObm1SpP0Dd2kgpiuSIFbrE_NPug4hRDll-zTsabqN0VIImdpKE2pKKGpaoVvja_POjvU6VrKUkCtKkRiodpI9tKTEa7PX2VrDhkZITMmGUPAWQkuU7He6wXQXAyNKZncFA2KtqrZ7EfsR5KpiHFI66helHoPcrNDJ8mtNMVrzIiMHkjW3Bj7ijIFqoO-WNIiT1FWw1vKFE0LUu3p-kaHJen1XCcaC9SaSzOzXgmyEEb2nvPLxhhx9G6YlWaBEPRkageuGuNlGWOoh7Cupvvd6ObGCRL83268TJV8ZS-2vlZcZQOxcxle08GCSYP4juJOo5XTjGNkqQHKtbYu9F2PYeDc12tknmoouSYSvYYXNQzsc2eSn3wnhqmEZydIiT7Xlwd61b3bu6TelsxaWYRyTREZ3cm7F0xdmkhHkSDCzBTYyofc7J2fFiI9lAP_OSR1anTjEWZuHwMyE07GqgBOC-plfE3PezbMQ",
+    "gl": "in",
+    "hl": "en"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjd_2Op3mqZvjR1EwuNP1QbuDBDP3WZOGeGcdR00W9qMsus9sn_LstWQ6DZ4U0dQm7l58XN5tz8dZ8kN3buQB6ncPXSAsq"
+    ],
+    "title": "GALAX GeForce RTX 4060 1-Click OC 2X 8 GB GDDR6 Graphics Card",
+    "brand": "My Store",
+    "stores": [
+      {
+        "position": 1,
+        "name": "The Engineer Store",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theengineerstore.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.theengineerstore.in/products/galax-geforce-rtx-4060-1-click-oc-2x-8-gb-gddr6-graphics-card?variant=43969182531747&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4W_pPU-CvWFSyUvdNILvGhFswS5maHtO5VDydNfYBKWSqcKpo8ESFc",
+        "title": "GALAX GeForce RTX 4060 1-Click OC 2X 8 GB GDDR6 Graphics Card",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between 19–23 Oct ₹75",
+          "7-day returns"
+        ],
+        "price": "₹28,564.56",
+        "extracted_price": 28564.56,
+        "shipping": "+ ₹75",
+        "shipping_extracted": 75,
+        "total": "₹28,639.56",
+        "extracted_total": 28639.56
+      }
+    ],
+    "about_the_product": {
+      "features": [
+        {
+          "title": "Video Memory Type",
+          "value": "GDDR"
+        },
+        {
+          "title": "Brand",
+          "value": "My Store"
+        },
+        {
+          "title": "Type",
+          "value": "Graphics Card"
+        },
+        {
+          "title": "Video Memory",
+          "value": "8 GB"
+        }
+      ]
+    },
+    "more_options": [
+      {
+        "position": 1,
+        "title": "MSI GeForce RTX 4060 Ti VENTUS 2X Black OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvcchmGBT3jrjctzkCP_2rizKiFscqO6J8W7vDaJo8aKmC83WduHtO-dtIpdcR5T7Vg7oX1xzYwvpP-hNe5Fj98qfGuhS9rgTJb680I6hiwbWyrrLjT3-l",
+        "price": "₹28,000",
+        "extracted_price": 28000,
+        "reviews": 329,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XDOTsnicdVXJzuM2Eh7MvEAO8wI5NHL44YZI7blpt2xrFylZF0GWZMtarMXyIiFP83c6QHJMBphrXqNzyLNE7rlODiSB7ytWfWSRVX_-45v3_Pzfcd5tkmGapc0q7jjKnq5H_-Fcf-6GNrul4zn7D2AIEjAkRZI0yTIkpACkfi3yJKvPl9w6HvNBbtOXHcFAkgQES3AAQmbZBtlfzk1yyr_yv0KeBjxJA4YDHA0ohgWf-1s-TF--NbEu68Kb64dvFMEQb5wmvp2GpCvO6fUtTYbsU3cf34vT-6l-P1_ei_o9v_zUJt39mP7xz38r7UOWrg_JQV2HZZfwCNXKNeyZKi5DspuNoCvMOjKjoAuManMO1Oh5gGPnIBwawL36MGqjUtwajSnvoTseoGt5aubhdQ1TSNEmHFUriBR3jqwEqkMUOrMPzCiqsOXLEfbJjEpwRCdBRKVK1GOYUoYH1ntYdKks7n25mA3U3cyKXztlVmS48A0EfFdBhKHhwsPqJSQiOjiDO8IcGUJ6WoblAh26jWlEIS4MLCZI4cjsotNeMMJEw6Mri9cUuY9FU2XOaplo3T0lFhkVvzdIA6bYTPb-RnSI7uaWG2iu0Zgi1Yy0AvkadnGNqxRlUwrcdg_rHa42896PbBeNkqt1O9fHVX4xE6Oq9UBVr6Za2FlQDLhxJ5eIdslFHBOND1LsjC6i9wbhVj5ABKpruCdUE_lR5M8Zk5LF7Km4cDX08BZ4jzb7g1zc02bTY6BMqBY8FWR9VnVFpnWKS_DHhMwsUxXoLIguEVAo7bwR3bU5LXlAyM8W_5FjQESaTddmSmRnCga5Qvf4DMagocUfn9fh-IUQVHr0LLoVLsM2EhKxJ5LjFuf3GaUt2k5M8fgesDygWchBhqfAT2nbVuf8j39951mS94GUJUH_QIpvniK40jr2BEPxdF95ESdHjxlFfLGCIi2IkCS8smnLits88kjHRJUOVHmhZc1lzut8Ew7URp7dPKc6cbqR0e3s6NstYg3h5UOzLG2nxIKIPCVWQsWwfd0yF7e6vExpmtOQ5DhwXKTmXP6BFHxjwf8nHnAUXJCXiGFZdfvF0ORHGn4EPPWRoVYL-jrNcZShXFV5ISqeaOeV8HCUaTJe8WW88IigqmcAByvb7x9yFeqVnUv5wdgW-kkp2pddHHt5ehvylee7rziCaBYCU1rOsI8p62qzEA70Za9lIthzSB26FZuXK0Jz3G2r8mhAPsx7-xTAtSTAo0Nx3SrOotLstWymsfPsynSTn1ZX8e40xSlpotMrqvn1FqT-KkmC4pGOIlpPTfZEOa_W83RhYrCKVxLDzNEVLCWo3JpcX_DS7qo6xo4n3V24vedjM5_bUThEtEQd9CQat_eaRz1IU_Y-DX0-B5mk1hlewd2MbneaPPI5NE3betT3iyOU4soO7VhVZOYelCNR1c9m-W5WtjKtptC3h8Dvik1AGdg-bLl4HrOydTUsMgH1UK_bLHhUQxCY4yHkJlJ8VHo5OEzO7Mj2sGZK351Yenr0ym2rVeuVHW9atjQmLj0HROUv9cPoEiMUxsQz8keoUL070dbwnBQA3blpNHJUC0j6BF91oWRKUnrYWpV0Eo0KiUT_WM_8U2u5KVaq9agpxtwc26c17yljtWpCrnnuTjGwo-ws43FeMstzJKUeQ7U3aG_d9r1_rQX5cPSylkdRfazuBCccZof4OU3GpG5P5-w3nqdpgmAAu9R3SFM8gNznU_e1MdA85FjIU8sLZkmC4AlAfhqy6xfKluL_R_5gu5Yc_w35qVl6Cc0yFANZjuRZSFKQpYilRRx__wvbVTHZ",
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:9955006176812549128,gpcid:15928729438873009013,headlineOfferDocid:10623310708122616027,imageDocid:295193516818514671,mid:576462783972342740,productid:12399287297579573257,pvo:2,pvt:hg,rds:PC_15928729438873009013%7CPROD_PC_15928729438873009013&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "Tradeindia.com"
+      },
+      {
+        "position": 2,
+        "title": "Gigabyte GeForce RTX 5060 Windforce OC 8GB GDDR7 Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtDBrWiVtkbu-1pU-u_tDJY1nOOVIOFDRMfjUGCWMXJC54emwYw3LuAT-DH24O3M1m0k3ooyCYTTEDwrv4L540CCPWx6ELteL9A63-gI7COtbQnxypuiOb",
+        "price": "₹56,000",
+        "extracted_price": 56000,
+        "reviews": 211,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lDjRqHicbZXJzqtGFsdb6RfIIi_Qi6tefPJVDYChdwwFnpiK0WwQBmxssBnMZwPqp_luEilZJi31tl_jZtHP0jjpZVRSlXR-R_9zajin_vuXbz_y87_7abdJunGSN4u44RlrvB_dp33_qenq7D3tz9m_IAcw5DCDMYuXHEYMRMwvRZ5k1fmWm8dj3il1-vJbctwSIJZf8ojFgIMsz_98vian_P8cAY4TmHmAJQQczy8Z4Yf2Pe_Gr38z_LWyFt-oG74xgANvvCa9nbqkKc7p_S1NuuxL8-g_itPHqfo43z6K6iO__VgnzeOY_vbNd6R-KvL9Kdte0_gKBe6qCWzUwyRMMb32jKENdVBG1S6sUK5508EXKicsvBA0EUXsI8NS7UN-SDwKfZgFvrrx6IoagZYy1I24pOxB6pV9hH1lj044CoZqHzStq2QXl1SGGxSXnUdJ6hJwUHRGlyE5rCTXRyzStQ3JVN_1V_WYgJrxwWAl1yxIAdtkGvS9K-saZdF4UG0NYrQHQtj8ymMaNrrrVqodqlKIhGZfkqc9eUPqUpeu1HfbNRJXM46J6ncJKc72rUgcBEenpIYNfdnVhNtBawo9yB4p9i29iqgHq6OrUO2lYah02Hl7NqsMyb0VhalVbl5lD7rKWEOGdNb1KTJU3Ru4fWBYLt5cgjLtfRK5PogmqkiGuSocGxorHTS-rwEYlXcmJwP2tEKmJWUzYhhJWAVJdWJ0TS0o3rQpMDrq-l46FdgvN1V-2z9twDgqzNqsbIpMawgFwjHBmWmoIpsF0S2ChNHOG4mujNEMIs8ONvsUGZzjRregKtjguh8ON7U0FYPqFT3bIJK-H-7d8SsQVbZ3TJbj7PQEmvxm-IehXfNX4GWCRR7a-PwHXAqQXSIezY8T_ZjWdXnOf_vr3x1Tdj5hRRbXn7D05hCRyqvYEXXirF3yAid7HXNEelGRyLNFTBKBbOpLyW-eebT2QZl2zOXGKhrlzqt8E3bMRplonjONNL7j6P1sr7dbb6mLLw3NNLUdiUXJc0hMQqJb7to0Ztm1Mk9pmrMI8zw8zqnmfP4Ji64-2_9IHvIMmi2vJLp5XVsvwuLPLPoMBeYzxyxm62s3x15BSlnmhUQcycpL8WmTcdRf8RV_5h5gyiFAnZnt90-lDNellcv5Qd8W6xMp6pdfHDt5-t7lC8elrziiZBQidzHtbh8z5t1aItSxt72WSXDPe2rXLJb5ZQE0m25rVfA6z0V5a50CtJJFdLQZvlnEWXQxWi2bWN8emku6yU-Lu_Swr8UpuUanV1Tj91OQ27ssi8TBNpHMQVMcScnL1TTeuBgu4oXMcVN0hxjDy9bg20KQd3fV1ncCprtw-8j763Sue_EQsTJzWCdRv31UgtfCNF0-xq7NpyCT1SrzF2g3ee8PFh-FHBmGZT6rx80WL9LCCq1YJQr3CC49KKvhOpexmS0M81qst4fAbYpNwOi-ddjy8dRnl5pqvsQFzFO9b7PgWXZBYPSHkB-x9CzXl87mcm6H68OKu7h0XLLjsyXvW61cLax4Uy8v-sin5wCU7qR7epPoodgnjp4_Q8K0dGTNbhgJRHS6XjXcqwXCLhDKJpQNWU4PW7OUT5JeehJon6tJGLSaH2NSrnqN6NP1WA_mtGf0xeIa8tdhd4qhFWVnxe-n-WYFHjPqMVRbnXVWddu690pUDkcnqwUvqo7lA_DiYbLBT2nSJ1V9ejV4CDkB4SUWBAAghiyC4IdTM_f-XxlWmGuQgTzPCYBHmGH5L112_4osOf4T9k-Lmkr85-zL9Zz9wi45hkO8IPACt5wZi-cP4vif_wEP5jGN",
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:11169237399001315210,gpcid:4595664188690823458,headlineOfferDocid:17667025878253061588,imageDocid:12066949490710688749,mid:576462899896786953,productid:11616655472930586070,pvo:2,pvt:hg,rds:PC_4595664188690823458%7CPROD_PC_4595664188690823458&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "Vedant Computers"
+      },
+      {
+        "position": 3,
+        "title": "ASUS TUF Gaming RTX 5060 OC 8GB GDDR7 Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQJtCy2C4To--CeGAKOjbSfhBdT5Z2TVPlhFPZEdsHvsQpSH_sxK2v84qM6ErMKTcGJqOxcCileIiTdS-hmOYSvt1-m2-my0dXVmMLtNjvnGfah_RhO44bf",
+        "price": "₹39,699",
+        "extracted_price": 39699,
+        "reviews": 63,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=59hQsnicbVXLzqvIEY6SF8giL5DFURa_fATdXGfHpcHGBswds0EY2mAuBmN-c1Ge5j-ZkWaWM5Gyndc4s5hnGXyyTDbd0vdVf1XVXdX1-5_--oGv_xmWg5b08yJpm7jjqOP8uLij9fix69vsPR2u2b9JhoAkAykIacgyEFAkoH4ucJLV1xs2Lxfcy236sqMInmU5imM5kqRpCvI8_OnaJDn-xv8CKYJYNeiVZ3mCBixLf39_x_389e-Gv5N3wpvthm8UwRBvnCq-5X3SFdf08ZYmffalew4fRf6R1x_X20dRf-DbD23SPS_pb3_-G2pHWXqMkuV1nS_bhBN0iVEbtg7Ig-GQ46ksGHvJhyyM5ENAI0819ro3mBGp0NjLRlfhJ91PB0Ppnp6nlS7IupNb0E4zaLj2RhMZJz1QUKTyT6ssAA4r4CNDNF2xt33DdG-a7gUDODUt6QTFJYJa49b-1UC-cQpoP0Ca6zSIcoDmJ4jfJw4JU7-7HzzFOYFpcgPfsKBB-nVtpJ5fm4q291wxDDwPuICeHMDbQYOGhNA0L7TDhGgnVy0oX8nGs4wWF0StCzvS8rXmBJUBewjqSnHD6mTolT2f11wO3jhnql_7FUVmi3JNoG-scfuJNx0CxPfYo5HhihT2eEMnbSUkbMdu7DEKOtMF_MGpdkSyRKIOd3RURqRxs989j1scmD0yz76t5yaX4HcJGC7-NjKxUkw2oGi_eSznQEOJkvmRGhW4VEqvSqFdCrTj1pa3NRjbPTkKmd2zqisytUM2wV8SmJmGItBZEN0iElHqVRPtrTGbQeRFMwn9Wonc2jb02n6mKIX6NqeMyuiDsKZxXdv_mh795SshKPTgmKxcKb345N38tL3JaTuKsqaks-IQQ_4dyfIkzQIOMDwFf0jbtrri3_7yD8eUnE9QloTdJyi-OUiwpW3sCDpydi56Ebm1ixkkvlgBSSsiJAmPtLasOG3E0c4nqrSnyhstqzZz3WIt7ClNXmyMqU6c32H0frV2-73H6sJLQzVN9YBiQfQcFKMQ6Ud3Zxqr7E5elzTFNIAcR17WUDGHP0HB1Vf8v8GTHAVW5BVEv-6744uh4WcafCZ56jNDbVb0lc1lkIFcVbgQkSMecSWMFppn_eVf9lfeI6hqCkBvZqfTKFfhrjpiCZ_1fbHLUdG-7OLYwel7jzeOa7_8CKJRCExpWv0ppszHkQWgp28nNRPJE-cpfbdhcbkhVMvetwrv9Z4L8P2YB2ArCeBiUVy3ibOoNO5qttC-NXVlquF88xCfVlPkSRPlL6_Gt1uQ7g9JEpADLSSakyo7ooyr7TLfmJjcxBuJYZboQUJIlnuDuxe8dHgoln7goX0I9088NMu1HYRzREvUeZdEw_5Z896dTFP2Ofd3vASZpNSZvwGHxXt_0vDCY2AYR3OsnzdLKMXNMTzGCpKZZ1AORFVPTUrQZrYxzKbY7c-B2xVaQOn-8bzn4mXIytZWfZEJqFF57LNgrPogMIZzyM1QHKtd2VsMZg6wPW-Z0rVnlp7HO3rfq9V2c4y1li31mUuvAVG5i-7pXaKHwpA4Oh5DRN3tmTb7aUYksJemUeGgFACuLVh1oWRIUnrem5WUi3rlicR93C78pLbcHKNqO6hIX5pLO5nLidI3mybkmumQx-Qxyq6yPyzry_IcpJRLqNx12tm297v7qAX5fHGylvei-lI9CU44LxbxY5oMSd3m6__OQRoAyJAcw7OAhzzg6O_zbv35f15rllqbi4YESRL8Wq_slz57fCWOUvy_1D-PtinH_5f60nwTYyhmbVee4DjmNZOIdThcfv0D-tYwrQ",
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:8352236186972939285,gpcid:572494353011095717,headlineOfferDocid:14097784878115543993,imageDocid:3400335587879052775,mid:576462829088633530,productid:6706855107917670528,pvo:2,pvt:hg,rds:PC_572494353011095717%7CPROD_PC_572494353011095717&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "Shweta Computer Bazar"
+      },
+      {
+        "position": 4,
+        "title": "Gigabyte RTX 4060 Gaming OC 8GB Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5vmrgW5WOIBWQutglAgYrLMz4G4otCglat2opzNXTJY7j7NYT8b2VMoqqICDiJ2_BPM8luDVxyQMqoZRCVMNYLB6E1MGLSM-AA6xbYkcTJxTNfGejcOAxLg",
+        "price": "₹53,199",
+        "extracted_price": 53199,
+        "reviews": 264,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MM4_FXicbZXLzqvIEccT5QXyClmMsvjkowaaW3bcwTZg7pgNwnQbzMVgjG1A8zTfyYw02WUSKdu8xplFniPL4MwyUau7pfqVqv5dJVX_6ze__8SXf4zLfpsN8yJtN2nPwcN8P_sv5_5TP3TokY8X9HeCARTBUJCiaIplKBISJPy5xBlqLldsn894kLv8gv62EpoB6-IAD1ZnjqP_cmmzAv-KaYJiaEBy8L05iiVp_ofbAw_ztz9YoSEbwofrxx9wDfDBaeJHMWR9ecnvH3k2oK_9c_wsi8-i-bxcP8vmE19_7LL-ec5_-e2_lWcuSUMuOUHfh7ILfI3XgysS0dXy8mjUcD3VKDJJi3TjY8BnYXCcUKhMFmH5ZpCTZjsGx3aUPV31fF2dA6Ix8kokAllt8jZ0XflI28qkZ9p0zYJidnxjDuptcLqiClG9gZUkCZUc-FXYm0QSeso4oHirekAFqHXmqE1uJ5WDOBYfruZeQj2M3HaCXt08raifomtoe0Ty9FvaceVkCpRmZ2sAnoKkM_Uamr6aZSRtW3oHkrhnoqaEblTukDLuQiKU89Bq0VIAFPUPExxBTKqPPGrE06rlWDWW246VGXe0v4hqdHUdn6RjTxs71G7vHqjnoHWZTG6S4FoChxwd3PZPV9tmkdxQ-8iVUVzQFgmhU6MkAznIQrULomTeB-rsL-EOt5aIAG_nS6KcYjSFEX8_BWrgVMndaso-CcLGupqeSqAbqvsSab3iAv6cUci2VIFGUXJNCAVql63o6tZsR4nrxSphksroaa6aBcS01kqNasv1a3Py9HK79pn683Qfzt-AoNKjZ7NyrQ7ik_eLo36V8-4lyls1n9cmjMWfCJYnaJbkSIaH1I9519UX_Mvv_ujZkvcdJUuC8R0lfniK4Ep66gmm4hm-8gaFY6SMIr6poEirRcgyXtl2Vc1tXzgxQlDnA6yutKy5zEXH23iAW3lxMYa9OD-o5HFxjN0uYE3hHUOzbW2vpIIYeEqqxIp58A3bWsMa8nrkOaZJiuOI8yoVc_g7SvDN1f6reIKD5Gp5ixjW2zi8CU19ockvBA-_MHCzWt-vOY8yKdc1LkXFEw-4Fl6OMs_mO78crjwAsJ4icrDR8fiS69ioD1jCJ3NXGoVSdm-_NPVw_hjwxvPddx5BtEqBqWxnOKbQvh9Ykhzo61FDInHkAnXoNyyuNkBz3F2n8sEQ-CS-HYqI1CWBPDuQ6zcpSirrpqGFDp2pr_ItLjZ38em0ZZG1SfHOav23CtLtLkmC4lGOItqTJnuijGt9ma9MSmzSjcQwS3InKIqodhZ3K3lpf1cdc89T7j7ePfHYLpduFE4JLcGTkSXj7tnwwY3Ic_Y5Dze8REhSGxRuyP0SPJ40deYxaVkH-9U8r45QiZtDfEhVRWaeUTWCupnaHNA22lh2Wxq7U-T35TaCZng47bh0GVHVuVooMhF8qfcdil71EEXWeIq5mRJftVENDoOZPdWddKby3Zml59dNeey0Wt8c0m3HVubM5ZcI1P5iBmafmbEwZp6JX7ECb-5M28M0KwTpLm2rUaNakpQP-LqPJUuS8tPOrqVCNOtABLeXvvCT1nFzqtT6qCnm0p67yV6O0Nxs2phrp32REocEXeRwXNbO8hwF1XOs3kza07vbzb83gnw6e6jjg6Q510_ACafFAT_l2Zg1XfH-CmiCoXkeEhAAHrIsR0Pmh6Jfx_tfWYKgSYZiWJYhAEmyxNcB3b99OUjp_5DvD64tp_-PfG0v6GeaZSBDchQFaZ5iWQDYdfyf__kfQ1squA",
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:15165994140094778546,gpcid:71152636776102271,headlineOfferDocid:3245606068090335885,imageDocid:5136502840284837259,mid:576462833459377007,productid:4068999621172661215,pvo:2,pvt:hg,rds:PC_71152636776102271%7CPROD_PC_71152636776102271&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "mdcomputers.in"
+      },
+      {
+        "position": 5,
+        "title": "Galax RTX 3060 1-Click OC 8GB Gaming Graphics Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjF5AMdzFRt53anWVpYogn4RizlJB-vknaFMGocc7tm9A7z2nRbz6a3FtrShUm_McD6eeL5xHkIPvJno0S-5mBLgNybl7xH0fvuZxlVP-qxOCjkQ9nXuv9TQ",
+        "price": "₹29,840",
+        "extracted_price": 29840,
+        "reviews": 35,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lNB_yHicbZVJruvGFYZjZAPZQgYPHlzogVXFNjP2oiSSYk9xQlCsktiKFMUriYRXc5-fAWeYGPDU23geZB0ZhoqnnlQB_3dwzl8NzvnPX_72Qcpfx3m3yYZpljertOfp_XQ7-Q_n9nM_dPg9H0v8C2ApBFhEI8QgjkWQBpD-V0Ey3JQXYp9OZFC6vMT_5iCgEC9QNIJoiYU0T_-zbLMz-QPzHEsJFMcAxHA0TyGKZb9e38kwffu7FRqKIb65fvxGUyz1xuvS23nI-qLMb295NuAv_X38KM4f5-ajvHwUzQe5_NRl_f2U__7df9V7LstDLjtB34eKS3mNVSQ6lm2_mJw4n8KoGFz4rKJqoweKlJkRvpIwAOFcIK-ybj7AN3udGLg2qUCTzOCS3P3YSvygUY9-GFrtxrCCpvUCy8Wt9swDtwziw_MYNIUbbpADAui2RYmVpHfa_JH5Yev4bkGUMDDDvvDnMAmUMxW1ILOiMDmq5uQtfiykXQMF6966GcPKLbywmaNL4tmhWxyCG3ARlsOgmyLNzY6aM5txaJH6DEnkJj5ldTkFag8C329x61WHydU1ijTWu1eD3tPCiwmKndUy10ytJ68uNKwlnbl2B6eyBrORVCsAUnaxaivSihw-h1xn7EQtYDhrxaEeG9I-nUPrbnJU6ETVqCMUbqRm6my2GnLRnONaclwoAH-d1LsYW1n7dN1Yk_MGK05g-bug12JY1JYiKUEYeBrAV1z3BdZ71aWEU4awbWkig6PkkgCV1suN5K6tyY4S378YaMm9N1WQOKCfw1rwzHXRxdTYvKKjRrj8-LwNp2-UqDGjZ9M2Be2LEjJc_3jMGWZOvGLdVsluQzn_AJwAGA7ykBVo-qe86-qS_P7X7z1b9j4hRRaNT0h681TRldepJ5qqZ_jqC5wdI2VV6UVFVV4UMcsEddNVNb95kMQIqTof6OrCKLrLlmuyiQd6o8wuIXQvTe8oeS8dY7sNOFN85dBtW9-pqSgFnpqqsWrufcO2lrSGsix5ThiIeB6cFquEJ5-Q6JuL_od5wNNwUV4mhmU39i_CoM8M_AwE-jNLrxb1dZrTqEClrkkhqZ60J7X4cNRpMl_1lXDhAUXXzwgONj4cHkodG_WeyORobgvjrBbdKy5NPZK_D2Tl-e6rjihZhchWtjMcUtq-7TkIB-Zy0LEEDnygDf2KI9WK0h1322lCMAQ-JNf9OYJrWYQnh-b7VYqTyrrqeGZC59lX-YacVzfp7rTFOWuT86uq9f9bkK83WRZVDzmqZD91xZMUUq_n6cKmYJWuZJadkxtACFRbi78Wgry7aY65E5C7i7d3MrZz2Y3iMWFk-mhkybi9N0JwBXnO3afhSuYIy1qDwxXczcH7nUEngUDL2tuP5n5xxEpa7eN9qqkKe4-qkaqbZ5tTjI1Xlt0WxvYY-X2xiWgz3B-3fDqPuOpcPZTYiH5oty2OHvUQRdZ4jPkJSY_aqAaHJewOdcc1W_nuxDHT46q-b_V6vdqnm46rzInPy4iq_dkMzD4zY3HMPJM8YpW-uhNjD89JBdCd21ZHo1ZA5FNC3ceyJcv5cWvX8lky60Ciro_1LDz1jp9StV6PumrO7al72vOBNlerNubb5-6cgn2CSyUc5-VlBR7R2inWribjrbvr1b81onI8ebgTgqQ51XeKF4-zQ_2cZ2PWdOfXKIAcDRGAPAcEJECBXf7e13P_au8MhIDjlu_LLAOAo3iB574M-PYN7uX0T9gPe9dW0j9nX9oS_7a0_NNv_wMI9ikN",
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:12742312871939296194,gpcid:5221778815043708987,headlineOfferDocid:7210389043233352484,imageDocid:8760907513574803066,productid:2330331563780828940,pvo:2,pvt:hg,rds:PC_5221778815043708987%7CPROD_PC_5221778815043708987&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "Theitdepot"
+      },
+      {
+        "position": 6,
+        "title": "ZOTAC Gaming GeForce RTX 5060 Solo DLSS 4 8GB GDDR7 128-bit 28 Gbps PCIE 5.0 Gaming Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ89KbTVC9_Te5-zBcmFcH9zWaBaheLgtI-zwDsKghfJLjCHBiVCUwCS9U8EUvssowZVwSZujyzWyx9NpueUEtbK67UIP_bScvLBOEuHRUm",
+        "price": "₹32,677",
+        "extracted_price": 32677,
+        "reviews": 2,
+        "rating": 5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KC6RlXicbZXLrqvIFYajzgtk0C_Qg6MebPmoigIMmXEpLrYBc8dMEFDYmIvBmG0M6qfZJ6elzrATKdO8xulBniV297QnVdL_ldb6a5Vqrf_95W8fxfk_47LbpMO8SJtV0nP0fr4dvcm-_dIPHXnPxzP5N2QBgiyiEWLQmkUUDSn617JISXO-FNbxWAxyl5_Jv3gecjzL8jwNecBSHALwn-c2PRV_YJoFLE8BHlAA0TzP8pD9en0vhvnbD2agy7rw5njRGw1Y8Map4ttpSPvynN_e8nQgX_r7-FGePk7Nx_nyUTYfxeXnLu3vx_y3777H3SRLt0my_b4PZAd4aj16YDMcoDM5PkwPlXPwFGcbyKTJ0Eb32sfgyMoxAA3MYHkJG3vJcGyYjXjwVcd14abO1OARyMpizFAOYBO6EVFjvBm92hlCzVgcACazCu6HgFBZTS95fQOmPwZBTS4moKG5lBVBpmaGpu76jOn5hIlDxvVQh-xFnzNMlIO3aU1q7J0lvhmo18OAzEFTikSCfhCYrFkrjDPD8emBzdVx78qicvB7TMBttgPnZoPb5ASlWMjKJWsIu_OcJa1EzbgEhlfbyNWcg4sa2qkVP9XiPrzEZaY-gixy5BxDFKgjbdcwzjBfk3bTBFpDeYAcCk18BFAcCWAqn2omEpVmEPJMFsV1GsVhoInNs06ap21MAx3mQxRfYk05Z-Gj9UHDZoC386hnCCSUj82RQPNi4kYlVYwcv69sAKNCHW8pbnYBEi9-i10Fkiup-5KoPXYAf0wRsUxFYEj4jA0xrZ43oqOZsxXGfg5N7KpOG3riNdTweKg2V1NrDPPSYxuQMW_Myz8et-H4DQgKM7oWHcdTV9gyccTB5fOq1WHiLVv0iITp73DNQ2ZNcRTL08zPedfV5-K3v_7oWpL7CcmSoH9C4puLBUfSElcwsKt7-AVOtp6wWHxRAUtPRUhTHm-6quY2UxHrAajzga4ujKw67FkrNtFAb-TFKQq6F-d3FL-fbX279deG8IqhWpa6w4kg-i5OcISNvadb5jOsLj-XPC8YCnEcPD6tFlzxCQme8dT_MA85mnoqLxPDc9f3L8Kgzwz1GfL0Z5ZePdXXbY6jTMl1XZQidsV9UQuTjefZeOWXgyf3AV0_QmqwyOEwyXWk1_tCKjJjW-onXHavc0niFvn7UKxcz3nlEUSzFNjKsodDQlu3_ZqiBuZyUIkID5yvDP1qXVQroNrOtlN4f_A9qrjuTyGlSQJ1tGmuXyUkrsyrShYmsB99lW-K0-om3u22PKVtfHplNX-vgnS9SZKAXWRj0XqosivKRa0t84VN4CpZSSz7_EkQIVhtTe5a8tLuptjGjkfOLtrei7Fdzt0oZDEj0ZmexuP23vD-Feb5-j4P12IJiaQ0JFhRu8V_vzPoyBeUae6tqblfbKESV_tonyhYZu9hNYK6ebQ5YCyyMq221LdZ6PXlJqSNYJ9tuWQZSdU5aiCyIT0pty0Jp3oIQ3PMIm5G4lTr1WCzBbtDXaaxlefMa2aervh9q9baap9sunVlzFx-DkHtLYZv9KkRCWPqGsUUYfrqzIw1PGYMKWdpWxWNSkkhD_B1H0mmJOXZ1qqlk2jUvgiuk7bwD7Xj5gTX2qhiY2mP3cNaDrSxWrUR1z52pwTuY3KWg3F5vizPIVo5RsrVYFytu169WyPI2dElHe_HzbG-A07IFhv8kqdj2nSnV39_Vp59jgaIIASQo2hq_fXUvzo_RXPcmmI4muVYBNCa49GXgdy-UXsp-RP2096x5OTP2Zf2TH5l1izNUgzznCMsADy1Zp_z4fjf_wMuWTL4",
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:4133612413110182427,gpcid:2488725846863037893,headlineOfferDocid:9918966994190628301,imageDocid:4606920902034996916,mid:576462550346009276,productid:206366760063315855,pvo:2,pvt:hg,rds:PC_2488725846863037893%7CPROD_PC_2488725846863037893&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "ubuy.co.in"
+      },
+      {
+        "position": 7,
+        "title": "Gigabyte GeForce RTX 4060 Ti WINDFORCE OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR14LiKcLOrwyQy7Vp5ji3XYV1lwJx2YAhYzS2J6XL1Aw70jVE3-zrA7yXfWGU4fYmnshMjqokskKYXvOa_0elzQW9nKQJMOQ3fZFlnTJ9HUF2OXPX42Iwl_w",
+        "price": "₹60,999",
+        "extracted_price": 60999,
+        "reviews": 46,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dW9VG3icbZXLrqvIFYaj5AUyyAtk0Mpgy0dVFGDIjPvFBsydzQRhqjDmYjBmG4PyNPukW-oMO5EyzWucHuRZYp9Me1Il_d_SupZq_fd3f_wk539P697Mx2WVzE02cPRhuZXB7N5-HsYefxTTGf8LsgBBFtEIMWjLIoqGFP1LRXLcni_EKUsyyn3xsmM4ertFPIIURVM8zbNb5h_nLj-R7_yfNA0Qz_OAYbgtwz_NIPXj9YOMy7c_25EhG8KbFyRvNGDBG6eJb6cxH6pzcXsr8hF_He7TZ3X6PLWf58tn1X6Sy099PtzL4tff_0npZ1m6zZIbDkMkeyDQeoDhCUQ-TC11YIrGzNPQtrz4MRWraATNEOzjSHajahcraVDEzJXowz3vbCrQzDhUI8lSWzdqsRtc7AfWHlLQmVq-powbRrCALeXGZkUuA4tBFGIl2u-TVCFJj4iCo7Bu3UIPH2ljdoFi34kcqZE2seklXfyLOSXQKy1VTHBrAhx7F09J1bzBuRcOegSYqwX7xb14S6SbpqfNU9EaU9S0ZYLaHV5FBwMzIqECo7bVY81FGPBMrleS1zzcQINm2kAjDasy0gaf6NFcxENsBVVKElu1W-9st9FQhOl6hJjGoK0SlF6jbpDshjdJ9zC8cNqHuqjGnf2sNjKsWoVhMtQYqqV1GW5RVCHSNCAAOHcvaR2AIccdQHFg3ovYa_1WPSSAXv3WmnMdO55iUVHnUUUIDR8NVFSnnh3D-h16lB0qSxxbvgrxFTdDhbVB8QBf5gg7tiowOH52DSq0djZFT7cXJ04Df_WcEJzAMXx8JEhVihYfAupGpbGXxqraxZoq_v1xG8tvQFCZyXfoNJ174srYE0efL-rOgFmw7tAjEea_wi0PmS3FUSxPMz8Vfd-cya9_-IvvSP4PSJYE4wckvvmK4El65guW4huB8gIn18hYRXxRQZGeipDnvGL2dcOZM0mNCDTFSNcXRtY89qwTMxlpU149QuhBXD5Q-nF2jd0u3FrCy4fmONpeyQQx9JVMSRTrEBiO_XRryM-jKAhDIY6D5TNVwpEfkBBYT_3_yUOOpp7KK4nxeRuHF2HQF4b6Ann6C0tvnuqrmnKSKblpSCUqvnggjTC7yrJYr_hy9OQhoJtHTI0Ofn-f5SYxmgORyNHaVcZJqfqXXZb5pPgYycYPvFccQbQrga0dd3zPaOd22FLUyFzeNSzCdy5Ux2GzJfUGaK6361U-HMOAItfDKaZ0SaBKl-aGTYbT2r5qeGUi9zHUhUlOm5t4d7vqlHfp6RXV_t4F6XqTJEHxkauIzkOTfVEmjb4uFzaDm2wjseya3iBCsN7Z3LXipf1Nda09j7x9sruTqVvP_SQcU0aij0aeTrt7y4dXWBTb-zJeyRpjSW1xtKH2a_hxZ1DJE8q2D87c3i-uUIubQ3LIVEVm73E9gaZ9dAVgHLyxna4ydsc4GCozpq3ocNxx2Trhuve0SGRjelZvOxzPzRjH9nRMuAWJc2PUo8sSdo_6o87WgbdsmWW-Kh87rdE3h8zst7W1cMU5Bk2wWqE15FYiTLlvkTlR6Ku3MM74WBRIeWvXaWhSKwoFgG-GRLIlqTjunEY6iVYTiuA66yv_0HpuyZRGnzTFWruyfzjrO21tNl3CdY_9KYOHFJ_laFqfk-U5RKtlol4txtf76zW4tYJ8LH3c82Hals0dcMJxdcHPRT7lbX_6vid4CDmegpBlaYggDSD942l4ff0QcSzYbqnn4wXclqeee-LriG_fqIOU_Qb728Fz5Oy32dfujH9htizNUhzPAchChgJb7rkgyv_8D7jgNFo",
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:16911892116641314014,gpcid:1386077257208792477,headlineOfferDocid:15847739312242949675,imageDocid:4403999055875993112,mid:576462898016152078,productid:1308585442604966464,pvo:2,pvt:hg,rds:PC_1386077257208792477%7CPROD_PC_1386077257208792477&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "Gadgets Now"
+      },
+      {
+        "position": 8,
+        "title": "8Gb Gddr6 Ram Geforce Rtx 3060 Ti Graphics Card - Application: Computer",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQEzLtJllOkSi0wKEI0RbdY2KwxgrkWA5cpCWjpVV5HptBH6LyoqxkQLrOlGoUcRyUIoTBbdf0qbGXJ9dFGlN5SpVi7J4rxjWu12U02Gaz_UQLsdgTmdklUSg",
+        "price": "₹21,000",
+        "extracted_price": 21000,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yGVSynicJVTJrqNGFE2UH8gvZNHK4smtggIM2TEbY8DMPDYIQzFjMOABviZ6nY6ULJOWsu3f6F7kW4I7ixp0Tt17zq0q3X-_-_ENlf9My2EfD_PC7zdRTxPHecycuzn-0Q9dek2mMv2EUQBiFCQgJOGWgjiB4cRfBYrTpjwjI8vQIHRJmf5NkjhNMDhObbEthBSD0cSfZRvn6Bv9CSMICscAIAkAKEiRFEEwHy9XNMxfftI9RVDYF8sJXghAgRda5l7yIe6LMhlfknhIP_S36a3I3_LmrTy_Fc0bOv_exf0tS75-X4ndnefHO2e6fe8JFnAEyUUimSFB5xInLeJgP2tgWgy3EDSggMTGjnordY5f-CbkeGtpVB16i4n1QeI1ii8UbuqPiy3nd3dJIRL3ru4U5qk18dQLgQ45zJb3bSxxqrVjgSUluF9JZ7tpWl-cXNQUmS-wkwuKWG8Z3RCTh-5Jo-VIQwB60XdzzK_W4ZK6c_ZuLgwlXVamNU4_eQ2VCEVse42q4aTr1b3mOPk9ngGpy2RogRposrvY0DK8s0edgC5pM3gEuLezwVQh15LDQCFtoJBikQbxOVRfA-tiiekxwCfoVJZpBF4b4qllcF1putaSVE3rNr0QYkWoV0UVYq-T7aXh6dystRUwWCTZccnSNX97jEP2BbASOdkGsS8uJ3ZEbqhdr9sKLwARsGK2D4wz-wu2ZTByi9M4xRDU70nX1SX6-sPPtsHb76DAs8o7yL3YImvxu8hmNdFWHPFJ5KYSUSL3ZFmRXxE2jhlx31U1vb-jUPFAnQxEdSYF2aLKHdoHA7EXFgshoufmKwyvpamoqrvV2GcO2TDkgxixnGuLkRiI2tFRDH1NqwjrlCSIxCFNY9lqFdHoHWQdbcX_N7_-X3xFniaGdVWOT4aE70n8PcYQ7ylis6LParJJwIW6RgUn2twR1ezdFOdZe-oL3sq7gKgfPj4Y6evrXagDpT4iHp00tVByseie56LIRsl1QBvbsZ46LKcXLFUZ5vAaEcZ43OL4QJ5f5ZTDXmlXGvrNFlUbIJuW2kmMO7gOji7H3Md3PItnJkH3mygNK_0ipwvpmY--SvYo34zczWyLPG7D_Kmqf7sF_jLyPCva0BQ54yELNiegerfMZyrCNtGGp6glHDEIsUrV6UvB8IdRMrUDA61DoN7Q1C5lN7GnkOSJkxKHk3prGPeCJcn2Ng8XtPgpLzWpt8EPi3u9kTBjEK7rR-Pe3M4mW3GbY3CMJFGgbn41gbp5tAkgjXSjG22hqCff6Yu9T2je8aTS0TKlVWfJHkf5xF0a1dS_14Pv69MpoGfI3WulGkwKUQfYnXZU5VjzlpzvF_GqyvVuc4z23bbSZjopfVA7i-ZqfawF7BTbGroHInGxZtIYHrOI4dbStjKcpAKHDmDqPuB1nk9OqlHzOafVLgcu993CPOSOniOx3k2yqC1t1j2M5ZXQNps2oNvHIY-wY5iWgjct68syNCSkLJAuGmnvusvFGRtWOGV22jFu2GT1DdDsaTHBH0k8xU2Xl-nnj3m_ds_PH4Z0_PVD-9ytXe_zf0wv4pQ",
+        "link": "https://www.google.com/search?udm=28&prds=headlineOfferDocid:5528492267173369184,imageDocid:14462100540063656449,productid:5528492267173369184,pvo:2,pvt:hg&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "seller": "Tradeindia.com"
+      },
+      {
+        "position": 9,
+        "title": "Gigabyte RTX 5060 Gaming OC 8GB GDDR7 Graphics Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLPG_Uwy6GwVb5qDd3YxL7nB75JGUBPYmJVYHcz1dMtsc0HSlEkE2aFwwiGR3VZB4sgTIPcy2tcUbEOwmcZM0ZD2ol4AmliIafwzD9qe-3DXjYaSdRZ0mNAQ",
+        "price": "₹48,999",
+        "extracted_price": 48999,
+        "reviews": 63,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=aVNc9nicbZXLzqvIEcej5AWyyAtkcZTFJx8B3dyy49JgsAFzx2wQl8YYMGCML6A8zXcyI02Wk0jZ5jXOLPIswUmWs-nL_1eqqu4udf37N7__xOd_TsteT8d5kfRNMnDwMN9K72nffhrGvrjn07n4B8kQgGQABIAGLAMoSFLw5wqnRXvusFWWeJT7_G230tWU4VkIKZamaEBRfztf0hP-P4ccx7Is4BkGEjxY1yT3w_WOx_n7H81AkzXhw_GiD0gwxAenih-nMR2qc377yNOx-DY8ps_q9HlqP8_dZ9V-4u7HPh0eZf7Lb_-A-qcs3Z6S7Q9DIDuEu7S1i_jS7o60FfXPguBfGJG3QBYmzwsu_mWg8IWcPaB0djDUsZdDnyymoDEVHAyEQXCTQyliTJpq5h3nNKpCHHK0HwV6hgIniBQ_rx3okQUdNLyRtSfgy21qhcqQL5XqKxzldD7IPJExu2JxwvjmhydQyPZs-s2rCOnQDhwz3xbzkTLVgpiODlGNzhK3x05p0lDZ-og3bM94WtFQGr5GeIo55YHjukRl4sjs_G0O9oEiBc0Urnsdb_VdoCqWKcdeiCon3Zq0hYqjiyp9zdfILkPqyEGXbeO7AVroeo6Co6KzfYMwkTl6qrK3IycNlOGFfRoGfqXb7WDi5hXHqj3bgSmHnVmHYYzsMLjiNl6KKJBxrZxDuZjDZlJiyibMbaX4sjmlvuk7sqPnIXq6iLQNWSPNQJGdC1nmYaHj7jjnYdvlCo98WXMVsrgWzVAV6oAcgi9TUFimItBFGHcxiaB61kVna85WGDsx4kEaOMBSNSrvxKOl8I5LKIdjV-y8VgSZqoh_fd3G8jshKPTkWlCvrplww35s3O9sTVUEjARU6pHVCX8mWZ6kWYqjGB4yP-Z935zxL7_7k2tJ7hcgS4L2BYgfLhIcaZu4goFczUNvcLK1hEHimwpIWhUhTXmk93XD6U8cawHR5COsO1pWHea8xXo0Ql1eHIzhIM53EN_Ptrbb-awhvH2olqXuUSKIvosSFCHj4GmWubrV5HXIc0xTgOPIck0Vc_gLEDxj1f-XPMlBalXeSYzrrB3ehAZfaeorycOvDNys6vs05SRTctPgSkSueMCN8LTRPBvv-HKwcp-AzSukRqs4Hp9yE2nNAUs4M3aVdkJV_7ZLEhfn9xFv1gp6xxFEsxKY2rLHYwKt24GlqJHujmohkkfOV8Zhw-J6Q6i2s-sV3h99j8LXwymktpJAlTbkhk1SxLV5VYuFDuzXUOc6Pm1u4sO-VKf0Ep_eUc3_3oJ0vUmSgFxgI9F6qbIryrjZLnPHJOQm2UgMs8Q3EgCy3pncteKl_U2xjT0PnH20e-Dpspz7SchiWoKZlsbT7tHy_pXMc_Yxj1e8hIWktEWwofaLf3_QoOQxZZoH69k-Oluoxc0hOiQKkplHWE9E074uOUFbxca0LpW2y0JvqPQQGsEh23HJMhV176iByITwqdx2RfhsxjA0pyziZiA-G60ebQYze9BnW6b2nJml5-cV3Xdqs90cEr1na2Pm8nNINN5i-MaQGpEwpa6BnxGCV2emrfE1I5JylstFBZNSUcAj-GaIJFOS8mxnNdJJNBpfJK7P7cK_1J6bE9RsJxUZy6XsX9ZyhMZmc4m4y2t_SshDXJzlYFrWl-U5AJUyUq4G7W7769W7tYKclW7R837cls2D4IRssYmf8nRK2_70_uAJyACCJQgC0DzLcxwNyR9Ow_r3_52hWUgzNAO5tSzXzsCx_LexuH2nDlLyK-wvB8eSk19n3y7n4meaZSBDcQxkKWbtSwzFrg2i_Nd_ABnJMlU"
+      },
+      {
+        "position": 10,
+        "title": "MSI GeForce RTX 5060 Ventus 2X OC Graphics Card 8GB",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRBaNdIJftCRtlb77BAbYEiDJYb4AEuwR90komTIrZhvS1zyfeeTpG3OfSBO79yYYtM0_Dkj2M2bieA0TfGHQiiP3iPEkXpDRyDQ_MJuUI4g62_Iu8UAYKt",
+        "price": "₹53,500",
+        "extracted_price": 53500,
+        "reviews": 241,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3LrzUHicbZXLzqtGEsdHmRfIYl4gi6MsPvmooQHD7Lg0GGzANPfeWNxszMVgzGcbNE_znUmkZJkZKdu8xslinmVwss2mW_r_WlXVXV1V__vbtx_F-ddx3hnJMM2ysTr0PLOfbkfv4dx-6ocuf8_Gc_5figOQ4iADIQvXHKQZimZ-KYskb86Xwj4ei0HpsnP-H8iy1JqlBZ7iGY6hIUWBn89tcir-xCykaB5AwFIUxfJrQWCYH67vxTB9_c4KdEUX37AXvTGAA2-8Jr2dhqQvz9ntLUuG_Et_Hz_K08ep-ThfPsrmo7j82CX9_Zj9_s0_UPdQ5NtDdvy-DxQMXNDoARIGq5EcTy27LAreI6jSZtiNQZ0bKVS1GDgQt2Xptx2TRs3OCgmXaaru1dlIQIALz7qRDVESKE3xnHsuEsJE7U0fCTqe49FFGGaV4QWV-MwRq2S-1SYK4eLIhKlP2UlkPS1A2jAMsDNjtYiCnRuVfYqMXdoIBtbKOK1K7KFcDjekiihMiNeYPhDiVGtoV1FjDNU4gtYTb8rRQiXOWkIKpUQRNEoLBPdMkfzAF2ocEOS2uWQG-lhcSO9WEk2ChkrpkiGzuktQ7qX103BoIXaC0vZbf8Q-FZsgt0MNPLMGscQvWd9vqlQx2sCTMPHU2WnJ3lRFeuepFwwYQGpq69bO5EZGQgI8eks6vbq_4YpUJvDnAqlmDJowmPE9V6SLWQtWXEkmCa2RhPEYVs1gVjokM5Fjv0-sFowBrGECdFel8mte92Wu9QgD4ZjA3LZUkc1DciEUYrSzIeGNNdkhwTikAk-RxsTPLe9yemZzPpl-6cY-jrL28TCbHP77eRuOX4GosqNrs_3eo9EzCBLJ9sfMUC7zhVFWIgRE_Ce1Fih2TfM0JzDrH7Ouq8_F73__3rVl9xNUZFH_BKU3F4lY3hxc0USu7qEXODn6gUPSi4pIXhQxSQRkdFXNG4-C6AGos4GpLqyiYe68KYxoYAxlxkXB9NL0Dsn72dG3W39tii8bmm1rO3QQJd9FBxQhc-_ptrWY1ZVlybKCpSHPU8cl1IIvPkHRMxf9z-CXeqMX5RXEsOz6_kVY-JmlP1MC85ljVov6us1xVGilrotSQq60L2rx4aBpMl_-lWDhPmDqZ0gPdh7HD6WO9HpfyEVqbkv9hMrude5wcIvsfShWrodffkTJKkWusp0hPjD2bb-m6YG9xFouUTHvq0O_WhfVCmgO3naq4A--RxfX_SmkN7JIHx2G71eHnFTWVctnNnCefZUZxWl1k-5OW56SlpxeXq0_XkG-3mRZRC50kGQ_NcWVlKLezNOFO1Crw0rmuJncKAipamvx11KQdzfVMXcCxLtoey_Gdj53o5gSVmZSPSHj9t4I_pXKsvV9Gq7FHOay2uTBit7N_vudhUehoC1rbz-a-8URK2m1j_YHFSncPaxGUDfPNgOsna8suy31bRp6fWmEjBns0y1_mMe86rAWSFzIPNTbNg8f9RAupZBG_ASlR61Xg8MV3A526YarPDyt2elxRe9brd6s9gejW1fmxGfnENTebPpmn5iROCauWTwixFzxxNrDc0IUjee21eColjT0gFD3kWzJcpZu7Vo-SWbtS-D62MzCU-v46YDqzaghc26P3dOeY8ZcrdqIb5-704Hak_ysBOO8ZFbgIaMeI_Vqsu6mu169WyMq6dHNO8EnzbG-A15MZwf8lCVj0nSnpb8v5UPxkF4aOw_A0uJZhvrh1P8xGCieWtMcxSx_mKEAS1PrL0N--0rv5cNfsH_tsa0c_pp9ac_5L-yaYzia5ZZBIwj0GvD8Mh-Ov_0fqz0x9Q"
+      },
+      {
+        "position": 11,
+        "title": "Gigabyte RTX 5060 Ti WINDFORCE OC 8GB GDDR7 Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRP0fqL5OJ-ZT5TKhDtYlTac0dBxKuBw2fB3PQyqYj8Azbg25KjtkPoFgwtFr-ShCz9iQHER_4-XrrZ6hYuHbp6aIB2FtSXwqEjJpDs7jkEbiyuGBSSA5bEWw",
+        "price": "₹58,499",
+        "extracted_price": 58499,
+        "reviews": 132,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zXX00nicdZTLzqu6Fcdb9QX6Ch1sdfApW9hcAp1xT0i4mWuYIIKdEC6BEBIC6tN8u-dIp8OqUqfnNfYZ9Dk6LGnPsPXAlv4_a62_7eX1z9_8_pNc_jHMeyPrp1k2VmnHM850P_mje_-p61v8yIcL_jvgKBpwNEPTLL3maMgAyPytIBmuL1din06kV9r8vQ9QLLeGa54SWCBwHL2G7F8vTXYmv_I1w0OOZyEtCJxAAQqy4Ifbg_TT9z9Y4VbZih_Ijz8YiqM-eF36OPdZV1zy-0ee9fhb9xw-i_Pnuf68XD-L-pNcf2yz7nnKf_ntv9RnLst9LrtB14UKorymztwSPb1N14TA0PwGd5jursFGS_AGj0kQMse5ro5VsfNoiTLnAqHgMMRAGtzyzATNwCBViA5VZx5mkwl9y0miLkbwRfl-0h5Dic6vSexTWuHH0mxuDNtTA0DUIg6a9oXj5IqUhDNpKdqHJmUqUo9VY-_pSXGMJQXBwbdiqctgMaK5PgVBzVnNYQybxV1jFaTqmgB03qGqIIoQ9GsU5hGWUGN0CIR7K64feDaeQcVPYdRVgb6w2KIwHGjSJCevRNeAqms7Ghq3tvQgMB6Bj3fID-9LLBRVWoY31mTpaB-DkMI6uuS-ZieRCcNqHFBlaB7VGaFmRPsIaL4eevgdF4RmHnZ3t9xOJBiHQ9BJYSjtSSndiMqOx2vtIFC9wthkzSp5BZox-KU1mYo5WPDuaQDfcNUVWO9URAmnjMa2pYksjpJrAlRGvxgSWnzZUYJwKc5JuKVMiIIsthQf4IBcayW_4gjPZzrUBfSX170_fadEjR08m-0cH6qvMMwkOxhyQ7nOV0ZZiTSViH8CawGwa7jUn8Csf8zbtrqQX373R8-WvS-0IovbL7T04akikjepJ5qqt_XVNzi725RTpTcVVXlRxCwTVKMtK94YSbINqSrvmfLKKjriLhtixD1jKDMihOmk6UEnj4u73e2CtSm-Y-i2re_VVJQCT03VWDUdf2tbS9itskx5TpbPwfPgtFglPPlCi7656P81D3gGLsrbRL-sW-dNWPorC78CgfnKMatFfZ_mNChQqSpSSKonOaQSR1edJvOdXwkXHlBM9Ypgb-PDYVSqeFs5RCZHc1dsz2rRvvelqUfyR09Wno_eeUTJKkSutN3-kDL23VlD2LPXw1J24MAHWt-t1qRcUbqLdq0mBH3gQ3JzzhHcyCI8uQzfrVKclNZNxzMbuq-uzA1yXt2lp9sU56xJzu-s1n9uQb7dZVlUPdpVJfulK56kkGozT1cuBat0JXPcnNwBTYNyZ_G3QpD3d8019wK91PLuSYZmvrSDeExYmTlus2TYPWshuIE8Xz-n_kbmCMtajcMV3M_B48nSJ4FAy3LssX5eXbGUVk7spJqqcM-oHKiqfjU5xdp4ZdlNsd0dI78rjIgxQ-e449N5wGWL9FDiImbU7jscjVUfRdZwjPmJlsZqW_YuR7g93R43XOmjac1O40197PRqs3JSo12X5sTnl4iq_NkMzC4zY3HIPJOMscrc0MTa_WtSAURz0-j0oBWQ9imh6mLZkuX8uLMr-SyZVSBRt3EzCy-95adUrTaDrppzc2pf9nxgzNWqifnmtT-nwEnwRQmHeXlZgacZ7RRrN5P1Nu3t5t9rUTmePNwKQVKfqifFi8fZpX7KsyGr2_O7idPLACwFeJ6CArsWIA9-OHe_9neOglBYMzSgAeRYXuC-9fj-nXHk9H_BPzvIVtL_A781F_zz0vVPP_8bcSYqbg"
+      },
+      {
+        "position": 12,
+        "title": "PNY Geforce Rtx 5060 8GB GDDR6 Single Fan graphics card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfexekYA7TxdHkzjTgGUII0ge_wqEcLlVdNcVpxc1awjBANHT3lS9mEoF3pK7bj6f8FSj1hNNvhD-CoG0Uo8Eu_Ni7MzOFZI1-J-MypS5c8EVWmw1HuY5E",
+        "price": "₹48,499",
+        "extracted_price": 48499,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=u-fLAXicJVRLzus0GAWxAbbA4IrBr145dp7M8m7SJmneaSZVGjtNm6R5NH0kG2Ab6L9cJBgCElO2AQPWQgsD29I51neOP-s7_3zx9Ts5_jHOazMbplk2F7uOpzfTpQju7uXnbmjxNR-P-HeKBYhiEY0QgzgWQZqC9K8lyXB9PBOnKMigtPkR_0bTLAcFTqBpjmVoFnCA_uXYZAfyH_07hSjAIY6jGVpgoAAhA6nP_ZUM01_f2JGhGOKbFyRvNGDBG69Lb4ch68pjfnnLswF_6m7je3l4P9Tvx_N7Wb-T809t1t2K_O8vv1d7Q5avhuSGXRcpHvBh9dgmNvI0yfMUTYvmSMO1_Yj0do6r6pFRprNXahRXQhDoguWetGMELvM21KSgSWNrGU5WUBZRUHtZIm0DYKZWVG9ClPZWWNf5ycxwqLlxE23Dk1ng-NGkGo79uqLDc2oHmkVbmqlFMYMiaLJhjK8JSvWsSlNb8-QERZGjCSquhHEf43uUeM461Mxgli4p6DKsSGasmFoc4xQreIpARQXIHP0ED3uqGtM5nDNYz1GszVGFM2_ZrULF0_co2mQNmN2kfHhRunXDsfTmiAljF5Jz15EkNffNQ40i9e56RhLBDvqNBrLKWwaUMGBAg1CpqbTB5zA4ZEalqTkymLS2JzvSHh6I-oCqYRp7WgqwnYYeIA3DkmWnupH64-MyFH8BUWNG32HJfgEKDsC47zgdcVC_axrvqmUqH76jOIFiOMhDVqD5n_K2rY7k76--9R3Z_4AUWTQ-IOnNV0VPXu580VJ9I1BfxME1dqwqvVhRlZ-ImGWCaranijfvJDWejcoH-nRmFN1jj0tiJgNtKrNHCN1J0xWl16NrrFYhZ4mvGrrj6Gt1J0qhr-7URLU2geHYz7KG8tzynDAQ8TxVPK0SnnxAYmA98f_NUzwNn8jLxPA8jc2LYdBHBn6kBPojSy-e6Os1xahApapIKam-tCGVeHfVabJe-kr05ENAV48YDg7ebu9KlRjVhshkb61K46CW7evebueT_DqQhR94Lx1RskuRPTnusN3RzmXDQTgw562OJWrLh9rQLThyWgDd9VatJoRDGEDSbw4xXMoiLFya7xY7nJ7sXsczE7mP7pSb5LC4SDe3KQ9Zkx5eqvZ_XZD7iyyLqo9cVXIeuuJLCqmW83Rmd9Rit5BZdk4vFELUaWXzfSnI64vmWmsBeetkdSNjMx_bUdynjEzvjSwdV7daCHsqz7nbNPRkjrGs1ThawPUcXm8MKgQCbXvj3Ovb2RVP0mKTbHaaqrC3-DSCqn40OWAcvLCdpjRW-zjoSjOmrWizX_G7ecSn1tMjiY3pu3ZZ4fheDXFsj_uEn5B0r4zT4LKEXaN2v2RPgTdxzHTv1etKr5aLzc5suZM18fkxBlUwW6HVZVYijplvkXui0r03Mc7wmFQKenPT6GjUSogCIFRdItuynO9XTiUfJKsKJdDfl7Pw0Ft-2qnVctRVa26K9uHMW9paLJqEbx7rw47apPioROP8_FmBR7RWJFpvMf6y7fvgUovKvvBxK4RpXVQ3wIv72QU_59mY1e3hiH9lwDOUKUg95wy94pUVPh-6VxZzFAQM81wcBZ5zBhkOfBrw5YdPzRH_-QzT4s9_ASHn8yA"
+      },
+      {
+        "position": 13,
+        "title": "GALAX GeForce RTX 3060 TI 1-Click OC LHR 8GB Graphic Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTuVZueaw00l2LXyIz8imnrSFn1NKzjVZDmhs6tEgMRru0Nz1w9ZJMvjF7Ud5USg38bfMomt5SnhIsggDPz_SvQYSKorsQbIPVAXb2pKSrRSooRiAWwA1oLIQ",
+        "price": "₹54,365.92",
+        "extracted_price": 54365.92,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oy87anicJVTLrqNGEE2UH8gvZDHK4ooR0Dyz49EGbAOmeZoNwtDmbTDm2oavie5kRposk0jZzm_MLPItsZNNV-ucVp1T1aX657sf33D197Rs1-k4L8qaSAaB2c2Xo3dzLp-Hsc9fs6nK_6I4ElAcYABgAc8BmqFo5o8Sp3lbnbB9POJR7bMq_5MTBY7lWY5lKSAAEvA0-XvVpQX-nxZIViQpkeFJnuNZgSFF-uP5FY_z15-swFAN6QV50QtDcuSLoMkvxZgOZZVdXrJ0zD8M1-mtLN6K9q06vZXtGz596tPhesy-fV_D_qYol5vs-MMQqIh0yTvrNpQbBOsx8OIIrWLS11rN1RB0fAqiWiJzPSPtIDctgGZTt85ZRc3WqY3wKrBCeL-4bQvcU7BguDa8FulZaLDxTDmxh16DOtgib10Fy9q19OwWBmW79Vn_AAY29-TGJZEfU6Ke6gaL1HwIoEXvKaRbMK-9Vpq8tmVRx7q4XsuoNu5Bw1Cedjetbkjj2tK8BYXpyeqCWrp7PrJMumRSjWQs6MwmmZf7ztr7Wnxyo9UJBZZqnqR70JpUpmWLBdYl0laK48UmLPMoPcWbfYTOCOa7iJ6AVyPHjoIupnNky33l-GjJ6rbzo6CN_fJyaCgyW0rP6toBr0Tk-1TlA7jY0Kri22_3y3j8SkordnJtBqdMmhT8eHDKTrL2IywQc7WPxKQ5v1C8SLE8LdCcyIifsr5vKvzth59dW3HfAVWRjHdAfnGhhBQ9cSUTuoYHn0ThGAkH5ScrQeWBSGkqwnVfN8L6hmMjIJtsZOoTq2qIq3S8jkZmrS4IY2aQ51cQv1aOsdn4vCk9c2i2rW1hIsm-CxMYQXPnGbb1SGuojyPLMEsDQaCOD6tYwO-A5JkP_H_zlMDQD-RpYnxEY_dkWPCepd8_pvg9xxAP9FnNcVJptWlwKUNX3uFGujlwns2nvho8eJ9kmntIj3a-39_UJjKaHVbwwdyURgHL_vkuSVycvY6YcD301JFkq5S42nbGfcLYlx1P0yN72mu5TO0FfzUOBI9rgtQctOlXoj_6Ho3PuyKkdUWijw4jDESSP2bprOULGzj3oc7WuCAu8tXpyiLt4uKpav3XBeV8URQJusCBsn3XVFdWcaMv84lLKCIhFI5b4gsFAFVvLOFcisr2snLMrQjQNtpc8dQtVT9Jh5hVmIORxtPm2or-mcoy_jqPZ7yEubJq84Cgt4v_emXBUcS0Ze3sW3s9OVItE7tol6ygyl3DeiKb9t5lJGvnhGV3pbE5hN5QrkPGDHaHjZAsU173SAtkLmRuq8smD2_NGIbWdIiEGci3xqhHh8PcFvQHnas9NPPsfDvD143W6MQuWfd8bc5CVoVk4y2mbw6pGUlT6pr4FkHmjGbWHu8zpGi0dJ0GplVJA48UmyFSLEXJDhu7UQrZbHyZPN_0RbxrvTAnsNEnDZpLd-zv9rJnTILoIqG7b4uE2sV5pQbT8vhZUQDM6hitzibr6v357F1aST0c3bwX_bg9NldSkA6LQ37O0ilt-6LKv3wshsfy_PJhzC-_fuiet8fW-_IvqqXjZg"
+      },
+      {
+        "position": 14,
+        "title": "Gigabyte GeForce RTX 5060 Eagle OC ICE 8GB GDDR7",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcShPSlndhCVHipic-xKoZwvqz37bDte8euQmEuVWUeLQ-AToKE8mIY8UrN24RdzN-i6cfsBCce4__I-BMvRZONoQb63koTPlwM7GLiQlVSqJrAeQjdRrUwnVA",
+        "price": "₹35,199",
+        "extracted_price": 35199,
+        "reviews": 28,
+        "rating": 5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ILSDYXicbVXJruvGEQ2SH_AiP5DFgxcXemg2B5HecR4kTs1R3BAcWqREUqQoXkkk_DX32QacpRMgW__G88LfYspZJr3oBuoUTp3qrq76_S_ffODTf6Zlb2TjvIjGJh1YyplvR__h3n4exr58L6ZT-W-CASTBkBRJ0uSWISFFQOqXGmdle7pg-3jEo9QXLz-CIFlIAsByLEdQ6-KIf566rMJ_4v9iCBICdksAyK6UDGQZ4sfrOx7nr_-wQl3S-Tfkx28UYMAbqwpv1ZgN9am4vRXZWH4Z7tNHXX1U7cfp8lG3H_jyU58N92Px21__LvcPSbw9RDcYhlBCwIsa4Kv6w9MGxSeTMdRqO2-S7gCUZwm42Q3KR6YIJI5Qf1gUoZAPsx_UjgungxUoftg8de9cn33S6JE8JYWEmCiYhpAoT4VWEa4f7v0m0azQopDKZUUzCFHcgCw2YjQTlyhCogvRNbsoSnExQB60jwT2c-lbV9tXRLNLbkEc7lFrHK2LMeFYec995RzFPDC1ZkFSaIVE6JiB5eKOJpBvuLaqJIeOiwvVEv2LdQqlxMJNQ_iacCgaIk78JCma6RZooYiUgbSkcDgslp6RZeaHIYUUDvldPXlySYXqoBXy0OWhQCI4OC4hUzl4jmacqBmsKRQqiqm050hVwsC3DBQBOuvCzltzL1okmao1l0F4N1XumcRJFMAeBvCJXDDc_MZaMiIgzICwbJl7uH4Fg4tF54tQ55dkKBp0x0Fr5H5yNYNhny1GYF4OnkKU17IZ6lIdZAS446rbthSeLqPkkqz61JMhIM2a7SjxUVMneTuYyG9RFA86IopnAG8ziqiHpVoRahPyh-dtPH4FvEJPnk3hjMrSajvmbt3x1mGUK0Td7eNmUt3viC1H0FvIQoajuJ-Kvm9O-Le_fevZoveJlERe_0QKb57MI1FLPd6UPd2XX0Dl6ikjCy-Ul8XVwmcZJxv9uWGNB070EDTFSJ0vtKQi5qRhIx4pQ1oQxtQgzO9k8n5y9d0u2Jr8i0O1bXUvp7wQeHIqx7Lp-LptrbS6tG5FgWlIsixxXKViFn8ied9c7f8VT7AUXC0vEeN66s4LocnPNPxMcNRnhtqs1lc2x0mCUtPgWpA9wcEN_3DleTZf8aVwxQNANc8IjnZ5ODykJtYbB4s4N3e1Xsl1__JLUw8X7yPeeD56xeEFq-aZs-2Oh5Syb84WwpG-HNRSIA5soIzDZovPG6C6aNcrXDAGPsRXp4qgJvLw6FLssEnL5Gxd1XKhQ_c5nAsDV5ubcHe7usq6pHpFtf68BfF6E0Ve9khXFuynKnmChBttmS9MSmzSjcgwS3IjSJI47yz2WnPi_qa45p4j0T7e3fHULad-4vOEFqlcz5Jpd2-54EoUxfY-j1e8RKWotGW4gfsleL_T5JHD0LIc-9HeLy5_FjZO7KSKLDH36DyBpn12BaDtcmPZXa3v8sgfaiOizNDJd2y6TOW5R2ooMGtZKrddGT2aMYqsKY_ZmRQejX4eXQYze7LPNebso3lLz4-r_L5TG23jpEa_PZszW5wi0PiLGZhDZsb8lHkmfsQydUUzbY_PWSYgWrpOJSelhqQPuGaIRUsUi3xnN2IlmE0ggOtDW7in2rNzKjfapMrm0h37p70cKHOz6WK2e-6rlHCS8iSF07K-LMeSlHKMlatJe1p_vfq3lpfyo1f2XJC0x-YOWD5fXPBzkU1Z21ev_s-CLUltAQup9ScxHORY6sdqWFv_LyygSXbt_hyz0sK1YOkvY3n7Chwx_V_oewfZUvp_oS_dSkZvGWqdHlsaAJKhthzg1ulw_PUPATEzYA"
+      },
+      {
+        "position": 15,
+        "title": "ASUS Dual GeForce RTX 5060 8GB GDDR7 Edition Graphics Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTq78CDus02nTZ4pYuuQipKrE8nWz5_mQdP8MZH3ibaCkGWyGrRgQmn_gC4MNL1hvMbJuEQfzp0VCuDIJ4CljQUXj2B22TkDgy1wye7Pi4SQ7Yd5zzEfgvd",
+        "price": "₹55,660",
+        "extracted_price": 55660,
+        "reviews": 381,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yQRtlXicdZXLrqzGFYZj5QXyChkcebDVR1Rxz4xLAX3hfmeCgKKbbqChgd00yE-zj23JGSaWPPVrHA_yHBmmO57akyrp_0r_Wqsuq_7zl799lOdfpvWwy4ZllXabtOcoaxmP3myPP_VDh9-L6Yx_BgxBAoakSJImWYaEFIDUv6oyw835WprHYznIXXHG_-YABATkIcuzgAI8ywHqn-c2O5W_YxYASHAsyZM0JCHkSZb44fZeDsvXvxvBVt4Kb44XvVEEQ7xxqvh2GrK-OhfjW5EN-Et_nz6q08ep-ThfP6rmo7z-2GX9_Vj89s1_0b2QpKGQbL_vA9kh3LBPytamXUUg8NXo_DWgYn-XZVGS6EHFBGr8cNrTIwHx6oV967YzEdcE7V2bLlPpaxaOc4YM1yN3E_YDzQxEzbsUhB9Vc-Dt7gYQFgNORKI5Vgx7ZGiVltfTMdNi4K9KlWu963qNWbS40smgKTRldZXkcYjEJvcVJfSrzNGKhwv4s4saBkN8j0g0u6ToOX5iheo4G4E_6U1Bmyq-Y09RirZXEsUI3HDqDTnwzEjx_Ws854RhuDW16Kvo-qgicCBuQ0QDR2vGwBOlmHSoPGoCL0yYTA58DBs5B2KI13guyJ1pB_juot2YND5pBFUbagWRoT4pvGTrthWjXwParhMiCPwlaOkmv-xGg8TI057O7Wl2_XktrvUjU0TF9APXQTjQ12oymhh6chInq_Oea0noE76rAHzDdV9htUcOwR8zEpuGItA4TK4JQJR63omOZixmmPguAn6CwOwQFCjrhCoCbDiK0RatMRZ-EmcucL5_jMPxKyEo9OSa9OUAy_O-Oq0hx1yptt2nio2OOrN_zP8ALA9oFnKQ4Wnix6Lr6nP521-_dU3J_UTKkrD9RIpvLhIcSUtdQUfu1kMvcLK3KYPEFxWQ9FSELOPRrrvU3G4uk21A1MVAXa60rDrMWSt30UDt5NUpS6oXl3cyeT_b2_3eZ3Xh5aGapnpAqSA-y0tRhHTL25rG03YrP4eiKJ8Pg-PA8ZlqyZWfSMHTn_rvyQOOgk_llcTwnLfWi9DkZxp-Bjz1maE2T_VVzXGSoVzXZSUiV7TKWphttCz6K74cPLlPUPUjhIOJ43iW62hbW6VU5vq-2p5Q1b3WpalbFu9DuXE95xVHEI1KYC6mPcQpZY4WC-FAX2MViyDmfGXoN2x52RCq7ew7hfcH34PlzTqFUJMEeLQprt-kOLkYNxWvdGA_-kuxK0-bUbzbbXXK2uT0imr8fxek2yhJAnJJG4nmQ5VdUS5rbV2uTAo26UZimDUZAUmCy97gbhUvHUbF1g886Ryi_b2c2vXcTUKe0BKVb7Nk2t8b3r-BomDvy3Ar1xBLSoODDTys_vudJo98CQ3DMufmfrWFi7ixIitVkMzcw8tE1M2jLQjaxBvDbKvtPg-9vtqFlB5Y-Z5L1wlfOkcNRCakZmXc43CuhzA0pjziFlKc6-1lsJmSOZBdrjEXz1lYeplv6H2v1trGSncde9EXrjiHRO2tuq_3mR4JU-bq5Rwh6uYstDk8FgSgs7atSk5KBUmP4Os-kgxJKvK9WUsnUa99kbjN2so_1I5bUlRrk4r0tT12D3ONKX2zaSOufRxOKbASfJaDaX2eLM-RlHKMlJtOu1p3u3ljI8j50cUd7yfNsb4TnJCvNvFTkU1Z052ePZyBkKUhTVAEy7AM4HhI_HDqi9cn8bygDANIwLGQpp_OkAFfBjx-pSwp_SP4neWYcvon8Et7xr8-m_7x1_8BJycoiw"
+      },
+      {
+        "position": 16,
+        "title": "Gigabyte GV-N3060WF2OC-12GD NVIDIA GeForce RTX3060 Graphic Board GDDR6 12GB pci_e_x16",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfgHR3XeFsrpt6WykYLVfzuShyLIDWxorjwLxRtHQow9C9VMOQ3gIz6wFDfFL2qu6sbwlHF0IMEd5vitTMh4jm6bdWha0OebBfsdZdjbKlBZValHIuHKFJ",
+        "price": "₹49,990",
+        "extracted_price": 49990,
+        "reviews": 52,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Nm-1cXicbZXLzqNGGoYnmhvILWTRmsUvt4oqjrPjDLYBc8ZskA2FORqM8QGUq_k7idRZpiNlm9voLOY6Zjk4mWU2VaX3eVXfV6ev_vOPb99x-ds4b9eHYZrF9SrpWXI3XXPvYV8_90OX3dKxzH4laIAIGpEIUYihESQJSP5S4EPWlGds5TkepC59-ViSAATHsgzNkRxDkwAxP5ft4YT_zykOIIqhOA5AkuEYZvH_eLnhYfr6nRnoks6_OV70RgIavLGq8HYaDn1Rpte39DBkn_r7-F6c3k_Ne3l-L5p3fP6pO_T3PP3jm__K91QUh1S0_b4PJAe4VbE3_aKINZM0Gqfce0Hr1gS99TLNi0zfA04Tzwa1-J6BbKp-Gwex6sTHmmtSoCh7vxeOXjAZVebiIH3gyrzbIbXLmvi-sJtNOH4qj16mxNIeKlbsB9dYKdo0UvKtf5oCzdluo4Z0oVkGihn5hECEfkzszzyMZx1YMlVEczrj0DmnMHhGsNBcWEyBSojHaB3ufYPypEDyZwMYRPcIK-XuAEf3o4bYtzE6SoVqBfHViPqzU2fQidLFJ0zxudH8Kn4YciEaREqlWiyHTT-nZx5ZIngY_ngzK_N2BDYImxo4WlYYvnkNZGVj-aPihZTmqj2K5aeVBo4aVmZ5CE0Ce0HuoDXKfGfCQbA3pMYM0HrcR6ZiBMI-qIkm1JTJ9gNkR_ElmAOUNusyjGLKbakiDg10bA1XIbJLVvdFpvayA7j8gDLLVHgqC-NzTMikWq4FRzMnK4x9G5n3rCYJPxJ646zDGDwpuzHIwLfJfb0GPqCEH57XIf8KeIUaXYuqthCXm-I0hyx9Jtt2kyi2nBv05vn4N8FwBMVAFtIcBX5Ku64u8R___Jdrie4HJIm8_gEJb67MO6KWuLwhu7onv8DJ1hNaFl6Ul8VF4Q8HTl53Vc2uHzjWA1CnA1mdKUl16FLD62gg19LsYEz2wnRD8a209c3GZwz-NYdqWepWTnjBd-VEjmRj5-mWuUyrS0uTppiCiGWJfEkVs_gD4j1j0f9KfnlecFFeSQxLr-9ehEIfKfiR4MiPNLla1Ndq8lGCUl3jQpBdYYdr_mHL02S84kvBwn1A1s8QDla23z-kOtLrHRbx0dgU-kkuupcvSVyc3ga8cj3nFYcXzIKnK8se9glpXXcMhAN13quZQOxZXxn6FYOrFVBtZ9MpnD_4HsSX3SmEmsjD3CbZfpVkcWVe1GymAvvZV-kan1ZX4W63xenQxqdXVPPPXRAvV1HkZRfZsmA9VckVJFxr83SmE2KVrESanuMrgRBRbUz2UnDi9qrYxpZDzjba3PHYzmU38seYEsmjfojHzb3h_AuRpsx9Gi54DjNRabJgBbezf7tTKOcwNM2d9WjuZ5uvhNUu2iWKLNH3sBpB3TzbFFBWtjKtttA3x9Dri3VIGsHuuGGTecyqzlEDgQ7Jh3LdZOGjHsLQHI8ROyHhUevVYNOY3qLuqNGV50wMNT0u8m2j1tpql6w7pjImNi1DUHuz4Rv9wYj48eAa-BHJ5MWZKGt4TjIBnbltVTQqBUQe4Oo-Ek1RTI8bqxZPglH7Arg8tJl7qh07JXKtjapszG3ePa15TxqrVRux7XN7SohdnJVSMM7LyXIsIpU8Ui5LKdS6y8W7Nrx0zN2s4_y4yes7YPnjbIPP6WE8NN2pzL5wkFq-AQAJsAwgwSCO-_HUL-X9C03TkIQ0vdzWRV2eGgSfhuz6Fe7E5G_Y9zvHkpK_Z5_aMvt9qfj57_8DW7Yl5A"
+      },
+      {
+        "position": 17,
+        "title": "Gigabyte GeForce RTX 5060 Windforce MAX OC 8GB GDDR7",
+        "price": "₹54,395",
+        "extracted_price": 54395,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:6986618021478513493,gpcid:18008461136958336994,headlineOfferDocid:2247183135150538812,imageDocid:8680755895139310706,mid:576462563912937648,productid:5605123587475260029,pvo:2,pvt:hg,rds:PC_18008461136958336994%7CPROD_PC_18008461136958336994&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oWKqVHicdVFLrqtWEJSykrsBnjhfDtfygJ8xxhgw_k-QDcf8jDEYf0BZQjaRe5VIL8P3splkK5nEUabJpKTqqm51V__0Ndq3-1OVZPF3KjNKARMhwBIjAGEZ_ZJcoiz-_VUUGaYAICoThl4o428p38en7Mzd45E3evXyfYcQS4AhgAggIkGMAfhbVu4T_q_MKBMlQpj8Gi4jIEoi_Syz-BuRKKaQUCQDKKMXYV8vTRXfovbVRKhIAESESVgikIoilD8v9-pn-ML2I00-m_j6B_a08L-W_NGbu3r4P-JHcvrIzh_p6YOff42qqsj4nz_8FbhaMNQUa_AWGMpcG4eB4hiBtTCGWuJbITXUwZtiaENlv5eNSZUXbPLgO2slFlGD8zPRzTnNxnyyafBE7-ec44va3dDulvmWbS8lRxm8ma5rTo1QUZeBERobw_EWljsbWvowijiB_wR3JBLkjL8vnCGQZEBeuWL4rg2bd8sbAoK-EPgFyPgLxcJ7MDy2OtSLgqeqEageL5SHb3SdM3jTV8OliIvnGjZuvN0-9GJjFR7X-MGxUysx0mrwFoYBj24NF4LF3Bsq6ixVaO76zTbE7tWTIGzIeWvGKtiy5ai5CBLPBdH053Y1kpfNcgF57SVrONYUePQxuwhhvMtntRn3ZOU_L3k04YlwVe9-mSb7cpcM3mavS7X6qmmKESDfUN2nqQeqzotx351pCIRQ0Cjtd1eAEMjtGatTWZteR74zldF8urHvvC37rGqVw45o-GDtd619P8nLGkSRdO-amvfrWBud4pUAp_3ydifoKHM4m3nu43Q_-0quCt7GC0eGTu_rvBWL07OMROLGwswtU8s-rBeXdLLGzso72Czs2ziv5uZKpWv8GF3teP0omvV61h42rEPqo7DyxqecTlF1GNN8Me8k0j1q42abxVjwwkkl5U7HomwtFoveWTqXvbNR2n3g8MfGwPW8I27z7AwA531ZmqgdpRAtRLm4bLSZpkUH2y20RHWKpSrWj3EvP82KdaFRjFvTcPryWD3dfosdQSg3rHxOkxB4uzjTV23_-qnMEB4dN6PaIcG4quvF9aToh2MQV_JydzoWd5Eph94X_wYEt0vM",
+        "seller": "ubuy.co.in",
+        "rating": 4.6,
+        "reviews": 5,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwLC1G1ut_o44mDQCRTP6RtlELmQHA3nlcP7HxF7H69suAQ4zGlqv0bLtfYrzeSgqGP3KzdmK8JlQwiU1EHaCsR0nzZuQgEBDMc0zg7AA"
+      },
+      {
+        "position": 18,
+        "title": "GALAX GeForce RTX 2060 Super 8GB GDDR6 256-bit Gaming Graphics Card",
+        "price": "₹18,880",
+        "extracted_price": 18880,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:11397311573354904362,gpcid:12492007285369119294,headlineOfferDocid:4353433435867435703,imageDocid:6979111473612703255,productid:1411840907641957719,pvo:2,pvt:hg,rds:PC_12492007285369119294%7CPROD_PC_12492007285369119294&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uTSuOXicdZHLzrJmFIWTXok3wB_eE4fPMOAkIiInEXRCFF5BUBHEA6R30Kvo96dN_g7b3kx7K52UptM22VmTZ-9krbV_-Jbuu_25zk_Z7wAgkUcAEB4hgkUWIw7-lN_SfxDEImRZHgoEcSIAIhTxrwXdZ-fTlTrHI221etz7DSOCMBqHCBw_Ks-iX06XfU7_xZzIj8cA84gDcGSQkG-3ts4eaTdSgAEQMCuyPIeBSHgeiF9vz_pHOGr3WeRf2-z-B3bV5L_cfO_6jpb8D_zMz5-n62dx_qTXn9O6rk70z-_-Chw1kFTZnE4CXfbVeRLIth6Ya11Sc89MOF2ZTmRdleT9XtQXdVkJixfdmRu2SltcXolm-NxpThdxixfa4FOKb0r_QLvHyTMtK-RteToxHMdY6omshIGe6LFuu2vTWUmmJqUpJRAJAjgSHlKBfqxtCYz1EH4sAX6oUvthuhIg6AuBX4CIv3CY-QikY6dBrapooeiB4tJKfnl639vTibaRQhZX7wi2TrbdvrQqNiuXqvRgW4WZ60U9nSRJQNNHS5lg7buSrKwKmSsdr90m2Lm7PIQtuW6NTAFbIZy1N4anJcManm_VMzFswzWkjZtHcK7K8Ohh4cYk2a5cNUY2kI33vpXpgubMXXl6lyLfX3b5dLIak6rNXVVlPUCerjhvQwsUjVbzob9yCWASRuW4YXcHCIHSWglNIarL-8yzlyLyl7H1pN1lONWdfNgRFR_M_a6znmcxbECa8s--begQZersnG0YuBzCx5Ogo0jhauU6r_Pz6smlwrixm8x0jXtGZcdW5_clZYmTMSvnUpjWIVrfikWE7Y17sIRk6LKy9o2NwkX4NbtbWfSq2ihadYdY6JHyqsyy9TjKLVF9mHPl2u950r8a_WEZ1Zxxk0XNl3YvpKeIrdaDHdq3vR3L3T6w6SvWceP3xGnfvQ6gP1wuBupmBURrVqxusbpS1fRgOZWaK3YVKmzzmg_i26iFPtGreWfo9nA51m9n2GKbYS6xcHkv8wS4u-ykbbph_KkoIDw7xrPGJsG8bpr1_Sxrh2OQ1WK4Ox-rJyvIh8Fj_wambEWK",
+        "seller": "Tradeindia.com",
+        "rating": 4.8,
+        "reviews": 15,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSdF6y6WZOBK1MpMUObC3Um_ywz62rrMgkNBmvvP8_I11xS5TR3nlDCnHlNYiU4qOAKEJVTlSZDECrmjL7jXBDiRT_-vk33W1fCekmXtpaw0A_lXuZJS6TqIw"
+      },
+      {
+        "position": 19,
+        "title": "MSI GeForce RTX 4060 Ti VENTUS 3X E 8G OC Graphics Card",
+        "price": "₹64,999",
+        "extracted_price": 64999,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:7745184659445217089,gpcid:10889463458424465070,headlineOfferDocid:5240318030757783077,imageDocid:4027404472542535189,mid:576462557412711571,productid:15990949705099208766,pvo:2,pvt:hg,rds:PC_10889463458424465070%7CPROD_PC_10889463458424465070&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-WMXw3icdVFLrqNGFJWyEm-Ap6KoouBZHvAzxhjzsw32BNlQ5meMwfgD6iVkE3lPidQZdmczyVYyiVuZJpNzB-dI53N__hrvu_2pTvPkOyEIswLisYgQhiwBgvhreonz5A8WCIKIeA5hAUH0UgACvmV0n5zyM7WPR9qq9Uv3HUMEOFYAHCCYEOF1yO95tU_pvzQCkCCAEIEYQcy9zMTPKk--YcIjHmJMEAsJy2LCfr20dXKLux_eWBSBiEQCMBBFCATC85-Xe_0LfGH3kaWfbXL9EzlK9F8pvzierUb_Q36kp4_8_JGdPuj5t7iuy5z-9dPfvq34E0UyxiNfkzxlFvmSpfnGSpsoqWtEvCaPR5KmTKT9XtTmdVEK8wfdGRtQxi0qzljVPT6f0XnYork6eJSii9zfuN0tdw3TXBNLGo9029YXWiTJa1-LtFCznJVhLyeGOoljiiEnCOwRE0gF-r6yJiwRf4zyCv6uTNp3w5mwmHvD8I0V0RuPmHd_cuxUqJYlzWTNlx1aSg9X63trPFI3kzVA5TOArZ1stw-1DI3SoQo9WGZmpFpWj0dR5NP41lLGX3nORJKXmcQXtttuI2RfHQJhi89bPZHZrbCetheG0IIBuuuZ9VRct-sVpI2TBnCmSPDoIuHCRMmuWDZ6MuCN-7wU8ZymzFW-u1WW7qtdOh4tX02V5qookuZzribbT131ZZWWs6E_8xHLRIzC88PuynIcW5hLoclEZXGdutZC5LxFaN5pVw153UmHHVbQwdjvOvN-EtcNG8fk3rcNHYJEmZ6SDQMXw_p2x9xRpHC5dOzH6X52pUJmnNCJpprK34OiA-XpWcUA2wmztKvMMA_B6pLNA2RtnIMpREOXFLWnb2Q-QI_p1UyCR9kGwbI7hELPyY_SKFqXp_yCqw8zvlh5PcH9o9Fupl7OGCea16SweiHOA1CuBmttXfZWKHV736KPUEON12O7ffYaC72hqnSum2aQWwGxvITKUlHig2mXSipb5VoGzWM2iE-9FvpIK2edrllDdayf9rBFFsNUoVA9F2nEOrskVzfd8PqpKHBoegynjYX9Wd00q-tJUg9HP6nF9e50LO9AkA6DC_4BwXJL9A",
+        "seller": "Cloud Tech Asia",
+        "rating": 4.6,
+        "reviews": 11,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTLLJKqD7I_kC8ir0MrntwREmPOUV2XBeiav-3UJYMX0aO6xyqs-d5eEXugKtv9yBq5e3-1KpmvZYxzsfQcqtIG775yN0Ni06tOpwHsRbzfyIyqo_am2i_s"
+      },
+      {
+        "position": 20,
+        "title": "ASUS Prime RTX 5060 OC Edition 8GB GDDR7 Graphics Card",
+        "price": "₹55,500",
+        "extracted_price": 55500,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:6984746601560853423,gpcid:3852223709458320836,headlineOfferDocid:11971589502632101536,imageDocid:13697044052082346935,mid:576462833230799036,productid:17308735530280933501,pvo:2,pvt:hg,rds:PC_3852223709458320836%7CPROD_PC_3852223709458320836&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EuT0-HicbZFLrqNWFEWljMQT4Olyf1ye5QY_Y4wxYPzvIBuuwWCMwfgDqiFkEnlPVVKlWclkkqmkE0dKszq7s_bZOufsX79Hu2Z3KpNj_AeVGZYwpUAkFDCCMERfk0v0IogRCCGSgIwJQxAwRH-kfBefjmfuHg681suX7U9RlCWRMJkASBEUXzmI_n4sdgn_nyMqSwBjQF4REGEqI_JZHOMfRKKYQoYQRECSZYDo90tdxreo-W9KQoBJiBAEIAMyQgSIn5d7-Rt8afORJp91fP0Lelr4kzW_eDNXD3_OPpLTx_H8kZ4--PlbVJb5kf_9yz-BqwUDTbH6vcBQZtooDBTHCKy5MdAS3wqpofZ7iqENlN1ONsZllrPxg2-tJcijGmdnopszehzx8brGY72bcY4vantD29vRt2x7ITlKv2e6rjkxQkVdBEZorA3Hm1vudGDpgyjiBCLGxAORIGf8fe4MREkWiSQyDN-1Qf1ueYPXY98IfBNl_Eax8B4MDo0O9TznqWoEqsdz5eEbbev0e_pysAA4f65g7cabzUPP11bucY3vHTu1EiMt-70wDHh0q7kQzGfeQFGnqUIz1683IXavngRhTc4bM1bFDVsM64sg8UwApj-zy6G8qBdzyCsvWcGRpsCDj9lFCONtNq3MuCNL_3nJojFPhKt694s02RXbpN-bvi7VqqumKUaAfEN1n6YeqDrPR117pqEohIJGabe9igiJmT1lVSprk-vQdyYymk3W9p03RXcsG2W_JRreW7ttY99P8qISo0i6t3XFu1WsDU_xUoCTbnG7E3SQOZxOPfdxup99JVMFb-2FQ0On91XWgPz0LCJA3FiYukVq2fvV_JKOV9hZenubhV0TZ-XMXKp0hR_Dqx2vHnm9Wk2b_Zq1SH3kVlb7lNMJKvcjms1nrUTaR2XcbDMfCV44LqXMaVl0XIF83jkL57Jz1kqzCxz-WBu4mrXErZ-tIcJZVxQmaoYpRHMg55e1NtW0aG-7uZaoTr5QQfUYdfLTLFkbGvmoMQ2nKw7l0-022BGEYs2K5yQJRW8bH_Vl0706lRnCw8N6WDkkGJVVNb-eFH1_COJSXmxPh_wOmLLvfPAvG4BLjA",
+        "seller": "Vishal Peripherals",
+        "rating": 4.8,
+        "reviews": 184,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4qY0PtwNTfANzodpuEFwu-pOPR4DOZBsjnLgLDwnngQLb6mSCDzfQqk6P7r-MqV8o02wqbTA-edTYrmDf66-y-6BBewAJE2lDFnGji9FbPe6HWPJ7nHM"
+      },
+      {
+        "position": 21,
+        "title": "PNY RTX 5060 Ti EPIC-X RGB OC 8GB GDDR7 Graphics Card",
+        "price": "₹55,500",
+        "extracted_price": 55500,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:654601901930194587,gpcid:8452333589922631916,headlineOfferDocid:11720336342168858089,imageDocid:5889227760990749899,mid:576462828267692497,productid:2025660013187240027,pvo:2,pvt:hg&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4dsZiHicHVFbrqpYEE16JE6AE9hsNptj-OAlIiIgIugPUdjyEhFEEaZwR9Hnpju5_Xlvj6an0j9NOlW1fqpWVdaqbz_iU3e61mme_EQcRDQjTMlOBTnM_5He4zz5hSEHWJblsCAAgFhGYNDPjJySa34j9uVCWrWexv5mGB7QLItYCBiEMYdpLPyVV6eU_N__xWE88Xke0YJA81CY1n2vprscjyACeArEIwFAgf9xb-vkGXcTCdCAQ4imGZbBPIA0Dfjv91f9O5iw-8rSr_T6ld--susXuf0Z13WZk39--9ezFU9UJGM-8zRpqywjT7I0z9hpopK6RoQ0eT6TNEWUTidBW9VFiVc9ORp7uoxbWNw4Vd-ifElWYQtX6rglBN7l4cken7lrmKbPW9J8ptu2vtYiSfY9LdJCzXJ2hr0RDVWMYzIZhjFz4XhAMPncWSLDCwzHMxiCT0VsPw1HZDj2gwMfk9MfCFKfnnjpVKCWJclkzZMdUkq9qw2DNZ-pe9GnYfkOQGsnh0OvlqFROkQhZ8vMjFTL6vksijwSP1tCebutI0ryJpNQYbvtIYL2w-EBaLnbQU9k5oD9RXuneFJQtO5uzXoh-K2_A6Rx0gAsFQlcXIjvVJQci02jJyO3d9_3Il6RlHrIL7fK0lN1TOezzaRUaR6KImke62qy_dZVT1ZJuRyHG4oYKqIUhMbjg2FZpjA3uMkEZf1YuNZaYLfr0HyRrhrzupPOR06BZ-N07MzXVfAbJo7519A2ZAwSZXFN9hRYj_7zxbEXgYDNxrH76-vmSoVMOaETLTQVvYKio8vru4ppzk6ojV1lhnkOdvdsFUBr75xNHI1dUtRbfS-jAPaLh5kEfdkGwaY7h3hg5b40itZFBK3Z-rxExW478NzQN9rT1Msl5USrmi-sAcd5QJe70fKt-8kKpe7kWaQPNdhsB85u34PGgO1YVTrbLTLA7mihvIfKRlHis2mXSipbpS_TTb8chbde4yHSymWna9ZYXeq3PR6gRVFViKv3Oo0Y55jk6r4bp58KmIWLS7hoLM5b1k2ze1wl9Xzxklrwj9dL-aKxdB5d-j9kJjx8",
+        "seller": "Vedant Computers",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmKxQGrmfulfqHMrMSzuOIi658WV6tBeIFM3_IRhidS7QeOVp1zSQZVi1hISLKyrPu2f1gYRBSfBhFB5g47nvbonE9D0cRCaAHKCqx2_nikt22yanGJJ8l"
+      },
+      {
+        "position": 22,
+        "title": "Zotac Gaming RTX 5060 Twin Edge OC 8GB GDDR7 Graphics Card",
+        "price": "₹55,989",
+        "extracted_price": 55989,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:6712858577851743945,gpcid:18024571188295804599,headlineOfferDocid:10847602859221923057,imageDocid:1225465131484281543,mid:576462568263626786,productid:10385306813667831495,pvo:2,pvt:hg,rds:PC_12045358581617086563%7CPROD_PC_12045358581617086563&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=h4GtXHicdZFLrqtGFEWljMQT4IoqqoriWm7wM8YY8_O_g2wo8zPGYPwBvSFkErlXifTSfC-TSaaSTqzbT-d01jlbZ-_96_do3-5PVZLFP4kIIMUUiyLFQESChPDvySXK4r8A5SHCIgCUQglTHmFJ-pGyfXzKzsw5HlmjVV97PEUi4V8qEoRAggKPxT-zcp-wL_4TQIgRwUAAiCJIAUbCZ5nFP7BIEIGYUEgEAolIyfdLU8W3qP0SFSgWeEKBQF7odSvhz8u9-g2-ZvuRJp9NfP0buWoI4Osz4eWAAgJEnhJMhG-u72jh_8CP5PSRnT_S0wc7_xFVVZGxf375N3DUYKTK5nAQ6LKvTsJAtvXAXOgjNfHMkOjKcCDr6kje7yV9WuUFnT7YzlzxRdSg_Iw1wyfZhE03DZpqvc8YuijdTdjdMs-0rKVoy8OB4TjGTA9lZRnoob7RbXdhOvORqY2iiGEoUAqOWISMsveFPQKiBF7xvzJ7V0fNu-mOABbeMHwDEnojiHsPRsdWg1pRsFTRA8Vlhfzw9K6zhwNtNVryqHiuYePE2-1DKzZm4TKVHWwrNRM9rYaDMAxYdGsYFyx8dyQr81QmueM12xA5V1eEsMHnrRErYEuX4-bCiSzneMPzrWosLZvlArLaTdZwosrw6CF64cJ4l89rI-7xynte8mjKEu6q3L0yTfblLhkO5i-nan1VVVkPBE9XnKehBYrGiknfnUkIuJBTCel3VyAIILfmtE4ldXYde_ZMEvzZxrqztuyzqpUPO6yig7nftdb9JC1rEEXivWtq1q9jdXyKVxyc9cvbHQtHicH53HUep_vZk3OFczduONY1cl_nLV-cnmXEYyfm5k6ZmtZhvbik0zWyV-7BomHfxnnlGyuFrNFjfLXi9aNo1ut5e9jQTlAehZk3HmFkJlSHCckXfifi7lHrN8soJpwbTisxtzsaZWu-WPT20r7s7Y3c7gObPTY6qv0OO82z0wH0-7I0hHacQmHBS8Vlo85VNTpYTqEmil0sFb5-THrpaVS0C_Vi0hq63ZfH6un0W2RzXLmh5XOWhMDdxZm2avtXpxIV0Pi4Gdc2DiZVXS-uJ1k7HIO4kpa707G481Q-9B7_H6mzTCk",
+        "seller": "Green Apple Compunet",
+        "rating": 4.9,
+        "reviews": 95,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQGYHfM5WDCn4T_ftkKo4HpA6wBmGsX1CP3al1XGTiekGgkwPdYqy2EyfakHqY9Bp0J_0JB2h6PfG072HsfhEq7RV_SR4P6To0HvZzn5AHksiC3cX3sjU3sYQ"
+      },
+      {
+        "position": 23,
+        "title": "NVIDIA Quadro RTX A400 4GB GDDR6 Graphics Card",
+        "price": "₹20,538.70",
+        "extracted_price": 20538.7,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:17572969249933378007,gpcid:2526559414073328352,headlineOfferDocid:17546300860629363355,imageDocid:10027591893081733185,productid:2953551019870782879,pvo:2,pvt:hg,rds:PC_2526559414073328352%7CPROD_PC_2526559414073328352&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bUCK1XicbVJLrqtGFJSyEm-AK2ho6L4WA37GGGN-xmBPkA1tfsYYjD-gt4OsIn5KpJdhks0kW8kkjpLhm5xJ6dSpOlU_fkv2_f7UZEX6ByNAAWAeAw5jlmUFRNPCz9klKdLfAQQ8hJhjOFpgWYBYCH7LyT49FWdiH4-kU5vkPwaOZ2ka8TQPMMuzLIS_FvU-I__jNA0EiBmEWRoxbyYGwW-XrklvSf_vFQzfCwzNYCTQAgJIwF8v9-Yn8J79K8--dun1T-Ao8XfkfHE8W42_j72y06s4v_LTi5x_SZqmKshfP_zt24ovKpIxnfia5Cnz2JcszTfWmqhkrhHzmjydSJoiSvs91hZNWaHFg-yMDV0lHVeeoap7fDEni6jjFuroEcJd5OHG7m6Fa5hmIFjSdKLbtr7UYkkOfC3WIs1y1oa9Eg1VTBICAYsQc3w_nSDyubZERsAMFBjEgU9F7D4NR2Qg-wHBB4O5D56jPn3x2KtArSqSy5ovO6SSHq42DNZ0om7EgOaqZwg6O91uH2oVGZVDFHKwzNzItLyZTuLYJ8mtI5S_9hxRkle5xJe2221jzr46AgAdPG_1VGa2KJh1F0ogJUXrrmc2Mxx0wRqQ1slCMFckcHQ5dKHidFeuWj0d4cZ9XspkQTLqKt_dOs_29S6bTlZvp0p7VRRJ81lXk-2nrvqySqr5OJz5mKFiSuH5cXdl3l0ozRVqc6wsrzPXWmLWW0bmnfT1WDS9dNhBhTsY-11v3k84aJkkEe5D15IxTJXZKd1QYDkGtztkj5iA1cqxH6f72ZVKmXIiJ55pKn8Py56uTs86oaGdUiu7zg3zEK4v-SLkrI1zMFE89mnZePpG5kPuMbuaafioujBc9YcIDaz8qIyyc3nCL9nmMOfLtTcIcHi02s3UqznlxItGKK0BJUVIV-vRCqzL3oqkfu9b5BFpXOsN0O6eg8YAb6xrne1nOWDXNK4ukbJSlORg2pWSyVYVyHT7mI_4qTdoiLVq3uuaNdbH5mmPW86iqDpC9XOZxYyzSwt104_vTDFiudkxmrUW9OdN266vJ0k9HP20wcHudKzuNJIOo0v_AwqjRWk",
+        "seller": "loftyagrotech.com",
+        "rating": 5,
+        "reviews": 11,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSemqVCfAuB__mSrZlX_8cU0v2hiO3JvBbdkfyiIAiZnACRoto3P2BKfKC80FwkOY0OCRQXBZgYa6FyLQg2ytQgaMFbW1Hg1nAQqzN0WI7o_ysiiRPvQzZY"
+      },
+      {
+        "position": 24,
+        "title": "Gigabyte GeForce RTX 3060 Gaming OC 8GB GDDR6 Graphics Card",
+        "price": "₹44,499",
+        "extracted_price": 44499,
+        "link": "https://www.google.com/search?udm=28&prds=catalogid:700158719201919931,gpcid:10259503301382300930,headlineOfferDocid:7987567484278254693,imageDocid:9867833763726030569,mid:576462901175720751,productid:9679476825414208197,pvo:2,pvt:hg,rds:PC_10259503301382300930%7CPROD_PC_10259503301382300930&gl=in&ibp=oshop&q=search&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BHX43HicdVHLsqpWFKzKl_gDnNoPYLOP5YCXiIiAiKgTSmELgoggPqDyCfmJnFNJ1c3w3vszya9kEm9lmkzWpFev7tX9y5d41-5OVXpMvhIAoCARSBGAFFKK4W_pJT4m3yFAAhUAxgBiCWEAKAZfM7ZLTsczcw4H1mjVa-8boRIRRMJLPCISEniR4j-O5S5l_8JUEomEMRExQSLAQBDpZ_nSFYjIi4gCCIlAECAC_HJpquQWtz9IIqE8EX-cgzwCEqTk83KvfkWv2X5k6WeTXP_kXTX6L5M_uwtHi_4H_EhPH8fzR3b6YOff46oqjuyvn_72HdUfqbI5HPi6vFAnkS_bum8u9ZGaemYk6spwIOvqSN7tqD6t8kKaPtjWXIEibvj8LGjGQjxO2HTd8FOtXzDGX5Tuhre3o2daVkBseTgwHMeY6ZGsBL4e6WvddpemMx-Z2iiOmYCwJMHDKwkmsfelPYKEQoHAV6jv6qh5N90RFPCbgN4g5d9Ennv3R4dWQ1pRsEzRfcVlhfzw9K6zhwNtNQoAXzxD1DjJZvPQirVZuExle9vKzFTPquEginwW3xrG-cuFO5KVeSaLueM1m4h3ri5BqBHOGyNR4EYKxs2FIyzngOEtrGpMgyZYIla7aYgmqowOHi9duCjZ5vPaSHph5T0veTxlKXdV7l6Zpbtymw4H89enan1VVVn3sacrztPQfEVjxaTvzmIEuYhTRbHfXiHGMLfmUp1RdXYde_aM4sVsbd1ZW_bHqpX3W0Hl9-Zu21r3Ew1qGMfk3jU168NEHZ-SFYdmfXC7C_hAGZrPXedxup89OVc4d-1GY10T72HeguL0LGMgOAk3d8rMtPbh8pJNQ95euXtLivo2yauFsVLEkH-Mr1YSPoomDOftfi11WHkUZt54IhNnuNpPxHy56IjQPWr9ZhnFhHOjaUVyu5PiYwiKZW8H9mVnr-V259vssdb5etEJTvPsdIgWfVkauB1nCC8BLS5rda6q8d5yCjVV7CJQQP2Y9PRpVFIX6cWkNXS7Lw_V0-k3vM1x5Voqn7M0gu42OWqrtn91SiXMjw_rcW0L_qSq6-X1JGv7g59UNNieDsUdSPK-98A_POhLTw",
+        "seller": "Computech Store",
+        "rating": 4.7,
+        "reviews": 108,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOj5S8SJsNLpycXgTBvI1nWE6XW3GRF2zVSJ__EHKUlAH8q80XIPbSuyH5kKRretnyTFGhldRztvVQqclTu-aHeJKvo7On6nf3lmXtkJVKt2Q_2YiJbphHRA"
+      }
+    ],
+    "product_attributes": [
+      {
+        "name": "video memory",
+        "value": "8 GB"
+      },
+      {
+        "name": "video memory type",
+        "value": "GDDR"
+      },
+      {
+        "name": "brand",
+        "value": "My Store"
+      },
+      {
+        "name": "type",
+        "value": "Graphics Card"
+      }
+    ],
+    "price_insights": {
+      "price_history": true,
+      "currency": "INR",
+      "price_tracking_available": true,
+      "stores": [
+        {
+          "name": "The Engineer Store",
+          "prices": [
+            {
+              "date": "Oct 8, 2025",
+              "price": 28366
+            },
+            {
+              "date": "Nov 27, 2025",
+              "price": 26947.7
+            },
+            {
+              "date": "Feb 21, 2026",
+              "price": 28366
+            },
+            {
+              "date": "Feb 23, 2026",
+              "price": 26947.7
+            },
+            {
+              "date": "Mar 20, 2026",
+              "price": 28366
+            },
+            {
+              "date": "Mar 21, 2026",
+              "price": 26947.7
+            },
+            {
+              "date": "May 1, 2026",
+              "price": 28564.56
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "__fetched_at": "2026-10-09T19:07:07.398Z",
+  "__part_slug": "rtx-4060"
+}

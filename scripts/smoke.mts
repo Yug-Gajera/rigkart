@@ -8,6 +8,7 @@ import { readFileSync } from "node:fs";
 import { DEFAULT_BUILD, DEFAULT_BUILD_TEXT, parseBuild, parseLine } from "../lib/parts";
 import { canonicalSeller, fixtureName, normalize, rejectDecoys, relevant, type Listing } from "../lib/serp";
 import { SHIPPING_PER_SELLER, compare, sellerCurve } from "../lib/basket";
+import { normalizeProduct, parseShipping, productFixture } from "../lib/product";
 import type { Part } from "../lib/parts";
 
 const inr = (n: number) => `₹${Math.round(n).toLocaleString("en-IN")}`;
@@ -80,6 +81,60 @@ assert.deepEqual(parseLine("Crucial P3 Plus 1TB NVMe SSD")!.must, ["p3", "1tb"])
 assert.deepEqual(parseLine("Corsair cabinet")!.must, ["corsair"]);
 assert.equal(parseLine("   "), null, "blank line should parse to null");
 assert.equal(parseBuild("a 1\n\n a 1 \n").length, 1, "duplicates and blanks should collapse");
+
+// --- relevance regressions found by real data ---
+// "h5" as a substring matched "NZXT H510i", a different product; short tokens
+// are whole-word matched now. "rm650" must still match "RM650e".
+const h5 = { slug: "t", label: "t", searchTerm: "t", must: ["nzxt", "h5"] };
+const titles = (t: string[]) => t.map((title) => ({ title, price: 1000, seller: "s", link: "l" }));
+assert.equal(relevant(titles(["NZXT H5 Flow Mid Tower"]), h5).length, 1, "H5 Flow should match");
+assert.equal(relevant(titles(["NZXT H510i Mid Tower"]), h5).length, 0, "H510i must not match h5");
+assert.equal(relevant(titles(["Sony INZONE H5 Headset"]), h5).length, 0, "headset must not match");
+const rm = { slug: "t", label: "t", searchTerm: "t", must: ["rm650"] };
+assert.equal(relevant(titles(["Corsair RM650e 650W Gold"]), rm).length, 1, "RM650e should match");
+
+// --- product endpoint ---
+assert.equal(parseShipping("Free", undefined), 0, "free delivery is 0, not unknown");
+assert.equal(parseShipping("+ ₹300", 300), 300);
+assert.equal(parseShipping("+ ₹90", undefined), 90, "should read a rupee figure from text");
+assert.equal(parseShipping(undefined, undefined), null, "unknown shipping must stay unknown");
+
+for (const part of DEFAULT_BUILD) {
+  const file = `fixtures/${productFixture(part.slug)}.json`;
+  let raw: any;
+  try {
+    raw = JSON.parse(readFileSync(file, "utf8"));
+  } catch {
+    continue; // product fixtures are optional
+  }
+  const { offers, history } = normalizeProduct(raw);
+  assert.ok(offers.length >= 1, `${part.slug}: product fixture has no offers`);
+  for (const o of offers) {
+    assert.equal(o.seller, canonicalSeller(o.seller), `${part.slug}: non-canonical offer seller`);
+    assert.ok(o.price > 0, `${part.slug}: offer with no price`);
+    // Totals must be arithmetic, and an unstated charge must never be dressed
+    // up as a stated free one.
+    if (Number.isFinite(o.shipping)) {
+      assert.ok(
+        Math.abs(o.total - (o.price + o.shipping)) < 1,
+        `${part.slug}/${o.seller}: total is not item + delivery`,
+      );
+    } else {
+      assert.ok(!Number.isFinite(o.total), `${part.slug}/${o.seller}: total implies known shipping`);
+    }
+    if (!o.shippingStated && o.shipping === 0) {
+      assert.ok(
+        !o.notes.some((n) => /free deliver/i.test(n)),
+        `${part.slug}/${o.seller}: derived zero shipping although the seller stated free`,
+      );
+    }
+  }
+  for (const s of history) {
+    assert.ok(s.points.length > 0, `${part.slug}: empty history series kept`);
+    const dates = s.points.map((p) => +new Date(p.date));
+    assert.deepEqual([...dates].sort((a, b) => a - b), dates, `${part.slug}: history not sorted`);
+  }
+}
 
 // Small sets pass through rather than self-filtering into junk.
 assert.equal(rejectDecoys([{ price: 5 }, { price: 9000 }] as Listing[]).length, 2);

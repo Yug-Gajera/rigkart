@@ -1,0 +1,982 @@
+{
+  "search_metadata": {
+    "id": "6ac93b5ba8dce6367a908ed4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oO5-9ziKDZGMnyyEEKqnx3dsTjTuQ1oj1UugSTRpkrw/6ac93b5ba8dce6367a908ed4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oO5-9ziKDZGMnyyEEKqnx3dsTjTuQ1oj1UugSTRpkrw/6ac93b5ba8dce6367a908ed4.md",
+    "created_at": "2026-10-09 19:07:07 UTC",
+    "processed_at": "2026-10-09 19:07:07 UTC",
+    "google_product_url": "https://www.google.com/search?ibp=oshop&q=search&prds=catalogid%3A249271284799620658%2Cproductid%3A15343591086845979714%2CheadlineOfferDocid%3A1399932922438420357%2CimageDocid%3A6157075146154059128%2Cgpcid%3A10757440167638151806%2Crds%3APC_10757440167638151806%7CPROD_PC_10757440167638151806%2Cmid%3A576462912354909135%2Cpvt%3Ahg&hl=en&gl=in&udm=28",
+    "raw_html_file": "https://serpapi.com/searches/oO5-9ziKDZGMnyyEEKqnx3dsTjTuQ1oj1UugSTRpkrw/6ac93b5ba8dce6367a908ed4.html",
+    "total_time_taken": 14.5
+  },
+  "search_parameters": {
+    "engine": "google_product",
+    "page_token": "2YzPQHicdVTLrqvIFY2SH8ggH3DmV76iigLMOfKAR2GMDZhXYZhYvGyMeRsbsPI153a31Bl2omSa3-ge5Fviq2SYzJa0tB9rra39r9_98TO7_ONc7LSo69BOg6gbbvv2wZoLQf-57Zv0ngyX9G-AoRHN8IBaskvE8BzPAfRzEg1R2Zwv6S8Q8ZADcIk4nmchxTLLX_IsSstLnZmnU9bLTXJJ_wponudpyEOI6CWCFM1wf7lU0Tn7D80ChqM4BqAXQNRrGFx-69Pbr2gvHcGL4BCiAMux9BIwYEmxf97bpnz8P-SP3T3r579L_T25ROUXWbaZL4Bdi18YlqJ-PLfJd1H_o-5b9ZLDcCxi4WsBmkE8xQOa-dY-hs_8_MP9Xmb__DyXn5f6My8_s_qnJmofp-S33_8JN6Ms3UbJ8tqWyDblwOlBoFK7hPR-rc12EUbuldkYtVJ4spinlI6iOh8PT1EmqgLSK7mGRa5lZevZMDy5QKvjZ4pjYoB4DUyrtB8WCfvQM2hfFbFXMcSiLBCQMDLolsmqcpd5-T2qQxJ5TJPQdpnQRmsDjfYkatDhlXbksvAKbe_57fPV85bhsonLVEuvIfAqfjrQBqurRLfq3DvQtpg87YCQto19aiBeyCSq3dlAvNounh2CmYTwga_at5Tw2-yQsx6-TiHVFg5JVbuwt4af9roDUOC1NZHJaBJ7jFSN1WE7O1Xep1BDVpkCH2-gv8ZjTF9B5m3GWFWsVOFNtyCyUWpzhg0xJWmQrJVTQMRDUg0ogilKFF7KqhB6Pp5sdwMDP80DqGFfPqNYOSPLI366NiRSKlu_QgMB7RBdczldK9uX_jGuc8YC1qi75JEquqPAtHNxmycHTLm4mQ1VoRIgjmkR7neeYqwvmmirxmz6oRevb5OvprOr5kPqvvKrwN152Rz7xPFwmLuYr3-Ybv3pV0pQmMExWZAwbTjelflS2Hh59Mhw5juu0GZufAcc__38GZamEPVT0jTXS_bbH2LH2MgrQTMBPKzpRZgmHi-4UnMxLlCr4p20T3eTcJucmaa5HCWwYzvjeL7RzzQODkdyXUSt0HSkUAWokanF_eXkyNsAU5PVxMNk10S5oEb4eHNMyVlJwuaFsGBL6tERdOxsXLySztbmyGLx403A0kqIIh5rLXQD6pZ5-plvGrMbNTHDVbwdpOBZDI1mLplFdTzdtpqOyDq7F_GlP3-8rU1zvcNHQfQcfMQHrO_djWmsXgphxi-plEMnHvBsFoF3V1_91xGE4Lu06t83-xUHv0JAfwVL9BXwaPHurGb84OHdadZXRqrnY0gBYuhr7-Ptu21Sl0iSgB1oYdGc1rKjqd3S2vRayFCOMOJi25hUQXcsiodIZWpjSnKvrn2NVeo7jUchYMx2Z8sR4tMtVY0tZ3OLRMqGbtG0_cLQhZev-3pbmJUJBXnLdKW8lQVLDWOnE7cLewMbcbhye2dc0Dq6CDSJaZt0XFTuBHnTpAvvdMh3pO8tHjW5nR2QS2vP8FnVJleMvaAG3XIZ8aQTcr4HO-OJAC1MfJSj3pvu2u2VkLwEByGrelgfqMcjPI1zed6HdpOg4_TIKGE6J8NB3WdYzsIFsW-LR7JPh_2tny6Vu1nboU_310fpbgU825bq9MJpL17VmQcTIdb9WKRL4zDmenG34AId1ZtPid4mCFun2ep9AjTLTZtR6Eik6Yr76BT4JPVeKq_lcSw25b5AT2GdzJU0frwdj06W3Pts4bj2fiWIRi6wBWAOGzC1nFaDA7PThnkhT07kOErdFkUmlg_lEDN8u42qO88Xk724mZDa7CyDYmp7PD1j5JU7OoiDzdnukqzy6XqLT-6M7ABLH28yWeExYFweCDYIfE9TVY2aDPBYeIh7vb-8-TfOHkeD",
+    "gl": "in",
+    "hl": "en"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9u-VLbETJ-E0b01epSwprvpOFwrAdUPHVqID2kTShY2eiHF0ghCeHtWWvJi2CKMlRyxxaCKCLfikRHTCPtr44qinThY_usC9Immo1D7cAkt-H9H55LeFHfNI",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_Lnq2UrimAjCNWZwxOo1sVzbay5d6v8--pVKqfuX03Cxvu2uu4iLhjW6egG-CuebyQ5LEUFE7EWwx-vGk8g3UC-oT_zKl91lSznFeW7FV5ym9Z3JZ39_W7Gg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQv1n4BnJwN5aFHFB_VP9lgMXTJdOE5yxZOeiedl3FXVPEIEX1PUWYNa2KQ0SsRSwb4cxXdWKaVmqIpzhtgQyQMbN56VuG0prg0S1wrzCl9X8mVnYhjJRK7kd8",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDHeKor5lGqh3cm1lFappw4hnsMuIZS0AiVd6v0PFtZDzpLZNCQP6RuqERT5l1W4EvynpHT1F-J5LVmcJ4xGDJp0fn3u45uRSuTDO7P3L7BCTuPJ64-Hh_CW4",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTm4Mqrzxb8gc_p8pJysZMblhjKN3Dw6zl2Ck7AwonR2E0CQWyVzEXc6Ek7f42tEt4A6iYrcnGXZrLBguSyB4uSh1_nB02PE5VPnhsLIfqUP3DaBExx5yz3pA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTc4hYoUB4Pym1ew0NBLIwiHOWEXV0M5--l8OJPFI-MI_H90l3QdGN7p1i-PFmKNf1FhAWJ3MAnTQFAN7pQkkRITsq6yFkEvDukKkYgYuHig_UMl6fJFRFQIQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKPWi7_Ir8AYthZsXqz2sMN7-GumXZcfrs73_q9T29a8V99ST5XiuhIPIEHV-sMQ0-UDkMa8lz5pfIE_paDXSD0IjdzaXdVBrSsA0WVxoSDJvS5TEQq9TUWg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ8JRJjie2tOAc26E5uMqWbwBMd0coKR9tzLj9EAX5yACJM3vj5rQc2uB0CO2VYfcf4GHrEUzVIR_ITLu_7rB-OglZ1jCnkZ5u9UBEUNd8yp_uEPdwyz7EXSA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR4zZEqPilwMoPU1BHkduJO-_SRCDNaknddXnJPGFxkghXwIhtCz5p9XMBy8M_hNgVq6BZmOkOlm9rskUom5SB9hptzRPyWciguTA4BSqwO-zEQACBdwvxb9A",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJ1DPvY54Xa60C6cqFhz6y6DFd93U59c23BH4ZzbwnpHLsGL-kYb-u2ySlgYi_sTiaLk777hAJhJad_IUcEf1nWj7qjSjd2A",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtSJGhLpk0lT1LLuHMY5M-Gh0rxK68QBYRCPuL9KVQ2a0HoPVP28Y4A99kDUSq6kGltBHwJBkj8Ryg_5WWX3Up4a3MeMKadNeeaCgWDF9TPQ-yKVZxhsqAoUo",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBhfMS3D-vpoJ44dnYo6xHwmCejIvFdwswQsEfse-dO1d-9obPQE74kt5fZkEfd3ExSQ9z-xMvJA-9LbEaaX_89ijbs7RYL24kRaBJj-0IlS0DifQBpJtK7Rs",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQw39pgdMCEaJCeP7sndNodw6dK4RJbsUnUrY52MWjhuL80iv0yq8Gxy1sX2NF4bCt2H1X1haV8YdgOYZylPOjOj9EU7OZic96TY6JLfk-8KdR3wEf8pIyRIQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSr2OvwWHT8ynDqT9au5ZE_LuVzt3-7qIez7B_1GipD_4oU-kYlVAYElB6MLkLRRdnMZpIHg8kO3WWI49oIL51Bgs8MFgl6JQ2kPTnG6ljuzhDWhA1ki2EE8rc"
+    ],
+    "title": "Crucial Pro 16GB 5600MHz CL46 DDR5 RAM",
+    "brand": "Crucial",
+    "reviews": 11,
+    "rating": 5,
+    "price_range": "₹24,999-₹28,060",
+    "stores": [
+      {
+        "position": 1,
+        "name": "mdcomputers.in",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://mdcomputers.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://mdcomputers.in/product/crucial-ram-pro-cp16g56c46u5?srsltid=AU7gw4VsH6D7dXhhUrqOmvOLuiCSYpyMvzLwUl4m2363oiODWrdZFjk1cxc",
+        "title": "Crucial Pro 16GB 5600MHz CL46 DDR5 RAM",
+        "rating": 4.7,
+        "reviews": 142,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between 12–17 Oct",
+          "3-day returns"
+        ],
+        "price": "₹25,660",
+        "extracted_price": 25660,
+        "shipping": "Free",
+        "total": "₹25,660",
+        "extracted_total": 25660,
+        "merchant_id": "154110164",
+        "immersive_product_page_token": "SwLU23icdZNJkqNmEIUXvkhdQB38zFSFFoAYS4w_8wYzg0CAAAmJ8BV8iWq7I9pL25dpX8Rby2Ev7V1GvMyMeC_z-_FrlixJN1RN_iuKMygFUBqnGIZEEZKgv47TkF-zpcl_BwSGYwQDEJqkcYKhGArgP1dj9reEUASF4wggKRKjAQFohPylOSdVcRie-m8kIKhnC8CfBY48d6D05ymfv-EmH__X7A-mbRzi_xE_j7flo64-qu6j6T_q7qPov2TD0DbFH999D3XlsGdVA6CBPIxu1tKxx8AZ6QXVgFZUwSCQ3XfUryRlM9tqvrSxJBaR6E0LpdMqJujlqibGPRyb4ZZfATbj66B165gpWnolIOUr8twZ7tsLNHi451nlWQmszcsxZDUBKo6w5ytLiUmBe3thBX7PJgkjqMPEyvMQUePZtTMPf4Q8ud05IeoXPr0p64YHt4Sv3yU-kjlI4LW5a1nr7UUyDOkoxCznQiEWAkEzHcXQ90-PBJGgGCAZjECxnMHLV0fbA4p5Bo0iGP3K76dXxdwDjP70DPsTwLBPgMR3r3BfEwGwDGA4A0VdMqSrEHduDPrtJY5hkV2nYgcd29yznF6z5ElMXHppxqnIO_RmTgw17S6PGVV3hLxiHbiaCN5HN6BESyokQhtlXIev-kYtdDzzpWXfNOXcUQlRKGG07C7hvQgwCQsCxmPfXv6-FX9xeZ4VIFgFzrhLB3jMbul5Zx2kTEfPYQ7fj1YkaXUbU21mOmOQeisPDLFvx0aqzI6CiyXpRYnISibB-jRLOS4RKKk86EM9ibNVb6hu59LA9HID5ZxfCVGJykbw8FjpOV4KutZOG8fvF2PUySzzo4i1oxOnUvcGUGmDSRZyn21LPceTyUw2cjcP5kDVu-MFmkMlkw4X5uWcuo6rnDRGdKzTZTslbHyvlIFYkmyUSIpRShk_5k2mPJZicooj5d6V7pHl3dZHWekcneXqqtkRgDt5Yp3NNAanv4my76etxV1dZL0-Kk5rXQ65rPKGNeuy7lhTPWESWwErKMeockY6QYP1Otw5rg5gsWEY-d7OK1zVLtpBbkVp1IhryTf0Db_z_nHjUA55ED3ZLwmJrsLby8Hbu1Qa7pCyPjptaL2ftSByztX77BGtVgn18GtdJHnX9IVRlsX0D90AYxgGQxkUxTEaf74fQX0-N_nXJ-sAPNHFvwzJeCuzb38KU8jxfc7Bc-fqsq2GbX5yUbB58ujbUl37cge0rvOjLrw7joqlPnON0CXSgNrCTR3SwLN1Ma81xO61Boj6eekyYIs5KvJ-H5mhb2PpphJJq5pe366FlIEQsA-30_vIr70U6HOK5YN-FpEEWSIPsbZcIK6R75V5kNehzyy2rQShZ6PwLK46UEVX0I-GsK7uQdd9QVtct02UVhQyTCGiTkA9zAJwaze9r3mr9aLU92rXdfEEtdYMgtYWhJ_u81R-Q1iRWKBBKrallGee6o6Lxq_nK4m71wVnnrbW138JpnFAkcxfi7rRcg",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SwLU23icdZNJkqNmEIUXvkhdQB38zFSFFoAYS4w_8wYzg0CAAAmJ8BV8iWq7I9pL25dpX8Rby2Ev7V1GvMyMeC_z-_FrlixJN1RN_iuKMygFUBqnGIZEEZKgv47TkF-zpcl_BwSGYwQDEJqkcYKhGArgP1dj9reEUASF4wggKRKjAQFohPylOSdVcRie-m8kIKhnC8CfBY48d6D05ymfv-EmH__X7A-mbRzi_xE_j7flo64-qu6j6T_q7qPov2TD0DbFH999D3XlsGdVA6CBPIxu1tKxx8AZ6QXVgFZUwSCQ3XfUryRlM9tqvrSxJBaR6E0LpdMqJujlqibGPRyb4ZZfATbj66B165gpWnolIOUr8twZ7tsLNHi451nlWQmszcsxZDUBKo6w5ytLiUmBe3thBX7PJgkjqMPEyvMQUePZtTMPf4Q8ud05IeoXPr0p64YHt4Sv3yU-kjlI4LW5a1nr7UUyDOkoxCznQiEWAkEzHcXQ90-PBJGgGCAZjECxnMHLV0fbA4p5Bo0iGP3K76dXxdwDjP70DPsTwLBPgMR3r3BfEwGwDGA4A0VdMqSrEHduDPrtJY5hkV2nYgcd29yznF6z5ElMXHppxqnIO_RmTgw17S6PGVV3hLxiHbiaCN5HN6BESyokQhtlXIev-kYtdDzzpWXfNOXcUQlRKGG07C7hvQgwCQsCxmPfXv6-FX9xeZ4VIFgFzrhLB3jMbul5Zx2kTEfPYQ7fj1YkaXUbU21mOmOQeisPDLFvx0aqzI6CiyXpRYnISibB-jRLOS4RKKk86EM9ibNVb6hu59LA9HID5ZxfCVGJykbw8FjpOV4KutZOG8fvF2PUySzzo4i1oxOnUvcGUGmDSRZyn21LPceTyUw2cjcP5kDVu-MFmkMlkw4X5uWcuo6rnDRGdKzTZTslbHyvlIFYkmyUSIpRShk_5k2mPJZicooj5d6V7pHl3dZHWekcneXqqtkRgDt5Yp3NNAanv4my76etxV1dZL0-Kk5rXQ65rPKGNeuy7lhTPWESWwErKMeockY6QYP1Otw5rg5gsWEY-d7OK1zVLtpBbkVp1IhryTf0Db_z_nHjUA55ED3ZLwmJrsLby8Hbu1Qa7pCyPjptaL2ftSByztX77BGtVgn18GtdJHnX9IVRlsX0D90AYxgGQxkUxTEaf74fQX0-N_nXJ-sAPNHFvwzJeCuzb38KU8jxfc7Bc-fqsq2GbX5yUbB58ujbUl37cge0rvOjLrw7joqlPnON0CXSgNrCTR3SwLN1Ma81xO61Boj6eekyYIs5KvJ-H5mhb2PpphJJq5pe366FlIEQsA-30_vIr70U6HOK5YN-FpEEWSIPsbZcIK6R75V5kNehzyy2rQShZ6PwLK46UEVX0I-GsK7uQdd9QVtct02UVhQyTCGiTkA9zAJwaze9r3mr9aLU92rXdfEEtdYMgtYWhJ_u81R-Q1iRWKBBKrallGee6o6Lxq_nK4m71wVnnrbW138JpnFAkcxfi7rRcg"
+      },
+      {
+        "position": 2,
+        "name": "Amazon.in",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.amazon.in/Crucial-16GB-DDR5-5600-UDIMM-16Gbit/dp/B0CGQ2RD7P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A15S5818E9KZPV",
+        "title": "Crucial Pro 16GB DDR5-5600 UDIMM CL46 (16Gbit)",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery"
+        ],
+        "price": "₹30,999",
+        "extracted_price": 30999,
+        "shipping": "Free",
+        "total": "₹30,999",
+        "extracted_total": 30999,
+        "merchant_id": "141020976",
+        "immersive_product_page_token": "wpgXAXicdVRJkqNWFFz4InUBdfCZqQotAH2mYp6E2GDELEYBEojwFXyJarsj2kvbl2lfxFvLDi_tXUbkG-JlRr4fvybxHDd9UaW_ojiDUgClcYphSBQhCfrrMPbpLZmr9HdAYDhGMAChSRonGIqhAP5zMSR_UwhFUDiOAJIiMRoQgEbIX6o2LrJD_-R_IwFBPUsA_gQ48pyB0p_HdPqGm3z0X70_mLZxiP6H_Dzc54-y-Ciaj6r7KJuPrPuS9H1dZX98972jy4c9qxgADaR-8JKajnzGmZAOKoZjhYUTBJL3jh4LUd7MupiudSQKWSj440zptIJBPV-U2FhPQ9Xf0xvAJnzptWYZElk73wiHOsrS1Bje24tj8M6eZ-UngqzNS5HDatCRXbjnC0uOSMi9vbCQ37NxzEClH1lp6kNqaD078fHHiSe3lYNhN_Pnu7xseHCP-fJd5EOJcwi8NHc1a729iIYhqjBiOc-BEQygZrqyoe-fNxJEjGKAZDACxVIGz19dbQ8o5ik0imD0K78fX2VzDzD601PsTwDDPgES3706-5IIgGUAw-0p6pogTYF4U2XQby9R5GTJbcx2jmube5bTS5a8CLFHz9UwZmmD3s2Rocbd9TGhyo6QFqwBNxPBu_AO5HA-wxjWYcI1-KJv1ExHE59b9l2T24aKiUw-hfPuelqzABOxIGB89u3lb6_4q8fzLHTAAjljFQ-OmtzP7c46iImOtqfUeVetUNTKOqLqxHSH4OwvPDCErh4qsTAbypktUc9yRJIT0Skvk5jiIoGS8oM-lKMwWeWG6nYq9kwnVY6U8gshyGFeQR-P5I7jxaCp7XPlHrvZGHQySY5hyNrhhVOotQLUucJEC1kn21LaaDSZ0UZW82D2VLlTr47ZFxLpcqc0n86e68kXjRFc63LdLjEbrYXcE3OcDCJJMXIu4WpaJfJjzkY3UylvlZtHkjZbFya5q7rzzVMSFYCVvLDuZhq9290F6Xg81xZ385Dl9ig4rfY45LpIG1Yt87JjTeWCiWwBrCAfwsId6BgNllu_clwZONmGYeR7PS3OojThzuEWlEaNqBSPhr7hK39UNw7lkAfRkd0ck-gC314O_t6jzqcdkpeqW5-s91YLQrct3iefqLUClv2vZRanTdVlRp5n4z_pfj4GggYUSaAoQiAIgyEMjnxuq_QrwAGCIgxFfunj4Z4n3_6E44nju5Rz2sbTJVtJ0Alkos-FBxtJXEXKanD3BWEJgQ7O4qokiHJRfeYaHlLZEBt4agfLOTaq6tlr1vk3WxquWjstoadfn_rPqQgwF6629QBQh8Pgt6ukHWc5wXos3uz87NnOudW2EzrEDg9Uy206ywND2q4PV1RmD-hbusrBybdRpxUWHSiCB3XVgMviHXT9CLXZ8-pYrgWYYDIRNrbvIQx5asLnPhAcJV3zjnN4rglZ80M7FOxSE-BP6zTm3xBWIGbHoC7ceN2G6-2o8pyekVyOw2q4L5iDsq__RpjGAUVhfwEcj9GY",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wpgXAXicdVRJkqNWFFz4InUBdfCZqQotAH2mYp6E2GDELEYBEojwFXyJarsj2kvbl2lfxFvLDi_tXUbkG-JlRr4fvybxHDd9UaW_ojiDUgClcYphSBQhCfrrMPbpLZmr9HdAYDhGMAChSRonGIqhAP5zMSR_UwhFUDiOAJIiMRoQgEbIX6o2LrJD_-R_IwFBPUsA_gQ48pyB0p_HdPqGm3z0X70_mLZxiP6H_Dzc54-y-Ciaj6r7KJuPrPuS9H1dZX98972jy4c9qxgADaR-8JKajnzGmZAOKoZjhYUTBJL3jh4LUd7MupiudSQKWSj440zptIJBPV-U2FhPQ9Xf0xvAJnzptWYZElk73wiHOsrS1Bje24tj8M6eZ-UngqzNS5HDatCRXbjnC0uOSMi9vbCQ37NxzEClH1lp6kNqaD078fHHiSe3lYNhN_Pnu7xseHCP-fJd5EOJcwi8NHc1a729iIYhqjBiOc-BEQygZrqyoe-fNxJEjGKAZDACxVIGz19dbQ8o5ik0imD0K78fX2VzDzD601PsTwDDPgES3706-5IIgGUAw-0p6pogTYF4U2XQby9R5GTJbcx2jmube5bTS5a8CLFHz9UwZmmD3s2Rocbd9TGhyo6QFqwBNxPBu_AO5HA-wxjWYcI1-KJv1ExHE59b9l2T24aKiUw-hfPuelqzABOxIGB89u3lb6_4q8fzLHTAAjljFQ-OmtzP7c46iImOtqfUeVetUNTKOqLqxHSH4OwvPDCErh4qsTAbypktUc9yRJIT0Skvk5jiIoGS8oM-lKMwWeWG6nYq9kwnVY6U8gshyGFeQR-P5I7jxaCp7XPlHrvZGHQySY5hyNrhhVOotQLUucJEC1kn21LaaDSZ0UZW82D2VLlTr47ZFxLpcqc0n86e68kXjRFc63LdLjEbrYXcE3OcDCJJMXIu4WpaJfJjzkY3UylvlZtHkjZbFya5q7rzzVMSFYCVvLDuZhq9290F6Xg81xZ385Dl9ig4rfY45LpIG1Yt87JjTeWCiWwBrCAfwsId6BgNllu_clwZONmGYeR7PS3OojThzuEWlEaNqBSPhr7hK39UNw7lkAfRkd0ck-gC314O_t6jzqcdkpeqW5-s91YLQrct3iefqLUClv2vZRanTdVlRp5n4z_pfj4GggYUSaAoQiAIgyEMjnxuq_QrwAGCIgxFfunj4Z4n3_6E44nju5Rz2sbTJVtJ0Alkos-FBxtJXEXKanD3BWEJgQ7O4qokiHJRfeYaHlLZEBt4agfLOTaq6tlr1vk3WxquWjstoadfn_rPqQgwF6629QBQh8Pgt6ukHWc5wXos3uz87NnOudW2EzrEDg9Uy206ywND2q4PV1RmD-hbusrBybdRpxUWHSiCB3XVgMviHXT9CLXZ8-pYrgWYYDIRNrbvIQx5asLnPhAcJV3zjnN4rglZ80M7FOxSE-BP6zTm3xBWIGbHoC7ceN2G6-2o8pyekVyOw2q4L5iDsq__RpjGAUVhfwEcj9GY"
+      },
+      {
+        "position": 3,
+        "name": "Computech Store",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://computechstore.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://computechstore.in/product/crucial-pro-16gb-cp16g56c46u5/",
+        "title": "Crucial Pro 16GB DDR5 5600 MHz CL46 UDIMM RAM (CP16G56C46U5)",
+        "rating": 4.4,
+        "reviews": 44,
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between 15–21 Oct ₹90",
+          "Not eligible for returns"
+        ],
+        "price": "₹25,310",
+        "extracted_price": 25310,
+        "shipping": "+ ₹90",
+        "shipping_extracted": 90,
+        "total": "₹25,400",
+        "extracted_total": 25400,
+        "merchant_id": "542431472",
+        "immersive_product_page_token": "OEMqGHicdVNLrqNWFBxkI28DbnH5XXhPHgC-5mP-fzMhGDBgMGDABlvZQjbxXtJSZ9jJZjobyTTuKMNkVlKdU1LVOfXzlzSZkqYrquwrTrI4BDhDQpalcYymmC_90GXXdKqyPwBFkATFAoyhGZJiIQsB-WvRp98pDFKQJDFAQ5pgAAUYjP6tOidFvume_O80oOBzBJBPQGJPDZz5GLLxG2kK8X_t_mTaxib-H_Kjv03vZfFeNO9V-14273n7Oe26usr__OFHR5c3a04xAB5KXe-lNRP7rDNiLVIMx4oKJwwlb4cHhSg_zLoYL3UsbvNo6w8T1BmFQPpxVhJj2fdVd8uugBjJudOauU9l7XClHBjI0tgY3tuLYwjOWuDkJ0KcLUixw2nIkV20FgpLjmnEv71wSFhzScIipRs4aewi2J89O_XJ-16gHwuPonYSDjd5fpDhLRHKnShEEu9QZGmuas56exENQ1RRzPGeg2IUIs10ZUNfPz1SVIITgGYJCicyljy-utoaQPYZNI4RzKuwHl5lcw0I5tMz7E-AID4Bmly9OuuSCoFlAMPtILykWFNg3lgZzNtLHDt5eh3ylePa5prj9ZKjT9vEY6aqH_KswW_mwMJhdbmPuLKipJlowNXEyDa6ATmaDihBdZTyDTnrDzgx8SgcLfumyecGJlQu76NpddkveUiIRBiyPvf28v1WwsUTBA45YEa8sYgbR01vh_PK2oipjp_3mbNTrUjUyjqGdWq6fXjwZwEY27buK7EwG-hMlqjnR0ySU9EpT6OYkSKF0_Kd2ZTDdrTKB67bmdixrVQ5UibM1FaOjhXyyVhueUEMm9o-VG7QTkav02kaRBFnRydegUsF4KEiRAtbRttSzvFgsoONLebG7GC5Ui-O2RUS7fL77DgePNeTTxq7da3T5XFKuHgp5I6akrQXacjKR4lUsyqV71M-uLkKvUVu7mnWPNooPbqqO109JVUBWOgT5z5Mo3Pb21YKgkNt8VcPm6_3gtdqj8cus_QgqnmaV5ypnAiRK4AVHvuocHsmwcP52i08X4ZO_iAIelePszMrTbRy-BlncCMuxcDQH-QiBOqDx3nsTrV0OyU0PqO3l42_9uBhv8KOperWe2t31sLIPRe70adqrUBl97XMk6yp2tw4HvPhn3Z_ZQgWZ2mIYRR4_hjJYPDjXGVfKBInCUBC_HOX9Ldj-u0vNOx5oc1459x4umSrfg1Ux1cE1c2sAygF3-exkLBwDxsxDwNT5PuLGvhJ-rATzaM6reU1Z-OPeat0RqBNVtM9QnxZskCj9m12S2uLypF_Sc7Tkons6dBuS8MtgC0uldbovi5tfR31ToTsUvV6UxOp1pcUO9nUUyoq-ySoiWiRw71v4855O-tA2XpIVw00z95G1wOkTZ5XJ3K9RSkhU9FTM8GWXdSUjRrqdIjLZCBljS1xs__0lOKLZ2Hol2Ucjt8wbktNjgHTUmn2GbqfjzaISiveBYf0PArqPihe_y0wQwIIqb8BoQvRdA",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OEMqGHicdVNLrqNWFBxkI28DbnH5XXhPHgC-5mP-fzMhGDBgMGDABlvZQjbxXtJSZ9jJZjobyTTuKMNkVlKdU1LVOfXzlzSZkqYrquwrTrI4BDhDQpalcYymmC_90GXXdKqyPwBFkATFAoyhGZJiIQsB-WvRp98pDFKQJDFAQ5pgAAUYjP6tOidFvume_O80oOBzBJBPQGJPDZz5GLLxG2kK8X_t_mTaxib-H_Kjv03vZfFeNO9V-14273n7Oe26usr__OFHR5c3a04xAB5KXe-lNRP7rDNiLVIMx4oKJwwlb4cHhSg_zLoYL3UsbvNo6w8T1BmFQPpxVhJj2fdVd8uugBjJudOauU9l7XClHBjI0tgY3tuLYwjOWuDkJ0KcLUixw2nIkV20FgpLjmnEv71wSFhzScIipRs4aewi2J89O_XJ-16gHwuPonYSDjd5fpDhLRHKnShEEu9QZGmuas56exENQ1RRzPGeg2IUIs10ZUNfPz1SVIITgGYJCicyljy-utoaQPYZNI4RzKuwHl5lcw0I5tMz7E-AID4Bmly9OuuSCoFlAMPtILykWFNg3lgZzNtLHDt5eh3ylePa5prj9ZKjT9vEY6aqH_KswW_mwMJhdbmPuLKipJlowNXEyDa6ATmaDihBdZTyDTnrDzgx8SgcLfumyecGJlQu76NpddkveUiIRBiyPvf28v1WwsUTBA45YEa8sYgbR01vh_PK2oipjp_3mbNTrUjUyjqGdWq6fXjwZwEY27buK7EwG-hMlqjnR0ySU9EpT6OYkSKF0_Kd2ZTDdrTKB67bmdixrVQ5UibM1FaOjhXyyVhueUEMm9o-VG7QTkav02kaRBFnRydegUsF4KEiRAtbRttSzvFgsoONLebG7GC5Ui-O2RUS7fL77DgePNeTTxq7da3T5XFKuHgp5I6akrQXacjKR4lUsyqV71M-uLkKvUVu7mnWPNooPbqqO109JVUBWOgT5z5Mo3Pb21YKgkNt8VcPm6_3gtdqj8cus_QgqnmaV5ypnAiRK4AVHvuocHsmwcP52i08X4ZO_iAIelePszMrTbRy-BlncCMuxcDQH-QiBOqDx3nsTrV0OyU0PqO3l42_9uBhv8KOperWe2t31sLIPRe70adqrUBl97XMk6yp2tw4HvPhn3Z_ZQgWZ2mIYRR4_hjJYPDjXGVfKBInCUBC_HOX9Ldj-u0vNOx5oc1459x4umSrfg1Ux1cE1c2sAygF3-exkLBwDxsxDwNT5PuLGvhJ-rATzaM6reU1Z-OPeat0RqBNVtM9QnxZskCj9m12S2uLypF_Sc7Tkons6dBuS8MtgC0uldbovi5tfR31ToTsUvV6UxOp1pcUO9nUUyoq-ySoiWiRw71v4855O-tA2XpIVw00z95G1wOkTZ5XJ3K9RSkhU9FTM8GWXdSUjRrqdIjLZCBljS1xs__0lOKLZ2Hol2Ucjt8wbktNjgHTUmn2GbqfjzaISiveBYf0PArqPihe_y0wQwIIqb8BoQvRdA"
+      }
+    ],
+    "stores_next_page_token": "89DM0nica15aklmSk3pTzbmoNDkzMUchoChfwdDM3UnB1MzAwNejSsHZx8RMwcUlyFQhyNF3SXF-USbz4ty8fC4AU2MTCw",
+    "about_the_product": {
+      "description": "Low-profile heat spreader Dissipate module heat and enhance your gaming rig with a sleek, modern look. With our integrated low-profile heat spreader, Crucial DDR4 Pro can even fit in smaller PCs. Supports Intel XMP 2.0 Achieve easy performance recovery on CPUs that suppress rated memory speeds with Intel XMP 2.0 turned on in the UEFI/BIOS settings2. Get the full value of your investment without overpaying for performance. No-fuss memory for gaming rigs Boost in-game frame rates and eliminate screen tears. Enhance gaming rigs with our sleek heat spreader without the fuss of chasing B/E-die, LEDs or the risks associated with overclocking speeds and tuning latency. Improved productivity for creatives and professionals With Crucial DDR4 Pro memory, improve system speeds to render faster and multitask with ease, even with multiple browser tabs open. Micron quality and reliability As one of only three global memory manufacturers, and with 45 years of memory expertise, Micron delivers cutting-edge engineering and superior component and module-level testing for all Crucial DRAM products.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "Crucial"
+        },
+        {
+          "title": "Type",
+          "value": "DDR"
+        },
+        {
+          "title": "ECC",
+          "value": "Yes"
+        },
+        {
+          "title": "With Heat Spreader",
+          "value": "Yes"
+        },
+        {
+          "title": "Capacity",
+          "value": "16 GB"
+        },
+        {
+          "title": "Speed",
+          "value": "5,600 MHz"
+        }
+      ]
+    },
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 2,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 5,
+        "amount": 11,
+        "percentage": 100
+      }
+    ],
+    "user_reviews": [
+      {
+        "text": "I needed DDR5 RAM to go with the A620 motherboard I also ordered. Good quality, good price, easy to install.",
+        "user_name": "Mr F. O.",
+        "source": "cclonline.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0flvTTAJeXYG_lOUKRMMI0Cp1TNz2aZ-i8w5eokFrUsDKUKWz7x7uy_FQVK42Bz1Nqxw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Great Speed and Stability",
+        "text": "I love the consistent speed and no crashes. Definitely a top choice for building a PC.",
+        "source": "esaitech.com",
+        "rating": 5,
+        "date": "2 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK01YvjQFSK1hgeFycvauoL_0Vz2MdIsHlfJsO5O2k4c0DpM1OElgaFiDLVjgxzwV5tFFQ=w40-h40-c0x00000000-cc"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Crucial Pro 5600 RAM Review, Good, Bad, Ugly?",
+        "link": "https://www.youtube.com/watch?v=bx8Faob4WAw",
+        "source": "YouTube",
+        "channel": "WootDini Tech & Tutorials",
+        "duration": "7:02",
+        "thumbnail": "https://i.ytimg.com/vi/bx8Faob4WAw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mjpr3-GRu5ma7kKbiDmfhQz3gHfA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSE4j4Y9EObMK7WHzlB9WOOFjLjTyXD00sQoA",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "Crucial RAM for enthusiasts? Crucial Pro DDR5-5600 2x16GB Review",
+        "link": "https://www.youtube.com/watch?v=ZwZjDamHg1w",
+        "source": "YouTube",
+        "channel": "APH Networks",
+        "duration": "1:51",
+        "thumbnail": "https://i.ytimg.com/vi/ZwZjDamHg1w/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kQF9VCmmRJ7qExVnlSY65BRf7MVA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQAmccXU_walIF4eXOOTiFXuiAzPP4z3PReVQ",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "Is the Crucial Pro DDR5-5600 Stable? | TMP",
+        "link": "https://www.youtube.com/watch?v=6UNAxMfbg84",
+        "source": "YouTube",
+        "channel": "Tech Man Pat",
+        "duration": "11:24",
+        "thumbnail": "https://i.ytimg.com/vi/6UNAxMfbg84/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nBFOtoK6iu4vLtgml2_OWhyYIg2A",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ],
+    "more_options": [
+      {
+        "position": 1,
+        "title": "Crucial RAM DDR5 5600MHz Laptop Memory",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSI9X1GVn7pinYwyi_hgm3lDKmEdTDgl3k3i6ZDm5U4dQnWM26qD685oBewSQhQIbJD8xOvyx3N6ooy0m8mQLXauRl0v1uyuQWbUyu4FAzxRAgtMGHGQHjNyw",
+        "price": "₹27,999",
+        "extracted_price": 27999,
+        "reviews": 459,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iXQ9y3icbVVJzuvGEQ6SC-QSb_Ugo5vNMTvOg0RSnMneCJxEUiRFSaREifAhcob_xQacpWMkW1_DXvgspp6zdAONQtXX9VVVVw-__eXvH2Xzv-q0M9LrldwZBHmdxv3lQdsb3vzhchuKez41xU-QQiSiOAhYmiUpjuEYSP6Qp1PaDVVT_AdyLAA0zTA0gATJIpYgf6zLtOiac2kfj-VNGvJ1Gbl6Q5Jj0DoYBgIAmX83fVqVX-GfIEkBwCKKICnEkRxBcIj9civGX4i9eED0ysqsBIikaIIjVvnt3rWlw59j313v5e31X_F2z5u0-yxJLvUZ0qrwmaIB-K66vNP5E7cvfVP8SDE0Sa8Ay1EEoBFHUV8uj-mjrj6q7qM5f9TdR3n-fkgvj2P-618t-ZZL4iMXneByCSUXeLDAYSeDAsBt2oVNocK4WIxdvrh0FhdmEXYAL8atbA23UC51oARURhSN1yuvMqLumfo0E0CRDjBSO9BhBsN0F5vIV7iL12Ixkg3XQjqF1WK0Otz5pzryCWtMI2MqFuyGCMeeZE3RuX36hCEmvpFkmjLkPo9cxdq5kUKEfZGEXQHCF5gipZayvp08aD2SsxKYaEVQ8AwAZQadO2PJSrz-sg9bQ7VUrBe-dbdW3VJwkrcO6XQsyNVin2kYl53h5qe6wbELnYiEWCli94wD62ROXm81KaogjkjgK5aWybWc-kWH20IqI0sIAbdzFXcp1GJrtQNIYJdgPxzM_olwr7RZ3KV-7DphXDyzc7i1pdpITtbV6zsdR7WbNLDxZEXfBXgoTmHoxEqN1ZHMfcvwOxM4EdX7kgtTP9QTUE-451pfC2GwuCcrMK64VTocjUTRdZoTQKqMrWOI3DpdCipVZ1QAahuAmbCCERVKPnv95Mp1UYca3iYxj4I2dBwwkr4kOCaAifOCrucOjRO4S37q-oAwbp5WKz5MUN5Zrk9gzZc5NVWM1Ft0IiOM2nH-9Rxvx18Ar1CTZzPVQ3GTDeWBnDLmis1Nd3JriUvAgf8HZDhIMQRLQoYF3-fD0Dblr3_7p2fp0ick8YYNiVgbLkHesoeQ80Zwlg3bc3DlxbEWbImoUvVl31bjtT2oSomV8DYxFmsg2TrO69F7JpdmeBR3iEZyHsxuvuS6md0pj4l0bezs4BMSPnu26K3RRF7_qsm8K2oHjzdlT_flN1A5-oGWhTfKy-I7sTTlZGO48do4YObSB24ekq9EpJenIOPzJGYPfV7I-JGK9VYVsSZ4FFnvNy3vvElU21Z38oEXAk8-yLFs7n3dtlber1VTVEogSHPrI4IKjjx-Qrxvrvb_7xVA7Gp5Z3Fbpb5_I4j9BhLrROgbSJOb1f4uqKZi6NjQ9geGueagq0AwNjb7zuBw8Mr8fis3nu--GXjBqnn6pKQBOzWXW1l0xGN_45jb5voaCWNDaTPq4H0PyDN-QB1PmZzKLc6FjpythZnYwygeHfdh6n3HpFSpJ3jaXJNnGSMVxTEX8u-of3RVvAaiyMsenGXBfqqSt8sfWb9xJDW3iD4pvO3OwapZtwemzff-Jc7CWYS2cm4vjVrtO8abHNUqj0DTc9WrT6NakCpF0PqLleqbMjr1QlhuoQ7cWWs8rRBnStHxsZFD8qCfBVGNu9bNGj86T_bFovM8wph38UkwmGcDmaxBqgOeo-sY_eG2524ueO6l_cDUm93V2w-VRvtCUhzHLPAD_WRyiu-crssp5Q_PSh-oKc0vKs1w-lEjd0WT66-pvPnljgmeevfKi2454_zo7_zpHhj5DsInfeL9ZW8P_vmhaFGUtY5wXy_p_VUJZhsI4DprC2rmad7we-OEVL6CTny84Mq_sCkRz_fhKQh17JULQvS2HWdvNjq88YSZYAn7UKuRbS3kU4x2i0AI4EWd6fOU0sQsv5sihWtPAiZLNuBY7_w2cba9GWO_r7ZjSLVmJdfD-nccf_4dNBNjoA",
+        "link": "https://www.google.com/search?prds=catalogid:1980066776012483824,gpcid:3638278683456292834,headlineOfferDocid:4868149733337710017,imageDocid:14500835245394922938,mid:576462788952063955,productid:11908618160359028785,pvo:2,pvt:hg,rds:PC_3638278683456292834%7CPROD_PC_3638278683456292834&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "Computech Store"
+      },
+      {
+        "position": 2,
+        "title": "Corsair Vengeance 16GB 5200MHz DDR5 RAM",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT9LH22D8SWsjwpmeJOAsRToGfcue2igG6-_le3yNhMG0kjcPbLH3-Ngtv5TipXlgJZoZMJ9RhKnVv7rtOcLUBkGPqMqqxcw9w4cgJuyD7wlxdu_fM-y5lLrw",
+        "price": "₹27,230",
+        "extracted_price": 27230,
+        "reviews": 13,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oJS9XXicbVXLzqtGEh5lXmBe4qyOHNHdXMzsuBts7jRgNhY3AwYMBmwwykPMM_xnEimzzIwm27xGsphnGfskyyxaraqvq76vqqTq__3lbx959XNxOWjx7UYeNEjeptHqH7S54fQf-6HL7ulUZf8BFCIRxQJiS29JimVYBpA_pvEUN13xhgmK2iKSRoCCYMuyJKSZn8o8zprqmpvncz6IXVpl_6ZpFlGIhpCiEAMQu6Xgv6o2LvLfYQCJLQFIgCiapSADScB-GbLxV2gJpzc_SZGQfUV-FUCi7yzHFE9_jn1_u-fD87_CcE-ruPksig71GdAK_5miCeL7on_T_UnYl7bKfqIYmqQhRTMvhCJf78kv_WP6KIuPovmorh9l85Fff-ji_nFOf_vGkIZUFB6pYOO-90WHcF2gRxIJddkAOdYWj-ixjXxVD50mhg6ICar02oX0PB5FgXPXISvo1xp68vGZ1fipy-rTx8YjJTTSU3ohvmiVQfRafHFMv5XHhKhBuuutGBp-rCyBjgx4DDDKLz4yJGlKEd8ffN6yV5nIJVb1_Ax7eImCgL0YrW9iFA254nie36wxaFTHl3un9fd6O8UZUUoRURNBqCIHlvvkCWJXiVBay_w7e6aUaioZVCI2siE5Q1BrtV9nRPoEY7Q2XeKCawYjHEMtdOByT1sfZc2RMsRSNDFBOTLrumvGBxcn1IHhYo-3fQ_PduCLgd-fI1jyESyeiV9GDrbXeMc_ghaTdtt0nkJhI1jOR-So-CqrGGyRLi0tfhJUUjd7t4mMo8e3GGb3RDIaLBlxULNiHFBVfnXuL9vEIrfEYqTrStR5oWFjaens1uhTEAFfLC8Rnhc7zAa7tp-v-o9RO1XB1V6DQBuPq393Xj2zAW-6jQyOq05KZVb6u2h_DDmEa9-2iZH0RN7WCXC0n8Bxna6ysbOml-ala0YJlohDmEkJ9KEpZ6snadcX85IE2Q63HWHb_1zG4fwrwcnU5JoMIWzyfaJpXdlKo3OyZvZw4cSHkov23wHDAoqBWxIwW_BD2nV1lf_213-4hip-QiKnmQCGu67Hab09-aw7EldJM107Ktww3OE9DApFXa26GG_1SZHzSPaHiTG2GpKM86zF5nLsq-6R3QEaybnTm7lPVT25Uy4TqLuxMfEnxH92TcF9sQmc-tWSOEfYnVxOl1zVk95AYasnWuLfKCcJb2FxzEpaN3C7sYuYvsVO6pPPo0CvCy9F10lIHuq8kuEjFsq9IkQ73qXI0trUnP1OopimcpBOHI9d6SSFkm55qmm88n6tmqJiiMB7y0CUseT5E-I8_eX_o1cE2r48bxXD61atN4K23wL4Ogh9C2hy8_K_CyqpENgmML2OYW4p0RQEHitz-1ZwOrl5eh_yjes57wwcb5QcfZFjvJ2qfsizBj6sgWWGze05Qm1D7WbUgLtFkNfoAdRoSqRYqqOUb8jZWJlpexqFs-08dLVtmJjK1WM0bW7HJQ-RgsKQ9bk36-9TFW5YEDjJBbPEm4siuof0kbQbW1RSA7bHzN0f7EjRy_rE1Knl9WHizwIw5WvdV0phNYw72YqRn4mdmipueRmVjFQoSKvPrVgO8miXKzScTOnY665yd5kwU7IanSvJJ0_qlReUsKmdpPKC62T2Bp2mQRRxTnThNWapAJNUSLGJZXRsrT0NFjs4xGKJVseUm8PNtbpiR3v8MTuPyWsjqRedlT37clsvMXdaCrWjpjjtFZph1fOOPGRVqj6nfPDyA4MXtXmmWbNeo_TsHbzpjrX0AMBCXzhvtczOuz7kXRAktc3fMTHfnwWv15gnbvNuRdU8zRvO0i5I4Qpgh-c-Krx-G8NwvncLz5ehm68I0ft6nN1Za6KNy89wC81TqQSmsZKLEBxWHvLEk7rS1ymm4Sy9hyL6r5lgJjluiHN58OqjvW_1MPLaYj_6VK0XUtm9_o7zL_8HV65jVQ",
+        "link": "https://www.google.com/search?prds=catalogid:10558346315218994267,gpcid:3435454295375979743,headlineOfferDocid:6693536225537139852,imageDocid:1208014135695272419,mid:576462567295546004,productid:9616518809205476120,pvo:2,pvt:hg,rds:PC_3435454295375979743%7CPROD_PC_3435454295375979743&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "mdcomputers.in"
+      },
+      {
+        "position": 3,
+        "title": "Crucial 3200MHz DDR4 Desktop RAM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvp3EgDyY02IaEdH29swnsz-jv3hGd-C1QJD-JCgel7XZSA-oJ0qJVhvARYisZcI5RL9_5-BYpXsW_9Y14up-plua-_zAqByZTHzw1dNK_B_fCyVACzigSow",
+        "price": "₹15,499",
+        "extracted_price": 15499,
+        "reviews": 373,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lx4tyXicdVXL7qvGGa_aF8hLnNWRoxnuZAeYm23AMAy3jcXNgLnaYINRHqLP8D9NpGSZRO22r5Es-iy1T7tsNRqN5veb7_6Nvn_96ZuPvPpHcTns4uuVOuwI6jqNx-HBWBvB-Gm49dk9narsN0iTFEnzEHAMR9E8y7OQ-imNp7jpiyr7lWBIyHEsS0AGsgDSLOR_KfM4a6out87n_Lbt09czkuQ4wEIAKZbnWJoieOLnqo2L_Cv92wsmOIKkaIpkIAAUR9PUl1s2_k4dpdMLIF-LZ2gKQMAAlqeI74-OtT39H_KH6z2_Pf8u3e5pFTeft1uH_gwZVfxMMwD8UAxfLf4PuS9tlf1CswzFEBxFUDzF0oDh-S_DY_ooi4-i-ai6j7L5yLsf-3h4nNM__mzKt3QrPVLJxsPgbR2AghA6TUmZl3JMZKgc3HTOg1Iy1YF2ZPNoyrzht9kdux7lNkNjgOlxwHxtQHNv18vDDEqEFGUft9Mja0zRAMVy8KGPa3gMXXmx8EAnfvTM8W42QIMRGZ3zzukigIG9pk8rcJzU89y0GVBG9ItHpIvploTvpWvW8mLUDlPSGM-kjdwENEGGy84OPDFcxTF2G8p1PZT4zoTanRfLMDDlUrLhbgnBAGMtJLGsnNOm0RDmu6jh49TPLp6C15e86ZDDE3uZFSmDZ-LhaWP-EZORbgJoGupCusRkJ82u9zFezK0Jw1ahbRBS4aWJkpqPTQLqpqzTpg9WV_Fa52I2SHVQVNNxGJheuIZE6ol7sx70xPU6G9RTRuwmT8tUE1DAkefny9e9qQ2uF3il7ZtS6npt1irHEPK95ZpqVu8U3230pLNXP1DizGtapy5euZHJGHvI3e7aTOsp1JYHjGB3cAUKQR3kmjznGJB49aCFzcGAXiSXWelp0T4MBBLXnm2DkXK3om0AGNpP6CCnr2zsrOmlab2tJ-Ut7XpKqUayd0Z46FOQEekWU4m6XGLSWbH9t2W8nX8HgkJPyKIRWn3mxPhB8pATuaYXwQxsyZM50v4Osvzrs736FLIc8WPa93WV__GXvyJT334it8LOgkSg9QNOa-7k8WgEnbyzkB0VKAg0vCf8QtXXY12M1_qkKnmkeLeJNbkdKZvneRdbSzhU_SO7Q3Kk5t5o5iHVjeROI9bXtbGx8CdS_IwsCb2sSYL-9SYLjqSdkGDISHflN1HY-omRxTcryNLbsTjm5V1_E7Sxj9ihxa9mpZ6hxKyLKEfdJCUPfV6p4BFL5V6VIk1ENFUeN7Vgv5WolqUe5JMgYiSf5EA2jq5umS-9X6Om6ZggIcOTNEFmPHX-RAqu8cL_mytAci_k7cXtderHN0Ny30LitUnyW8hQmxf-DqikA2hb0HJ7lr2moCkAHiuLe3twOqE8vd_yDXKdtwZBNEuBuSgx5qZquOVZQzyON569ba7PkdhtaG0mG3g_AqqLHlCPpkSO5TpKxYaazZWduNMonW3nYehtw8Z0rofRtLmGSx6QKhkEvCe8rf6nqtIVS5IgIzjLorWoW3RIH0m7sbdqahJtmKH9wY5Uo6xPbJ0e3SFIvFmCltLVQ6UWx4ZFk62a-Rloeqqi8jKqGaXSBKM_uW15U0a7XAnTydSe77QKaZk004oenSvZo056J0pq0NROUrl-N1mDyaSpH0WCE13EHbtUkE0qUrXBMjr2rj3djvzNActxe-zZcnO4omNfaIwrhtl5TLCL9YvBK659ua6XWDgthd7TU5wOKsPy-lmjDlmV6s8pv7n5gcWL3jzTrFm7KD27B3e64116gHBhLoK7Hq3e7R6K5vtJbYt3DOb7sxCNGovgOmsrWc3TvBGOuwupCgW0g_MQFe7AxUQw3_tFFMsA5StJMvt6nNG8a6INEufXNLJOpepb5kotkn9YRUIET7pjuilmiFl-F2XrvWqC2STcgHN5cOvQ3rdGELltsR89ujYKuexfs-P8z38DafJldA",
+        "link": "https://www.google.com/search?prds=catalogid:2631887721617015719,gpcid:10030309654010607942,headlineOfferDocid:3388071014798754292,imageDocid:14728234543610048554,mid:576462842494750699,productid:14587413497031177339,pvo:2,pvt:hg,rds:PC_10030309654010607942%7CPROD_PC_10030309654010607942&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "Amazon.in"
+      },
+      {
+        "position": 4,
+        "title": "Kingston FURY Beast RGB DDR5 Desktop RAM",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDZS1V3E-b3S37b6Map2av5r6DfttxDLhq1Qm00T6-K7ubaIH1akwSOquql3zU7OnPdDS11Ff9ahJ5GrweSaeUGlF5aDH3w6sj1xu9pUKod4ROrQKirtst9Q",
+        "price": "₹26,450.28",
+        "extracted_price": 26450.28,
+        "reviews": 521,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tTVdH3icbVVLsqvIEXXYG_AmevRCHRTF1zP-nytAUPzERIEKBAgECJBAhBfhNdzn7oj2sO2wp95G98BrMXr2zB5UVFSeyMyTJyur_vWb33_m1T-K695M73dqb5LUfRoP_ZNxdoL1Uz902QNPVfY3QEMK0jwgOIajaJ7lWUD9hNMpbbriDXOAJhmGIzmGpigaQoYhfi7zNGuqNncul3yQO_wtDE2xHMGSkORpjuEphoV_qW5pkX_D_0qRAEKWYViC5CkIOI6mvw7Z-At5kE7bmdy8WI5kAckTgAH8Hw-eI5_-P_bD_ZEPr79LwwNXafNFlj36C2A08QvNEMQPRf8t3f-6fb1V2c80y1AMyfFwY8tv5ULwtX9On2XxWTSfVftZNp95-2OX9s8L_vW3tjJgWXpiyQ36PpQ9AhE0wrUXhBp_saLy4ofdy9PDKL1mlNeKsh-pckCAKm_Ne6bxyG74BJEmdIOCjsIwTePu5SuTl2iTdCaC2VPsj-jqMWnEo2Ogakjrb_vYfNiafTzfzNqSRcJqTCLV7atNeBG-Lb6nB4vjZ1PW9GOoJxMC2QMpNo1qurZC3giBR-KwnrJbo1oaB_Maw9A3Bz9OjKTpl5hM4rz17FTDr7NCUZGmqunqvhC5XPO6NHzZWqymod2ovGFfDGxlWfeh2G889ACaWnhtrgji6Xyj74kqlgiKa3AjaBx5I9quixeBV6iLnaf20I14ItECaGu0kTf83gb8IV6Vlxc1Pq7twSNCddMR2gEHU128B2ozRO3GlbB7yy9mG9h6ph7BeW0iT88Ml1xQAoXluDaSD-0-DfskaxsqlE0zJcwmIxPPjk3bbkQikVXJJzPfBu6SN3286SNnhEdkMiaQYtIbFysN-AldTS2VLYh1M7HInk7iZgxbgVDKrNz0_TjGAgzq0HWJkfJl0bUIcHRfwENeV7mBt-JrcwtlTGV1AVINrEnrzWlrR8fVriKtP2armWSarbrun5dxuPxCCCo9IYf2kuOLTmotvHtccVKH2_NYOQqun_v5D4DlAc2SHAVYDv6Iu66u8l9_9ydkG_J3UBZMB5Cx3vUBrrlTyKORaBXTQW5SoDjWgw8yKjRjPdTFeK9PmponajhMrM2ZULEvs5k6y7Gvumf2AHCk5s5q5h4b1vlBIzYy9LFxgu-g-AU5EtqySYLx7aQInqSfkGApyPCVN1C4xolRxDcqKNKbWJryitkNgj52CdvfAg-H1OsoMesiKkm73fmnMa9U_Eyl8kOTEl1ENFUedrXgvoNojqPtlZMgBkg5KbFiHXzDsbe436qm6ZSEgNlGl4QZT12-g4Jvbfb_akVAbrO8WQzbbhzeCOS-B-S2IPweMNRus78LKukYuA5w_I5l75hoCiIYK4d7MzidUI4fQ75DvveOIIh2KTBXNQ24qeqHPGvI52Hg2WF3f42kuaP1GTbgcSCoNnkCI5nOSqrUCRYbarZXduJOo3Rxvadl3Bo2pXPjmEy7-3HJY6jBOOZD4Z31P12V7oEkCQoCsyI6iyajPX6ebztX1rBN3o4Z-ti7iWaV9Ymt8cHv43M4S8BR27qvtOLQsGhyNTu_ELqBNVReRy2jtO3tNl6cXA7q6JYraXuZ1vGtXiE9k2ZaNZJLpYTUyWhFSYub2jtXftROTm8zGEdJInjJVTTZpQLsuYKaSyyj55q303Dgt9ldDvKhY8vd_o4OXaEzvnjMLuM58APjavGq717v6zUVTkthdPSU4l5jWN646NQ-q7DxmvLBz_dssBjNC2fN2ib44u_96RGYeA_AwlwFfz04nd8-VT2KzrUrPgJifrwK0aoDkbjP-gqreZp3wsG8Qk0ogBtf-qTwey4l4_nRLaJYxihft1_rox5nNJtNskPiTHKkcyq1yLFXapGi_SqSIvGiW6adUoaclXdT5HDrScCejzviUu79-uh-3Kw48W_FxxhuL22hlN32d1z--W86jmN_",
+        "link": "https://www.google.com/search?prds=catalogid:18152668286544533660,gpcid:4312295782712901619,headlineOfferDocid:15547807232958694673,imageDocid:4213376670294318855,mid:576462893547945931,productid:8435502629776519507,pvo:2,pvt:hg,rds:PC_4312295782712901619%7CPROD_PC_4312295782712901619&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "rsdelivers.com"
+      },
+      {
+        "position": 5,
+        "title": "ADATA 4800MHz DDR5 Laptop RAM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTk4Qqu3AwmbltsVwXGBY5dKyDpa0RysvJKYuk-5bh_6paHK8c__hl1Sl8ujjix29LDlC8WG56U0KgQOrY6w9aiRMki0J9ymEl5Skw0Voeti7rrkcvJ4pW",
+        "price": "₹14,360",
+        "extracted_price": 14360,
+        "reviews": 24,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qUFOYnicdVXLzrPGGa7aG-hNZPXL0QzDsTvOh8-AOcNsLAwYMGAwYINRLqLX8P1NpHSZVO22t5Esei2102y7GI3mfaTn8L6jmf_84c-fRf2v8rI30tuN3BsEeZunw_Cg7R1v_jiMfX7P5jr_B6QQiSgOApZmSYpjOAaSP2bpnLZ9Wec_0xxFkixLkAyHOMARgCZ_qoo0b-trYZ_PxSj12ZuFoQiCYGmORTTJAgBZkv173aVl8TtOshxLwxdCMCTBIYJi2K9jPv1CHsQjpAiSpRALCIqiEUcCSNDfHVxbOv4f8PvbvRif_xTHe1an7RdJcqkvkFaFLxQNwPfl8FL8-WWXRIh5peI4loU0TTNfuzr_iWJokiYomgEMwdEcw6Kvw2P-rMrPsv2sr59V-1lcf-jT4XHOfv2jJY-ZJD4y0QmGIZRc4LVGn17wYR_izm_bNYoV7wSG7bQlc6BVXtFVsxu52IGt7AVwLq7hLQBcG2xhayuGm4Ng9l_yp269WZeqcTvXPYXCMwlbK5RdN0duYAbKPlUMPZDaPb4IOJVamCtcilHoOg2WzGtuYHUCWevqwYYfZpwr2cWqsrBdcGPUgaSkrmRIvh9-ZKF1P10rI2-VFQeYCpDQmYS-ZkigTEUhTdkIUqAAS6lEHylVpIRCQmTQBFUaBM3iodaLCYfEmzzj1jrkivX0A311VWjufYv0ropcqKsUBuuc-UKdykqURUriREqbysPqXQRoR1jy5YlyI0pMNVfFKIe5hN0oyq94a0DRuokT5KGptYvj4zgjIBX5IZECdsOtuwVdaHsoeDqhA51ojl3QfvixBfJulRyg6Elo0TEwOjsK7xYBk1TNtVcPRBOEva2Fshe3ESYmKpSrpYjczoqxuI_Dxo9fs7q88ijCmgWzkatWnSJDzWsYZWEJ5CqvQg1_JDGPgiZ0HDCRviQ4JoCJ84Su5_a1E7hbdmm7AAqVh9zRaRUpuA421io57Cw6bCw6afIki0oicP62TuP5F8Ar1OzZlIuTJ4UbNby5bHlUxu6R1LacNY_98hfIcJBiCJaErxv6Q9b3TV38-qe_epYufYMk3rAhEWv9EGQNeww5bwJX2bA9B5deHGvBBxGVqr4dmnK6NUdVKbASjjNjsQaSrfNipPaaDHX_yO8QTeTSm-0yZLp5ulMeE-na1NrBN0j44tmi91ITef23k8y7onb0eFP2dF9-A6WjH2lZeKO8LL6NpSknG_3Ia1OPmaEL3Cwkn4lIb6sg4-ssnh76spHxIxWrD1XEmuBRZHXYNbzzJlFtW93LR14IPPkox7J58HXbevH-lpqiUgJBmkMUgXKOPH-DeN981X_vFUDsq_J2Mb52_fBGEPstJF4LoW8hTe5e9XegioqhY0Pb7xnmloG2BMFU2-zbwfHoFdl9LHae774ZeMGqePqipAE718NY5C3xOIwcM-5uz4kwdpS2oBbeD4C84gfU8XySU7nBmdCSi7UxM3ucxLPjPky9a5mUKvQEz7tbshYxUlEccyH_Vv3fVMVbIIq87MFFFuxVlbx99jh1O0dSM4voktz72DtYNavmyDTZwR_iU7iI0FauzVCr5aFlvNlRreIMND1TveoyqTmpUgStP1mpGpXJqTbCcnO1565a7Wm5uFCKjs-1HJJH_SqIatw27qn2o-tsDxadZRHGvPt6gQxmrSFzqpHqgHVyHaM7jgdudMF6kA49U-32N-_QlxrtC0l-nk7B64W4mJziO5fbdkn541rqPTWn2aDSDKefNXKf15n-nIvRL_ZMsOrtM8vb7Yqzs7_353tgZHsIV_rC-9vB7v3rQ9Gi6NQ4wj0Ay_1ZCmYTCOC2aBuql3nZ8QfjglS-hE58HnDpD2xKxMu9XwWhir1iQ4j-aKbFW4wW7zxhIVjCPlZqZFsbuYrRfhMIATypK32dU5pY5PdQpPA1k4A5JTtwrvZ-kzgfnRljvys_ppBqzFKu-tffcf73fwGYOGWd",
+        "link": "https://www.google.com/search?prds=catalogid:6954488247939092064,gpcid:9394337868998816667,headlineOfferDocid:17522286983648001848,imageDocid:14898618002742932578,mid:576462567072969783,productid:13313981489487433977,pvo:2,pvt:hg,rds:PC_15248538025563940126%7CPROD_PC_15248538025563940126&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "mdcomputers.in"
+      },
+      {
+        "position": 6,
+        "title": "TeamGroup T-Force Delta RGB 16GB 6000MHz CL38 DDR5 RAM",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS9ODEBpmWKAoYkcVkKIOvhSNpA97oO959zbeADS0DBKaYMOiLVCAR9Mtl25CWC0dQljg6Qr9E6P6xMEn5b1Fadyy0dhbyYs-cmSOwEW0PNFJ0nT6UPR-Af2w",
+        "price": "₹27,398",
+        "extracted_price": 27398,
+        "reviews": 22,
+        "rating": 5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-ZekfnicbVVL0rO4FU0lG8gmevSXuyTEw2TGyzw-AwYhXhMXBmwwMmCDDaZ6EVnD96e7qjPspJJpttE9yFpid2fYA5Wke-qee49OSfrvH_78Wdb_Pp23Vna9sluLYa_jsOsfvLuS7B_7W1fc87Eu_gk5xCJOhGDNr1lOFEQBsj_m2ZjR7vSGBcALaxGw_FpAAHCvNfdTVWYFrdvSPR7Lm9rldfEPgRNFwPMsFNYMx4gIsOu_15fsVP4GwzVkWSByLwCyvAAQJ3y9FcPPzE7ZswABXuQZBASBARzgRPDdznfV_e9j31_v5e35L-V2z-uMflFVn_sCeV3-wvEAfH_q3-V-J-3rpS5-4gSe5ZmXBJZ76UUAsV_7x_hZnT5P9LNuPyv6WbY_dFn_OOa__PGsDZOqdJPqkb4PVR_guOpK3fpI4ZpxNykOaHovNuJst5vb4Xx62hFnJI1FgsZhCIDICzZcpm5kPxQNB4iWo1JEwGiVYUgLlV6wkaZRS5YwLO4JmLUsKrQQEoRB4dsa3R0uGz26jLSInHsahPE2SLhUO7E2dMZUs4AdVAyGIk2igi1p6KeXkYTESmzGuh0i8ezQ1MvUio-ajZWEa5jSQnFof8RUnEI1xBiFqd966LBs6MGQM6KHPVZfOWQEOUlTG2kQM37oRNqC1QoFTNVvYwfnZ0suYLXgC2du4_QjW_xjavgwoN4U6KOfQeriOCSRYW0zDVI77OdcleuDAtmiWY9Z9DovKCK8KcwXFywjMEYaRQURGZuG-kGDs6vDXUgol7bWtA28Z9gmXKFZaQDCxjmH3iGozCywUQJ9x6EeCGNzDrXUSRZnCLVpDkmP8oYO3lJlYShu8001EQ1uE2Jdyqh5HlrZSnVq2pp4e3kTHBBlXrlpEtPFoY5OED1nKrVfWtSA9LKryggTmhJiUa0qqtBIP5JYQqQJPQ8MbKDKng1g4j2hj_2u9oi_5Gd6IWFRO7DggiX0g9YxvDPdBnq-BGAz-dEc520Fife3ebgdfwbShhuxy9u4xUKqRd6VhjLhZpK5qtbIK-Uy_QUKIuQEZv2-aewPedc1dfnLn_6KHVP9BqmS5UImNrqe5M16H4p4AK1mudhLTziODfLBRCfdXHbNabg2e31TppvwNgrO2kKac5yszJ2Tvu4exR2igZ06m059btqHO4eFyDQG6pJvkPwFuwp-VVMk89edJvmKsceSrWEz0N7AyTP3vCa_UUlT3o1lmahZ3U0yhi4V-gvx85B9Jgq_zLKWtqNyeJjTwsaPTKk-dCU1ZMyx1W7VSN6bRHddfavtJZlgba_Fmr0LTNd58f6qmuMyBkFeRByDCpE9foOkwH7F_39WAK1fkXcXt9ds7t4IWn8LmddA6FvIs6tX_C2o4mLoudANOkG45oCeABlqd_3uYL_HZX6_lSsc-G8GSXYqiT9vMrIe6_5WFpR57G6icFtdnwNjrThjQhTed4Bt0wc00_GgZVqT5jJlJ2cRxvV-UI6e_7DNCxUyrjSTdFxdk7mMkY7iWAyld9XfXFWuRFEkDcNJk91ZV_E2fxwuK0_Vc4e5JAX-2HqpblfNXmjyXdDHh3BSoLtpm77WTzsq4NHTnfIIDDPXcXUe9ILVOYY3n2u1um0Gr1oYxy_0TmyNGhuFMnEbMz3WWsjuzVZW9Jg2_qEOonZ0e4fP8yhNJT89y5Yw11A41Ej3wDz4nnXZ33bizQfzTt11QrXaXvGuOxl8ICfFcTiQgJhnW9wE3vm6nDNpP5_MjhuzvNd5QTSPBrst6tx8juUtKLcCmU36zAu6tGl-DLbBeCdWvoVw5s9SsOzcLmgfGyOKDo0n3wmY7s-TbDdEBtfJWFA9jdNK2llnpEsn6MXHPj0F_Tpj4unezbJcxbhcEOI_mmHCk0XTFZYn5vWy7ys9cp2FnZVou8iMDJ5cy7djxjOT9jZFDV-eEOGQrMCx2gZN4n1c7DgNLqePIeQa-6RV3etfOf7nf93LbEU",
+        "link": "https://www.google.com/search?prds=catalogid:17067890468730057895,gpcid:4030696230772050590,headlineOfferDocid:7599066417825293048,imageDocid:1814409593014670357,mid:576462895450863034,productid:11414206176476581772,pvo:2,pvt:hg,rds:PC_4030696230772050590%7CPROD_PC_4030696230772050590&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "Cyber Flake"
+      },
+      {
+        "position": 7,
+        "title": "Patriot Signature Series DDR5 4800 MHz UDIMM RAM Single Module 1 x",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYfSk438gVo2TVY4fGPk2wi3vRIvDJOQicT48v5bc6Ae9Z5lNWiHURMOUtHMRORPfYSnW2IFH0H2h7H2PeQ9f6oUack1iSriCFpPj_dlJwG2TUK9ncTT6uGQ",
+        "price": "₹22,499",
+        "extracted_price": 22499,
+        "reviews": 28,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=JfpbdnicbVXLsqvGFU05P5CfuKNbctE0D5EZb8ERIGhoEBMV0AgQTwkkOKrMM803nBu7yhk6rmSa37AH-Rajaw896OruvapXr7V3P_7_p7985NV_i8veTK5XZm_SzHUaD8ODczai9cNw68k9myryE2AhA1kBUFtuy7ACL_CA-SFLpqTpixe84gJFQXpL0VsaQsDQ3I9lnpCm6nLnfM5vSp9V5N88B1kabCGkWFoQhC0HhX9VbVLkX-GfAOToFz8ANKBpZmVk2C83Mv5MH-QTywOBpeGWggKktjS9Mvzt4DnK6Y-x7673_Pb-H_l2z6qk-awoHvsZcLr0meUo6rtieMn5g2Vf2or8yPIcw9HMOgWQ3zKr4S_DY_ooi4-i-ai6j7L5yLvv-2R4nLNfvvm7ejcU-WoobjAMWPEohGMX11hPLvHoqADgZ3lEVLBkjXe2VS3xVWs5YtMNQmL5mgiCzuvjmg2PATEcTJ6ejvfeBXukcZ_-Dttp54IgBLeY9h5JZE6poslhJ-EjpdWhbp-DNqMINEGKhZsFSsmuBRpV1By25J4CGyHNuyBteBBcXnzKXPKmWLLO1FDL2iml4by26LQjAfElmrQjjH0iO4oFjxfSEQpXx2CEue5O-UW6ZZ3XokgCEXQnz8f9Hms-icq7ffHOcU2sVNO0QKfew91wywMQxLU629HgHqlS8muCLGzKocpWPi6r7Im9TBuQp5rnlDYHr27agBampHaZ5Gk2xxZPOCymIGBD4ntOBswBqdM-UIEXX-J3otm617ls7kswjDQrVL2DfbGlUGm4IBx6Cwt0HklB3LhsEhKbgOGSd5rprnnLcRORkExrtsdEJ2t9Ss5XvBLvmqfXYUDCpsS4RLE6gSPNyplmP8OaLT3QeGltcpk-hI5ftjZlThbWoOU3DqLLow_XMTXFONKutiLNa5whWs0eoSbFeDWLY5CFHhMvRnTEHo1abbaBqQWqvXfUeQ4U2w5Va_VcJ0atqRk02LhRl0A3kQdtKW0E3aKXNqZYzYm0VZ_Q54onoV32z2W8nX-mRI2dkMNZqEN8rIbutcFSwC5B4ihqLW3kdv4r4AXA8vSWAevp_j7r-7rKf_nzP5BtKJ-gIpoOoKNdPwRZvT1hAY1Up5oOcuMCRdEueKPDQjeeh7oYr_VJ1_JYw7eJt7cmVO3zbCbOchyq_kHuAI7M3FvNPGSGld5ZxIfGbmyc4BOUPiNHRutusmh8namiJ-9OSLRUZPjqCyhc48Sp0gsVVfklLEkE1exv4m7sY35oAy_DzPtR5p6LpMbdJKcPY34y0SORyzddjncSYpnysKlF90WiO46-V0-iFCD1pEaqdfANx155v7pm2YSGgBPWBwoSgTl_gqJvrfHfc0XB7Rp5qbitvXF4IXD7LaDXBuG3gGM2a_xlqGQj4DrA8Xuev2ZUU1DBWDnbl4LTCeXZ_ZZvkO-9GETJLkXuoiXBdqrW-0Ia-nG4Cfxtc30faXPD7mbYgPuBYrr4AYx4StVEreNMapjZfvLT9jTKZ9d7WEbb8AmbG8d42lyPSx5BHUaRgMXXrr9VVb4GsiyqCMyq5Cy6gvbZI203rqJnNt0eCXrbu7FulfWJr7ODP0QpnmXgaF09VHpxaHg0ubqdn6mdkemovIw6YXSW5oz3rVLetNEtn7TtEb0Xul2FdkSeWc2Iz5WKmZPRSbIeNbWXVn7YTc5gc1kWxrG4XmPJ5JcK8GkFdZdaRs8129PtINw8ajkoh54vN_srOvTFjvOlIzmPaeAHxsUSNN-9XJ-XRDwthdGzU5INOscLxnnH7EmVGe9TfvPzPR8sRvOekebZxdnZ3_vTPTCzPQALdxH958Hp_e6h7cIwrV3pHlDz_b2QrDqQqOu8e8JqnuaNeDAvUBcL4EbnIS78YZvQ0XzvF0kqI5Q_IeTe6nFGs9nEGyTN6xfonEo9dOwns8jh_inREvXOdlw3JRw9q6-iKHitScCnxw11Lvd-fXTfWiuK_bZ4GzFbW4Va9uunc_7frzl7d2A",
+        "link": "https://www.google.com/search?prds=catalogid:11539003280282331426,gpcid:5719523803930822529,headlineOfferDocid:7635218330529998639,imageDocid:13626845112122490045,mid:576462452913784459,productid:8978295597442106292,pvo:2,pvt:hg,rds:PC_5719523803930822529%7CPROD_PC_5719523803930822529&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "Shivam IT Service"
+      },
+      {
+        "position": 8,
+        "title": "Corsair Vengeance 16GB 6000MHz CL36 DDR5 Desktop RAM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUnHnLXxrWNPtW3L4nVAzBsL5L571UJBRZKr5lEccEjTyINAdhj6cIKaRgPrJ4DcU9XX7U4y48rYsnnyJ9c8lzUIGr2kJCclG5cIE6BHDLHWXordbIDtmJeA",
+        "price": "₹28,589",
+        "extracted_price": 28589,
+        "reviews": 41,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PCGQmHicbVVJzvPGEQ2SC-QSXv2Q0d2cs-M8fCIpzmRvBE4iKY6SKJEifIic4ftjA87SCZJtrmEvcpZIdpZeNApdr_rVq3qL_u8f_vxZNv-uznsjvVzIvYHIy3w7TA_a3vHmj9N1LO753BT_hBRBEhQHAUuzJMUxHAPJH_N0Truxaop_kBRBMwwCDESQIV9lEPxUl2nRNUNpn07lVRrzVxlCCNAQUDTHkQxLcBwD_t70aVX-BpMIcS-EJBjEIQgpwJBfr8XtZ3QQjwRkaYKCLItYSHKIRCT13cG1pePvY99f7uX1-S_xes-btPsiSS71BdKq8IWiAfi-mt7tfufZ174pfqIYmqQRy9EkhQD70kx-nR7zZ119Vt1nM3zW3Wc5_DCm0-OU__LHs3xbJHFcJCeYplBygRfVhNOvMIR16qAuTnv34ELlGaPpXGjhhwddaEr1w5ZCr5BnPWq7h6sqZtaGVKRMFEbhFgJjKjT3jhuwuAO_FXLt2iIgMgXfs0DekkAxMVKCyBeIJKrTVMGnPFZgDrjO6t2H165yqS7IjYvVDvGMoeW5ak6E8mqanXX1AnOJt4LOIecUIfcIWgX7ivLwo9rOWpw4vWtYEEPsgTU_F4sr4wQPzhaoXOSe82cODCUK3Xukco4pWXQh57MnF2SkdPdCdmGAZMqLOhrD-oJBN6d-4WX9KtoBlVhS6LvhNORnl7KD9bWHmiyi2c_V7urH4T4JXcXyuzhE6xwG3NM5G0MRjsAKW6qAyiWUuSgLzWcQhq2rTHUmW1IeGIkLDTUdDAoPLZH3XJsit8vAmmDCEDDglrKdxwxVs9fWXe7XpnPuLi9fqAxy-0CpR1tTIm_o9hmgPlJfUZ1hir2-20wJxzhUVDPOSbOHWhIpH8GQrFZo6bmWz4VqPaKBf3o91h1ojUkPNivoDnJd1KGGP5KYJ4I2dBxwI31JcEwAE-cJXc8dGydwt_zc9QFynSCCbqnUaroJIIlmNzsXpwCsbRBaVgjmE17-tt6up58Br1CzZ9PEeDSLdk_Cgd9ZvtR7D7IcDK4PGf4vkOEgxSCWhAxL_ZCPY9uUv_zpr56lS98QEm_YEMXaOAV5yx5DzruBQTZsz8GVF8da8IGiStW3Q1vdLu1RVUqshNeZsViDkK3TYqT2mkzN-CjukLiRy2h2y5TrZnanPCbStVtnB98QwhfPFr1XN5HXf73JvCtqR483ZU_35TdQOfqRloU3ysviW1iacrIxXnntNmJm6gM3D8lnItLbKsh4mMXsoS8bGT9Ssf5QRawJHkXWh13LO28S1bbVvXzkhcCTj3Ismwdft60X769TU1SKCEhzBIWIgiNP3xC8b77y_98VINhX5q3i-or64Y0Q7LcQvQ5BfAtpcvfKvweqqRg6NrT9kWEuOegqENwam30rOB69Mr9fy53nu28GXrBqnj4racDOzXQtiw49DleOue4uzxsydpS2EB28HwA54AfU8ZzJqdziXOjIxdqYmT3exJPjPky975iUKvUEz7tLspYxoRJxzIX8u-tvroqXQBR52YOLLNirKnn7_JH1O0dScwv1SeF97B2smnV7ZNr84E9xFi4itJWhnRq1OnSMNzuqVZ6ApueqV59vakGqFKL1JyvVV-Xm1Buy3EIduUFrPK0QF0rR8amRQ_KoD4Koxl3rZo0fDbM9WXSeRxjzLj4LBrM2kMkaQnXAenMdoz9eD9zVBetBOoxMvdtfvMNYabQvJMXplgV-oJ9NTvGd82U7p_xxrfSRmtN8UmmG008auS-aXH_O5dUv90yw6t0zL7ptwPnJ3_vzPTDyPYQrfeb97WCP_vBQtCjKWke4B2C5PyvBbAMBXBZtI5plXnb8wTgTKl9BJz5NuPInNkXxch9XQahjr9wIgv5ob4u3GB3eecKCWGQfazWyrY1cxWi_CUgAT2qghzml0SK_TZHClycBkyU7cKr3fps4H70ZY7-vPm4h1ZqVXI-vf-X0n_8BUWZuwg",
+        "link": "https://www.google.com/search?prds=catalogid:4536772071217491010,gpcid:3186351882814924245,headlineOfferDocid:2220610569947839970,imageDocid:4229994437292115074,mid:576462896452082224,productid:6745065792039966215,pvo:2,pvt:hg,rds:PC_3186351882814924245%7CPROD_PC_3186351882814924245&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "seller": "Vedant Computers"
+      },
+      {
+        "position": 9,
+        "title": "Crucial Pro 16GB 3200Mhz CL22 DDR4 RAM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbo4Be9TgJdW266YnF96qhihtsfMS47QCV64pf_ne-QLGTHUp4LPjmgVu7b1ndtoyYhhxOF7b-skHSjdILdJVu8vBV_OOyoGFssXTgKuo-5ZzGa3Ho5_mZ",
+        "price": "₹12,404",
+        "extracted_price": 12404,
+        "reviews": 9,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZMQ-ZnicdVXLzqvIEY6SF8hLzOrII5o72XG__AYMdANmYwGNDeZqgw1GeYg8w38yI02WkyjZ5jVmFnmW4JMsk0Wr1PVVf_VVl1T1r9_8_rOo_nG57q30dqP3FknfpvEwPFl3J9o_DfceP_Kpwn8DDEVTjAAInuVpRuAEDtA_5emUNv3lDVMEQ7Iszwg8sxma5QTi57JIcVN1hXs-F3elz99xHAk4liE4mqd5juJJhuf_UrXppfiG_5UGDCAJjuNIlidpgRZI8usdj7_QB_kEeJqkCRZsz1gAwKZBYP548F3l9H_AH26P4v76u3x_5FXafFEUn_kCWF36wrAE8cNl-Cbof7z72lb4Z4ZjaZZkWEog6Q3ZIr4Oz-mzvHxems-q-yybz6L7sU-H5zn_9bdXdZwVuZ8VDw1DqPhEsDaaHWOQxuUrJ3HjhtJoG_iBVQwTqjF8fSYyJNwwFbq4adisdUhYN3tfZxS78ZlUt-4pCW65mq_eKrmBFj4g2S9F2BAZTM7Zaj1TpNW4CYco1lIHTYodoSWvrSioTQqumuIiGsCwmZFerklTummIJqxPQUJJvdfiFWvSdAxADUHZe41juNFC-1q4h7VT440Wrx4TaYkO66mEhEfkdZJsddxgzZAYhWGh4sVFwpTCRMeGr2GUUFnowCR03CiaVEwA2YbS5Eb-w42HMVJ9F9WCjWDSBhVQitjXXMWmosg6IwP7gRoeEpDQtlIvUNXOfjhMHumYtrpErs68Et1ys7pkIbn0viGuWd3MHmo0p7VgWC81bBMXX0M6Btqt6EQaktox1AUDNWUMY-2RI-aWaIKF28TACj6HtcUWkbN3onKPWsFJodQUjUpkxFJnQJgS4GioZh6uFnqOai1B4zRZHdpBO3g2daShoVnOGjq2Oh2x5viOiuc8Hmw_AFIIfSYymkktcRkayccxFilUh55HjDRUJM8mwNF7AT_w-8pD_ppfmxat2jOswYTQxkUKcrDlTjq_C6_O1vOw88FQ4_nPy3g__0KIGjMFLkv1JxvXexp04s6BShs86aKzhDbkxD8ATgAMR_I04Hjmx7zv66r49Xd_ChxT-Y5SRMsFZGz0A8pr_hQKwUh0quUGXnIJ4thAH2R00c31UF_GW33StSLRwvvEObxFqc55tlJ3OQ5V_8QPQI303NvNPOSmnT2YgItMY2xc9B0lfQlcOdiyyaL57aaKvmycAtFWAxOqb-DimSdWld6oqMpvYWkqqFZ_F42xT7ihRX4e0q-jzK6LpCbdJGdPc17p-JnK5YcuJ4YUMHR52NWi9ybRXVffqydRQoF6UmPVPkDTdTbeb1UzTEpSgBUohqSwQJ-_o0Rob_7__hVB8ZvnreK-WfPwRij-e0Buh6K-Byy92_zvgkomBp4LXNhz3C0nmguBxsrl3wpOp6DIH_diF0D_zSBKTimyVy1F_FQN9wI35PNwF7j77vYaSWvHGDPVgMeBoLvkCcxkytRUrZNcaujZWbmJP43y2fOfttk2XMoU5jGZdrfjUsSUTsWxEIrvrP_pqnxDsiyqAZhVyV10Jdjnz6zdeYqeO2R7xMHH3kt0u6xPXJ0f4BBn4SwDV-vqodIvh4YLJk93ijNhmLkelNdRx7S-jXbzxSvlXRu9ciUdH-u90BlVYGB5ZjQzOVdqSJ_MTpL1uKn9rIJRN7mDw-Z5lCSin1wli1sqwGUVpXvEMvqe1Z7uB-HuE8tBOfRcudvfgkN_MVgoHfF5zBBE5tUWNOhdb-s1FU_LxeyZKc0HfVsu5tmg97jKzddU3GGx59BiNq8cN2uX5Ge4h9MDWfkegIW9inA9uD3snpoRRVntSQ9EzI_XRbJrJBG32Vipap7mnXiwrpQuXoAXn4fkAgc-JeP50S-SVMZBsVIU-1GPczBbTbILpJnkSfdU6pHrrPQiR_tVIiXixXRsN6UsOavvpijh1hPEZccdcS63wXr0Plo7TmB7-RhDprYvatlve-X8z38DI-Nwpg"
+      },
+      {
+        "position": 10,
+        "title": "HP DDR5 Module RAM",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXdpAph1I4ujbkz6_b-sBEpoqjrZps0hPpdufFjPFi81YHorzm9Mnq0VeFWMfkp7yiz50m2vx_6-E00FTt1HLq1Km4YSugmCg7wRFQw6YAm3Uxv6rWNiB8sQ",
+        "price": "₹36,910",
+        "extracted_price": 36910,
+        "reviews": 2,
+        "rating": 5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ctv6tHicdVVJruu4FQ2SDWQTf_ThgiiqzUx9Y1sdRXUTQ50tWZIlW7IlC7WIrOH9VAGVYVWQTLONqkHWEvslw2RAEDwHPPccXlzwX7_740dZ_-N03pnp9UrtTJK6TqMzPBh7I-x_Gm59cc-nuvgboCEFaR4QHMNRNM_yLKB-ytMpbftTXfxCspCHPAU4ggEkwQMWcD9XZVq09aW0j8fyJvf5pwrLM9yLf0lAwPE0yVN_rbv0VH7yvzAQQoIEHEXxFAVJkqaob7di_JVypANgX6IkDymaBARLsgxP0987ni0f_g_5w_Ve3p5_l273vE7br7Ls0V8Bo4lfaYYgfjgNn4b-x71vXV38TLMMxZAcR0AeMK88FP9teEwf1enj1H7Ul4-q_SgvP_bp8Djmv_2eVK6GLN0NycXDEMgegaBL4IsoZ0H1KJRJ2odWk8jiipThnHX0iLtqwQ0dpaqJy64i43MrIzXBWBmSojUoD4iOi6shPntx3rQLXivJVgoiUQ06DwS4D1yykE09xMHO69QobvdrFhRxqZgkCnhvfy5sF_BdRFrbvQaIMlQvuQLUhKimBAYORqB96RJhQ8weAuI-HIhU7Z-ZUgy2n6TRWpBpN_lIq5S8Aa6vq7sUKzA7m2ek8E-_VaYIDFO-im2hqgBBU7GaqsW6xRRtu5SNu2aX6uHjwCi04Znog4W6aswiE-OwJz1ciDEGtzhopYKgSU9Vq6RbZkspUK4EqaVVjK2pOu7oOW4tBZHqWmAzCIhk8eQKuWGrF00BLXJoEgnYOFzuSWc1JS6eu6AKMl2sPV98xqQFcdTOEaE2uZbgDE9eBGOQYvrFmHaq8moQ8EF6xqvfqsfQDxQf53TexnO-FnMZmjFSTKhURRXoyTaOBIibwHWJkfJl0d0TIHafwENeX7vYW_Nz2wV69bT01nEba8QaffbIQHcjFadhuw1gsJRy4rvuX5bxdvyVEFR6Qjbbrtrs4SmTl-Hch-4cK8zFm9o69N0_AZZ_zQ3JUYDlmB_zvm_q8rc__BlZhvwFyoJpAzLS-wHnDXcIeDQSF8W0kZucUBTpeEuGJ81YneY0XpuDppaJGtwm1uJeoazjbKb2Eg91_yjuAI7U3O_beciNfXanERsa-tja-AsUvyJbQq9qkmB8nhTBk_QDEvYKMnzlTZxc48Ao4psVFOltLE15xexvgj72CTt02MsD6hlLzLqISnKZpOxhzCsVPVKp2mpSoouIpipn0wjuW0SzbW2nHAQRI-WgRMre8Q3beul-pqbplISvwYQ0CQueOn6Bgr9_4f99KwJyL-Tt4vbaDefNQO47QL4WhN8Bhtq88Hegio6AawPb71n2mhPticBjbXNvB4cDKvP7rdwg33srCKJVCcxZTTE31cOtLFry4dx49ra5PkfS3ND6DFtwdwjqkjyAkUyZkipNkostNVsrO3GHUTq63mNvdC2b0qURJ9PmGi9lBDUYRXwgvKv-p6vSFUuSoCAwK6K9aDLa5Y-s27iylltkFxdou3MTbV81B7bJHX-IsmB-jYF6aYZaOzktiyZXs8ojoRu5hqrzqBWURpOM8eTk6qaObrWSlldoPX_Ra6QX0kyrRnKslYA6GBdR0qK28bLaDy-TPVhMnodJInjJWTTZpQZsVkPNJZbRc83ucHP4m0csjuz0bLXZXZHTn3TGF-PiOGbYx8Z5z6u-e76u51Q4LCejp6c0HzSG5Y2jTu2KOjeeU3nzyx2LF6N95kW7XpL86O_86Y7NfAfAwpwFf3Xs3r88VD0Ms8YV75iY78-TuG-wSFxnfYX1PM0bwTHPUBNOwI2OQ3LyBy4lo_neL6JYRahcIWS2zTij2WyTDRJnkiPtQ6WFtrVSixTuVpEUiSd9YS5TypCz8m6KHLx6gtks3hDHauc3sbvt9lHid6ftGNDN_qRU_et_OP7z3yBqXY8"
+      },
+      {
+        "position": 11,
+        "title": "G.SKILL Ripjaws S5 DDR5 CL40 Intel XMP Desktop Memory",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTC8SKMBj6HnPjZgODNbuD7O3kU6cfNW94xkN_Of154gs3UGqYRmnucdxJY7ixUhbaWi7FqGLSgd-lhFwNien-AdsGgxnTOGldisYGQ7wA0snZsbyHhFf_R",
+        "price": "₹28,999",
+        "extracted_price": 28999,
+        "reviews": 3,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wTP4sHicbVVJruu4FQ2SDWQTf_ThgkiqzUyd1Tyro0RJ1sSQJVmy1dqWLVmoRWQN76cKqAwrQTLNNqoGWUvkSoYhQBC8h7z3nHMB8t-_--Nncf5nedmZ6fVK70xIX8e7OzxZZyNaPw23Pn9k4zn_O2AQjRgBUDzL04zACRygf8rSMW368pz_DcD1AEtTQOAQx7A0w6GfqyLNm3NXOKdTcVP6bD3GwvdgaRpBhudpDgDmr-c2LYvf4J8FAXEsL1CIpyG1VmHpb7f8_gt05QMPaB6xDMMAxCCKQQwUvnexoxz-P_bD9VHcXv-Qb4_snDZfFQUzXwGrSV8ZlqJ-KIc3GZ6n1ps0y3I8xQg0FAD81q4sGI6l2XWHOIAoSK8Jvw3P8bMqP8vm89x9Vs1n0f3Yp8PzlP36-4t6nxS5nxSPDEOoYMoPBTmGYW9pYZ3EZh1dzNYnJU00DyYqIx2BOkaNAe1IcIsu2ZGlenh1XmEllI-XbWRtQ5d0DbtvbVDow4cNEnxsGxMT8sraaY6ahKx3HXLZNhEBVIJCP21wZevNRxHaS6CI0FEt6EMVHqnRDVHVECVPc0qdbCVM_RZ85FG-TRY7PEJQZyrzdEjytEOBLjpTwk02Rm2OMTIDD-UDXsSZaPbJapJmF1aa1XoTgSWVBJWC45KKYuzaZMYetK-4CxlHM62wrVi_wy2JvcnXpdF6gTkDSZTCKvFarAcAM6s_MIHzqksY0sZGobb6F0ooIGPlROYljSvbphoNt0PihxUKIm_OoEVZjQnyTl0IxJaj2ShbfV-ddXNNiMnWJqE-pMd4VRgldaRLVRTg3m_zEEdDVFzy534hY7bY-0hPqjwMqaIRqEQzt_6Wf-1fAOaK7ZAaqMe4RAXZPrO6mTMKKEGUMfvIvlhwUJ2QUHY3JJnWXH1ozRapXykRZtwykQVqCgPBUqu8CvXkYx-LiNSh51F3OlAkz6LA3nsB7OP-7BG8ZJemJZGwd1QGOUGDbcUA2SJpBEi1jfAWX3JAyP6VT3-Z77fTL5S4ZUbfYXaRNpMq5W7ROPb3VfbevWbYazA1_QlwAmA4yNOA47kfs76vz8Wvf_izbxvKF6SIpgNgrPcDyWr-EAr-nepU0_G9pPTjWCcfMCo1Y3Hr8n6tD9q2SLbhbeRs3kSqfZrM1Jn3w7l_5g-A7vTUW800ZIZ1fDA-Fxn6vXHIFyR99R3ZX6vJovHbThWxrB980VJ9I1DfQOkZB1aV3qioym9iaSqoZn8T9XufcENLcBbSr73MLrOkJt0oH5_GtNDxM5WrD01OdMln6Mrd1KL3TqI5jrZTD6JEfPWgxqrlBoZjr3l_U80wKUSAFdbnAeUCffqCxMBa4__zan101sibxW1dDfeNIP47ANeJ0HeApTdr_C2oYmLgOcAJeo67ZlRTUuR-dvg3g8PBL7LHrdj4AX5nECW7EtnLNiX8eB5uRd7Ap3sTuNvm-rpDc8PoE2rAw6XoLnkCIxmPaqrWSSY19GQv3Mgf7vLJw0_LaBsuZQpjn4yb634uYqShOBZC8V31v12Vr0SWRdUHkyo5s6b4u-x5bDeeomU2bPe5_7HzEs2q6gNXZ24wxMdwkoGz7erhrJVuw_mjp9nFidKNTPOry13LaY2BrPHileq2vXvVAm2ca73Q6Wdfz-WJ2RrJ6ayG9MHoJFmLmxofz0HUjc5gs1kWJYmIk4tkcvMZcMcz0jxqvmPPbA83V7hhanYVt-eqze7qu32ps4G0z0_3IwmIcbGEbeBdrsslFQ9zafTMmGaDxnKCcdLpXX7OjNdY3IJix5HZaF5Z3ixdkp2CXTA-iJntAJjZixgsrtMH3XOrR9Gx9qQHoabHq5SsmkjUddIXdJ7GaSO65gVpYgm8-DQkZTDwKYynRz9LUhX7xYIQ-1HfJ38ym2TjSxPkoXOotMixF3qWo90iQYl6MR3bjSkLJ_XdFCVce0K4435DnapdUO-9j9aKk6AtP-4hU1ulWvXrv3L6138AhyBtAw"
+      },
+      {
+        "position": 12,
+        "title": "ADATA DDR5 RAM 5600MHz CL46 Laptop Memory",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGw6WfDfYwbW9pBqv3Mnck4yMrKgLZUXfw4Zs5eD2NEYIeFpSwA9AQnDyiihIdvlLqQAxuQYb_lBNxl7xQZr_-zvq8TmBJWaGHjXYH85F70xFK8WNsXC6v",
+        "price": "₹27,499",
+        "extracted_price": 27499,
+        "reviews": 300,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=N01w23icbVVN0qvGFU05G8gm3uiVXHTznxkgfiVAQPM7USFAgGgBEkggKovIGr4Xu8oZ2qlkmm3YA6_F6NlDD7q67j11zzm3b3X3r3_520dR_6-87I30dqP2BqRu43Don4y9Ecwf-nuXP7Kxzv8DaJIiaR4QHMNRNM_yLKB-yNIxxV1Z5z9RNMfzPGRpioE8WAOC-7Eq0hzXbWGfz8V922VvFoKCPA1pesXhWgB4jvp3fU3L4g-cowiSgyRHcoCD7MrIs1_u-fAzPEhHAFhIsixgGJKCqw7Dcv84uPb2-OfYd7dHcX_9V7o_sjrFn7dbl_4MGFX8TDME8V3Zr3o__UnZl2ud_0izzNdGIEmT7NoOJL_0z_GjKj9K_FG3HxX-KNrvu7R_nrNfvrnIw7SVumnr-H0fbF3C861XogWhqwWGHVi7XK4uCAQog1WEmt4IfUVNrgkRRniMiR7mQTalJDZOpIGtVnFsOY9OGGuni4EdIp89Qrk51-qeQtw5l6TxokB2CZ3wfWpGUQAdVOGiMeSItIK84Zn0Op5DdXyaRC_GxKgGANue4lABEO0cGFsH6PBEWL0VOSC-9gYi-8m6GloYGZV_xShuwCsHfGCjvIpAueQ48JzIakKlIlNfgUjt6xzOFlKEOfcNLbhgxVYsP5MVIlWSMV78OSWsF4LJgnCQmJB_-WqCkBovQWQ5oezuw0v1tJG1QyghPbUDq9fO9UsKBVjPwwDlDYDuRbwkElhcrX96oTnFWKdQWw1WIKoRyDuk4M5rzSVQwSVuc80H1pgEmPbUCmUELRc4I_LWbYtIQaGK5xDlS6Fh0YTVNSFF6SQHjeuPpIMMyYV55GBX8htr9rChho3LrFpMCmMyBck2WzVdwo1NzZwsubrHl8rIVHr1IRAe2fcFCsxE5Z04cpYEWE4GAkeu8irQkl0cCaTfBI5DDBTaio5JgNh5Addzu9rx3SW74KsP58kkXNcJxNAnxv2pwS-vAam34DbVdNINhMl3_jUP9_PPhKDQo2dTVOhTo38675hjJxIGNtXtjnqeENoIfwfseg9ZyFGA5bjvs65r6uKXv_7Ts_TtJ3IrGDaAkdb1ftZwx4D3BqKVDdtzktKLIs3fwbBU9eXQlMOtOapKkSjBfWQtziBl6zwZqT3Hfd098wcgB2rqTDz1mW6eHrTHhro2YNv_RIqfPVvyVjVJ0L9GsuBK2tETTNnTkfwGSkc_MrL4RgVZehtLU142urugDV3C9lffzQLqFUvMMoty0o7S6alPCxU9U6naqVKiiR5NVYdNIzhvEtW21b18FETfk49yJJsHpNvWyvu1a5pOIQkYnqQhmfPU-RMpIHPN_3FW69OzZt4u7uuuH94IyX0L4LpI8lvAUJs1_26ooiPg2MBGHcveMgKXhD_UNvd2cDx6Rfa4FxsPuW8GQbQqgbkoqc-NdX8vcgyfhzvP3je31wCNDa1NJAaPA0G1yRPoyXiSU7lJMhFTk7WwI3ccpLPjPk39itmULvQ4GTe3eC4iUiWjiA-Et-rvU5VuviQJsgcmWbRndevts-fpunG2ambBa5x7u72TqGbVHNkmO6A-OgWTBGylbfpaLQ-Y9UZHtYozoemZ6lWXQc0plYaM_uK21V0ZnGqBlpurHd9qtafl0kQrenKu5YA66q0oqRFu3FONwna0e4vJsjBJBDe5iAY714A91aTqEPPgOsb1eD_wd5eYD9tDx1ab_c07dKXGIDHOz8PJR75-MXkFOZfbckmF41zqHT2mWa8yLK-fNWqf15n-Gos7KvasP-v4leV4aZPsjPZofPhGtgdgZi4CWg52h9qnooXhqXHEh09Mj1cpmo0vErdJW8h6GqeNcDAupCqUwInOfVKinkthND26WRSryCsWkmR2zTB5k4GTjSdOkIP2sVJD21qoWQr3iwhF4kW3TDumDJzk91C2wToTnz3FG-Jc7VETO7urGSXoWu6GgG7MUq669V85__83uAdtPA"
+      },
+      {
+        "position": 13,
+        "title": "Evm 16GB Ddr5 5600mhz UDIMM Desktop RAM CL18 288-Pin",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSV7DlSJZfTeWMKoCq3m6nCZKpAOIHAvDfUG59Dqn9rEo5EvHaFDj4MO7O2i-oqD8XXgQmCSS1IJXTTP7ePih0QnJMJxcE22hbNSHQUhM4fmiXjpct7m3Bi",
+        "price": "₹32,999",
+        "extracted_price": 32999,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AeToY3icLVVJ0qNGFnbYF-iFr1CrClWQJGPvmIdfgJhRbhQIECBGARKIU_gIjr9cjnAv3Y7ura9hL_osjcpeZeb7Mr73vSHz_e-bf7xn5X_z616Pbzdir-PEbRoP_YOydpzxSz906T2ZyvQ3QEICkizAGIohSJZmaUD8ksRTXHd5mf6bBjhDQ0CQNMNSOEFTBPNrkcVpXbaZdblkg9gl2zWGJEgIcYYADAuIbYMz_yqbOM--wr8BGoMAw0mKYqnNF6BZCvs8pOOPX273bHj-RxjuSRnXH0XRIT8CSuE_khSGfcn7F_dGSLKbCJymaBxuMjD4uSnTX8lNDIUzDAMoiOMESVCf-8f0XuTvef1etu9F_Z61P3dx_7gkf377vdTNojDOgu33fSA6mAttInBBiSBvGxXLh5LenfFeCsMiMFR9dCAPMik19gFrOS3y3HDRg1AHSW0-Lcnce3IthYqPOarMG01d2DgiMlHmgxXJgdxfnSao7BY9AqXgEwk1sT_tjaCP0kqXw8bUspaHMeQX5AdV5tcgU2rDiOQxUfrCWdNDKhtYvOpzoNiLX6UCknvNw3LcbzrCFQsHSdLswKBOAW_4jWnHYiEcm2r1V15JV6c3ZA34FVmYDQvtRhfOnoZlYuBmIVDP_mI4iqmj63GxMdMxJWC5shykG57W_d0FerjFUiYNko9-TZwBrwVRggUSWEJRB14ztX6EBPta-Ehy3hKIfCTzTwOTbwkwHTtI4y1XS1aCI5ILx6xl0wP13ZByYLQ1lqoG5ql1ECszyAI0xIGzRcsSYY2sfdjbJlaIZrjpUI3ZwzTMw6UlwSpXxmU_rfoiEVPXCXjRXQvDkLnVCwpxH8i6Uuq8o271CZFvinV8XpMp9ZwoDHwChfXVjbjFEmUprlPBj2T-p2UcLn9gnExOrkXYdC8G3TgIiyS3kE4f4kiHVwWSUf7PrWUBSb8afHsIPyddV5XZn9_94Jqa-AGKnG4BPFK73k8q5hSw7oi1km65NsrdKFL9NzzMFW09VPl4q06KnG0tMky0yehQMi-zHlvLsS-7R3oHcCTmzqjnPtGM85106VBTx9ryP0D-o2sJ7uZN4LSvJ4lzBPXkcobkap70AnJbO1ES_0I5SXgJi2N26-uBU8cO0X3jO0lAPI8CtS68hNpJOD-0eSWiRywUb4qAVN4lieKwqzj7RaJYlrKXThzvu9JJiiTj4GmWufF-jZokYxwCioUkDlOWuHyAnGds9r9zhUFms7xUDNuqHV4IZD5tH8onAOEnQBG7zf4KqCAjYFvA8jqaviVYnWP-WFrMS8Hp5GbJfch2rue8GDjeLDjqKsc-M5X9kKU1_jgMLD3sbs8R13ekOsMa3A8YsT09oKHpLMVShRK-JmZzpSfmNAoX23kYWlPTMZlpRzTtbscli6ACo4gNuJfXv6oq3HxB4CQXzBJvLYro7pPHudnZopKYeHNM3be9jRSjqE50lRy8PjoHswAsua36UskPNe1OtmJmF0zVEsUtrqOSEgqJU9qTEYtBHu1ixU0nVTq2VUtXTYWZlDV0KaWAOGktLyhRXTnn0gvbyepNKklChDgHXXmdXkpAn0uo2NgyOrbenIYDOzjYchAPHV3s9jf30OUq5fHH9DKefc_XrgYre_b1tl5j7rTkWkdOcdIrFM1qF5XYp2WiPads8LI97S9a_UzSem1RcvH23nT39WQPwEJdOW89WJ3XPmQ1DM-Vzd99bL4_c96ofB67zeoKy3mad9xBv0KFy4EdXXqUez0T49F87xaeLyI3WyGk3qpxdme9RjuXn7eBYZ0KJbTMlViEcL_yOI89yZZqp5jCZ-lVFDHYauLT5-MOuxR7rzrab40RIa_J38aArIxcKrptAlx-_z_78kNQ"
+      },
+      {
+        "position": 14,
+        "title": "Kingston FURY Beast 16GB DDR5 SDRAM Memory Module",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZrehIgRjVI1TsNiZNHlA28WPXTf_VXFA9F3cqk74wwEaZj6MkYX00b1pIAPYKst23R1nf8u4mcAQQJC5ei9-0BhNtZKCRj48xX-J6J9-PT38P7O8yv8Vk9A",
+        "price": "₹26,450.28",
+        "extracted_price": 26450.28,
+        "reviews": 47,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=e8XBXHicbVXL0qvGEU4lL-CXOKtTcjHcyY77RRIIhuEyGxUCBAgQSCCBqDxEnuE_savspZOyt34Ne-FnCTrJ0oupqemvp7-vp6t7_vjLNx959Utx2VnJ7UbvLJK-jcOhf7LORtz_0N-77JGOVfYfwFA0xQiA4FmeZgRO4AD9Q5qMSdMVVfZvDvA0S7IUxxCAEwiBooifyjzJmuqaO-dzfle6dHWjaSAQLBBoEvBrNBZw_I9VmxT5V3gl4VmSFjieIxkSrIQrz5d7NvxGHuQj4DmW4GhSYBiCpoWVi__HwXOU459j390e-f31s3x_pFXSfFYUj_kMWF36zLAE8V3Rv-X8ybUvbZX9xHDsmo0AaJajeYEjCeZL_xw_yuKjaD6q60fZfOTX77ukf57T3_96UYdJkbtJcVHfB4pHwEZLgjarYlTWcdvIEcAYqTwJw_kRogx6JCjjxdJgRYwnJSZsBTPIsKn9Yl-wsWdOixbtKe2QGljZhY3j1nifq-WQXqwFNw1AkUkkQSa7QaAnamDmIXPAYUnaioY9xWIw2ShZG9Ohr-EUeTXUO2LfZDQkxxqq2AllMGU1U--1MsZr8raGSbu17ECdzVNQ0G7b3E6tZkLFdm1SQJmqbYPABrnaxKFS9rkmAl-3u0B35ySwqkwLAGr7xQ67Eaman7ZjHC9Z5ejZjNBAusBToIFVO7B2eMlqqNU0bArKpVa9fjlAlVkynTFzzQXRolEBwE-Xcme02AAGWAp8vPrM5r4pZRRJI2yx4db9NmxwjVFBIUUzsG7dMerPp6i3vbajTupE-0iDYdNgW-vpvYKJ07UvbRVf_dYk3FaY7Es5ZaHK-ITFekujpi2Y0kCa7La0oKqNPijDtC0ZGJVn39d8eM22nh74flMG8RUzwcUyTi24pkh77SM8BaQt-VFDnmrmnkdoUcusDAy8jSORQnXgusRA-4rk7gkQuy_gQa-rXOQt6aVpEWieiJivPikMPiheuPYaGzWzTWgIqeUBqiPC07_m4X7-jRA1ZoQO12yInVzeQshetUn0t6bZGudFvcTs9Pe1CwHDkTz9bsfv066rq_z3v_0T2qbyiVJEywFkZHQ9Smv-GAhwIK6q5UAXFzCKDLQlw0I3l0NdDLf6qGs51oL7yNm8Ran2ebISZ477qntmD0AN9NTtm6lPzf3pwUAuNI2hcdAnSvoMHRmubLJofj2poicbRyjuVWj66hsoXPPIqtIbFVX5LSxJBNXq7qIxdJjrW-SlAf2KZXaZpbVyo3x6mtNCR89ELre6jA0JMnR52NSi-w6iO46-U4-ihKB6VCN1f_BNx17jfs2aYRKSAqxAMSSVCfT5EyX6-9X-_7ciKH61vFXc1908vBGK_xaQ66KobwFLb1b7O6GSiYDrAMfvOO6WEk1BoKFy-LeC4xHm6eOeb6DvvSOIkl2K7EVLED9W_T3PGvJ5uAvcfXN7DaS1YYyJasDjQNBX_AQmHk9qotY4lRp6shdu5I-DfHa9595sGy5hcjPG4-YWz3lE6VQUCYH4Zv1fVeUbkmVRhWBSJWfWFbhLn6d24yp6apNtnMHtzsX6vqyPXJ0e_D46BZMMHO1a95VeHBoOjq5u52fCMFMdlpdBz2idIVnzxSvlXRvcciFtL9M74WpU0MjkidFMfK7UgD6aV0nWo6b2TpUfXkent9k0DTEWPXyRLG6uAHeqKN0l5sFzrfZ4Pwh3j5gPyqHjys3uBg9dYbC-FGfn4YR8ZF72gua7l9tyScTjXJgdMyZpr7OcYJ4NepdVqfka87uf7zg0m80rzZrlitOzv_PHB7LSHQAzexH95eB0_vWpGWF4ql3pgYjp8SqkfY0k4jYZC1VN47QRD9aF0sUCuNG5x4Xf8wkZTY9ulqQygvlCUey2HiY4WQ3eQGkiedI5lnro2As9y-FukUiJeDFX9jomLDmp76IowVoTxJ3iDXEud34du9t2HRN-W2yHYJ2-hVp2679y_vW_v5huyg"
+      },
+      {
+        "position": 15,
+        "title": "Samsung 8GB DDR5 5600MHz So-DIMM Laptop Memory Module m425r1gb4pb0cwm",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-c_erSyTTI0i8RbvIdkfrCpJ8tsC-WnIxKci5TIk-h2PR1Fu1naeHwUbpaT0IN32ygeNhaoAawpmGSaLTqhFsLAaMaVe23QO2kZLfa8NjB7_NCgK6d4fKoA",
+        "price": "₹9,499",
+        "extracted_price": 9499,
+        "reviews": 6,
+        "rating": 5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=phyecnicdVXJzrPIFY2SF8hL9OqXWxSjyY55-MxcBZiNhQswmNGAjY2yzzbP8P3pljrLTpRs8xrdizxLcHeWyaJUVefc4dy60q1__-b3n3n1z8v1YKa3G30wSfo2T-7wYJ2dYP0wjH12x3OV_R0wFE0xPCD27J5meI7nAP0DTue06S9V9jeaBCRNbhYcT_A0SVB78GOZp1lTdblTFPko93gzAyy3Byy9JzlAkATJEzT716pNL_mvNE0wgAAURzAMIFmSYDjq65hNP9GudAJ7as9zJEvwLMnQDAAMyf3R9R359H_I7273fHz9QxrvuEqbL7LsM18Aq4lfGJYgvrsM-F3V__D72lbZjwzH0hvEsCzgNqXcnv46PObP8vJ5aT6r7rNsPvPu-z4dHgX--bd_Uu6GLN0M2UPDEMo-Eawq49dZ5OgYoBfwE2WAaZTFNtm0Vh26acQzGZFMVps4R4KRo0YkI9hcz-QzTldbs0BiYk01Qg1T1oZBokyytV6gyidphJ6RPozpNfFylGmYbF6Z4veBbN8DNWkcaBcZVdNRZDqW3hw8qCx5vZBYMRcf8QtUgJt0fmmHoRoSxvNI-RYCZhmo5ohlEflKZh_QRGD0LCylfNhKE0DFJ7xI1WE7W05oq8e1IbOGl8K47JBmhmEUvpLarmHtQ6Qxq7fawAuzD1jz9yDkvfO7Jq1JvBb0mw-JruorjOxbpjFu2iZeQKlD0FhzEpo2bMwD1o6zL5duBhrbap-UowHNUm3WRhgcQx45aGJQWEIbZS9fzSBCyuKDpDs2_Zo32eLFmQNhvcYEzzhRwnht2WS12eRdWEHAlwEol0RWRahgykFJFJPPFaKkSFu1wkqSHOvwAVt_wqgJrWu5bvkRam09kv0qR6GZKwOBlczyO9-2NXW0dTu1V7G1gDLDurzBqwBwDSw_Lo9W7F_xVWyPEU-iyJxsgjFwTVPIN-Jj6JNBqy42MFWk2AdHWRYk23akWDNCdWrU6qbQYJJGDc9RUwSxbXqd__Cp0rOQR3hXs8Z6eI0q4Hgk_stzGoufCEFl5sDhmh1xkMpbFLCdugjwwzBavViV65Fd_gA4HjAcuae3A_E97vu6yn_-3Z8D25C_oWTBdAAZ6_2AcL0_hXwwEZ1iOoGXXII41tEHGV00Y3Xry3SrT5qaJ2o4zpy9NynFLhYzdZ7Hoeof2R1QE730VrMM2LDOdybgIkOfGgd9Q4lfAkcKtmySYPxyUwRf0k-BYCmBAZU3cfGME6uIb1ZQpLewNOUVsx8FfeoTbmiRj0P6dZTY9SkqSTdL54exrHT8SKXyQ5MSXQwYunR3teC9g2iOox2UkyCiQDkpsWK50HDsLe4vVTNMSlKA5SmGpDKeLr6hBGht-H_faptpG_JWMW674b4Zav8tILdFUd9uY2234e-CSiYGngMc2HPcDRPNhUBT5ezfCk6nIMf3Md8F0H9HEES7FNirmqL9XA1jnjXkwx15btzdXhNp7hh9oRpwdwm6Sx7ASOazkip1gsWGXuyVm_enSSo8_2EZbcOlTG4ck3l3Oz7zmNKoOOZD4Z31165KNyRJghKARRGdpyYHB_w4tztP1rBNtscs-Dh4iWaV9YmrsQuH-BwuEnDUrh4q7eI2XDB7mp0XhG5gLSivk5bRGkOyxmsvl6M6eeVK2n6m9XynV4GeSQujGklRKSF9MjpR0uKm9s8VjLrZGWwW4yhJBD-5iib3rAB3rijNI56T75ntaXT50Seeruz2XLk73AK3v-gsFI9ZMZ0RRMbV4lXoXW_rNRVOz4vRM3OKB43leKPQ6UNWYeM15yPMDxx6Gs0LZ83aJbiABzjfkYkPADzZqwBX1-lh91D1KDrXnnhHxHJ_XUSrRiJxW_SVqpZ52QmueaU04QK8uBiSCxz2KRkv9_4pimUc5CtFsR_1tASL2SS7QFzIPemcSi1y7JV-StFhFUmReDEd280pSy7KuylyuPUEcefjjijKA6yP3kdrxQlsLx9TyNTWRSn77dMp_vUf78l4qg"
+      },
+      {
+        "position": 16,
+        "title": "G.Skill Flare X5 16GB DDR5 6000MHz RAM",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAEPo9Fwwd6-CMiAoCW9cQicN8Dg17pTbqMzFsE0y3gSycManQfeMtaXMoadfBJ4UQFU-PCoPNglHBOd9fsSzKu8yjQbWEhVY395VAme6zOpwiODkkUYyAiQ",
+        "price": "₹28,699",
+        "extracted_price": 28699,
+        "reviews": 266,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=967HUHicbVVJzuvGEQ6cC-QSb_Wgh27OzI4zKYlzc9wInERSHCVSokT4EDnD_2IDztIJ4q2vYS9yllDPWWbRqO76ClVfVXV1_-dPf_ko6l_Ky3GfXK_EcY8R13myxgdl7jj9p_E25PdsrvN_QRIncJKFgKEYgmRplobET1kyJ-1Q1vk_KQwHxIbQBAnozQ4A8ueqSPK27gvzfC5u4pBtZgwDGJJmNhsCYATLUhD8o-6SsvgGb0HoLQAOGIakNgFYHOBfb_n02xdLOJEYjVEsyUCWxjeBE99bjime_h_yw_Ve3F7_Fm73rE7az6LokJ8hpfCfSQqAH8rxTQUjScBuhDfmEAOAYGnia1fnP5M0RVAYCwmWoShIQgp-HR_zR1V-lO1H3X9U7UfR_zgk4-Oc_f6dId0yUXhkgu2Noy86AKnc0wh92e6WOZYrwvecKm3tJxJ9y0BOGDXjgKAj2gAqCT5AR5KJHBquIcV2rMxC0GWvtHXGFG-rqCGPKazworNfgagTUScfsqBc3Ut1iS9t4_Yx1BXfS9W9a7T-jIIG6J4cG3BUXNBe3abFi2AcUly-RyC-oN6fvGY_2r0RJFIGjcBvcikXoqbE4p4PfTXWQtBOLtbOXpOrUZsbhZ-L8SVafHEvIimWCsVRXSW3vCamTEkOXTBu_Nqni1V-ig-EoTpi0lbIDPMxw9t9hmJd7_zVx8Yw9WOYyVXnB6PpiE6Y905kqrweBzJAnr66kHdif3iGq6znYS6lwMZcr4IIyYfcjzG06usx8F6Oyp-RquGpxPIRylHQjXaiyCbqnmf9wvuG3HZRMI5J6Gw1Ho9RKEtpN7dOQJpIbasU8p4hVTWS-a5oxqvj-3a2bnmG_MUHrO51-ZyorYk8cgkavwp8WfJEjrDxtjaw6pZ6Rhhioy9VebXV7BCFHO41vm2DiUAib-sARvYLOq4z1LbnrNml7TwkD4m4N_PtrnmSE-rSgmftyJtqFaVevOhSFXj235_T7fwb4GRydk3SOjiJwKNAS-yTI7v4mVq9_kx4WsP9FdLsNi0YQ7w3P2bD0NTF73_-m2to4idc5PYmxEJ1GL2sYU4-606gl_ama8elG4aqd8CCUtFWqymna3NS5CKW_dtMG8wel4zzsk_MZzTWwyO_Q3wilkFvlzHT9PROunSgqVNrep9w_rNrCu4WTeC0byeJcwT15HK65GpIegOlrZ0oiX-jnCS8iSUJK-2HG6dOQ0yPnedkPvGKBGp98lLcz0L60JaVCB-JUB0UIVZ5lyQqa9dw9tuJYprKUTpxvOdKJymUdAtpprH5_ZY1SSbbMFMsTmJ4zhLnTziH9E3_v1oBnNk0bxa3TWrWG8GZLxDbFo5_gRSx2_TvhCoyhLYJTTTQ9DUDbQm8qTaZN4PTyS2y-63Yuch5e-B4o-Koi5x4zFyPtyJvsYd1Y-nb7vqasP2OVBe8hXcLEH38gFo8p1IiNXHGt8RirPTMnCbhbDsPXetaOiELLYrn3TV6FiGu4GHI-tw76h9dFa6eIHCSCxeJN5-K6B6zR9rtbFHJDKyLcvdw3N4QvWpOdJNZ6D1wiwBNuW_GWimtlnZnWzGKM1C1THGry6TkhEJilPZixOomT3a1YoaTKwPbq7Wr5sJCylp8riWfOGk9Lyhh2zhpjYJ-NkeDyrIgjjknvvB7-llDOq1xxQbPybH33elmsTcHPC3RGuhqd7y61lCqFOKj_DylHvK0i87KyL5c10vCnZ6lNpBzko0KRbPaWSWOeZ1pr7m4oeJIe0-tfWV5u_ZxdkZHNN-9fXaE8EldOLRa5oD6h6wGQdrY_N0Dy_1V8nrj8eC6qCteL_Oy46z9BVe4EtrheYxLNDIJFi734cnzVegWK45Th2Za3GXfxjuXXzAGM0-VEpjGSjyF4LjyGA9eZE_1c0Jhi_RuiuhvPfHoNNqBc3VETWQfOj2MUVceJp9s9FKqhu3vOP_6X39EZP4"
+      },
+      {
+        "position": 17,
+        "title": "Crucial DDR5 RAM Kit 4800MHz SODIMM ct2k8g48c40s5",
+        "price": "₹35,499",
+        "extracted_price": 35499,
+        "link": "https://www.google.com/search?prds=catalogid:15052931278736540696,gpcid:2357031910470234931,headlineOfferDocid:12695590537877381633,imageDocid:2280274357303108457,mid:576462898614928960,productid:13238607219007152025,pvo:2,pvt:hg,rds:PC_2357031910470234931%7CPROD_PC_2357031910470234931&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mCG60HicbZFNrqNWEIUH2Yg34Nb94XLhWR4AxoD_AAM2ZkIwYMBgwIANtnoJ2UTeUyJ1ht3ZTLKa-GXcgzpV0il9OqX67VsYdEFRJVn0NySAIB5DRDmKWcIAlmf_SOowi34gTCjAkIeAoQBh5rX1PY2DqMjKWD-d4mZWhZ8ExPKE8IDgF4JiDrIY_5VdgiT-3_-BEAcQZV4w_KIBjiH045JF3wllGRZxPMdChn91Fnyrmyq6hd0nFCPMsYAiyANAIUEAkY_6Xv2OXtq9p8lHE7X_IEPyf5Lyq7HVZ_7PvfekeM_K97R4j8s_w6rKs_jfX361NtpsKix0iFy1qp0w5_wdb7WglBe6ZXqJ5bqqs0T7RNGeRp6019xX5rE33zUd3XALLG9O_SLQh0OdVffoBnHL9NW66OtQWx9vxKJ7TW0L3ZmMLF2yppKgvSZZ2Eqqbwlr2dJseSolpuazsjgZCbI0FYKAlxdVI6ht5dH64mzDHfM4SOxzEGWv7KTjXeufjHsPpHSpSJ4qWoRJjXEumJORouvKSvYF0bFkX3bltWFr-mb6upGQAGHI8pggHPHM6c1eTyHlIaEIYO5NmjZvmjGFmPsC0asw_gJZZvxmTVPiQlOHul1Reg1BkQCnzXRuMvJ9Kw5vTTy27K0xFcRNKrDneeBwXVY3cVSgu9HwtBlfHy1ajIna4wLeDMCU3h1qXneUAzn3QrFg-s2TdpzfSidze19rl4IGJNYOXje-HobYxQp2XX4nTEafv5KujiQJsgV7WdQHZWatwvvxMjZnSrhBl0NkLVemp6zT3Kd5aNi1e9z1EtTnZV5nSmIU1OpMZROfgKqFipWeWyViFIJY7cHN0mbemukTbbaRUvGlmllqJPVkrnmnTN4xvlaKkuIW-faY2fuy0-sNG4Z7zxO23llc0CGD9JhhxQRDuzUXF78x-GYLBmNmVDQdr66WUSUqa4uH6NQeHdvRzmt-bpvn6_McCP6QaBXpgrBWWMprJ5VZRVmoPbq4seMVdQateIRR8Sy98GSv7O7mLMIVhAN7FuynoVd2eZ-r-_0xN8WbA_rbIxHXuSOCa68-cdZ3_VgwFmesCAk03VPtJXbNBcjtb9UgiqlrxU-M2WXe9la_KLyxJfaIQ7qfKnt982QGab96ikgED1KyZRewqJcno9lu6tDjYQxO6crOD-bysnY9-5Is2x3J14mcVv8B7PJspQ",
+        "seller": "Amazon.in",
+        "rating": 4.8,
+        "reviews": 48,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkNCsyvWD-4e4ZsX1TYdc2WILn9hOfIMurVa5D6SUrnNCyRl40Em9CRhBCtkPQXP3g50KNjiushgS09VBpFpiZCVHvHeXSZ2zg8AYd8QKY"
+      },
+      {
+        "position": 18,
+        "title": "Adata 16GB DDR5 5600MHz Desktop RAM",
+        "price": "₹24,980",
+        "extracted_price": 24980,
+        "link": "https://www.google.com/search?prds=catalogid:11085159200819704794,gpcid:5567602456208766016,headlineOfferDocid:10315112259380832495,imageDocid:4086893414240839233,mid:576462913710310969,productid:4481235834290426576,pvo:2,pvt:hg,rds:PC_17212139208389677741%7CPROD_PC_17212139208389677741&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RA-de3icdZFNsqpWFIUbmYgT8BXnh3PgWjYAEfCqgIAiHYL8CwICCloZQiaR-yqpemm-l8kko4k3_TT2qlW19v6qVu1fv4VBH5R1mkd_AcBwLGB5yDAc4CmDKY9_T5swj36wLKGEgZglkOEoIQwg37M4iMq8ivUkidtFHX4SGARYACBkecQxHIKYZ__ML0Ea_5f_wAxHOB5hgOHLIh4i9PWSR99ZSjCBPED0k8DwhP_WtHV0C_vPI8wBiFgOYcgzGJLX8tfmXv8GX9p_ZOnXNur-xobkAwoBBC_qC83xhFKKwS_GTl_4_xN-pOVHXn1k5Udc_RHWdZHH__z0s7XVFnNhpQPoqnXjhAXn73mrYyp5pVuml1quqzrv8JAq2tMo0u5a-Moy9pb7tqdbboXkbTKsAn08Nnl9j24AdXioN-XQhNrmdGMtetDUrtSd2cTSJWsuCdrLycJOUn1L2MiWZstzKTU1n8jibCLI0lwIAl5e1a2gdrVHm4uzC_f4cZTIcxRlr-ql010bnti9B1L2rkieKloszoxpIZiziaLrylr2BdGxZF925Y1ha_p2_urIsgFEgPCIhSjicfJmb-aA8oClkEHcmzRv3zRjDhD3BcDXIPQFEDx9s-YZ6wJTB7pdU3oNmTJlnC7XudnE9604vLXx1LJ3xlwQt5lAzsvA4fq8aeOohHej5Wk7vT46uJqy6oBKcDMYXHl3oHn9SQ7kwgvFEg_bJ-05v5MSc3ffaJeSBmysHb1-ej2OsYsU5Lr8XphNPn8lXR1JEmQLDLKoj8rCWof302VqLpRwCy_HyHpfm56yyQqfFqFhN-5pP0hAX1ZFkyupUVKrN5VtnDCqFipWdu6UCCssJNqDW2TtsjOzJ9zuIqXmKzW31Ega2KXmJbm8x75WiZLilsXulNuHqtebLQnDg-cJO-8sruiYA3rKkWIyY7czVxe_Nfh2x4zGwqhpNl1fLaNOVWKLxyjpTo7taOcNv7TN8_V5DgR_TLWa7YOwUQjltUTF6ygPtUcft3a8ps6olY8wKp-VFyb22u5vzipcAzCSs2A_Db22q_tSPRxOhSneHGa4PVJxUzgicx3UJ8qHfpgKxuqMFCEFpps0Xmo3XADd4VaPopi5VvxEiLwX3WANq9KbWuIAOaj7mXLQt088Sof1U4Qi82ArUvUBgYM8myz2c4eejlMmydZ2cTTfLxvXsy_pe7dni00qZ_W_biFs_g",
+        "seller": "mdcomputers.in",
+        "rating": 4.8,
+        "reviews": 34,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRUwEXJWwsMgLxPBrQESTfn1lQjvIYFswo-PKe5f5G6PczULghr5Lspv90nQXVNFtjslMzpWBSVPo1ncWp_MJhllsAP-9NulRsDLS1X4bv2qf8XFr37BM-n-Q"
+      },
+      {
+        "position": 19,
+        "title": "Kingston Fury Beast RGB 6000MHz DDR5 RAM",
+        "price": "₹31,999",
+        "extracted_price": 31999,
+        "link": "https://www.google.com/search?prds=catalogid:17825405328915085351,gpcid:917124135317118210,headlineOfferDocid:12239157717890748608,imageDocid:4213376670294318855,mid:576462897960880656,productid:13591095527504064105,pvo:2,pvt:hg,rds:PC_917124135317118210%7CPROD_PC_917124135317118210&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yOO_0XicbZHNsqpWEIUHeRFfwFv7h82GYzkARMCjAgKKTAjyLwgIKGjlEfISObeSqpvhTV4meZp4Mk0G3bWqVq2vu6t__hYGfVDWaR79CSmHCAMIRhwPCeAIJvDXtAnz6DsPKUQMxAS_BOQQBN-zOIjKvIr1JInbRR1-AhDCrySlLxIPKMOxgPs9vwRp_K__B4MgxpRlKUA8gyHHEfL18qITyjLsayjlXwEOsIT91rR1dAv7TygmPAQ8IYgSwACWgYB8be71L-jV-48s_dpG3V_AkPz_LvmTsdMX_v9aH2n5kVcfWfkRV7-FdV3k8d8__GhttcVcWOkQuWrdOGHB-Xve6kAlr3TL9FLLdVXnHR1SRXsaRdpdC19Zxt5y3_Z0y62wvE2GVaCPxyav79EN4o4Z6k05NKG2Od2IRQ-a2pW6M5tYumTNJUF7KVnYSapvCRvZ0mx5LqWm5rOyOJsIsjQXgoCXV3UrqF3t0ebi7MI98zhK7HMUZa_qpdNdG56Mew-k7F2RPFW0CJMZ00IwZxNF15W17AuiY8m-7Mobw9b07fx1IyEBwpDlMUE44pnkzd7MIf18HgKYe5Pm7ZtmzCHmvkD0Koy_QJaZvlnzjLjQ1KFu15ReQ1CmwOlynZtNfN-Kw1sbTy17Z8wFcZsJ7HkZOFyfN20clehutDxtp9dHh1ZTog64hDcDMJV3h5rXn-RALrxQLJlh-6Q953dSYu7uG-1S0oDE2tHrp9fjGLtYwa7L74XZ5PNX0tWRJEG24CCL-qgsrHV4P12m5kIJt-hyjKz3tekpm6zwaREaduOe9oME9WVVNLmSGiW1elPZxglQtVCxsnOnRIxCEKs9uEXWLjsze6LtLlJqvlJzS42kgSw1L8nlPeNrlSgpblnsTrl9qHq92bJhePA8YeedxRUdc0hPOVZMMHY7c3XxW4Nvd2A0FkZNs-n6ahl1qrK2eIyS7uTYjnbe8EvbPF-f50Dwx1SrSR-EjcJSXktUZh3lofbo49aO19QZtfIRRuWz8sLEXtv9zVmFawhH9izYT0Ov7eq-VA-HU2GKNwcMt0cqbgpHBNdBfeJ86IepYKzOWBFSaLpJ46V2wwXIHW71KIqZa8VPjNn3ohusYVV6U0scEId0P1MO-vbJjNJh_RSRCB6kYqs-YNEgzyaL_dyhp-MUJNnaLo7m-2XjevYlfe_2pNikclb_AwbjbAo",
+        "seller": "Computech Store",
+        "rating": 4.8,
+        "reviews": 1000,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDZS1V3E-b3S37b6Map2av5r6DfttxDLhq1Qm00T6-K7ubaIH1akwSOquql3zU7OnPdDS11Ff9ahJ5GrweSaeUGlF5aDH3w6sj1xu9pUKod4ROrQKirtst9Q"
+      },
+      {
+        "position": 20,
+        "title": "TeamGroup VULCAN 16GB 6000 MHz DDR5 CL30 Black Memory FLBD516G6000HC3001",
+        "price": "₹29,924",
+        "extracted_price": 29924,
+        "link": "https://www.google.com/search?prds=catalogid:14591245816410710844,gpcid:4278556151320206033,headlineOfferDocid:15873281314597115975,imageDocid:2814932393499740087,mid:576462887211260168,productid:2380388316497148652,pvo:2,pvt:hg,rds:PC_4278556151320206033%7CPROD_PC_4278556151320206033&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VLjE03icbVFLrqNWFBxkI96AW9x7gQvP8gAwBvwDfMHGTAjmbzBgwAajXkI2kfeUSJ1hdzaTrCZ-GffglI5UOqU6Vb99C_zOL6okC_8GNMMDSDMcYGlAYUBxNP1HUgdZ-IOGmGMYFjAAQQpSLIXQ9zTywyIrIz2Oo2ZRBZ8KDIcR5AD6lMIAvID5K7v6SfQ__-NF0TyCiEc0z2Oaojj8cc3C7wxmaRZyHIYAQJYCLPetbqrwHnSfR4ijEMehl6uXJs2xDPyoH9Xvn9i9p8lHE7b_QEPyfmLyq7HXF97PufekeM_K97R4j8o_g6rKs-jfX34lO20xF1Y6gI5a1XaQc96BJy1VyiudmG5CHEe11_CYKNpo5El7yz1lGbnLQ9PhHbdC8i7uV74-nOqseoR3gFq6r7ZFXwfa9nxnCD5qalvo9mxCdInMJUF7bbKwl1SPCFuZaJY8lxJT81hZnE0EWZoLvs_Lq6oR1LZycX2198GBfp4kdhxE2S076fzQ-pF2Hr6UrhXJVUXC0KkxzQVzNlF0XdnIniDaRPZkR94alqbv5q8fGcaHr0x5xEAU8nT8Zm3nAPOAwfAV95s0b940Yw4Q9wXA1yD05VXA9I3MU8YBpg50q8L4FlBFQtltpnOzieeRKLg30ZRYe2MuiLtUYC9L3-a6rG6isIAPo-FxM709W7iaMmqPCnA3KLp0H0Bzu7Psy7kbiAXd70bccV4rxeb-sdWuBfaZSDu53fR2GiIHKchx-IMwm3x2Jd1sSRJkAnpZ1AdlQTbB43ydmgsl2MHrKSTrjekq2zT3cB4YVu2cD70E9GWZ15mSGAUmnansophStUAh6aVVQlphIKs9uUXaLFszHeFuHyoVX6oZUUOpZ5aaG2fygfa0UpQUp8j358w6lp1e79ggOLqusHcv4goPGcDnDCkmNbR7c3X1GoNv9tRgLIwKp9PNjRhVorKWeArj9mxbtnbZ8kvLvNzGiy94Q6JVTOcHtcJiXotVehNmgfbsosaKNtgetOIZhMVYukFsbazubq-CDQADexGs0dArq3ws1ePxnJvi3ab6-zMRt7ktUrdeHVHWd_1UMFYXpAgJMJ24dhOr5nzo9PdqEMXUIdGIELvO2570q8KdErGHHNS9VDnqu5EepONmFKFIPZmSLTufhb08mywOcxufT1MqTjdWfjLX163jWtdk3R6YfJvIafUfAS1sdg",
+        "seller": "Cyber Flake",
+        "rating": 4.2,
+        "reviews": 6,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThekS8aWH-rAE63TbumJ9rQJAkFhCFmHXygu4vsW7-tsfof1sUAkYRHwdmNgdAnT-0Ey3Hh4wq4vuSOhdkKRoqRULRxLNScMab8882VvP629B4bYxwc20g-Q"
+      },
+      {
+        "position": 21,
+        "title": "Kingston Fury Beast RGB 16GB 6000MHz DDR5 CL30 RAM",
+        "price": "₹31,550",
+        "extracted_price": 31550,
+        "link": "https://www.google.com/search?prds=catalogid:10504221766429301094,gpcid:5275546513616922986,headlineOfferDocid:2443049810202888662,imageDocid:6188451716452714374,mid:576462913636191204,productid:11096057485972402266,pvo:2,pvt:hg,rds:PC_917124135317118210%7CPROD_PC_917124135317118210&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YCM5V3icbZFNrqNGFIUH2Yg34BZVFFXwLA8AY8DPNmDAxkwI5t9gwIANRr2EbCLvKZE6w042k6wmtDLN4F4d6Vx9Olfnl2-B3_lFlWThX4BiKAQhIBgjyNEUoDj0W1IHWfgnAwnDIMwAGgPMQcix-Hsa-WGRlZEWx1Gzqn6cQYRoCnEsoCAFWZbFGP6R3fwk-s_GgGURAwjAaAICRBP0ecvC7wzBCENugk94DkAKfaubKnwE3Y9UUwxMMQSxDEcgoiDE-LN-Vr_CaXcfafLZhO3flC563ESGCNAMPQnAQkB91Q_ayvtf6yMpPrLyIy0-ovL3oKryLPrnp5_Nvbpa8hsNQEepajvIWe_ImS1VShvNNNzEdBzFfoenRFZHPU_ae-7J68hdH5uO7NkNLe3jfuNrw7nOqmf4AHSL-mpX9HWg7i4PxiQnVWkLzV7MTE00lyKvTkriD6LimfxOMlVLWoqJoXpYEhYzXhKXvO9z0qZqeKWtXFLf7ENwRK-ziMdBkNyyEy9PtR-R8_TF9F0WXUUwGZTq85w3FjNZ0-St5PGCbUqe5Eg73VK1_XL6kWF8SE9V0gykQw7Fb9ZuCQgHGAIpmn0Tl82bqi8BzX4BcBqa_jKVNn8zlynjAEMDmlURcg-oIqHsNtPYxczzzCh4NNHctA76khf2KY-va99mu6xuorCAT73hSDO_v1q4mTNKTxfgoVOodJ9AdbuL5Eu5GwgF6vcj6VivFWPj8Nypt4L4TKSe3W5-Pw-RQ8u043BHfjH70ZV4t0WRl0zQS4I2yCtzGzwvt7mxkoM9vJ1D831ruPIuzT2SB7pVO5djLwJtXeZ1Jid6QczOkPdRTClqIJvptZVDJDMQqy92lTbr1khHuD-EcsWVSmYqodgza9WNM-mIPLUURNkp8sMls05lp9V7HAQn1-UP7lXYkCED5JLRskEN7cHY3LxG55oDNegrvSLpfHs39SpRsCWcw7i92JatXnfc2jKu9_Hq896QqBXT-UEtY8KpsYK2YRaory5qrGhL7EEtXkFYjKUbxNbW6h72JtgCMOArb426Vlnlc62cTpfcEB421T9eibDLbYG698pIZ33Xz3l9c6VlPgGGE9duYtWsD53-UQ2CkDpmNNI0fs_b3uw3hTs3hR6yUPNS-aTtRzSIp-0oQIF6MSUuOx_DXlrMVselTS7nORWnWys_G--3neNat-S9PTL5LpHS6l_LSmv8",
+        "seller": "Vedant Computers",
+        "rating": 4.8,
+        "reviews": 1000,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDqLhYTfQaPahvvULpMJsiPpgXLBNCqEEnOvGGYys9Xhk4xXwOclAGA7BTWuv1OhwJlVRB929ARjQurgrzOvtD-5FggD1JhtW0euU6gZeK64UZaxsTRo9IoQ"
+      },
+      {
+        "position": 22,
+        "title": "Patriot 32GB Viper Venom DDR5 5600 MHz UDIMM Memory Kit 2 x 16GB",
+        "price": "₹49,979",
+        "extracted_price": 49979,
+        "link": "https://www.google.com/search?prds=catalogid:15488385222775286801,gpcid:16700842128935880174,headlineOfferDocid:16010676270275767995,imageDocid:5454692841129078838,mid:576462913301410665,productid:16993639156244321338,pvo:2,pvt:hg,rds:PC_16700842128935880174%7CPROD_PC_16700842128935880174&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xrPlpHicdZNLjqtWEIYH2Yg34Bbn8DjQFgPAGPAL8AEbMyGYt8GAARuMsoRsIt1KpJvhTTaTrCbcm2kyKZX0_6rHV6qfvwR-5xdVkoV_AppiWZKlIYQI0ZBlWAL8mtTBN4lBBMFSEECWI2l2EhD1NY38sMjKSI_jqFlW__oIQDCIgYiAiEYM4jj69-zmJ9F3_Q-aoimGgywFAOQI9K3d5y0Lv05WioEcIEkCUFMFhv5SN1X4CLrvRTmOZEgO0AykKBJOLvazfla_wCl2H2ny2YTtX5Qhef815k_GQV96_yN-JMVHVn6kxUdU_hZUVZ5Ff__wI95rS15Y6wA6alXbQc56Rw63RCmvdWy6CXYc1d7AU6Joo5En7T33lFXkro5Nh_bsmpT3cb_29eFcZ9UzfACypfpqV_R1oO0uDxqjk6a2hW4vZliXMC8J2pTJwkFSPSzsZKxZMi8lpuYxsriYCbLEC77PyeuqEdS2clF9sw_BkXqdJWYcRNktO-ny1PqRcp6-lG4UyVVFTFOpMc8FczFTdF3Zyp4g2lj2ZEfeGZam7_lpR5r2ITnhJWlIhhwVv1s7HqAJNIIEyb5LfPOuGTwg2bcJ2tvE_Q0w1Pwd8yntAFMHulUhdA-IIiHsNtPZxczzcBQ8mmiOrYPBC-I-FZjryrfZLqubKCzg02g41Mzvrxau57TakwV4GARVuk-gud1F9uXcDcSC6vcj6livlWLz8NxptwL5dKSd3W5-Pw-RQyqk43BHYTH7divpbkuSIGPQy6I-KEu8DZ6X29xcKsEe3s4h3mxNV9mluYfywLBq53LsJaCvyrzOlMQoEO5MZR_FhKoFCk6vrRJSCg0Z7cUu02bVmukI94dQqbhSzbAaSj290tw4k4-Up5WipDhFfrhk1qns9HrPBMHJdYWDexXXaMgAumSkYhJDezDXN68xuOZADMbSqFA6396xUSUqY4nnMG4vtmVr1x23sszrfbz6gjckWkV3flAr0y9psUptwyzQXl3UWNEW2YNWvIKwGEs3iK2t1T3sdbAFYGCugjUaemWVz5V6Ol1yU3zYRP94JeIut0Xi3qsjmfVdPxeM9ZVUhASYTly7iVWzPnT6RzWIYurgaCRJZpO3Pe7XhTvHYg9ZqHupctL3IzVIp-0oQpF40SVTdj4De3kxWx55G13OcyJOt1Z-Nje3neNat2TTHul8l8hp9Q_OtW2C",
+        "seller": "Amazon.in",
+        "rating": 5,
+        "reviews": 20,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSnOwGcwGQiEA30-X9ozQPH7vJDqyaPht39m6sHK5vs5yE01P1twpxZGdIrCedlFk_fsShGWENRiYO-TYQP35f-keh0mknpVekiVKI9DQ4QrIuARYc39DmsoQ"
+      },
+      {
+        "position": 23,
+        "title": "Crucial 8GB 4800MHz CL40 DDR5 Laptop RAM",
+        "price": "₹13,499",
+        "extracted_price": 13499,
+        "link": "https://www.google.com/search?prds=catalogid:6520615979298037734,gpcid:5405532012316843505,headlineOfferDocid:15586859341400924196,imageDocid:806062200613788838,mid:576462913711172061,productid:6931956143034336840,pvo:2,pvt:hg,rds:PC_12751459709557587459%7CPROD_PC_12751459709557587459&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_TSEeXicdVNLrqNWEB1kI96AW_dyuVx4lgeAMeBnGzBgYyYE8zcYMGCDUS8hm8hrJVJn2MlmktWEl3kGVTo6p6Q6paP65Xvgd35RJVn4J4MpwEDMEY7iWIAIQfRvSR1MCqYBxogCkEKQYWmEAf6RRn5YZGWkxXHUrKpp7C-IMcuwmEM0pAHgKBpyzB_ZzU-i__QfLGAAQ1Fg2oIIy7KI_XabaEwYmqG4iYMQkk8P3-umCh9B92mKQ5DDDKQRQDRC03bwrX5Wv1JT7z7S5FsTtn_TuuhBimBIT-4BhzHBLJnwV_2grbz_ET-S4iMrP9LiIyp_D6oqz6J_fvrZ3KurJb_RIOUoVW0HOesdObMFpbTRTMNNTMdR7HfqlMjqqOdJe889eR2562PTkT27QdI-7je-NpzrrHqGD4hauq92RV8H6u7ywCY5qUpbaPZiZmqiuRR5dUISfxAVz-R3kqla0lJMDNVjJGEx4yVxyfs-J22qhlfayiX1zT4ER_p1FplxECS37MTLU-1H2nn6Yvoui64imJhO9XnOG4uZrGnyVvJ4wTYlT3KknW6p2n453Yix_5kmhzCFQo6O36zdEhIO4ikBxL6Jy-ZN1ZcQsV8gNRVCXyBDz9_MZYodaGhQsypC7gEoEmC3mcYuZp5nRsGjieamddCXvLBPeea69m22y-omCgvqqTccaeb3V0tt5ljpUQEfOqBL9wlVt7tIvpS7gVDQ_X4kHeu1Ymwcnjv1VhAfR-rZ7eb38xA5SEaOwx35xewzK_FuiyIvmbCXBG2QV-Y2eF5uc2MlB3vqdg7N963hyrs090ge6FbtXI69CLV1mdeZnOgFMTtD3kcxUNRANtNrK4e0jClGfbGrtFm3RjpS-0MoV1ypZKYSij1eq26cSUfaU0tBlJ0iP1wy61R2Wr1nguDkuvzBvQobMmSQXDIkG2BoD8bm5jU61xzAoK_0iqTz7d3Uq0RhLOEcxu3Ftmz1uuPWlnG9j1ef94ZErXDnB7XMEE6NFXobZoH66qLGirbEHtTiFYTFWLpBbG2t7mFvgi2EA3PlrVHXKqt8rpXT6ZIbwsMG_eOVCLvcFsC9V0aU9V0_5_XNFcl8Ag0nrt3EqlmfcvpHNQhC6pjROL3be972Zr8p3Lkp9BRLaV4qn7T9SA_iaTsKlABeuGTKzmeoXlrMVselTS7nOYjTrZWfjffbznGtW_LeHnG-S6S0-hf-VWy0",
+        "seller": "Gamesncomps",
+        "rating": 4.7,
+        "reviews": 338,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQv3xhPrRkg3XcmWX-cOqMZyp1LNuAWnQnyLGrYxfOFhO2Y6XO7DUm7lp3-jI-WverARTWx_FfhEteO5JS59lwSrhJ98iLLe5YAx091S7fO"
+      },
+      {
+        "position": 24,
+        "title": "Corsair Vengeance RGB DDR5 RAM 32GB",
+        "price": "₹29,860",
+        "extracted_price": 29860,
+        "link": "https://www.google.com/search?prds=catalogid:3334898620149849294,gpcid:17774925298962307785,headlineOfferDocid:16753660236844067046,imageDocid:3987855805197255188,mid:576462574879214351,productid:8629054753144322424,pvo:2,pvt:hg&hl=en&ibp=oshop&gl=in&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=K7GxpXicHVFN0qJYEFzMRbyAHbw_HnyGC0AE_AMEFNkwCAgIAgIKcoU-xXwdMxE9y-45zZxmnF5URWVkZkVW1NfvYdAFRZVk0U-EEOZ4joUMwDyHecjjP5M6zKJ_AKX0jQnkOZ6FiKGUIz_SOIiKrIz1yyVuFtUvHUsJYlkGIpbDmGEpg9m_s1uQxL_4n4jn3k7CMQTwFBICOO7bLYt-EMpiFhKKOcpDgBEB3-umih5h9za9A_EMwe_NAGMEIYb4W_2s_oDv3n2myWdSfGblZ1p8xuVfYVXlWfzvb79bO20xF1Y6gK5a1U6Yc_6Bt1qmlFe6ZXqJ5bqqs4bHRNFGI0_ae-4ry9hbHpqO7rgVkneXfhXow6nOqmf0AKjFfbUt-jrUtucHsehRU9tCd2YTS5esuSRo70kW9pLqW8JWtjRbnkuJqfmsLM4mgizNhSDg5VXVCGpbebS-OfvwgF8niR0HUfbKTjo_tX7E7jOQ0rUieapoEZwa01wwZxNF15WN7AuiY8m-7Mpbw9b03fx9IyEBRIDlEYEo4vHlw97OAeUBoZBB3Ic0bz40Yw4Q9wXAdyH0BbB4-mHNU-ICUwe6XVF6D5kiYZw207nZxPetOHw08dSy98ZcEHepwF6XgcN1Wd3EUQGfRsPTZnp_tXA1JWqPCvAwGFx6T6B53VkO5NwLxQL3u5F2nN9KF3P_3Gq3ggYk1k5eN72fhthFCnJd_iDMJv__Sro7kiTIFuhlUR-UhbUJn-fb1Fwo4Q7eTpG13piesk1zn-ahYdfu-dBLQF-WeZ0piVFQqzOVXXxhVC1UrPTaKhFWCGS1F7dIm2VrpiPc7SOl4ks1s9RI6slS8y6ZfMC-VoqS4hb5_pzZx7LT6x0bhkfPE_beVVzRIQP0nCHFZIZ2b65ufmPwzZ4ZjIVR0XS6uVtGlaisLZ6iS3t2bEe7bvmlbV7v4zUQ_CHRKtIFYa2wlNcuKt5EWai9urix4w11Bq14hVExll54sTd293BW4QaAgb0K9mjolV0-l-rxeM5N8eEw_eOViNvcEZl7r44o67t-KhirK1KEBJjupfYSu-YC6PaPahDF1LXiESF2nbe91a8Kb2qJPeSg7qfKUd-NeJCOm1GEIvMiJVt2AQt7eTZZHOYOPZ-mzCXd2PnJXN-2rmffknV7IPk2kdPqP72xXis",
+        "seller": "mdcomputers.in",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6aTpGukIGiCe_zudlQ7epBJ690r5kSwHBthRJfLZvbTN5I9EfCvvq0T3itkb-dz74P6h-jHffKW4XmWhcoKLG1tZSRL7pNOI11PjjeCTedYxv3bkq6wUgCQ"
+      }
+    ],
+    "product_attributes": [
+      {
+        "name": "capacity",
+        "value": "16 GB"
+      },
+      {
+        "name": "speed",
+        "value": "5,600 MHz"
+      },
+      {
+        "name": "brand",
+        "value": "Crucial"
+      },
+      {
+        "name": "type",
+        "value": "DDR"
+      }
+    ],
+    "price_insights": {
+      "price_history": true,
+      "currency": "INR",
+      "price_tracking_available": true,
+      "stores": [
+        {
+          "name": "mdcomputers.in",
+          "prices": [
+            {
+              "date": "Oct 8, 2025",
+              "price": 5664
+            },
+            {
+              "date": "Oct 13, 2025",
+              "price": 7100
+            },
+            {
+              "date": "Oct 15, 2025",
+              "price": 6600
+            },
+            {
+              "date": "Oct 20, 2025",
+              "price": 7590
+            },
+            {
+              "date": "Oct 22, 2025",
+              "price": 9500
+            },
+            {
+              "date": "Oct 23, 2025",
+              "price": 7900
+            },
+            {
+              "date": "Oct 25, 2025",
+              "price": 9100
+            },
+            {
+              "date": "Oct 29, 2025",
+              "price": 10540
+            },
+            {
+              "date": "Oct 30, 2025",
+              "price": 11250
+            },
+            {
+              "date": "Nov 1, 2025",
+              "price": 11600
+            },
+            {
+              "date": "Nov 3, 2025",
+              "price": 11000
+            },
+            {
+              "date": "Nov 5, 2025",
+              "price": 12400
+            },
+            {
+              "date": "Nov 7, 2025",
+              "price": 13392
+            },
+            {
+              "date": "Nov 11, 2025",
+              "price": 12390
+            },
+            {
+              "date": "Nov 12, 2025",
+              "price": 14899
+            },
+            {
+              "date": "Nov 14, 2025",
+              "price": 16000
+            },
+            {
+              "date": "Nov 15, 2025",
+              "price": 15600
+            },
+            {
+              "date": "Nov 20, 2025",
+              "price": 16580
+            },
+            {
+              "date": "Nov 27, 2025",
+              "price": 17077
+            },
+            {
+              "date": "Nov 29, 2025",
+              "price": 18200
+            },
+            {
+              "date": "Dec 3, 2025",
+              "price": 16280
+            },
+            {
+              "date": "Dec 5, 2025",
+              "price": 16780
+            },
+            {
+              "date": "Dec 8, 2025",
+              "price": 17280
+            },
+            {
+              "date": "Dec 10, 2025",
+              "price": 17950
+            },
+            {
+              "date": "Dec 17, 2025",
+              "price": 18950
+            },
+            {
+              "date": "Dec 18, 2025",
+              "price": 19260
+            },
+            {
+              "date": "Jan 2, 2026",
+              "price": 20720
+            },
+            {
+              "date": "Jan 10, 2026",
+              "price": 19959
+            },
+            {
+              "date": "Jan 12, 2026",
+              "price": 18500
+            },
+            {
+              "date": "Jan 13, 2026",
+              "price": 19280
+            },
+            {
+              "date": "Jan 15, 2026",
+              "price": 18254
+            },
+            {
+              "date": "Feb 26, 2026",
+              "price": 16951
+            },
+            {
+              "date": "Feb 28, 2026",
+              "price": 17240
+            },
+            {
+              "date": "Mar 10, 2026",
+              "price": 18960
+            },
+            {
+              "date": "Mar 13, 2026",
+              "price": 21700
+            },
+            {
+              "date": "Mar 14, 2026",
+              "price": 18756
+            },
+            {
+              "date": "Mar 17, 2026",
+              "price": 21150
+            },
+            {
+              "date": "Mar 31, 2026",
+              "price": 19348
+            },
+            {
+              "date": "Apr 21, 2026",
+              "price": 18200
+            },
+            {
+              "date": "May 15, 2026",
+              "price": 17552
+            },
+            {
+              "date": "Jun 2, 2026",
+              "price": 21380
+            },
+            {
+              "date": "Jun 10, 2026",
+              "price": 19599
+            },
+            {
+              "date": "Jun 16, 2026",
+              "price": 19520
+            },
+            {
+              "date": "Jun 20, 2026",
+              "price": 19450
+            },
+            {
+              "date": "Jun 24, 2026",
+              "price": 19799
+            },
+            {
+              "date": "Jun 27, 2026",
+              "price": 19520
+            },
+            {
+              "date": "Jun 30, 2026",
+              "price": 19799
+            },
+            {
+              "date": "Jul 3, 2026",
+              "price": 19499
+            },
+            {
+              "date": "Jul 7, 2026",
+              "price": 19599
+            },
+            {
+              "date": "Jul 8, 2026",
+              "price": 19999
+            },
+            {
+              "date": "Jul 9, 2026",
+              "price": 20100
+            },
+            {
+              "date": "Jul 11, 2026",
+              "price": 20350
+            },
+            {
+              "date": "Jul 13, 2026",
+              "price": 20600
+            },
+            {
+              "date": "Jul 14, 2026",
+              "price": 19999
+            },
+            {
+              "date": "Jul 18, 2026",
+              "price": 26630
+            },
+            {
+              "date": "Jul 20, 2026",
+              "price": 21820
+            },
+            {
+              "date": "Jul 21, 2026",
+              "price": 23570
+            },
+            {
+              "date": "Jul 23, 2026",
+              "price": 21815
+            },
+            {
+              "date": "Jul 25, 2026",
+              "price": 24999
+            },
+            {
+              "date": "Jul 28, 2026",
+              "price": 23299
+            },
+            {
+              "date": "Jul 29, 2026",
+              "price": 22490
+            },
+            {
+              "date": "Aug 1, 2026",
+              "price": 24999
+            },
+            {
+              "date": "Aug 4, 2026",
+              "price": 24940
+            },
+            {
+              "date": "Aug 5, 2026",
+              "price": 25490
+            },
+            {
+              "date": "Aug 10, 2026",
+              "price": 28190
+            },
+            {
+              "date": "Aug 17, 2026",
+              "price": 26699
+            },
+            {
+              "date": "Aug 24, 2026",
+              "price": 26799
+            },
+            {
+              "date": "Aug 25, 2026",
+              "price": 28060
+            },
+            {
+              "date": "Sep 10, 2026",
+              "price": 27799
+            },
+            {
+              "date": "Sep 17, 2026",
+              "price": 26199
+            },
+            {
+              "date": "Sep 18, 2026",
+              "price": 27799
+            },
+            {
+              "date": "Sep 23, 2026",
+              "price": 27160
+            },
+            {
+              "date": "Sep 26, 2026",
+              "price": 26020
+            },
+            {
+              "date": "Oct 1, 2026",
+              "price": 25660
+            }
+          ]
+        },
+        {
+          "name": "Amazon.in",
+          "prices": [
+            {
+              "date": "Oct 8, 2025",
+              "price": 4529
+            },
+            {
+              "date": "Nov 10, 2025",
+              "price": 4809
+            },
+            {
+              "date": "Jan 17, 2026",
+              "price": 20499
+            },
+            {
+              "date": "Jan 30, 2026",
+              "price": 20299
+            },
+            {
+              "date": "Feb 2, 2026",
+              "price": 21499
+            },
+            {
+              "date": "Feb 18, 2026",
+              "price": 20999
+            },
+            {
+              "date": "Feb 25, 2026",
+              "price": 20899
+            },
+            {
+              "date": "Mar 9, 2026",
+              "price": 20799
+            },
+            {
+              "date": "Mar 10, 2026",
+              "price": 20499
+            },
+            {
+              "date": "Mar 19, 2026",
+              "price": 19899
+            },
+            {
+              "date": "Mar 23, 2026",
+              "price": 21959
+            },
+            {
+              "date": "Mar 24, 2026",
+              "price": 19899
+            },
+            {
+              "date": "Mar 30, 2026",
+              "price": 22209
+            },
+            {
+              "date": "Mar 31, 2026",
+              "price": 19999
+            },
+            {
+              "date": "Apr 2, 2026",
+              "price": 22209
+            },
+            {
+              "date": "Apr 3, 2026",
+              "price": 19899
+            },
+            {
+              "date": "Apr 8, 2026",
+              "price": 19799
+            },
+            {
+              "date": "Apr 11, 2026",
+              "price": 19699
+            },
+            {
+              "date": "Apr 16, 2026",
+              "price": 19649
+            },
+            {
+              "date": "May 21, 2026",
+              "price": 19999
+            },
+            {
+              "date": "May 30, 2026",
+              "price": 19699
+            },
+            {
+              "date": "Jun 15, 2026",
+              "price": 21999
+            },
+            {
+              "date": "Jun 23, 2026",
+              "price": 21499
+            },
+            {
+              "date": "Jul 3, 2026",
+              "price": 21999
+            },
+            {
+              "date": "Jul 13, 2026",
+              "price": 22499
+            },
+            {
+              "date": "Jul 23, 2026",
+              "price": 23999
+            },
+            {
+              "date": "Jul 28, 2026",
+              "price": 22499
+            },
+            {
+              "date": "Jul 30, 2026",
+              "price": 27759
+            },
+            {
+              "date": "Aug 14, 2026",
+              "price": 28000
+            },
+            {
+              "date": "Aug 18, 2026",
+              "price": 32619
+            },
+            {
+              "date": "Sep 11, 2026",
+              "price": 29000
+            },
+            {
+              "date": "Sep 16, 2026",
+              "price": 32619
+            },
+            {
+              "date": "Sep 17, 2026",
+              "price": 29000
+            },
+            {
+              "date": "Sep 20, 2026",
+              "price": 32619
+            },
+            {
+              "date": "Sep 30, 2026",
+              "price": 31159
+            },
+            {
+              "date": "Oct 9, 2026",
+              "price": 30999
+            }
+          ]
+        },
+        {
+          "name": "Computech Store",
+          "prices": [
+            {
+              "date": "Apr 16, 2026",
+              "price": 18499
+            },
+            {
+              "date": "Apr 30, 2026",
+              "price": 17999
+            },
+            {
+              "date": "Aug 26, 2026",
+              "price": 26999
+            },
+            {
+              "date": "Oct 8, 2026",
+              "price": 25310
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "__fetched_at": "2026-10-09T19:07:22.483Z",
+  "__part_slug": "ddr5-16gb-5600"
+}

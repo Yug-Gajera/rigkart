@@ -1,0 +1,1230 @@
+{
+  "search_metadata": {
+    "id": "6ac93b6a94c42b36af3ceb5a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0Cyq8oeal2rQMBzihl0OL5kCZEr71oMhoZvpuKcyOhs/6ac93b6a94c42b36af3ceb5a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0Cyq8oeal2rQMBzihl0OL5kCZEr71oMhoZvpuKcyOhs/6ac93b6a94c42b36af3ceb5a.md",
+    "created_at": "2026-10-09 19:07:22 UTC",
+    "processed_at": "2026-10-09 19:07:22 UTC",
+    "google_product_url": "https://www.google.com/search?ibp=oshop&q=search&prds=catalogid%3A11930908297414941299%2Cproductid%3A11907952564895436501%2CheadlineOfferDocid%3A12000690200265133756%2CimageDocid%3A5796235958271237344%2Cgpcid%3A14232813521626070653%2Crds%3APC_14232813521626070653%7CPROD_PC_14232813521626070653%2Cmid%3A576462472611224320%2Cpvt%3Ahg&hl=en&gl=in&udm=28",
+    "raw_html_file": "https://serpapi.com/searches/0Cyq8oeal2rQMBzihl0OL5kCZEr71oMhoZvpuKcyOhs/6ac93b6a94c42b36af3ceb5a.html",
+    "total_time_taken": 1.74
+  },
+  "search_parameters": {
+    "engine": "google_product",
+    "page_token": "0h88UHicdVTLrqvYEY2SH8ggH3Dnka_23jwM58gD3uBjMLB5GCYI8zBg3mCwrXzNud0tdWbpRMo0v9E9yLfE6WSY1KRKtapUq0pV9c_f_P4zK_-uieY-HvxRP5_zniHNmq2Yget-7McuvSVzmf4NQhZsWQpRNMmwFEnQFIA_JvEc193lPzABWMAgdktCkiUhYtmfiixO67LNjnmejWKX_DsOAQBoFrwUoilIEFuK_nPZxJfsV_yv1JalEUGxFIO2EBFbgiS_jen0M2kKESQRgRhIUAjSiAZbQFPEn0z7KEb_B_x-uGXj4y_8i6v-x6abi2w8d_GYfn_pf-XyP1K-NWX6E7WlSRqRW0RDiBBJIPCtX-bP4vLd7VZn__i81J9l-1nUn1n7Qxf3S5788ts_SN0qCtMqWG7fe6INMAhJVyLvwWtwDujjoEklW7Y_YsjqCZRg0urUK0a2r7Nhq_sVw6Jx5UI1XH1NTzKRnrzCUA3o-Oxef_J50NiP8JSqoewF8Wmf65L38BrZDZXUPKqybotG7wqQd13Zc5304-x7DcYwt8VXVaInUqgDvZUe1jWs8JUlkjbtwrooQtg3aZUit7nTSVvYupR2_sl-JGqtOIpB2URhhkrdxo6tuC4rhhU_eZAnddUQPFV6hH44ps9iCtra1p2acJteCFFvetWFPAM7wJ7cZZXNO4CdTkSxZH5hZ16PYtUu0-Ye2hjenDqlMr_PMdwHvluoQd3PAVGHiccH-Nq3J2Bj3zEqDNkCe96A_TnX3ZevTZ4J3GP3xENXlacE2osjy6fT03Z9MbhjRHUJcQWBH3q-BOYU8q0NNMqoihyr_f4M0iBuX5yVwvZrDcugllypLxIvfTj-vgxbjjRkfjr6HZm48qKUe95WjcfRD7Hr1r7demZC8FP8LEwLFnEmFq1OeL4nhbJRGfZ392nMfwacTM34SIo0mx6a03OyTu0S0gxJiQaPzp0arG9wy0JqC7YIvuSHpOuuZfbL79JIsSWBMx1B5XaA5T4KwV4vxJ0HG3fPgIdxmQfXHc0U11tQ0V012LV1VZ9uKRVD2S5dXePNMyP067O_aQWIUl-MuYtOXfL0HjOBTyelxb1_wUcB7wROe1kSZwtqhDldwpoj7YSLpUW0xL9_4SRhx8UxK-37DVWGlkk2Rrx-LPs5wULfksB1iOGGmGlr6cQmiranp8yMtzTqiiBa378ox6NykCKOd7EUSSdJNx3taOw0cUfnOUuihNhCNmFIlnhz9N1_50FT9JuwG9808-VBXyn6K6TBV5ravOEduqkoPEdq_7w2G7XQHQoe1_TVjejtGHDh08ygvI2W67pRGnTgby6hNGQgk4ru_UsU4Sy5jdkGO7a543ij4Ohyc3VnKk2oe3lVtXO84DQLpr7bz1N7UZYqn-5T4DLWuJpyWbBH62DlMxIfCzv4A2Fmk_Y4p617v1XnxTCHBNnsuVnF8aNd25l-_2K8ehWGSRA4CROWxB_vioiNVLUye-yrXDQ6_3gurExjiuu4r3KzrrLJmZGKb2TINPMzc_oS5iGok3t6wLfinh2coTp4jvl6FButY5609IEeNbng-ODh-13LDOWmyNyqmxP7mEx_WT7qVMiBuA-Wg-521etS43sko71CM-FkrGeRWKplzC2zEXszOpbuAzBTgizips3HVStdJ_Kbwp7X24GrnbN6eaiBwCkNL12UR0HdiCkmNGWv8I4jSwL2N9phlrztNf4YIgIvol2sqDZVanhuLLP4yNDAX5KDEpkdT6zT4IAtVuPXXrP9hjysnlxeeP3q8mBY1ecmlUYazcC6D6fDMj-k1dbRIV_huPjwPHrTRWqQcm0qx3CMbq2zIic_JuCLTFkdFobW5CM4sWRwsiN12Cvbjmlky_oX2AdNNQ",
+    "gl": "in",
+    "hl": "en"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://www.theitdepot.com/image/cache/catalog/images/March%202026/104%20(1)-550x550.jpg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSKs9oq0Ghaabh0Fdhm0K2Bf8ltZz6xxBE__xpD35gtSoLxWVN858fAEBmZ475mEZ1Wvp3y9RbUJWCQu9y5UOkIi9NV5y8hvE2_f2XTmRXJrCzeGJnEBOgT",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTc3AnTOYO9Tj71nUFLZQif33KGtsjIuE-h6kR4XzEpHpxMZxuinI4xJ4f7Nu2rZxbFbyZlTezmQu8sNzTa6jGm9j1bS24qH-b511hNwHrMUbwPu7EUhSyBH54",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTfJ7JJDKZXzo6GEeFi9e8X8u8itLvlzvoBTK_TVXN6rz4vm7UTjgUz7hMCtMLNqJWxxNIaU6Y398mRj61OgRPyzuF6AAcvzP8GHvKmHx8z9LeqwZ_zH9t2GA",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQgSZ6--yMw-ZaFKuYrvGYEAl3sXV8vN-uYNTCf5TeoiESrfa0MkDtNYVcNJcliRT2Z_ZJrOiapOBvcs0s6sPjyAvjjt2kdq-nPuJ4m76h1NQrFaNcs9CiK3w",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRwE2XUUGBglc7wYuU7kYoaRbqZkFyyitl226OsgjyaDVy0aSCOnS4n24JiN9zgWdxajRQShUuHqjKzPsiAjr-sFTqwlWAVkB2oZhDZCerQ7v_3Ef2TwIv7zhA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-eXfsEVvTFtWCP_joWWRcnhMYRV_aZsWiT1yOcdfiEtixWOvuO65Ez4opmGWP5vytv2ck-GN6PhX4wIeLj8j9EphZ25MpkjIxfOhvyzHMOGuUVuffxOv4CQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSuxRUG1zEALG7F6gDT8-sPEWuYw-1AklfgJTDpa_IK5yD9kfC_vTSzr-s5yegC0GiBKEg9Le_TPSLBa3SHCQPJqjXT-n5txrLU8mQp9mc-KZEdZ1Ulp4SIbe4",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfIteEUTz7uS6U1HAUHvVViDu_Hnipsjk6iZVoKkczBrhzfr5gle2F0NvcWTr0p0CmEM9cwLbz0812GesyCRc3s3xug4OfJmigHZYlWj0Lw2hSPpiHY3-6bLM",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVBT6yIpjpIIAn13088hwc1YWMmMtqOCUYPOHh7KPVDbXGzRpKBsuAiV5PSR3Rg1Iq8ps15b179e5pa0PKgV8RnNoUUBJdHH5-SwB33ksFIvp-JMk9qU_LL_A",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSv1gmgWBLYUC1X1-CraDzh3YkYOTsPXheRB3ixyuLMn27-ot0fsda7TwHV11F4Rn3jPBZCxkbkBDaq4-U_Eq56kht-DYbqF-IYzH0JUlSbGTXEqu8UHK8zV_8"
+    ],
+    "title": "ASRock B650M-H/M.2+ M-ATX Motherboard",
+    "brand": "ASRock",
+    "reviews": 115,
+    "rating": 4.6,
+    "stores": [
+      {
+        "position": 1,
+        "name": "Theitdepot",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theitdepot.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.theitdepot.com/index.php?route=product/product&product_id=8811",
+        "title": "ASRock B650M-H/M.2+ AM5 Motherboard",
+        "details_and_offers": [
+          "In stock online"
+        ],
+        "discount": "Usually ₹9,349",
+        "price": "₹7,875",
+        "extracted_price": 7875,
+        "original_price": "₹7,875",
+        "extracted_original_price": 7875,
+        "total": "₹7,875",
+        "extracted_total": 7875,
+        "merchant_id": "426299122",
+        "immersive_product_page_token": "NqMjYXicdZRJkqNGAEUjfJK6gCIyk9kVtWAehYAkmTYKBAiQQKABhBS-gBe-RLXdEe2l3ZdpX8Rbl-2tvfqLF__v3v_pS5Hf8m6o2_IrhAIFBMAjgaMhLdAQCcKX8TKUU3H7FwNOYBDD0rzA0BTLAPhLPRZ_IxpRiIcUgyCLWMABlqF-bfu8rpThg__OcAKLKEZgeMRBRHEUTX-6lNdvtCdv_6v7gxdslO3_wE_jfHtv6ve6e29P7033Xp0-F8NwbKs_vvsRb2T8Jovm68t2i6tiulQrHAbemyi5jcjWvlJ2mtNxThztokQ5r9Jr_zz39tlTKHMJV9rDEnKHnol2m072_U4ZePc0gdAeDEc5DSFt4YQRB0FFTLfsQYYg34mGr96b-vUFq2IgG1ssrlVshuqbXPvmllWl1xdRld_EPBdU67J1c37NrbbFmkwUML22uk5zYIdxmFedXIwU4Rl-1dRTdrPrw7byrv7rixK9FYu85JVkMRUJC7dh9zun0FeHWLqLjdoMry-uqbzJZyLLoorhXZU2i65gseZ3yWXx1afJ9zM1Wohqbbm_kyw57zTM0ZWfcS17KYs4RY9x5hnWMRcm09JBnmNe1uJpu880qcN1Sj_qOe4rWqo5XpJTnU-uYp_uH7amB4eLcC0fmbwvTrY7qIP0UGxwCxLvTiu9IeecPrfOdX-VhISNeDPYeCFNFf6VU6sVTAuZ8Z7XmTHpY36u8W2JCkpRzq4KPTXj7-qsPxsFt9vjSGjfuQfD4qVWkhuE287JUgQB_fCEp63r-9V0w6fnY1kZeZUlfajr2ny2R04L1pM8jaKxkWjOkSpcS-sjkcD5bjwfw3pnp0JuM6Ltu4rjLo8C0aDm7Sk9y2I8dlSxASICTtaCIL9Fnm8dJ7sNIjz3lEFZ8ykM5NKxgr3GJptpci2nTn9rqrzs2lO12e-ryz8afIUIAMAK4CMQy0CK4hj2U9-WX2jEfrgGEfo85OO8L779qV5SST6VEu474hqBXZExLp_umiQiwGTUySE4Fzpgysgai8SdM72ZibosYW91pMvwOrGaNOZhoQtedXDx-hiwYVTiOPZBFLlTCjsZx02wIdD1EUQ7Ag0XafI6DmBgZDlR1ygFwbPUhDQ6RQQDqwv768febZ8eJCp6QJItZpImI8K9BgpyUzItkNeapBFNcHeEBz4huXnU1IIymayz3JjAJUSBg_smj3rGitUowoA5-8cBVFF5KE_Fz8v1sv8GRI254Q29gdy8u3uezXrIkLUCZ_CZAyNY3Pp7yAmQ4RBPUx-P8hf6BoxO",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NqMjYXicdZRJkqNGAEUjfJK6gCIyk9kVtWAehYAkmTYKBAiQQKABhBS-gBe-RLXdEe2l3ZdpX8Rbl-2tvfqLF__v3v_pS5Hf8m6o2_IrhAIFBMAjgaMhLdAQCcKX8TKUU3H7FwNOYBDD0rzA0BTLAPhLPRZ_IxpRiIcUgyCLWMABlqF-bfu8rpThg__OcAKLKEZgeMRBRHEUTX-6lNdvtCdv_6v7gxdslO3_wE_jfHtv6ve6e29P7033Xp0-F8NwbKs_vvsRb2T8Jovm68t2i6tiulQrHAbemyi5jcjWvlJ2mtNxThztokQ5r9Jr_zz39tlTKHMJV9rDEnKHnol2m072_U4ZePc0gdAeDEc5DSFt4YQRB0FFTLfsQYYg34mGr96b-vUFq2IgG1ssrlVshuqbXPvmllWl1xdRld_EPBdU67J1c37NrbbFmkwUML22uk5zYIdxmFedXIwU4Rl-1dRTdrPrw7byrv7rixK9FYu85JVkMRUJC7dh9zun0FeHWLqLjdoMry-uqbzJZyLLoorhXZU2i65gseZ3yWXx1afJ9zM1Wohqbbm_kyw57zTM0ZWfcS17KYs4RY9x5hnWMRcm09JBnmNe1uJpu880qcN1Sj_qOe4rWqo5XpJTnU-uYp_uH7amB4eLcC0fmbwvTrY7qIP0UGxwCxLvTiu9IeecPrfOdX-VhISNeDPYeCFNFf6VU6sVTAuZ8Z7XmTHpY36u8W2JCkpRzq4KPTXj7-qsPxsFt9vjSGjfuQfD4qVWkhuE287JUgQB_fCEp63r-9V0w6fnY1kZeZUlfajr2ny2R04L1pM8jaKxkWjOkSpcS-sjkcD5bjwfw3pnp0JuM6Ltu4rjLo8C0aDm7Sk9y2I8dlSxASICTtaCIL9Fnm8dJ7sNIjz3lEFZ8ykM5NKxgr3GJptpci2nTn9rqrzs2lO12e-ryz8afIUIAMAK4CMQy0CK4hj2U9-WX2jEfrgGEfo85OO8L779qV5SST6VEu474hqBXZExLp_umiQiwGTUySE4Fzpgysgai8SdM72ZibosYW91pMvwOrGaNOZhoQtedXDx-hiwYVTiOPZBFLlTCjsZx02wIdD1EUQ7Ag0XafI6DmBgZDlR1ygFwbPUhDQ6RQQDqwv768febZ8eJCp6QJItZpImI8K9BgpyUzItkNeapBFNcHeEBz4huXnU1IIymayz3JjAJUSBg_smj3rGitUowoA5-8cBVFF5KE_Fz8v1sv8GRI254Q29gdy8u3uezXrIkLUCZ_CZAyNY3Pp7yAmQ4RBPUx-P8hf6BoxO"
+      },
+      {
+        "position": 2,
+        "name": "Amazon.in",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.amazon.in/ASRock-B650M-H-M-2-Motherboard-DDR5/dp/B0CJTB2QV2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2BWJVKSWP7TR2",
+        "title": "ASRock B650M-H/M.2+ Micro ATX Motherboard DDR5",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery"
+        ],
+        "price": "₹22,393",
+        "extracted_price": 22393,
+        "shipping": "Free",
+        "total": "₹22,393",
+        "extracted_total": 22393,
+        "merchant_id": "141020976",
+        "immersive_product_page_token": "sOtlEXicddNJjqtWGIZhKSupDVjiwDk0KXlAc7BpTW9gYmHAgE1jm9bW3UAG2URVcqXKMMlmbjaSaSrJNJn-j_7Z9_74kSZDUndFlf0OAEcRHMGSHAMB5CAgOe7jeu-yMR3-ZYLhEIloyHIIUjQiwM_FNf2bIEmRLKAQCWiSJhiCRtQvVZMUudR9-m-I4WiSQhxiSQaQFENB-H7P-m_QEg__9fvFcnbS4X_w_ToNb2XxVtRvVftW1m95-zXtukuV__HdD-5OdNcir7y-HA5uno73fOV6jrXmBbPk6cKWslrWa0bfB8cglG6rqG-et0a7WRKlLN5KfqhcosPJl4ex1eaZ2rrHp0Jw1XmrS23nQdUNEd9xmET1ciJiErA1v7XxXBavLy7mHXF7cHkDu4qH12JhKwcaC68vPBbXfJJwWL0fzIQ1mNUhNfyRIhSryvtxcjRv7yV5LaZXymcRuyqLMR604nzIrd5-fZGCdbqIS5ILKsp9LzVL-nTU083qvBdmvsRl9_piKtJavPmiyGMXzFjYLRvJ5Qv2GN4XGz8Vtpmoq0pSlSY2sx-Ht6PsMjC3Y6ai71m6j8jHdWIRrSsLiuWoE6c9K8r78XCKZaF2iwg-imnf5FAoGFYQow0b9nwTnR6avHHOd67PHrF4SlvN7HAnPCSNGJzQmqHUbMWE2UyV3p96gQvpgFWcneVBKrV7BucrEKUisp79hBR4SW6FOyxBSknSzcTAwjE742nzLCW3OlyuPrT12ekWK1LDZOszhylcUseBD4t7apvNaTUObvt8LKttksdh42028nTTrozsGKM4XvntToCMLuRuIRgXXyBu8_b56IyjFnGJhnjNNiXdXB4pCYmC1cboJvL7a02lO4InCT2uCCcZAstWL6NWOYE7NdSWUqfWc8RMV52TTIe7cTRVvYh-LfMkq6s2351O-f2fDD4LIjmWAIBFkP4sjWERQbw3VfYBICDIzwP9tUuu0yn99ie-R4LYZoLb1L65dfQYZHPQyE7W2uB4QYLhA83wSyXDNUpa0zGkWow3SxntTd8gBmhSse-EGDlErfrPiPycvWa0ce8FgW1QjmV6ppEFcZgE8sXdX1AKgnsUyE9HvsAcDzhqatE7Z8OxAU-HCib7MvT2WW1jsoBHXIAkMP1oUcIovJJuIxOpP0ix7IiGLMi-zJlHnyVs30-Ui4xTSkFxLZ89f4Gx58_uWcVZwJ0TcAHefpldP6tMSR4jgH9a-vvpG8HLaHB3jKFYfVKVwSObu5WB_M5MlX2SueOm-B4wHEAMyUKKAdRfpXKOnA",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sOtlEXicddNJjqtWGIZhKSupDVjiwDk0KXlAc7BpTW9gYmHAgE1jm9bW3UAG2URVcqXKMMlmbjaSaSrJNJn-j_7Z9_74kSZDUndFlf0OAEcRHMGSHAMB5CAgOe7jeu-yMR3-ZYLhEIloyHIIUjQiwM_FNf2bIEmRLKAQCWiSJhiCRtQvVZMUudR9-m-I4WiSQhxiSQaQFENB-H7P-m_QEg__9fvFcnbS4X_w_ToNb2XxVtRvVftW1m95-zXtukuV__HdD-5OdNcir7y-HA5uno73fOV6jrXmBbPk6cKWslrWa0bfB8cglG6rqG-et0a7WRKlLN5KfqhcosPJl4ex1eaZ2rrHp0Jw1XmrS23nQdUNEd9xmET1ciJiErA1v7XxXBavLy7mHXF7cHkDu4qH12JhKwcaC68vPBbXfJJwWL0fzIQ1mNUhNfyRIhSryvtxcjRv7yV5LaZXymcRuyqLMR604nzIrd5-fZGCdbqIS5ILKsp9LzVL-nTU083qvBdmvsRl9_piKtJavPmiyGMXzFjYLRvJ5Qv2GN4XGz8Vtpmoq0pSlSY2sx-Ht6PsMjC3Y6ai71m6j8jHdWIRrSsLiuWoE6c9K8r78XCKZaF2iwg-imnf5FAoGFYQow0b9nwTnR6avHHOd67PHrF4SlvN7HAnPCSNGJzQmqHUbMWE2UyV3p96gQvpgFWcneVBKrV7BucrEKUisp79hBR4SW6FOyxBSknSzcTAwjE742nzLCW3OlyuPrT12ekWK1LDZOszhylcUseBD4t7apvNaTUObvt8LKttksdh42028nTTrozsGKM4XvntToCMLuRuIRgXXyBu8_b56IyjFnGJhnjNNiXdXB4pCYmC1cboJvL7a02lO4InCT2uCCcZAstWL6NWOYE7NdSWUqfWc8RMV52TTIe7cTRVvYh-LfMkq6s2351O-f2fDD4LIjmWAIBFkP4sjWERQbw3VfYBICDIzwP9tUuu0yn99ie-R4LYZoLb1L65dfQYZHPQyE7W2uB4QYLhA83wSyXDNUpa0zGkWow3SxntTd8gBmhSse-EGDlErfrPiPycvWa0ce8FgW1QjmV6ppEFcZgE8sXdX1AKgnsUyE9HvsAcDzhqatE7Z8OxAU-HCib7MvT2WW1jsoBHXIAkMP1oUcIovJJuIxOpP0ix7IiGLMi-zJlHnyVs30-Ui4xTSkFxLZ89f4Gx58_uWcVZwJ0TcAHefpldP6tMSR4jgH9a-vvpG8HLaHB3jKFYfVKVwSObu5WB_M5MlX2SueOm-B4wHEAMyUKKAdRfpXKOnA"
+      },
+      {
+        "position": 3,
+        "name": "Links",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.links.hr&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.links.hr/hr/maticna-ploca-asrock-b650m-hm2-amd-b650-ddr5-atx-s-am5-010502187",
+        "title": "Matična ploča ASROCK B650M-H/M.2+, AMD B650, DDR5, ATX, s. AM5",
+        "details_and_offers": [
+          "In stock online"
+        ],
+        "price": "₹10,075.82",
+        "extracted_price": 10075.82,
+        "total": "₹10,075.82",
+        "extracted_total": 10075.82,
+        "merchant_id": "5541932634",
+        "alt_currency": "(€92.99)",
+        "immersive_product_page_token": "1V-i13icddNJrqNWAIVhKSt5G7BEcy9Nnt6AvrfpLgYmCAMGDBiMAYNVG8ggm3iVlFQ1TGozlY1kmkoyTcafzuz8P3_O0ilt-7LOv-I4S2IsxhAsDXDAApxg2c_D2OdzNv3LGM1CAlKAYSEgKYjhv5ZD9jcBgiQYnIQEThEURmMUJL_UXVoWYv_df4c0SxEkZCFD0DhB0iQAH8f8_g3YQvJf2w-2exCT_8GPwzK9V-V72b7X1_eqfS-un7K-b-rijx9-8g6C9yZw2utLknhFNo_FzvNd-43j9xVHlY6Yt7LZ0uYxOAWheNtF9-5564ybLZLa6u_kTWdTEyxInuar8XiQqnd6ahhbX1RTvPY-0L0Qcj0rEbBdz1hM4EzLqY70qMrXF0_iXEFNPM6SPM2X3oTS0RJK4l9fOEl449KUlfQx2aeMRe-SzEIziWl2XdznxTX8o58WrZANJGIgs6vKOZ6M8pIU9t15fRGDt2wV1rTgdVggP9tX1PlkZsrucuQfXCVV_evLXhPfhBsSBE7y8IfEH1ZF9LiSOYXj6khPjekWctAJsjaE7oHi8HaSPRoUTkzX1Jhnx4jYhoWBlKmtMJajXliOjCAf5-Qcy3zrlRHYyuXYFYAvaYYXIoUJ71wXnTdDVtzLyN7zLRbO2dXY91LPb6KBTW5oP4DYqUJKK0tt3s93ng2pgNHcg-0DMnPutFTs8CgToP28L1ADTXorvWkNMlIUb3sJt6WYeUiL8qxEr06aAQHHfLj9akd6mKqITpZwzVwXbDb7NBTlvJsn7_rc1p2aFnHY-YoiLzdjoGXXmoV54NQDD2iTL7yStxrEY7eH-tx662REbGpAznD2orlft4wAWMkYc3QTuOPQktkB4wjMjGvMTafAdvRmNmo38JaOVEl9ufqukJu6e5ap8DDPe90so9-qIs3b-loczudi_CeDrzgEkCRYivn-ahyHOMXi1Meuzr9ACL63R1Ak-NSnw3LOvv0pjREvXHPe61q0V10r9_XHvotxr1uV9FpiwXGInbYdg9bBLFWWnGvuIEybUFDZDt7GUSDzqFm9-CIrOTGsljro1iW4ITUIfDyuUgnDsrCEqYRghk1mSCIYPfMGyZUeYfJQoGZzNnxADRyRLMenLmiyo-5kopt6l-AeK5MSrVoYhQPhdTKWoUmMZVewZF5GMrs_IQZzEEq1RpYyUoNx625WyMeu6h6ioCSPTbOagd6jS2D4jbXFyDWdVvplvY_nbxgnw8k7UMy10kSX2wL3SKM5ASNY0xpaa4G4H3GaxSFNMICkcfgXEQyPgw",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1V-i13icddNJrqNWAIVhKSt5G7BEcy9Nnt6AvrfpLgYmCAMGDBiMAYNVG8ggm3iVlFQ1TGozlY1kmkoyTcafzuz8P3_O0ilt-7LOv-I4S2IsxhAsDXDAApxg2c_D2OdzNv3LGM1CAlKAYSEgKYjhv5ZD9jcBgiQYnIQEThEURmMUJL_UXVoWYv_df4c0SxEkZCFD0DhB0iQAH8f8_g3YQvJf2w-2exCT_8GPwzK9V-V72b7X1_eqfS-un7K-b-rijx9-8g6C9yZw2utLknhFNo_FzvNd-43j9xVHlY6Yt7LZ0uYxOAWheNtF9-5564ybLZLa6u_kTWdTEyxInuar8XiQqnd6ahhbX1RTvPY-0L0Qcj0rEbBdz1hM4EzLqY70qMrXF0_iXEFNPM6SPM2X3oTS0RJK4l9fOEl449KUlfQx2aeMRe-SzEIziWl2XdznxTX8o58WrZANJGIgs6vKOZ6M8pIU9t15fRGDt2wV1rTgdVggP9tX1PlkZsrucuQfXCVV_evLXhPfhBsSBE7y8IfEH1ZF9LiSOYXj6khPjekWctAJsjaE7oHi8HaSPRoUTkzX1Jhnx4jYhoWBlKmtMJajXliOjCAf5-Qcy3zrlRHYyuXYFYAvaYYXIoUJ71wXnTdDVtzLyN7zLRbO2dXY91LPb6KBTW5oP4DYqUJKK0tt3s93ng2pgNHcg-0DMnPutFTs8CgToP28L1ADTXorvWkNMlIUb3sJt6WYeUiL8qxEr06aAQHHfLj9akd6mKqITpZwzVwXbDb7NBTlvJsn7_rc1p2aFnHY-YoiLzdjoGXXmoV54NQDD2iTL7yStxrEY7eH-tx662REbGpAznD2orlft4wAWMkYc3QTuOPQktkB4wjMjGvMTafAdvRmNmo38JaOVEl9ufqukJu6e5ap8DDPe90so9-qIs3b-loczudi_CeDrzgEkCRYivn-ahyHOMXi1Meuzr9ACL63R1Ak-NSnw3LOvv0pjREvXHPe61q0V10r9_XHvotxr1uV9FpiwXGInbYdg9bBLFWWnGvuIEybUFDZDt7GUSDzqFm9-CIrOTGsljro1iW4ITUIfDyuUgnDsrCEqYRghk1mSCIYPfMGyZUeYfJQoGZzNnxADRyRLMenLmiyo-5kopt6l-AeK5MSrVoYhQPhdTKWoUmMZVewZF5GMrs_IQZzEEq1RpYyUoNx625WyMeu6h6ioCSPTbOagd6jS2D4jbXFyDWdVvplvY_nbxgnw8k7UMy10kSX2wL3SKM5ASNY0xpaa4G4H3GaxSFNMICkcfgXEQyPgw"
+      }
+    ],
+    "stores_next_page_token": "o5UPznica15aklmSk3pT1TE4KD85W8HJzNTAV9dD31fPSFvBV9cxJELBN78kI7UoKT-xKGVJcX5RJvPi3Lx8LgA7-hOr",
+    "about_the_product": {
+      "title": "ASRock B650M-H/M.2+",
+      "link": "https://www.asrock.com/MB/AMD/B650M-HM.2+/index.asp",
+      "displayed_link": "asrock.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.asrock.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "Discover the power of advanced computing with the ASRock B650M-H/M.2+, a motherboard designed to elevate your PC's performance. Engineered to support Ryzen 7000 Series processors, it offers a solid foundation for building a high-performance system. With dual DIMM slots that support DDR5 memory at speeds up to 6400 MHz (O.C.), this motherboard ensures swift data processing and a smooth computing experience. The ASRock B650M-H/M.2+ stands out with its multiple M.2 sockets, providing flexible storage solutions with support for PCIe 5.0, ensuring fast data access and boot times. Comprehensive connectivity options, including USB-C 3.2 Gen 1, HDMI, and DisplayPort, allow for a wide range of peripherals and displays to be connected, making it a versatile choice for any build. Designed with a focus on durability and performance, features like the 15μ Gold Contact, 6 Layer PCB, and reinforced PCIe slots ensure long-term reliability and stability. Whether you're gaming, creating, or working, the ASRock B650M-H/M.2+ motherboard delivers the performance and features you need to get the most out of your PC.",
+      "features": [
+        {
+          "title": "CPU Manufacturer",
+          "value": "AMD"
+        },
+        {
+          "title": "Motherboard Socket Type",
+          "value": "Socket AM5"
+        },
+        {
+          "title": "Motherboard Chipset",
+          "value": "AMD B650"
+        },
+        {
+          "title": "Motherboard Form Factor",
+          "value": "Micro ATX"
+        },
+        {
+          "title": "Motherboard Model",
+          "value": "B650M-H/M.2+"
+        },
+        {
+          "title": "Form Factor",
+          "value": "Micro ATX"
+        },
+        {
+          "title": "Manufacturer",
+          "value": "Asrock"
+        },
+        {
+          "title": "Socket Type",
+          "value": "Socket AM5"
+        },
+        {
+          "title": "CPU Compatibility",
+          "value": "AMD Socket AM5 Ryzen\t9000, 8000 and 7000 Series Processors"
+        },
+        {
+          "title": "Motherboard Compatibility",
+          "value": "Micro-ATX"
+        },
+        {
+          "title": "RAM Type",
+          "value": "DDR5"
+        },
+        {
+          "title": "RAM Maximum Capacity",
+          "value": "96 GB"
+        },
+        {
+          "title": "RAM Speed",
+          "value": "up to 6400+(OC)"
+        },
+        {
+          "title": "RAM Number of Slots",
+          "value": "2"
+        },
+        {
+          "title": "RAM ECC Support",
+          "value": "Yes"
+        },
+        {
+          "title": "Clock Speed",
+          "value": "1"
+        },
+        {
+          "title": "Thermal Design Power (TDP)",
+          "value": "supports up to 120 W CPU"
+        },
+        {
+          "title": "Supports Overclocking",
+          "value": "Yes (memory up to 6400+ MHz), Yes (Extreme Memory Profile (XMP) and EXTended Profiles for Overclocking (EXPO) memory modules)"
+        },
+        {
+          "title": "Discrete Graphics",
+          "value": "No"
+        },
+        {
+          "title": "Integrated Graphics",
+          "value": "Yes"
+        },
+        {
+          "title": "GPU Type",
+          "value": "Integrated"
+        },
+        {
+          "title": "Output Resolution",
+          "value": "4K 120Hz (via HDMI 2.1 TMDS/FRL 8G Compatible)"
+        },
+        {
+          "title": "Multi Card Support",
+          "value": "No (SLI support), No (Crossfire support)"
+        },
+        {
+          "title": "Memory Type",
+          "value": "DDR5"
+        },
+        {
+          "title": "Max Memory Capacity",
+          "value": "96 GB"
+        },
+        {
+          "title": "Memory Slots",
+          "value": "2"
+        },
+        {
+          "title": "Memory Speed",
+          "value": "up to 6400+(OC)"
+        },
+        {
+          "title": "ECC Support",
+          "value": "Yes (DDR5 ECC/non-ECC)"
+        },
+        {
+          "title": "Memory Channel Support",
+          "value": "Dual Channel"
+        },
+        {
+          "title": "Expansion Slot Type",
+          "value": "PCIe 4.0 x16"
+        },
+        {
+          "title": "Motherboard Power Connectors",
+          "value": "1 x 8 pin 12V Power Connector"
+        },
+        {
+          "title": "Power Connectors",
+          "value": "8 pin 12V Power Connector"
+        },
+        {
+          "title": "Storage Capacity",
+          "value": "1 GB (memory storage capacity)"
+        },
+        {
+          "title": "Storage Type",
+          "value": "SATA, M.2, M.2 NVMe"
+        },
+        {
+          "title": "Storage Interface",
+          "value": "SATA3 6.0 Gb/s, PCIe Gen4x4 (64 Gb/s), PCIe Gen5x4 (128 Gb/s)"
+        },
+        {
+          "title": "Storage Form Factor",
+          "value": "type 2280 (Blazing M.2), type 2260/2280 (Hyper M.2)"
+        },
+        {
+          "title": "Storage M.2 Slots",
+          "value": "2"
+        },
+        {
+          "title": "Storage SATA Ports",
+          "value": "4"
+        },
+        {
+          "title": "Storage RAID Support",
+          "value": "Yes (for SATA storage devices), Yes (for M.2 NVMe storage devices)"
+        },
+        {
+          "title": "GPU Output Interface",
+          "value": "HDMI, DisplayPort"
+        },
+        {
+          "title": "GPU DisplayPort Ports",
+          "value": "1"
+        },
+        {
+          "title": "GPU HDMI Ports",
+          "value": "1"
+        },
+        {
+          "title": "Display Output Type",
+          "value": "HDMI, DisplayPort"
+        },
+        {
+          "title": "Max Display Resolution",
+          "value": "4K 120Hz (via HDMI 2.1 TMDS/FRL 8G Compatible)"
+        },
+        {
+          "title": "Number Of Display Outputs",
+          "value": "2"
+        },
+        {
+          "title": "Display Highlights",
+          "value": "Supports HDR, Supports HDCP 2.3"
+        },
+        {
+          "title": "Motherboard Storage M.2 Slots",
+          "value": "1 (Key E for WiFi/BT)"
+        },
+        {
+          "title": "Motherboard SATA Ports",
+          "value": "4"
+        },
+        {
+          "title": "Motherboard RAID Support",
+          "value": "Yes (for SATA storage devices), Yes (for M.2 NVMe storage devices)"
+        },
+        {
+          "title": "Suitable For Gaming",
+          "value": "Yes"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Gaming, Creating, Working"
+        },
+        {
+          "title": "Chipset Manufacturer",
+          "value": "AMD"
+        },
+        {
+          "title": "Chipset Model",
+          "value": "B650"
+        },
+        {
+          "title": "Chipset Highlights",
+          "value": "RAID support"
+        },
+        {
+          "title": "PCIe Slots",
+          "value": "2x PCIe 4.0 x1"
+        },
+        {
+          "title": "Expansion M.2 Slots",
+          "value": "1 (Key E for WiFi)"
+        },
+        {
+          "title": "Expansion Other Slots",
+          "value": "2 x DIMM 288-pin"
+        },
+        {
+          "title": "Color",
+          "value": "Black"
+        },
+        {
+          "title": "Length",
+          "value": "31 cm"
+        },
+        {
+          "title": "Height",
+          "value": "9.6-in (24.4 cm)"
+        },
+        {
+          "title": "Width",
+          "value": "8.9-in (22.6 cm)"
+        },
+        {
+          "title": "Lighting",
+          "value": "Power LED"
+        },
+        {
+          "title": "Ports",
+          "value": "USB 2.0, DisplayPort, HDMI"
+        },
+        {
+          "title": "USB",
+          "value": "6 x USB 3.2 Gen1 (3 Rear, 1 Rear Type-C, 2 Front)"
+        },
+        {
+          "title": "Ethernet Ports",
+          "value": "1"
+        },
+        {
+          "title": "SATA Ports",
+          "value": "4"
+        },
+        {
+          "title": "Wireless",
+          "value": "WiFi (via M.2 Key E slot)"
+        },
+        {
+          "title": "Bluetooth",
+          "value": "Supports type 2230 WiFi/BT PCIe WiFi module"
+        },
+        {
+          "title": "Ethernet",
+          "value": "Gigabit LAN"
+        },
+        {
+          "title": "Interface",
+          "value": "PCIe 4.0"
+        },
+        {
+          "title": "Thunderbolt Ports",
+          "value": "0"
+        },
+        {
+          "title": "Other Ports",
+          "value": "Antenna Mounting Points"
+        },
+        {
+          "title": "Infrared",
+          "value": "No"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Smart Fan Speed Control (for Chassis/Water Pump Fan Connectors)"
+        },
+        {
+          "title": "Included Cooler",
+          "value": "No"
+        },
+        {
+          "title": "Fan Headers",
+          "value": "3 x Chassis/Water Pump Fan Connectors (4-pin)"
+        },
+        {
+          "title": "Motherboard Target Use Case",
+          "value": "Working, Creating, Gaming"
+        },
+        {
+          "title": "Audio Chipset",
+          "value": "Realtek ALC897"
+        },
+        {
+          "title": "Onboard Audio",
+          "value": "Yes"
+        },
+        {
+          "title": "Audio Channels",
+          "value": "7.1"
+        },
+        {
+          "title": "External",
+          "value": "No"
+        },
+        {
+          "title": "Bios Highlights",
+          "value": "UEFI BIOS, ASRock Full HD UEFI, ASRock Instant Flash, BIOS Flashback"
+        },
+        {
+          "title": "EPEAT Rating",
+          "value": "ErP/EuP ready"
+        },
+        {
+          "title": "Release Date",
+          "value": "2023-09-08"
+        }
+      ]
+    },
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 4,
+        "percentage": 4
+      },
+      {
+        "stars": 2,
+        "amount": 1,
+        "percentage": 1
+      },
+      {
+        "stars": 3,
+        "amount": 2,
+        "percentage": 2
+      },
+      {
+        "stars": 4,
+        "amount": 20,
+        "percentage": 18
+      },
+      {
+        "stars": 5,
+        "amount": 88,
+        "percentage": 77
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_JAig7xVd7IwejEtFt5Lqk8jgTGJtzmcfQS6u5lsmHnecEhcILoYhwHOtYgCBNwor0WBvA87y8ZMEGjEyR-YXuHVPx0mUIA",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSphCITpOsdHU0ALu2FEJD6gh3ubnvyVBxb5ZDKYc_bkWKEIT5bs_najA4nf1QSYIY2yjVH9zS8Vvlwfrjp31x5ABPCxcZEjQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8NXZra484QubBBivi6TxuwGc7SxbjKqa4Yw9HyNtR62PP62SbrgiIpmjUhm_18X2kmGhXVPQarUqsn7Ii38BSfDbhWJHgow",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfg8O6dzcwb3vJ4fgxOhdyjci4O4ixgPcOLYQJX38Brpx344O1TA_piwBNaiJENC9I3v34fiu8uZzqomA8knMhs1hwT-3U",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTb0IOvTrjhs4E1-OTdX_ZqKlYD6mkoJ7XHlQ5NMegsXSL-YoMSZvbunr068Ptr4INmniWWzc6EgTl13L3S4XeU-ZdhPHhGwQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYSmR9tS5kRYnuThglVraBlERLvUnfyBRnDELoaMd_uNUWC8uXefm2TtIuXKbYGl9A-x9_SNj7h5jbiDMVYKQP30_hujZ4",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSvA5aBz8JtDORh39Wc8qq0XU5vCCLSnWwRr1kGwgbUXUGkT3Nj-xs8ez2rH63ONrvBEqqh8LbcoBYktElMZQ3Mwoh7520Y",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT1Zn1qjH0wRnNengNtXuwuWKWmRBiWgFxQ--6uD8GLRoObCkM5_V_JZoiZVpcrQOG_lIab4TUpSDBYa9DN-b5NcrFS0QyD"
+    ],
+    "user_reviews": [
+      {
+        "text": "A nice mid range motherboard for a great value, easily installation with crisp clear instruction manual. Product works well and be caution of the pins for USB/Audio/power button, thin and easily bend and injured. i was shocked when my product was delivered with the box deformed, luckily the motherboard wasnt damaged.",
+        "user_name": "omgpoods",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3YGk29-Pz-fa11Hwj7w9G077pstK-9szgdr2Yff_YrLMrn4W3J-S197cnQqpokrs4orA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "text": "Performance:great\n\nTook awhile to come, was waiting on this mobo to complete my build, took longer than estimated time to arrive but not seller fault shopee express was to blame was in processing for 3 days for some reason and it was after Raya already i guess staff still holiday mood lol. Ports were enough, no ARGB ports for your RGB fans so if u want those get a controller or hub but got issue with the wifi card, it is a Realtek card and rated for 1400Mbps but i was only getting 15-20Mbps on my 600Mbps time plan, ethernet works well finicky at first but managed to get full speed on Lan cable but wifi still having problems",
+        "user_name": "johnkeoh",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/20108462/27371279736",
+        "rating": 4,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3oMPTf7fcdPaeS8W8_DgUv7H9cnPBLVOn2sepJome1QoU_xHbrTKD6URQAnxyaqUl_KA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_JAig7xVd7IwejEtFt5Lqk8jgTGJtzmcfQS6u5lsmHnecEhcILoYhwHOtYgCBNwor0WBvA87y8ZMEGjEyR-YXuHVPx0mUIA"
+        ]
+      },
+      {
+        "text": "Decent performing entry level motherboard, do be informed that it does not come with RGB headers.\n\nbios was updated instantly when I got it and the overclocking is very easy to be accessed and I had managed to set my pbo to 200mhz and set the curve at -20 and overclocked my ram to 6000mhz from 5600mhz\n\nPackaging could be better, my box was all smashed up, luckily there wasn't any damage is done to it",
+        "user_name": "creeperlim",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/5529122/29622855896",
+        "rating": 5,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK24T7DM7WFpXWZlChAbUr0R4UaJI-qfAmtWkSBkKze4IyamqsJ32G-xay9iZu-upLUfrA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSphCITpOsdHU0ALu2FEJD6gh3ubnvyVBxb5ZDKYc_bkWKEIT5bs_najA4nf1QSYIY2yjVH9zS8Vvlwfrjp31x5ABPCxcZEjQ",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8NXZra484QubBBivi6TxuwGc7SxbjKqa4Yw9HyNtR62PP62SbrgiIpmjUhm_18X2kmGhXVPQarUqsn7Ii38BSfDbhWJHgow"
+        ]
+      },
+      {
+        "text": "Excellent combo deal, both items arrived well packaged. Easy to install, BIOS is user friendly. Successfully booted on first try. Great value bundle for an AM5 build. Highly recommended",
+        "user_name": "onccee123",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/20108462/27371279736",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3nCs5yxh7YRxkKkn6xzDZviXVuBClU2sJkZbKFBm9IYy6K3irWr9W70H0Dv4NX6ICYYg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfg8O6dzcwb3vJ4fgxOhdyjci4O4ixgPcOLYQJX38Brpx344O1TA_piwBNaiJENC9I3v34fiu8uZzqomA8knMhs1hwT-3U",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTb0IOvTrjhs4E1-OTdX_ZqKlYD6mkoJ7XHlQ5NMegsXSL-YoMSZvbunr068Ptr4INmniWWzc6EgTl13L3S4XeU-ZdhPHhGwQ",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYSmR9tS5kRYnuThglVraBlERLvUnfyBRnDELoaMd_uNUWC8uXefm2TtIuXKbYGl9A-x9_SNj7h5jbiDMVYKQP30_hujZ4"
+        ]
+      },
+      {
+        "text": "Brought this at discounted price. At this price point, what you get from this motherboard is really worth every penny. Probably this is the most affordable B650 board with built in WiFi (it doesn't have ARGB header though). Thanks seller!",
+        "user_name": "reformist",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/5529122/29622855896",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2dKNxxa--2TJdQPV-d_QVFWHDQPDeZi3e6gjcDiMZybcIX71r9AkJkUTwRpxhPz_OQSg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSvA5aBz8JtDORh39Wc8qq0XU5vCCLSnWwRr1kGwgbUXUGkT3Nj-xs8ez2rH63ONrvBEqqh8LbcoBYktElMZQ3Mwoh7520Y"
+        ]
+      },
+      {
+        "text": "Thank you so much po sa seller!\nVery secured package.\n1. Bubble wrap\n2. Box\n3. Bubble wrap\n4. Nice taping\n\nAfter my build, no defective items.",
+        "source": "shopee.ph",
+        "link": "https://shopee.ph/product/124930893/42023584404",
+        "rating": 5,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT1Zn1qjH0wRnNengNtXuwuWKWmRBiWgFxQ--6uD8GLRoObCkM5_V_JZoiZVpcrQOG_lIab4TUpSDBYa9DN-b5NcrFS0QyD"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "ASROCK B650M H/M.2 Motherboard Review.",
+        "link": "https://www.youtube.com/watch?v=HpneDuW35uI",
+        "source": "YouTube",
+        "channel": "Technology Hive",
+        "duration": "17:11",
+        "thumbnail": "https://i.ytimg.com/vi/HpneDuW35uI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nLYUmxV2J_L3oKvbiZ-OwOvJ59lw",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "Best Budget mATX Motherboard! ASRock B650M-H M.2+ Review!",
+        "link": "https://www.youtube.com/watch?v=kR6Yzt2_F8I",
+        "source": "YouTube",
+        "channel": "BC Zone",
+        "duration": "4:24",
+        "thumbnail": "https://i.ytimg.com/vi/kR6Yzt2_F8I/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lucndyAozvA60JipqZ_ndNcw7FYQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5hqNlwWZ-5eeiVmQRvgjJ-aS2SziTamGdmw",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "ASRock B650M-H/M.2+ Motherboard",
+        "link": "https://www.youtube.com/watch?v=Th-Wt7crh3Q",
+        "source": "YouTube",
+        "channel": "Device",
+        "duration": "3:45",
+        "thumbnail": "https://i.ytimg.com/vi/Th-Wt7crh3Q/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mqmNuTXeb7VQAKKLdIQCsHA_E_cA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTeHJ1GNAWmqqP0GWa6rKE9phH3HOEX16E2Nw",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "ASRock B650M-H/M.2+ | 7 Reasons NOT To Buy 🚫💻",
+        "link": "https://www.youtube.com/watch?v=mVa_RttgWCM",
+        "source": "YouTube",
+        "channel": "Critical Reviews",
+        "duration": "2:30",
+        "thumbnail": "https://i.ytimg.com/vi/mVa_RttgWCM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nxamm41dJxmNly4VnsZKJQyWWwtg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRm_sWhmvvpIeoeSOMKEuGoiI-CMT3Fd6oDPQ",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "Don't buy the ASRock B650M-H/M.2+ until you watch this video",
+        "link": "https://www.youtube.com/watch?v=KBZXtGHz0Rs",
+        "source": "YouTube",
+        "channel": "Tukaev",
+        "duration": "8:47",
+        "thumbnail": "https://i.ytimg.com/vi/KBZXtGHz0Rs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mJ3obPfHQ8x_yi2wdGSM_tSkPi3w",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "Review ASRock B650M-HM.2+ – AM5 Micro-ATX Board with PCIe ...",
+        "link": "https://www.youtube.com/watch?v=gk-Vdye7PoI",
+        "source": "YouTube",
+        "channel": "GadgetVerse",
+        "duration": "2:45",
+        "thumbnail": "https://i.ytimg.com/vi/gk-Vdye7PoI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mF3_cjqk__ajXEZojBLfVOJifJwg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTvTRt6pq3WI6tuDk9l7Mfo3gtX5PnELXSaCQ",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "ASRock B650M-H/M.2+",
+        "link": "https://www.youtube.com/watch?v=OvhESm-Dejs",
+        "source": "YouTube",
+        "channel": "Артём объяснит",
+        "duration": "8:24",
+        "thumbnail": "https://i.ytimg.com/vi/OvhESm-Dejs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3khQKPhxck9E8yEvmaPhzp7k7ZqKg",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "The AM5 era has come, guys - B650M is less than 3 CU",
+        "link": "https://www.youtube.com/watch?v=v7vMXzRTmmc",
+        "source": "YouTube",
+        "channel": "Real Tech",
+        "duration": "11:31",
+        "thumbnail": "https://i.ytimg.com/vi/v7vMXzRTmmc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kTtbuw8u5V3Twfjd_cTP6Xll7HLQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSzosdABsf1K1Fm0_cb2N6zYXqwSEPwAieOOA",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "ASRock B650M-H/M.2+ 🎯 Motherboard Unboxing and Overview",
+        "link": "https://www.youtube.com/watch?v=DQnLLD28eYk",
+        "source": "YouTube",
+        "channel": "Unboxich",
+        "duration": "8:26",
+        "thumbnail": "https://i.ytimg.com/vi/DQnLLD28eYk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k2jYF7H_g_i8QRghGD0cjim8WAtg",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "REVIEW (2026): ASRock B650M-H/M.2+ Motherboard. First Look.",
+        "link": "https://www.youtube.com/watch?v=Nlp_ox8Wx7E",
+        "source": "YouTube",
+        "channel": "CurrentProductReviews",
+        "duration": "0:57",
+        "thumbnail": "https://i.ytimg.com/vi/Nlp_ox8Wx7E/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mZ3KhBEwGy8M8ntJ95AkZkoAtUjg",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "MEET ASROCK'S SUPER POWERFUL MOTHERBOARD - B650M- ...",
+        "link": "https://www.youtube.com/watch?v=rOlYMIJN8zs",
+        "source": "YouTube",
+        "channel": "Tito Tech Media",
+        "duration": "15:56",
+        "thumbnail": "https://i.ytimg.com/vi/rOlYMIJN8zs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nyq_sKNN74pBZ4o5pYQlKeCKHHBA",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "title": "Unboxing Motherboard Asrock B650M-H/M.2",
+        "link": "https://www.youtube.com/watch?v=qwkwMBZFY_w",
+        "source": "YouTube",
+        "channel": "INTECHIN",
+        "duration": "1:01",
+        "thumbnail": "https://i.ytimg.com/vi/qwkwMBZFY_w/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lfLpbJFzPCE6_Pk64v2RdggByAqQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS79-R8t3C3Wl_pQHvQKFyo2v-7yRTgBKhTLA",
+        "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Is ASRock b650m h/M2+ the better choice? : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1coy78j/is_asrock_b650m_hm2_the_better_choice/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "HDV is the better board on the list",
+            "link": "https://www.reddit.com/r/buildapc/comments/1coy78j/comment/l3h73mh/",
+            "top_answer": true,
+            "votes": 6
+          },
+          {
+            "snippet": "Not worth more. U can always add some cheap heat sinks if u want to upgrade to a higher wattage cpu",
+            "link": "https://www.reddit.com/r/buildapc/comments/1coy78j/comment/l3hcyr1/",
+            "votes": 2
+          },
+          {
+            "snippet": "HDV is the better board on the list",
+            "link": "https://www.reddit.com/r/buildapc/comments/1coy78j/comment/l3h73mh/"
+          },
+          {
+            "snippet": "Not worth more. U can always add some cheap heat sinks if u want to upgrade to a higher wattage cpu",
+            "link": "https://www.reddit.com/r/buildapc/comments/1coy78j/comment/l3hcyr1/"
+          }
+        ]
+      },
+      {
+        "title": "Does the B650M-HDV/M.2 support Curve Optimizer in BIOS? : r/ASRock",
+        "link": "https://www.reddit.com/r/ASRock/comments/12eeogo/does_the_b650mhdvm2_support_curve_optimizer_in/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 years ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "I reached out to ASRock but they stated they don't support this CPU yet: \"You need to wait for the bios, we don't know when the bios will release\".",
+            "link": "https://www.reddit.com/r/ASRock/comments/12eeogo/comment/jfd4zud/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "I on this board and I searched up and down through the entire BIOS and could not find Curve Optimizer. I await an update.",
+            "link": "https://www.reddit.com/r/ASRock/comments/12eeogo/comment/jh8umam/",
+            "votes": 1
+          },
+          {
+            "snippet": "I reached out to ASRock but they stated they don't support this CPU yet: \"You need to wait for the bios, we don't know when the bios will release\".",
+            "link": "https://www.reddit.com/r/ASRock/comments/12eeogo/comment/jfd4zud/"
+          },
+          {
+            "snippet": "I on this board and I searched up and down through the entire BIOS and could not find Curve Optimizer. I await an update.",
+            "link": "https://www.reddit.com/r/ASRock/comments/12eeogo/comment/jh8umam/"
+          }
+        ]
+      },
+      {
+        "title": "I have a question about my ASROCK B650M-H/M.2+ : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1pef77t/i_have_a_question_about_my_asrock_b650mhm2/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "10 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "Try Advanced -> AMD Overclocking -> AMD Overclocking -> Precision Boost Overdrive.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pef77t/comment/nsea6tc/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "I tried that but the only option is to set PBO enabled, disabled or auto, there is no option for curve optimizer",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pef77t/comment/nshpjci/",
+            "votes": 1
+          },
+          {
+            "snippet": "Try Advanced -> AMD Overclocking -> AMD Overclocking -> Precision Boost Overdrive.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pef77t/comment/nsea6tc/"
+          },
+          {
+            "snippet": "I tried that but the only option is to set PBO enabled, disabled or auto, there is no option for curve optimizer",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pef77t/comment/nshpjci/"
+          }
+        ]
+      },
+      {
+        "title": "ASRock B650M-H/M.2+ monitor not working on cold boot : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1ffa6bd/asrock_b650mhm2_monitor_not_working_on_cold_boot/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago"
+      },
+      {
+        "title": "Best WIFI/BT option for ASRock B650M-H/M.2+ motherboard",
+        "link": "https://pcpartpicker.com/forums/topic/436600-best-wifibt-option-for-asrock-b650m-hm2-motherboard",
+        "source": "PCPartPicker",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pcpartpicker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a month ago"
+      },
+      {
+        "title": "AsRock B650M -h/m.2+ Intermittent Red Boot Light Issue : r/ASRock",
+        "link": "https://www.reddit.com/r/ASRock/comments/1otvn01/asrock_b650m_hm2_intermittent_red_boot_light_issue/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "10 months ago"
+      },
+      {
+        "title": "asrock b650m-h/m.2+ options for PBO2 and Curve Optimizer...",
+        "link": "https://www.overclock.net/threads/asrock-b650m-h-m-2-options-for-pbo2-and-curve-optimizer-missing.1813102/",
+        "source": "Overclock.net",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.overclock.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago"
+      },
+      {
+        "title": "b650m hdv/m.2 won't starting",
+        "link": "https://forum.asrock.com/forum_posts.asp?TID=88268&title=b650m-hdv-m-2-wont-starting",
+        "source": "ASRock",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://forum.asrock.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago"
+      },
+      {
+        "title": "ASRock B650M-H/M.2+ + Ryzen 7 9700X: RAM initialization failures, random crashes, now no POST at all : r/ASRock",
+        "link": "https://www.reddit.com/r/ASRock/comments/1qy6t8k/asrock_b650mhm2_ryzen_7_9700x_ram_initialization/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "8 months ago"
+      }
+    ],
+    "more_options": [
+      {
+        "position": 1,
+        "title": "Asus B650M-AYW WiFi Motherboard",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5kwleHluYqTDEJuP2LJ0K2fPJo_R7kK0ojOE9k1HEKN5_qzSBUzDjfKQyLl2PmNXUFQ78JGuGxb1ROPh6i4q-6YGfLpUu7y0lrww6RPCxYIxYcfXs4BFPiQ",
+        "price": "₹10,599",
+        "extracted_price": 10599,
+        "reviews": 129,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=P_6gQXicdZTJzqtGGoZbuYJe9C1kFVkqZsiOGQPGUBTjxmIyg5mMMcYo9xLpP51IyS6nW8o2t3GyyLXEzjrZ1vvV8z5fLeqPf_37o6h_3Uu2nlyD6ZCm55El7ZZr2Cs__DROQ37P5jr_P4ZxgOEonKJJlqNIgqYA9lOWzEk7lO-YogkCUDjHUBhHERyBceTnqkjytu6L4_lcTNKQvecAheEUCwBGkjiHkRhN0D_XXVIWf-X_I8EL_spIhiY5EgcMQ3ya8tsX0hZPGEFiOAbIF50lOBbHX0rf2fAonf4h_OF6L6bnL8LL9fBNN8xVMaVDMuU_lONfLn9z5VNX55-pVzmNs-BlRwOcxjj207jMH1X5UbYfdf9RtR9F_-OQjMs5-_2r_8jDQxJvD9HxxtGXIEBy6_ry7JuePiVypcbKHg9xmORYjAeXsYnBaDohT3ketDNUmS6YO-fSXv1Gf0Apj5wACtZl9FFf6c6maBZx2DKMe_iat8ae_jg0SutjrZoAZYn6FgtkSkC-AB3U3hCgBDfAOqQJUrbBWwR8cHitnssxDWXL8hrLtTp9cQOddolWRUiJfUmpoLpOSag_MlU_ml4uHxp_H26CcVC5NkVQK9Sqydt8DDSL8je9dxtFicBARZdRQ0Cxi8sqRi00YmRplhQH4VZS1hNgsWzFsZz7roxVAYo1v6-sBIdk0beNe6moVOWofItmH-cUTwZEqq5S7lHWQYHPQMsd2As4VGNY-PqcIsv0sBZFl9zzvErJGzghT9f9Vtgf1ZaO8AwcZfBEhAO8zr_BLjf8rjUttdoOAdfDsK1QH1s5slY3iJsACWOqWfcUZa6CK3R-GatcU0wHh57TCA70hTMKMNuSFUWtdQFq1vMYxC7c2jptLeP19k2itDG6rHPx4qVSJWQXxc1B1f93vU3nL4BXqNk9kjhPGhEVHjhS0xesETixSXFnZqak_BZjOIxicJYkGJz4MRuGS138_tX37lF0vyYkkd9_TQjfnE5ukd2nYuciaL-OecGqeLp0pLxVzJYxAz_1Q-m6i27ddu2Mqy0R-xXtlKfOJSa5eMp8743Hg9DcdNsDrm40U-oHROpuSPEDJ-NUu55BjGNsy2uO_KjKd6sr81DUTi5_kN09kt86pbM_0bLwTnlZfJskCSfr08lK2AOzO2UH706AvV0Xt_sCDRSgpGjFbCQ8lmJ3VXmPZ6NsToV9c94MyX8hslVck0LQqcJDmVXR59TM1F0TCA--kqvhPWftpXf71RNFXnaxhywcV1Vy-ZJNw2l15G3Pdgsx6jhRG2L38OLwmiouQxZOzNT0lGdBhD_HhaVoc79SsRIN4hKwohLcT-dYEVq3jMhnuQRdQQolwwpipLLhje-i89NQVNhM3C1_xuI56w1rkAfhKRlghqH9IKVOExNGXWrzdr4JXEj77B4ebUQSmXNj5GKHRZlI2dttofbkJbmW7rz6GSFJV0vGbDlmH_KibpXk1qfL6JGO-YDDakd6mGgec1rCNYOQfNrcZqjqeXef3X57rjstKeKwQ6qqLFdjZBR4uIv3kdeOAsmYQuGWwuHiCeD60LbncEiNiEsMijccSzKt9ZnhJChZ4x5dRT4YWyI7Ah4HZlwDmMy-7eiXu1FD3106QiP0pUdQzE0dnhU6PN7vlm6W0etDPP_2JxMuCVM",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:15633052975195393194,gpcid:13412104393839822190,headlineOfferDocid:10512580014429141636,imageDocid:4095414447649420773,mid:576462804166026198,productid:9787209460482107607,pvo:2,pvt:hg,rds:PC_13412104393839822190%7CPROD_PC_13412104393839822190&udm=28&q=search&pvorigin=2",
+        "seller": "Amazon.in"
+      },
+      {
+        "position": 2,
+        "title": "Gigabyte B650M H M-ATX Motherboard",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvrvxVzAauM-If0wIE0qs3nilXE7Csq6RyeVHkf8j0hfHLzQPEhQd8cmj9lSNCFUvR6L4kLKvFh05XN-HIKIWoRCFENvaNyUaSUeeyjxoGGn722gkbToEZ3w",
+        "price": "₹8,899",
+        "extracted_price": 8899,
+        "reviews": 1,
+        "rating": 5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fOKt9XicdVTJzrTWEY38BFnkFbyyWroMlyE75gaa6QKXYdNihm4a6AGaRnmXSN8fW3J2cSx569ewF3mW9Pev7V2pzqlzTtWi_veXv35U3S-67BrZNbpZeV5PHO32_Im7CuOP020s5-LRlT8TBA9YHpKQoTke0hQDAfFjkT2yfmy68r80BxmS51kSUgxDETRF8z-1VVb23VA5dV3d5LF4094iDMVCSDIMAd8chgP_7i5ZU32FfyZIiqFJiqYgSwAW8pDiiC-38v4b7UpHgmIoHvJfxykAwduQ_IeLHPn4J-D317m6vf4jvqNa313GR1vd8jG7ld8301ezPxj5cunKnyDL0AzJ8RwAHE_RNMl-mZbHR9t8NP1HN3y0_Uc1_DBm01IXv3_zN2V8ytL9KXnhNGEZgUBrkzJQ44LASTAID4_oFUS1WdrzryBOU6sjkE2WWQz4JCB4pujxis80qCJIphH0832K00FcA0INUaQuGYnEBMAJDem96Ns1CfRXeTLAu9ZDtU-tDWGPSl6FLKzB-VF7YKVKol_TAZ9TpbWTWMzyHrVJjNTo1MveSVS9C9872to5EWTCoQVILduCRGGBJxrjXkeBQaebcYnO9JrJOPBAmqIzehYkfyhCbk1DdbKU9RSpxRpvGGT7NM4HNDnRY3I0ws_OpWKBhkgpnPqELTtR2lYxHiOlnIrN2oLeXqyzR-K3r0fqMAnTOYvOW64gr-hVM6TUCW_G0-_5xVfRVhJIssk77YQWQGQ64_BBYEI0Q9WACZ7WAy4nTBIgAQ_HPqV1GiG3DPELyw2JlScItXWfhdh0tHJfKW1nXRIKD6Xthdi248ZXSZUpz1Nb7tWD977D-0YewmIdRIRrK6qqdYaI9vbrvUcQxfiaD7aV9-0SnuGUx0aCz72chIZWKGVSgFX813q_1b8BQYUP32GCRh9gB-S-MvTnBqejzefFduNq3_s7wfIEZEmOpliS_qEYx3NX_f7NP31H8r-lZEnQv6XE745HvyrmW7XzA-S-24JotwLTeHLZq4eePUQ4x7F83SX3y3a9mFdXpvQ12Kkvg88O9BKqj3kwn09q7-ebDvjutD_IwxjQhh9DYeQVEvZrDVKS4Hph7ynPtvl09RUBSfujL1iKrwfKZ5zG04-MIn6igiJ9JskyXjFuRzvjLHZ3LKxwpoDudtV9XpAZREFW9VIxUSEHuV3bzOnDbE7Hyr17nxoyfksUq7RmlWjAKgwKu2Xq_FBou1MkPoVWacdPnq3Ln-7XUJIExSeeiuismuwLDZfHt9VTNp27LNRkkFRnSpdnmMbXXPVZuvJStmNuZREl5Gta3j_qoK8wVZNRWiJOUqP5WKeq2PtNQr-aJbpUtNiwnCglGhffhUtSv0xVQ6cbfy9fqVQXg2mPyii-ZBM8UOw-afmylzJWW7rDvb6LfMxgTkeOG9BU4d1ZpdoRSSFBd7svUKfP2bXxHysuKFm-2grhKin3VBZta2W_O56nkPYOTzSubmLE2T5kj0u8FgjRL5ffTE2rd_PDH7bXuttnVRpfAk1Tl6s5sSqyZmmehL0j0uxBrPxGtM6hCK7P_fYardxM-MyEgunZ8sFeXwVJg4Yz5-QqCdHUU4UDBBIc0g6g7IFdzzjPZoewv1yoPWUsQ4Ck8mCgWmViZ55t49Ak74dY__p_h-gKyA",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:4856299725366314349,gpcid:13639593755230505622,headlineOfferDocid:1906375526615349680,imageDocid:12364234357107595381,mid:576462898008934427,productid:13750048238228832218,pvo:2,pvt:hg,rds:PC_13639593755230505622%7CPROD_PC_13639593755230505622&udm=28&q=search&pvorigin=2",
+        "seller": "mdcomputers.in"
+      },
+      {
+        "position": 3,
+        "title": "MSI B650M Gaming Wifi Motherboard",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQpQ3riG97nFuBL_FdrrJEBb3b5WcF77nstKh1-C-HeeBn5TqVi6RslHGua85TgmeAiHTMJ2CLiVacXfmmzwuwGrb8GMDcRopYRkGjSsxrR6EFJcW84hLTg",
+        "price": "₹10,900",
+        "extracted_price": 10900,
+        "reviews": 82,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rBUc5nicbZTLrqw2GoVb5wl60K9wRkcl2ZhrZtxcVRRQYMBcJiUKKGADBXUH1O_S0j5JpPSs05EyzWvkDPIsYWfaLc_W-r2-ZVn2H3_7-3tR_7rVHCO9hFfreDwNIuu00pt4kfufhmufP7J7nf8CoQQEiWM4nhUljkU8B-BPWXpP276s8_9KPOQhEkUeQoiQxHFA-Lkq0rytz8X-dCquWp8tYwwjAp6ToCAwEmAQy0Hh33WXlsVf9gKBkGdEiHiGYfllCRB9vea334GjHiRJ4oAEF5UROYQW_j8dstcO_9f64fIortN_lKWm9aXr71VxPfbpNf-hHBbQz_-74Wu3yJywQBmRX44JACvyjPB1eN7fq_K9bN_r83vVvhfnH_t0eJ6yb5_-ofcvTb29VDcYBqoR4OvtWJxx69GcTTqsBZrOFRGe6ZvhEQbz_hwjwuRtGlQR6egrmmkfdGMbMcZEoKTbmEIrzJukSYYgyJhMNzy7sYHFjF2IM5TRwfJg1eUzTY6oNd2I3ALoIutMt3vf9lJcWTbOQ9Iqkd0kc9zk0AfVJqFKG0EFZG90IiBxXapc3GB8JA3eh5QYVtsOlFK1aJN9isgz8AlMgD25PlFpDT23MTRz0XLa6mE4eMewnwLfRQGTeIVmwfRsV0UDOxvcQBDch0TbwnSdM0lIb0FDr154R3STjRmtQjrjfQY4GjP5aIF7b4X65G9K4LeSTbSWIxFpvSA_L7TZncmLMjabdwTGraLY3X1L5nx_1O-ItCVItFazZpcJmgDFYTy7wQ0U50rP1jhJtETbh4ltNxU54tbJNEzSADcpbrdui92jnr9C3Hh4uZe8Gap8g02XIYH7priEKic_hI6tY7yuDYVs7GnJCmyQcykNYBhRzQuhmnTseFzT3t7I0AV2T6iNvh9v19PvQMbc3dtzpnV-ISdZc2kzJgSS5mQK-XECvOd-BwUJcgIjskhg-B-zvm_q4tunf3l71fuMNFXefkbKl8PBK7LHtVh5PnEWWVbsSuZLV8tbbLaCGdIjjbTLKr5186XbXRwNbUd_hSdDSk32GeD747x7vdDGO85bINVvG1M79z5reBEn95LOcO14AgkDxVbeuPqrKj-oni4TdXPwZEv3tr7-Uad0twdeVz5cWVc_mqSppBvXg52KlrA6ZFbwQGDr1MXt8SQ7P_TTolWzAQUiJ66q8pHcd-XboXBu7keGRpeIbFTHtFAMrgj8zK7409HM1qu3UHnJlV71H3P2VvugXwJVlXUPvnRlP641Ty7FY3QdXX3eit0TDQaD6p3avYIkuhyxJ7CFmwg1f82zMGam4SlyvLkduQTHvfoMRRWHj8MpwUrrlTE7lc-wK1ilFERFjddidJO7-DTt8Jq8XaVbPiXqKTvv7F7vlUnbgTuJnBerdRs1FdbP2rydbooU8VTckr3jsyhzb4JerGCcqZwz357clm3SS-ndR5ohTbvYOnT0RHzpz_VcaV59aIaAdc0X6UcnNqJ0EwiHZzRmhLCTI8279fq0ety98zyNq01aJFHnr9f4edkNAibWQ30M8mavsIKpFF6pWE2ggMtrM0-9ddzFUrrj5J1ra6Y9ThnDglLcPeKLKodDi7I9kBlgJjUg6Z06rtE8djWh3rNDG2Q8z8v7z02DnDAf7R8P2zDLePkQT7_9CYBTB9k",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:9616138861113395507,gpcid:999509146428533501,headlineOfferDocid:2280659177290234517,imageDocid:11116281362246464713,mid:576462865250048627,productid:13451381190832282079,pvo:2,pvt:hg,rds:PC_999509146428533501%7CPROD_PC_999509146428533501&udm=28&q=search&pvorigin=2",
+        "seller": "Vedant Computers"
+      },
+      {
+        "position": 4,
+        "title": "ASRock H610M-H2/M.2 Micro ATX DDR4 Motherboard",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTb9KpJfSncZPM-sOdWv6NusmqUlv-WIEzHLy-zWziG7Dr6PvK5Ta2u8xzmziFIBE2KPhPJUjYY6S1HnipKgnCLLYVNUlkGOxNLehFtYLpGGBBd3fMk2-zBIw",
+        "price": "₹5,600",
+        "extracted_price": 5600,
+        "reviews": 72,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LQIHgHicdZTJrutEEIYRT8CCV2CFIrndHtl5ao9xPA-9iRzbsZ3YsRM7dhzxLkjncpFgxwWJLa9xWfAs5LCGTavUf3V9f5W6--8vvnormz902TGya3zbHg7HgaOclj9xV6H_ebj1xT2fmuJ3AHiC5WmSZiiOpynI0AT4Oc-mrO2rpvhEUhwFIE_SgOMpgmJZ8Kkus6JtLuXueCxvcp83xW80B0kGsBTDAwIQNIQ0_UvTZVX5r_xiAIrjAMMyBMFCluMgDz7civEz5Uh7QEEOshBSLzoPKMBDnv_e8Xby_n_Ej9d7eVt_FV9Ot992_VSXt0Of3YqP1fAv7D-OfOherdAsQzEkx_EsSdIseMUfhnl6q6u3qn1rLm91-1ZefuqzYT7mf335tdIvsjQukhsOQyR7hH-xbQx41yUjywuHc6nVIw5CIggNUBDF1j8jqghrIjoh2kMYZpHXebA2AtkbIySKdmDg8GSMWNVBhngz7LAanTCRPHGYhdE5SFy6vLRMEPFnu1umQM4pu43MIBmyjKS3W02gvbYwD9GwHiSghwgNLw_ElkCwIPk4Ok84IDgqJxGTnQd7F7Wue_KutlLrgTLFPqjHOB6Q-9RJ7-kudkjPeRwxQWJMIdlasTphK27Jsnvc0pP7CBWK9MgapgHOikRfd8pwci8pKC4DOsS8YQdRHye2-Opx9VtejGBP5YS7pDGt4jOYvE4hilZUA83rI6gvu7ggfRlTIaqViARrsQIjju3GJaeljKKp1Gw77bC-RYYSn6JLThpMjnqISWwdwok4dNjMoL5mSZHGai0WCnraZIvCM8Y5EmDU1hATy7o9tWOm1G583vroNYviPNSFhiyX9EL3JLpeJB6DGDi2gpDaGKKn2esuxsGBKEQMPTEiI80mOTpLBpArxBSrCvTCQs1kdPnxMd6OnwkB0ZO_o92MLy52onaOwvi4v2JtFrryMDlH4TvA8oBmSY6Cr-WnvO_PTfnXlz_4O8n_BsqSoH8DxW_3e7_M77dy4wee89oWRLsWmMqVixZZLWvF0SFK5OsmHbvntTOvjgz1R7BBq8FnFjWHaLpfzGWBmn946gTfnDRLvvQBZfgJLfS8QtLt40hgEnCtoLnKUlfvVF8RPEnb-8JW8V83491O5ep7RhHfVUGR3p1kGa8Yt72dcVt2s8-34R0SutOU4332zCAOsrKV8gGGHM1t6uqOJ7M67UtndN9ryNGrRP6QHlkpGnQZBrldM8eDlaubUywuQq3U_Xuercvv9GsoSYLig0URdw9V9oWKOyS3h6s8da6b4WCQsDGlbglxcj0gn6VKF7MNcyvyOCXXYeZoxtIfNEZpL80xJ6H4vj9iJLZ-lVJrNcddSYkVy4lSqnLJKHTpcTWR6p1u_FisWDrmF9PulV5cZZOYvMRZKLnTpIxV58Yaj6PIJ0zE6d7OCSiYuyOrlBuQ5hLtPMeZ1qlzdq386RHlUJZfzw04CuYWZVaftew3-_MQUq61eP3DSY0k00J2PyeP3POo1eGfpqoeN_fJvzzXx0bLSpx0gaqi-WoOLPK2d-k-CNpOpFhLLP1K3J5Dkbgu2nPttwcz5TOTFkzXli37seYkRVSceU-vkhAPLcx3hEASFm4IL5sixzXOd7PxIn_uoAaN-RJ4UmEZ3hExye5-tw2rSl8f4vHPfwBDaQag",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:248413925189404771,gpcid:14383733495491419399,headlineOfferDocid:5832617469101053355,imageDocid:11148816760073788391,mid:576462889722571462,productid:16108410286164703359,pvo:2,pvt:hg,rds:PC_14383733495491419399%7CPROD_PC_14383733495491419399&udm=28&q=search&pvorigin=2",
+        "seller": "Vishal Peripherals"
+      },
+      {
+        "position": 5,
+        "title": "MSI B650M-P PRO AMD AM5 Motherboard",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPEl3mFDA-dnPP-YDwhcC6TnHhblReTWymkXmYFHSKpo-kpwYzUkp9c2_6xpd1jc3GHoqgPw35XnhLrPKmUTnvcFylxuQUvfKbo0N3QQKIAXjcM-H2qSpxGzo",
+        "price": "₹10,399",
+        "extracted_price": 10399,
+        "reviews": 15,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uGjpLXicdVRJzrPIGY76BFnkCr1qWSpmyI6psAFjhmLcWMxgRttgMMpdIn1_uqXOLp1I2eYa3YucJVjZJouSSvW89QxvDf_-3e-_8vqfJ8lU47v_OCdJMbKk2XI39s4PP4-PIZvTqc7-gWEcYDgKp2iS5SiSoCmA_ZzGU9wO5QcGOEMAeh84QWAszTEk9kuVx1lb9_mlKPKHNKR19ncMEDhJECygub2QoxiO_WvdxWX-X5ilSQqjSBpQzC6AAwbnvj2y56-kKV6xXZPAAUeyFLvPCJLh8D-Z9kW6_h_wx_ucP95_E3am8w_dMFX5IxniR_ZjOaYfy_9jy7euzn7ZtUl6D7oHwSiOJjnwbXxNX1X5VbZfdf9VtV95_9MQj68i_e27P8jDIonPRbTccfQkGziojW0UTbFni0lHzWljrQiWlAGM0zkwCK9pQzdoBwSHd6JESno03lF3WmJXtZM2e1hg1dw-qh3JFhAeCVYbVWEHCytogySICAOAKVdSDLnT0W6jWnfPU4Rsz-sHEPcWFTdrizyWCHE4WzcBxX7rJJ59yl2AZ4H9TBVqTPzyHTfjKQSYmUolFTXNmnbNhno4R6C6ZUjAEqJVHUDiVpPBRFErbxMEy_PwpLGWMzyvWaAuxqZGIaguZ3n0s67qvI6LPOSFKaiwtMsMoz-vF3_UYwiLs0zdshp7IQICC5VE1NlDLu8xWg5z28oPgdE4N_UZ4dni-NlmtV6DFMx2sFGyN_5tA1X1PegbrjHlvV2kQTY5HQUdufJzKQovvkVmm4wlvdHFfaZHSF3zTp4SpIZJ70VIbsUQeQvyVzeCWecQEF1gqzkb70Ac0lkzVtkR6hZuu3vfLNsTCuRjpiFDqNSqYO_ndPEjdFHStwVKPIZnPMRDIkQGFm3qhiQVxrI3-n5F_GV9PopfAQ-pybkwxsrwCCIHIvZwYH1MTTgbNd26beUfMYbDKAZnSWK_6z-lw9DU-W_f_dm5iM73hCTyp-8J4Yfr1cnT-ZEfHGSb-zIvGBVPl5aUtVBvGd33Ei-Q7ofw2W33TrubEnFa0QG-VS7WyZcLp7nXloU4Osl2Alx9O-pSPyBSdQKKHzgZp9q1ABGOsS1_tOSlKj-qjszb4vHq8GfZOSH5Y6e0TldaFj4oL4sfJ3HMyerjasTsmTlc07M7E-Bk1vlzftka8lGct2I6Eu7-yA5VOUeTVt6uufm0PhySt1Okq7jGuaBSuYtSo6KLRE-Vw80XFr6Sq-FTZ5ykj_rdFUVedrBFFi6rIjl8ySbBY7Xk7cR2L2JUcaLWxG5xo-CeQIchcytiavqRpX6Iv8cXS9H6aaUiGA7iy2dF6M_XIoJC65Qh-S5ffpeTQsmwghgqbPDku7B4a1Cxbw_umb0jsUh7zRjkQXhLGpjswFxIqTuKMaO8av1ZPAUuoD32ZF9MRBKp9WTk_ICFqUiZ2_NFncgmvpfOtHopIUl3Q8ZMOWIX-aVsleTU12Z0SUtf7GE1QzWIjy5zfQVratvk2-Q2TVGKwzw5_fZeD8c4j4IOKQp83bWRgfZ5FueRP14EktGF3CmFc-MK4L4ct_dwTrSQizWK1yxD0o31neIkKFltDu8i748tkV4AjwM9qoEdT55pqc2s1bbnvDriSKivHtlipqt2AengMs-Gqpfh_iEW__oP_yILjg",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:10273067302331869741,gpcid:13653209485865334792,headlineOfferDocid:1032433806923395798,imageDocid:8645154605765020729,mid:576462563311596490,productid:6114884814123537497,pvo:2,pvt:hg,rds:PC_13653209485865334792%7CPROD_PC_13653209485865334792&udm=28&q=search&pvorigin=2",
+        "seller": "IT Hunt - Tech Need Simplified"
+      },
+      {
+        "position": 6,
+        "title": "Gigabyte B650M Gaming WIFI Motherboard",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZDIdupMFgH124XNoyMwEJFNXEag8ZByNc-aiKpT9lgAi9LC0UAnjs2EhltMe_9aamHcfB3JMzSJBHHjQAW3-4Zl7uxZ9IPOo7p9fTOLafP3lmn4RczP8U",
+        "price": "₹9,635",
+        "extracted_price": 9635,
+        "reviews": 29,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=csO0qnicbVTJzrNWEm3lCXrRr5BVZIl5yI4ZA77AvXAZNhYGDBgw2NhmUN4l0vd3IqV3GaTe9mski36W-Ms6q1LVqTrnlFSq___jnx9l89-96lnZLbofTqfzKDBeJ16EmzT8NN6H4pk_muI3khQJXmQplmMEkWVojiXIn_LskXVD1RS_CgTNsjTBkm-YFhmOI9hf6jIruuZauudzeVeHvCl-pjiRI1mB5zmWokWOZf_T9FlV_gX-RjIkRxAExYoEyZLiO3L0l3sx_U55ypEWRYEjKVoQGIbnGJoX6O886KrHv8d-uD3L-_qz_LZ5-KYfHnV5Pw3ZvfihGt9Sv_7NxJe-KX5h3wlHCaLwNsjRAiMwX8bX46OuPqruo7l-1N1Hef1xyMbXOf_jq39pw6wq06z44ThiFRKotTAwlgi2e6I0ahiGpFlGMxtptQ9pa4o6jIABXWwsa0amLQg7BCh2SmngBtRilKoVpAFcoYrVSFvYjGC38NLJwABcblpMvOHWjQQqpIoVxPIUmaMHLwV5CEGDAsuJujGBRD2UYeGFQU45QboFhrCgDXcJJazA7BgQdyqKrH0UFq9TUM9JqDERLi5ZQ7CFsQyB4T9ADA2fBI0TD_MJdzrS9IMbwtAPcH2gagA1y8B0TmchHhAl2nlXzalCKrlBZm6MZXgBj0i1VIT1a94-6hMi-ygSicw8MHkP1rTV55NRb26Ix0NQX1ELYKh2KsZjEPX4CmOLO0VgCuj65mKoIMOakrC4wEjkglBfkYovmO609Iov8WYNQa9RGV1tfrQ44CIvp2ihMUV2wJTrBOOtIDA8GG99Y6yDvkhSMk1RC5kca0indK5ox7owdcen3jteZB9i-RxEpAc0XTcaS4YmWN0oDQAB7_CabC6uCAePYXmxsiB8GNgQxzIAh4xa4L-X6X7-nZB09oFc5qqSVevy1zu8CztbaG15YAUYhC2QviV5kWR5SnifH03-mA9D25R_fPU9chX0Na0q0v5rWv7meERl_ryXOxRA712WZFBLXOWrRac7He9E-IRj9bZLpn679fbNU-n9Euz01RIzh3mF-uN5teeZNtFp2xNiczEd9ToEjIViVhpEjWK75UykFCl0kulrc119qiJNgop5RNJBQ_tA-7RT-fsjp8mfqKQpn06yTNSs-xFkwoHfHfND-KSJvdeU0_MF7SAKsrJT8pEOBVbY1dUzfdjV5Vh6k__JoeI3Rb4oS1bKFlu-rxXU3Pnk5MbuEsmzVGv18NkH9uqn-i1UFElD5KzJ7mKoSKqEU3xffG3bC_2LHi2Kbmyln8M0vp10xDOln_INdy_yKKHW8SWwnLNf2FRPBuUVCYoePY_nVJc7VCXMWr2ivmTkihdkJTGEeJL65LzaugEvd3Eq1lQ551cbDNogr6pNPGDszYzam0rGG6_Gmc6TLMYcFvbQ9QKGzv2J18odmeQK623Ti90zbXar0GPBOa2qN6CRnpYKs_YytlpFzbEdQ8Z3ZjgsXmLFmRnyx1e85BAyqydutmGcd88Hum7rsjOzMo37wDD0180eeR0enspzlExXZnhHLlElH9pQJm6zua3D4WQnYmazku0D1QHLmlMMUQn2M7kpUjR2dO4SEkU4aUPA7IE932qfdgMxevW0SVuvawCVwrHgWedi9_kEllMl74d4_t-f6HgIRA",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:8035530516483946605,gpcid:3998612388447643783,headlineOfferDocid:26961587765239655,imageDocid:14160002590151925963,mid:576462898765638484,productid:16639560567236921242,pvo:2,pvt:hg,rds:PC_3998612388447643783%7CPROD_PC_3998612388447643783&udm=28&q=search&pvorigin=2",
+        "seller": "Computech Store"
+      },
+      {
+        "position": 7,
+        "title": "ASUS EX-B650M-V7 Micro-ATX Motherboard – DDR5 PCIe 5.0 M.2 Support",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhcPZne22yOsZ_VzfasObbWzXHaYFCs7MvUtVAo_GF7yt4IXFqLXSJtmIU_YX9BQ58oBK5NwSNl_3AZDvdHVHyolTycBlMJmsbXpdCvQVRs2ijGp3f6J02rQ",
+        "price": "₹8,779",
+        "extracted_price": 8779,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=v3IHLHicHZRJzuNUFIWBFbCJGqFIz37uHjP3XWzHveNJ5N5O7NhJ3CWbAf0_VVIxoyiJKdugBqyFhMkd3HP0nXMn99_vfnwrmr9UYacll_BqpGk5MMSuRUfmwvafh2ufT9nY5F8xDAEakThJEQwiCUiRAPucJWPS9lWT_4kYBoOIICmahjQOcAxnvtRFkrfNubDKsrgKffa0ERRB4xgGcAoSz4Ejmv696ZKq-F_-iuEERiEK0QzzxAMC4hC8X_Pbrx8vU3G9_8E9U42fun6si2vaJ9f8YzW8sAyOAE5AACBE2DMDUui9a_IvJE0RFM4gBgCKpDBIEO_DPL7V1VvVvjXnt7p9K86f-mSYy-zb9-_iNeP5OeNsfxgCwQFugMZQxEqnwVoDJ7HiHFthA0ZLHGsTjLqjVLjZatDGHSERARbLg2-KJGVEGm8HLcxDaXHPsWnKMSjO0hSf1m0gIqEIhmZ_bEMbOpjFY3bmnwjTx6zC11zzWEf5ab254tpbAtem7Yl0PAMEMIbGo50cqZ7DoJZCycDtFglp549-N0y-jMLMM6NcNBUbaLGpVDAR2zk-15oRoL7wcs8I1EfSGo9ERlwKyD4IHTtrpX3Rakqq1LvY12AQ3kgDOpcI4xYXJ0HQqoujaIODDVcrMGPj_Lw34sT81LamXJ8NEbvYOLkrFEnLQgzLgEPGoWmmj3zJVzXaRwPudhLI_FGIJYc3JE7yJWSmPgNs30_UkyRmUCXj1lxMHvPMozkn8mAlHRpif1SyE2nlYk6ZijZ6SvbberuW_wBWIkfXolPP7WOUw2Sft2XnsMc2s279wZ4p-2eMRhhJ4wwBaYh_yvr-1BTffvjFtXj3AxR4Vv0AuZ8OB7fIpmuxcT1n91yznFmzVGULeSttW3obBmkQCZfN_tY9Lp1-2QlQXb2NdNdQsiVmXxqns74sUHHThwpQc1S2wrn3CM2NSLZHIk62awliHGNaVrHFpa5eqa7IOrxycFlDdFVPfNWpbPVAidxLZUX-1SRJkKhdD2bCGPTmkBn-BIG6a4rbNDu6F3pJ0fLZAH2GZDZ1NcWjXh0Pxe5mvxhC8ERkK78mBaeRhe9lZk2V6TaTN8eQW9harPuXz1SFV_rF53lWdLFF5KxVFly2YtLoutriQ2W6GQ4aDhud7xY_ji6p5NJEYcd0Q13zLNzj92FmSGqrrmQs7Xt-DhleCqdDGUtc61Z74l7NYVcQXEUzHL-XmejGdvvyrkuyc7yiW36P-TI762Yv9txd0MHoRLuFEDqFT2h5bra38sahiAoY1bF2HgEz-0aLxQbbZzy5e9xmUiVOyaVyxzXIoCBcTBHbiTGziLP8qAW3OZwGn7C3i9Ovu70WJYpPH-ZozRyHuO_QQ5flcjON7vlxXzdKUsRR58myNF_0gZYcY-KngVUsjqC3XOFWnHHyOXBZlMe9N1J9jxKdZHXbFLbmes9wAlSMPu0vPBsOLcwswOJgGzfAScZgZ2unSW-cwJ07qEBtPnsOn281p5SoyJomU9tW--d_Kv_-Dx8Q1d4",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:9881394567737202128,gpcid:8290243003391464369,headlineOfferDocid:4647211026340262977,imageDocid:12416969788501043230,mid:576462898006561344,productid:14411094059608615383,pvo:2,pvt:hg&udm=28&q=search&pvorigin=2",
+        "seller": "Amazon.in"
+      },
+      {
+        "position": 8,
+        "title": "Sapphire B650M-E AMD Motherboard 52112-04-40G",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRWCTVU-O9cqT6c6moQbA69eTNhS4U4RgrZ8Zy35P8QzsPpvGh_IH5Cw5TivaUpnPZvOJmovBUrO8TxkQcM1TLcvCeCCcqaeRRzGKwNh_Rg6fmfz6dru75osw",
+        "price": "₹9,764",
+        "extracted_price": 9764,
+        "reviews": 6,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xkH62HicdZS5zvPGGYUDX0GK3IIrQwCHM9zScd9EistwbQSKu0iKFLWQEnwvAb4_NmB3dgK49W3YRa4l_OwySDHA4D1z3vPgFPOfv_z1o2x_0SXHyK7RbJ1O1cQip-fO7JUff5jmsXjk97b4NwAcwXAUSdGI5SgEaYoAP-TZPevH-lNGkKNpQCKGI1lIIUAw8OemzIq-vZSHqipnaczb4l-QoihA0JBhCJIlaRqyzI_tkNXlH_KWghhE0zQDIAKAQQRgwZe5uP2GHPEIAEugzQQ4ZpsjeoMgv3W8g3T8P-J310c5v34SNlbrm2G8N-V8GrO5-K6e_gz7X8uXoS1-phga0SRLow2DQMRG9GV63j-a-qPuP9rLR9N_lJfvx2x6VvnvX_1NHhdJvC2iG0xTKHkE1mQqkJs4jAw5V5vGw3ZraVOL40bwoW0loOjCLoe5VpinIQepbL2w4i3ucCM93MSpzJluZ2QFbqq04-4hmaY-sV6Ds7vkkWIe5OV-gsLdJ1Jod1PrDRxRBL0cEund77kQE5RtK7aUYJn0AmrBIU_tcQLwuxcC0EgHNbViqC_4bGRBHIIEppQ3dCAPWBh14zsNjCWExeIDIdlOZkeAOCgGHZLTsA95EEWGnmDDdC-NW8RphqPG8cJpLUPPtGMvzkPBwqpL2W9jsINxyVTwLM_pnEbK7MtGH0gJKoMC-op9tiNu8CLPcLteO3VKGki9hsOeCLb7CSqir4ZTJifAl7w1JIGUXDyniO3E7poEgynZvKEX6EsUdVs33OCrMrKAIEbYIk9DSOGQC7Zu7lbczFEswCzMySieQDkA-iCDGWPB9GLZV0iFLrqpKTRl726tuWfB9UKhwhFwbFlR1NYQPM1-HaIU2-90tbvQ8iV7A0ZLTNZUGis6Vg3snQu90Az4z_U2V78RvELd_QM1rsxU7VCCpJqOj24VzTrymfWaSvXfAcMBiiFZBBmIvs_HsWvL37_6h38Q_a-hJPL611D45nj0y_wxlzsfe8425gW74enalYpe2ffMPgpPYSxdd8lteF8H8-pIUF_xTnkZXLZHz0C5Py7mskDNP711gmvP2l66jBgZfkzxIyeTVL9WREoCtuc1V16a-jPVl3lP1I4-b8m-juVPnNrVj7QsfKq8LH6SZBknG_PRzliL2R1zK3hAQnfa8vZ4eiaOcFb2Yj7BgKXYXVM_0rtZn4-lc3M_d0jhtiJfxTUrBYMqA5zbDV2d9rm6O0fCwjdyM36-s3XpM_0aiCIv-2CRhcOqSj5fs6d4Xl35rbPDE04GCVtTHJYgja8nxWdQ6aZMS89FHiXka3qyFL3XVypVklF8RqyoRI9jlSpC79cJetXPaCiRUDOsICYqG9_4IalepqJ655m7Fa9UrPKLaY_yKLwkk7h7sbMgadDEjFGf7f5W3QQupkNW9w4ORjB3b4xc7kCSi5Tzvj0pHXXZtfbva5hDSbraMnDklF3kp_puJL89dlOA3P3ijauTGHGmBczxGa-556GXw71NVa12j7t_eb_WnZaVaTxgVVWeV3NiFM96iI-J1w4CYvZC6deC1QUCcV2092u0TmbCZSbFm64t7e31lZOIqFnzkVxFPpp6mB8IniT2aUt42T10XKN7mK0X-s8BatB4XrAnFnvDqxQ6PjwetrGvk-1DrH79L-xmBh0",
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:14396612479283541073,gpcid:11804826197018464362,headlineOfferDocid:3555106377028266387,imageDocid:11474666713411740181,mid:576462864713040746,productid:1538615968764374812,pvo:2,pvt:hg,rds:PC_11804826197018464362%7CPROD_PC_11804826197018464362&udm=28&q=search&pvorigin=2",
+        "seller": "PrimeABGB.com"
+      },
+      {
+        "position": 9,
+        "title": "MSI B550M-A PRO Motherboard",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8q2u-N4XMHn3JPj2IHKN8lKIy_fwCTuS5Hs61MFWZFwmr9Vk82E3Brqeh8ihyhHT1F_0vlaOHaHxiLO-Uew8LOkyKcgr8SVs9S-T9iXWRmsri-ZyXRMBOEA",
+        "price": "₹6,250",
+        "extracted_price": 6250,
+        "reviews": 526,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jAAiAnicbZTLrrPIFYWjfoIM8go9almq4k5m3DHYGKooLjWxMGDgAAbbGLCVd4l0_nRLnVk6kTLNa3QP8izxkTLs6V5Va327tnb99w9__Cybf29138mu8W1_Op1HifM7-UO6KsPP420oHvnUFP-CUAaizDO8wEkyz7ECD-DPeTZl3VA1xS8CFAAUIRBYHnKsBBjul7rMiq65lIfzubzpQ_5lwgJZgLzIA8DJnCxLIiP9vemzqvy_LnKQYSDHA0YGjAg5iQffbsX9V8bXjqIsMSwj8BKU3ihvHFn4i48O-vH3tR-vj_L2_If6Bt3_0A9TXd5OQ3YrfqzGd9Q_f-fGt_7dCC8KnMAIMscBVmbFN8O3cZ4-6-qz6j6by2fdfZaXn4ZsnM_5b9_9yRgWXbsvWkDGMdIRwCAaEeFJbHFMwrRsEBkvCimmrHr1WgQLDaqn1kn2YL3Tnp89tgUkQvO-r18Bq8KAqdc0jGxC2jWKO3piR70wzFvWTiO2CnyK1DRvaXwIvTrquh1mnDuNJa6MzTmK6rFIRlR03jW7EA7ZZN3H99e7tovgiEOLUkTkS2HT1uvUSxYWOGVWn-jFhUTmIfhQ4d7eAi-idRHDPQ7rgSQ1COGwxLqXRj3veKDlyxjNIfBo1HJTHK8s6ujN02unMPhnaJpPz0ZB2nYLvVANR46ZtvUrBAgR1tFivbgSy6kjYqae0U6h5fAU0FcAnY4YhUtCevdCtI2Al9EGvijJJ2ytzZ5Z-EivtYLwLLW8m9e_B9pOdaYXEAEUlGQ954zB0dbUSFiYUVw4xFrWKPT0SO-ecefB7Amj0qC4_HACAtUsYVUugyk2GVMo2rEubHMXMIi83yFAkXoOY-h7hmlajaMi23seYoqDRH2Exvad46kHMtlxH-lZ3-klqRcaj07B8Ohv6_12_hUoJj_hA4fXy2XfDYmXJnZXepMemLGb0aVrqj9DUX5vAyNxrMjyP-XD0Dblb9_9FR80_D2ra8r2e1b94XjEZf64lRscIv9dVlSvVoQq0IvO3HXiLo5OUaJfN-m9f1179-rr7HYNN-bTkbMdNxNzelzcZWFtfHptgdx82Dv9MoScgxNeGWSD4bv1DCgDpU6xA2Opq69UbChIs49Y2Rt4GxpfOFWwPQqG-qUqhvZFkmWy4dyOXibtxc0x35MHC7Z-U94fM3LDOMzKTstHlki8tKmrB53c6uNY-vfgy0OP3hb5qq1ZqTp8ScLcq4XzaZdbm49YXZTaqIevc95W_0q_Ek1TDAwXQz2slo6VSjoltzUwXlupn9nRYdjG1fqF0OR6MrHIlQEVG-FW5HHKPMdZ4oXdduWpmQ7aHEuaGT-OZ2qqHa5S7lnNcV9yaiVKqpZaUnJX-vT8dE0Lfdzke_Gk2jm_uN5gDOpTd8GEEn_h9N7WMtGam939fFflRIikLTr4IcfmwV00yg1Mc433X_eZ33Jtdq3wtEY5q-tXz4C-QaXFmK1XrePm2I6EC3YLGlY_dZLMJuJxTtYcIe7pyy_Xss6bx4Qvr-e6sbOSJn1oWeZ8dUfRRPuH9hgV-6By4k4tcaXuW6KC62K_nsP-5KZy5vKKG3j6zlufOcOBSnIf6VVT4rFj8wNQGLCjDUDZFPmB0z7cBkV47lmbdeZLiLRi56CzKSSHx8NzdlX6_hDP__kfETUJ0g"
+      },
+      {
+        "position": 10,
+        "title": "ASRock B450M Steel Legend AMD AM4 Motherboard",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDc-P0XwLCoU5XZcuWZxkFtiw6OghJY567OTvb_S5Jy-ofp4koiF6_Wv4gospwjW0iZpHiyyX4gSjduH__SArSI8Btw26XJAYb6QM9tghp_7NXpVnfUHwHEYE",
+        "price": "₹8,142",
+        "extracted_price": 8142,
+        "reviews": 2000,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tlBbnHicdZTJzrvIFcWjfoIs8gq9alkCimLIjqmYMWMxbCxmsMHgAWOjvEuk759uqbNLJ1K2eY3uRZ4ltrJNdqV76tzfuVLd-vfvfv9V9__UZdfIL_HVLopm5mh34I_cRZh-nq9TtZT3vvoHSfIEy0MKMjTHQxowkCB_LvN7PkxtX_1CcwRBE5BnaZaheILg2F-6Oq-G_lzvm6a-ylPZV3-HDEMBioM8yUKOohmG5P_aj3lb_1cmAfcGvM00R5M0yzEs-e1a3X6lXelAQpZ6U1nIM-8jBJBgwZ9cfy8f_o_442Wpr6-_ie-g9g_jdO_qazHl1-rHdi4_8_wPy7fxPQlkGZqhOAAo6p2PYxn-2_y4f3XtVzt89eevbviqzz9N-fxoyt---4MyrbJ0WyUvmmcs-0RAlVsYz-cwgqeUgHqY4CVKDCUbh5ONszEjZ89JnM7CvF2P99gZqlcBMjUibDo8dUYakU6gZXZ0cpr0OFAZgW4l4a0JNdEJNbhpjKhagUxwGsSIaGGlGMAJSDEl8StWcJRrGfLju1-dlC3UvNVW-TEdjbBIOlRtXewNsxkM2WrF_hLHlRJu-IkpMoy0yk9PmRci5DmyIZcRjL2z39kxB8K4Iiq1iiogmlglh6onFysyUB1XIAO4t88tSGNuLckOJhsinZhEGDtpHkdbfBrupdIRMcaJFTlHO0QqHgbKQTiLlaeen8tXjGbZjpR1j_3J10ronfg-P2dXK0IEVjqyHvnFURBZhaJRROQSKH6XxvfViaFeoCG18CzmRyPDQ6WHI74GyAmiLeuxZqwhZVNhTOoJ6acF6NwCDEkKjMSP0ntJ-ZfqbAeIQkx1mrtKQ5ZH-ZF3FD0fi83b5765SO0N0dec1z7OAlvGsCTRDZMd5ai4CQh4Kc4pXSb6C2tOH2AM_vK8XZtfCQHBe7CHZLZ58s6e-Vm51Yd5LcLrjdrMBmfCH0mW_zxEjgYsYH8qp-nU17999-dgLwXfA1kS9O-B-MPhENTlcq13Qei777IgOp3AtJ5cDcgaWCvGBU7kyy69jdtlNC-uDPRnuEMvg88t-hGh-3I21xVoQbHpBN8fNUs-TyFtBAkUJl6h4PBsiIwiuUHQPGXt2g81UARf0g6BYCuBHiqfOK2nHxhF_KiCIn2S5DmvGNeDk3M2uzuUdrQAQnf7-rY8fDOMw7wepHIGEQe5Xdcu2d1sj4favXmfHjJ-tyif0jOvRQPWUVg6HdMUVqnujrG4Cp3STZ97ji5_6JdIkgQlIFdF3D9VORBarkiuT0_ZdG58gNmgQG9K4xplyaVAAUvXXsb2zLUq45R6zQ8OMpb-hBlKJ-kRcxKKl0OTIXEI2pR-tY94rGmxZTlRSlUuuQlj2rxMpPrHK3-rXpnUlGfTmZRJfMkmcfcTd6XlUZNyVn301q25iXzCYE73925Ig9K7sUq9I9NSgu52e0CdPuWXNrg_cQlk-eIopKtk3Ko81K2Tg_5wmiPas1Z_erqpkeRaxB4eybP0ffrl8pupqs1uuQfn7fXcaXmdJWOoquhxMWcW-fYiLbOg7UWatcQ6aEX7FInEZdW212QXZsrnJhTM91pbzvNVUjTRcuaSXiQhngdQ7gmBIqysJ_z8jl3POC1m7-PgMQINGI9z6EuVZfgNYpL9sjiG1abvD7H5138AtX8H0A"
+      },
+      {
+        "position": 11,
+        "title": "Gigabyte B650M Gaming X AX WIFI",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSAFDh2SXP0WpdRWFauqL9c65XPU3OjoFoWYYX2ozuYSVhRleGe2bdum0vpd1tBhIJv8q8G12LfGMyrS70I9XaGaP0ymWtDSXJvf-mQnTASnhsqMpHASe3IA",
+        "price": "₹15,289",
+        "extracted_price": 15289,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fDoQY3icJZRJzqNWFIWTrCCbqFFkCd6jzYy-szHw6CcWpsdgsA0Ys5lEf6VKqsxSKSnTbCM1yFpiV6b33HO-M7i6_37341te_6WJlp5cguvueCwGhrBatmEuXP9puPbZlI519gXHWYxmSUBSBMOSBKRIDP-UJmPS9uX_MsRYjAEsTeAES-CAZT9XeZK19TnfF0V-Ffu0zv6EJA0BAJDAaJqhAAFo8ve6S8r8m_wFpwGJAUgSJAUoiAH6mfT-mt1-_XCZ8uvjD_6J3f3U9WOVX499cs0-lMM3HwEgYHBIAvxpxGiMIuH7rs4-kzRFPDE0oHAcAAIC7P0wj29V-Va2b_X5rWrf8vPHPhnmIv36fSP1d0G43XnbGwZfdDAU8sVOYcisidZ9IBPBeYfbbVWgk7aactzvvVE9nmLMPFc73zdtX6p8c5WBi8XQa7PRA_hoB9lzP4Wo9YEb3KFzNr0Y8l60xmMg-kT2wGPkxRfbM0d7lS1nrbSdzBrIk3UndMbgZJO702A5gdzuA9M84nEY1Hjnej08AjNJWl0L1Gx79J01l9lb3shCHA4oamQpaSsPBTGZqq2MfF8yVd-J10wPmmrxzrKSuTLmN_4pkPQ1BRXcizrlKSYIpHIN1Aploqy6ylJIVVbl59iIQmdBmHnyJe3uSb4dYvjorg7vOH1te86aNm3n-dEYNSk0z1njy9W6Q_gjdp9n1GZ2HPK137aKbf-23K7FPxgnkyPaU0YPWINj-m6d_E1_fWReI_EKlRqc_TNOszhJA4aANGQ-pn1_qvOvP_yC9gJ6B0WB095B_qfDAeXpdM03yHWs55jjzYqjSlvMWnnb0tvAP_qheNlEt269dMbFEqG2uBv5obPJlpg9eZzOxv0OVXRcNYytG3UrnnuX0FFIcj0rAbJdCiwGONNyqi3dq_JFRRLnCOoBcTsJaa70qlPa2oGS-JfKScKrSZKwkn49mAmzozeHdOdNENOsOr9Ns2O4gZvkrZAO0GNIZlOVUzwaZXPIrZv9yhD9Z0S6CEuS8zqZe25qVlRx3KbKpgn4O1dJVf_aMzXxRb94gsBJCL9L_H5RRMSVzDG8Lra0akw3w0EHsDaE7u7F4eUoI5rI7ZiuqWuWBhF4DDNDUlttIWM56oU5YAQ5mA5FLPMtKiPiUc5BlxN8STO8EClMeOO6qHgYsuI0V_aWPWKhSM-G2Us9_xANbHRC606InSoktDLX21tx49mQ8hnN2VsuAVP7Rkv5Bo9SgbTW20xqxCm5lGhc_BSK4sWUcEuKmbs0K2slovpwGjzC3t6dfrEiPUxUjz7M4ZI6DvGw2NVQlGIzjei8PpaNmuRx2LmKIs8XY6BlZzcJ08Cpe56gt3yOSn538njsclfXR787GhGbGCRn2Ka4NZdHCgisZIwpughcMLQw3WMcwLZxjTnJ6Fu2fpqM2vHR3EEV6vPZdYRsqzuFTIX7aTL1bRk930zx939J4cbp"
+      },
+      {
+        "position": 12,
+        "title": "ASRock H610M-X D5 Gen5 M-ATX Motherboard",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeahQXUhMvhQNvjPoX4ruWdZLsU1C7YgOiB4hHcS_soDS148bxhss5-FxrYdvpfkLXIszwT4HS8fKqzgEAeMPDmQBMY6dtTLuIKRRFIROQEH8DhqrACOA4",
+        "price": "₹6,350",
+        "extracted_price": 6350,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VJOYvHicHVRJzqNWEE5yglyiVy1LjxmyY3oYsDE8ZjYWM9hgMAaMuUyiv9MtdXbptJRtrpFe5Cyxe1tffYNKVfXfDz-_5fXfqmRq8dUf9klS9CxpNtyJvfLd537osikd6-wrhnGA4SicokmWo0iCpgD2OY3HuOnKF4wzNIaxGIcxBIljgCMY_EuVx1lTX_JDUeSD1KV19hfH4vR3OksQNEMAkuP-qNu4zL_DXzGCoTCKxiiM41iKYADJ4h-G7Pbbx-uUD48_haft_n3bjVU-JF08ZB_L_juPJmmcIZ-ZCJzDaJomce5DW2dfKOaFsAwLAKBwhsCxD_08vlXlW9m81Ze3qnnLL5-6uJ-L9NuPH-QhFcU5FSy37z0JAfuMaMOP1P2aOZY_DnYDNZeIrARwxh6L4uQcgghHc0wYtOd4LcKb2IV9i9ql9lt0MUClO1gl2zhE-xOcwjXSEgzO2bkCyKk8C0A1WKP24PWm3XCysTaLdcnaTDaoCGRmdtKQczb8GHJ2dubu2RpVoQcfBydqc3-J90FVe-3YRZ6xHJTKR16lHJSo2_mG5stoSDF2zJwMJTg22Qp1sDyD2vl3MgQN5Z4ifQ-zeyw1W6-Jbu6qrvEZma6bxZnbY1nj3hOvuQRYA223khLI417jXZGnuVmAcMfPlkzEvEjhCluCheNk29Ax2gRgegQMIVy160FQgzDocbuFIHVHKYJI3EMBupAzEpcFluvG6hnKKaFSUQPXVB5BfslU--JVHqF1voLC5yzPvj-OFuBu7ln-fbkNxb-Ah9RoHxgQED5JFQBK0UMYaJXKN9tER8Xeuv-CMRxGMThLEgzBfUq77lzn33761T6I9jtCEnn1HSG8Px7tPJ2GfGM7yHyWecGoeLq0pKyBu4bZ-V7iBdJ1E97a9drqV1Mi1MXZwIfGxTtyduE4XfT7ndjayaoCrj5td9Klc0jNDii-42ScapbiuSMY2_BbS75X5cvVlnkkbo82v5dt1ZFfcUpLPdKy8EJ5WXwliWNO1oajEbN7ZnNM9-5EANWs89s0I93xnThvxLQnXJZiN1U5RaNeno65ebNeGpL3lEgXcYlzQaNy10mNii6SXapsTr5w5yu56l59hiq93K-uKPKyjd1l4bAoks2XbBIMiyWvKtvORK_hRK2L7d2NgmsCbYbMrYip6SFL_RB_9DNL0Tt1oSIYduLssyL0p2MRQaGxy5B8lLPf5qRQMqwghgob3Pg2LB46VNBp4G7ZIxKL9KIbndwJD0kHIwrMOym1WzFmlLne3YqbwAW0x6roYDokkVo3Rs43WJiKlLneZkolz_G1tMfFSwlJuhoyZsoRe5dnZa0kuz6ee5e0dnfULWaoBfHWZY5zsKQIkQ-TW3VFKTbTaF_Wx7LZxnkUtI6iwPmq98zzbCdx6vntQSCZnZDbpbA_uwK43rfro9snesjFOsXrliHtjOWR4iQoWX0KryLv9w2RHgCPg11UAxSPnmlp50mvkWfPLbEltPniIDHbaaiAdHCYJkPbleHzPxX__A9LH9ih"
+      },
+      {
+        "position": 13,
+        "title": "MSI B650 Gaming Plus Wifi AMD AM5 Motherboard",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYxZ2c5RnEvTHbkzG_iDBZKFTcTKl4L0nZ7NOp8fVKqjffHPszleZZT-IuV8QqM4Oa3R2zn9p4i4DUyCBTXnAmV8GrmQdR9ycVmAktNkJ6BIHkg3dbvtrn",
+        "price": "₹15,290",
+        "extracted_price": 15290,
+        "reviews": 568,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PC7w2HicdVRJrttWEAx8gixyBa8MAe9xZnYcJQ6iyMeZG4EiKZISR4mTiNwlwHdswNnFCZBtrmEvcpboO8sg267urqruRv_93fcvWfmnIppq3Pu3_el07hjCrNgL03Ptp-7WpmMylOkfELKAZkmMpAiGJQmcIgH8lMRDXLV5mf5OP4OAJUlA0QBCmoE4_bnI4rQqm-xwPmc3sU2ead8qIQUIggIAY0gSJ38t6zjP_oUhDmgKAyyDMyzFsATGYu9v6f0LYQpHCCmCpiHEIYAsDhiI0eAnEx3E4_-AH_oxuz1-459K9-_qdiiy26mNb-mHvEu-Gfpvyfu6TD-TNEVQGM1CDKdwHKMo7H03DS9F_pJXL2XzUlQvWfOxjbvpnHx984PUzqJwnwXL7TpPRMCuSZR6Lp66VXBa02smq6onF3ECroN_ke04kGcPeGWAqUXqeOWp9qKoTmZv61UnaJhxw09GpTaupJBoLYRYKm7pqj5OUio5gTojF0ZeoKxGPWixx58tt2heuZDjzlEt8yfM01NJWhI_1TO3cD3ILCG2JyI_vaK6agxPfVh4N-5LMBiSsvhyZKd4PjuX4uD6hhhdop2D3UkEDc1vIiJ1rkuKFSJyCz-EnWj78ogwGHiieotAOgewohCQCeOCiKc_xWs6pLuD5uwiNdl5syMNRLbtVifoRAdAJQJFHPneagVqGF0N9YQNY1x5fejkQwQ9wQZdYwDU6j58RFevS2r1doLdEuKoct2lTABYHTchrYsRRwBKaEvu_O3Q7Zu0SGR-Qtehsf3qepBkx7oSsy2p-t6FU-xEDcI935d5FAayGF-KIN4hpDuuLWMylV67It3JuoUh17rwFnrO1vGhaUiyvC1VHu2Mx8GPbGdNhlhSLbuG57SesX2ttrbXnSO5mBPHcxIJNb8s99v5C-BkcrAPBDKd_YT3TC8jEc29u0kEyuIrrbTmH-HzzkgaYwicJuDHpG2vZfb1zc_2QbDf4qLAKW9x_t3xaGfJeMs2toPMZ5jjjYKjcktMK1mvaN33Tl4g9pvwXq99rfWmiCuLs5EfKhvrxOTKw9ho84zv7NOqALa87HSxaR1CtQOSa1kJI6vlDCIMMhW3s6S5yF9ZbYlDwu5oc3vJVhzpVU5uKUdK4l9RThJelcQxK6m3oxEze3pzTPbuiAPFLLP7OCHN8Z04q4Skw12GZDZFPkaDll-OmXm3XnuI3rNFsghLnPEqmblOYhTU-aQn283F52eukIr2Nc9QxFf23hUETrLhLPGHZSvaXM6cgttiSavC1BPeqRheakI9u1HQn2SbJjIrokvqliZ-iD26iSEpXVnISA5bYfIZQfbH43NtfGXnIfHIJ7_OCD6nGV4It0xw5-rw_NDkLbrc2Hv6iIRz0mhGK7X8Q9TAgAJzJsR6J8T0dir1-_nOswHlMQo6mA6BJ9adlrINDBOBNNf7RCrENe5ze1i8BBfF3pCgKUXMLE3btRDt8njtXMLSZ9QuZqg-L9Olj1OwJAgRD5Ndte32vBkHu1kfy2YXZ1FQO9utPPVaR8toPwpjx-0OPEHrfGbn_P7q8qCfd-uj3Z-0kI01ktMsQ9SN5ZFgBMgZbQx7gfO7Ck8OgMOAHpUAxYNnWup11Erk2VON73B1ahwkpLqKzjIVHMbRUPU8fD7E81__APEsDEM"
+      },
+      {
+        "position": 14,
+        "title": "Gigabyte B650 Gaming X AX Motherboard",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU9e8ozsTEQ6jvESzo7nCQOUGSiqZqqNnaOsN3epEKwYjGXCIJ2U3wuHEH5ma62HLfEp37LJeKJXFvd6UK0L0OyfOrUXCWSwidWZ_ssX76DuheD06-sHi5Yg",
+        "price": "₹17,980",
+        "extracted_price": 17980,
+        "reviews": 8,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=td9X4HicbZQ57vtUEIARJ6DgClQokp9303l3nNiO37OflybyFseJt8TxFnEXpN8fkKBjkWi5BhSchYSacuab5Ztm_vnsi4-i-mOrHMzkFtytND31PH2ohQt_E7uf-nuXj9mjyn8HQCA4gSEZluYFhqZYhgA_ZckjqbvyP0xSPEkJDOB5WiBflCV-PRdJXldt4ZxOxV3psir_jSYAy7IMJ7CAIwBHkiz4uWqSsvgP_w4YnmdZwPI8QVAkw71i8OmeD3-RB_nI0ixJkBQJCIEkOYriee7bA3SU4_-zH25jcV9_kV4u1tdN9zgX97RL7vkPZf82-Z-OT02V_8pwb8ILPPE6heFojvnUT4-Pc_lR1h9V-3GuP4r2xy7pp1P29-dfqt2syMMsu37fYwUSiBT6fZDXEenOjoZndLGhg4XFB3btUbFqKbHvX_MkJpmb3_iMo9i9S9St3VzpRDO3HsYhetZShLGM9X6xG55IqVpPG4xQXQ8WON8iwkZeK10tNa8K35zRlVFcr1Zgq2mxX4PsAkc3yEDqz8DF5oQNvI2bBVrgpaaaEVRsAlHb2QtKcu8zWqHVbgrMne_BCYb-M1auK8bQDXQaOIFpJFpJpRe7SrU69NpyDQGWYr33kC_EyNCeuQqHzGcC7IMWVsDICAYh5XxK27pz_W5OLuYpCKVnYJiJDWoJqWbiYty6DVgsID2tNvayALQ-uVS4ecyFp92xYVIpwDQG50d6jb38ukTRlZFCoh-TFbhuoEXFBXYuWXcRsB1LsRvLi_uk6amgtv3cwBHUyjW4alrengmrhlJ-7T3rgkPPh3Gu94MTYGQFFtJIjX2xc25oe5eEvnuRXIilkxeAg61qml6ZEjTs1QliGOuL7PhnNSFsw_b7a0wKUo7xIyZNBSKwZs-c-n4Z7qe_CFFjHshh86m866PiMIaTF6XM1cQg6XjQj3z5DeAEwHAkT1McTf6Ydd21Kv7-_DvkyOgrSpHF7VeU9PXxiIpsvBcb5MHDKy1K9llkS1fJa21fc_sApzhUbptoaJ63Znc7KNR28TbaagrJnp587TG2u3mmDJQ-t4RQXYy90nYebaKQETtBJZl6ORExCfhaNFx1PpfvrUgVoWwckWipaOupb53S3R5ZVXpTUZXfJkkiqOb9aCe8xW2OmeWPFLE9VMUwTnDnBV5S1HLWUz7P8JtzOcaPXXk5FofBfc9Q8GtEtshLUkgmU_heZp_ZU7rP9M0lkGbxrJ67d529Vd7bb74siyoCsyo5i64gseTT8L646nPLNxPVmyRV7eRm9uPwlmqIows35ir2nmdBRK79xDPsfrswsRZ18hTwshaMx1OsSTUqI3otp6ApaKnkeEmOdD4cxCY6rTtNh5e7MORrLJ-ydmd3aietyo54wPAw00pjyAmnT9V-OA2SELKY30Ln4NFU5g6cWmxAlMnM4TlMzJa-JrcSPRacUYpys1VwUGN-Vif9eVZQdbz2Pu3uZ9gth8gME8PnjlO4ZBDS60F47nT9tBkfqH2uy8ZIijhsPF3Xptuu5zRojfLYi4Yj0dxeKlApWVdfIm6z8Vw7K91FQrJjxJ1rK3t7WTOSJkp-N0Y3WQz6msocQiSJfVwRMHngg2tex10FMZoayqDMqfWgnO9NeNLY0BlH29yX0eshnv78F4tFCco"
+      },
+      {
+        "position": 15,
+        "title": "ASRock B850M-X WiFi R2.0 M-ATX Motherboard",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXukxZ66Dzez079H6uyskv0RrpgVSuWc8vhBbQcY9mw3WHq34wV9ZMMhDW7pEAMnDiDB65YZTWgMMk0XpLckhHf15bElCmXppgJhrCdAc7IBcdbNABCJHF",
+        "price": "₹12,198",
+        "extracted_price": 12198,
+        "reviews": 99,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qcnVHnicdVTJzrNGFo3yBFnkFbKKLFEUxdA7ZgMGQ1GMGwszGzAewVh5l5a-DNKfXf5uKdu8RrLIs8T-192LkkrnnHvP0S3d-vurbz7K9ndDcc3sHF3s_b468YzbCwf-LI6fTpexuOe3tvgvAALFCYhGLMMLiIEsosCnPLtl_Vi_aUpAHA0hywoQMABRCPKfmzIr-vZYbquqvChj_kWHeJZjOMDTnMBSLE3x6Nd2yOryC_8fDkJGgBBRAo0QCwSBon-8FNc_GVfeAcCjl14Q3jj9urEC_YOLt8ru_5A_n-_lZflNemW1vx_GW1Ne9mN2KX6uT1-y_I-SH4e2-Iw4lmFpnhYQoADHcS_4NN0-mvqj7j_a40fTf5THX8bsNFX5X19_q46zIl9n2QtOp1DBlE9s6FMaiXQ0-b0AA4q5Ra-JejBAdocyD0peTlMo7IC9hycTa1ghR83CahMGHYBp1FcOabyQaOc0TkOfNrEd8VSuA3ZLNMPW54UAafCfPSgjcAjiQtv4oPWgOeK15hcD7jJQ9FEkGNFRSgOCpSQuzjjCmnds4iBytLxrUjIIgd_XVEEXcalgLxlwHPV9moamFkWmQoJk2VNNlRG89mXQBUEOnb5RPYCR71O3knRLdHDGAqjA0VPsENMKdGPZw6JJImdbUMUWE6nBWo5iOg0zIrFRKFgpUecESHRM14sHCxhTpvbyujlHA22iNHOihNnL4PY6SxB4j0ztpXSdQkydDqkiqUWHzDQM5qxLhzC26VQr9BwUAelN-MoebWL7YUcdEwYJCtXbNupVYL_mslcNRDThVYowppo5oeYnCZw5PeS-Rmts0Z2aYq1tPBoH3kHycChVJAKuo2qa3poSXjvLNkqx34WhTczEjs3O79IDph-po-MtGTAixKRyJZR-elwv1Z-UqKGbv-UQF1m1VnUC5rtOUab9gDnBcS3qVv8LcAJ4rQ7PQI6Bv-Tj2LXlX1__29_K_ndQkUXjOyh9v9v5ZX6_lCufYPcFi5LTiGztKUWvbXpuE4X7MFbOq-Q6PM-DdXYVaDzISltMIdswU6Dd7kdrnuHa3z8NSmgP641yHAlj-jESR0GlUf-oqJQGfC-uPXVu6rerr4pYXu980VZ9g6jvOLVn7FhVerOiKr-TZJmgmpedk_E2t9rldnCHlOG25fU-YYtEJCt7OT_BgEf8qqnv6c2qD7vSvXrvHkr4apE_5EdWSiYqA5I7DVvtN7m-OkTSLDZqM751jqG83c-BLIuqD2ZV2j50xRdrfh9fHp76NPhheq0SDVtLHuYgjc97zeeY0ku5lr0UeZTQy2niEbsxHijVklGeIl7WovuuSjWp9-uEWeopGkpGqjlekhOdj6_ikFSLpen4cBGuxZLKVX60nFEdpUV5vR2O3ZlRhrWccfrUbq7VVRJiNuQNvHUJA3PvyqnlCiS5jNzndUIG02Xn2r89whwqytlRgaum_KxO-rNR_HbXnQLG28x4fLiJGWfrgNtN8SPHmFlc4WnperW63_zjc3ms1lmZxgPRdW06WydOw_Zdvp_E9VZiuI1U-rVkd4FEnef1cxntvZUImYVEy3OUjfNYcpqhat66J2dZjE49zLeUSFObtKVwdgtdz-zuVotDfxrgGprTkWC52Ji40th4e7875qZOXh9i9cc_vq0EBg"
+      },
+      {
+        "position": 16,
+        "title": "Asus TUF Gaming B650M Plus Motherboard",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ82kAPMt-_UtGE1hw1F4qm3f7D2-uX2HiLKBcVXbs5yJJUUPbwqsgu809DxZgDSL9gpth6LfSOkeGGAgW8YxaC9Eo7o3CVu-uru7GlYcMSod_fyGQkJ7mMVQ",
+        "price": "₹17,025",
+        "extracted_price": 17025,
+        "reviews": 56,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oqT7VHicdZRLzqNWEIWjXkEG2UKPWpa4wOWRGe83hgtcHhMLAwZsMGBjG1vZS6S_0y11Zt2JlGm20T3IWuI_yizKrFSn6pyvJvXXd9-_VO0fhuyZ-RSfnO12N3K01_F7bhKGT-NpKC_F3Ja_A8ATLA9JyNAcD2mKgQT4VORz3g11W37mIMsBnqYA5FmSJDjmS1PlZdceq_VuV53koWjL33iGZQEgSYqHPAVZAAH_a9vndfWvTFOQI1kIAUMAlnqmce9P5fkr7UkbADiegzRPQpLiaBaQDCB-8tBa3vyP-GG6VKf7Z_HJ6bzrh7mpTtshP5Uf6rH455z_rrzv2_ILZBmaITmeZDgGsjRHke_H6_zS1C9199IeX5rupTp-HPLxuiu-vflBGW6ydL5JfjSOWEZEqBjLNsRTFKq3CiOrPCxeSXZzTuE5o7IMPdx1tccIha4UAWQi3WwLbBpOh4asi24BYXYONhdHH48R6d8RaMQywTvcq3nYqVpEPet9OZXHEQaPknIOsx9qHZWDTo0jnwweXZDuTTM94L2fqI-IMMNMAUxx6PxcKVMEBKKIsyHHLo3I7OZSHc4SEzoYZ04AsqDL5ELPFD9avLjHftSjdRabpyoqlvTh4oSYmVhbGJdwzUzBEo6Wc6HivZM0WtpzS4YzIghN3Y4HiA-wcSJV2R5NOtLMLI3O9JNdQrp7j7ROdhR03CbNKQhF7cmSF4TJPLOdKsauG9Mw1AwCK11bgKzJlNnzI_-e4vrhHErNJ90mUoY7VtEjx2OUElhPidEpycwo5SYuNBBi4BNIQ0NxB4_qAIZ836R-hMiE6JwI8-o2XuLwoAQqqTLlYWxKXbV9EkX-XvQRFndhDDxXUVWtNcVX5nWchW43Jjlwbec4TlFfoqArh6rrfKQ00O2bICQa8ZflfNp9JQQVzsGaTanGlvfOedK1YDFnab7Gi5LZiSoKPwKWB5AlOZpiafixGIZDW31783OwloK3lCwJxltKfLfZBFVxOVWrIETesy2IbiMwtS-XnWp3rB3jLU7kaZWe-8fUW5MnU8YSrtS7yec2fY3U-XK0bjdKD7YPg-DbvW7LxyGkzSCBwsArJOyWHZGRgOsE3VduTf2aGigCkvRNIDhKYITKK07tGxtGEV9VQZFeSfKcV8zTxs05h11tCie6UIThtdX5ckVWGId51UnFSEUc5FZNfclmq95vKu_sv3rI-GlRLNKSV6IJqygs3IbZbe1CW-1j8SY0SjO8zrmG_Jo-RZIkKAG4KeJ60eRAqLltclp85WFw_ZUaTZJqLam_RVkybdWApSs_Y1vmVBZxSt7HKwcZ21hgpqaDdI05SY0vm12mil1Qp_S9vsZ9RYs1y4lSqnHJWejT3d1SNbQ_8efynkm74mi5gzKId9kiZpR4N1rudSlntWtrn3dnkU8YzBlo7YU0VfhnVqlWIC0k6D3OV2jQh3yqg3nBBSXLk6sAT8m4m3LVHo0ctJvDGNG-fUPD4qVmkusRu7kmS4EQfff4h6Vpu9VlDo6P-7LS8ypL-lDT1OtkjayKnIt0GQV9LdKsLVZBLTqHSCSmm_64D87WSvncgoLlu7LtLveCpImasy7pJAnx2FHFmhBIws5aAuUz9nzzcLFahINrT-mUeT2GSCptE-1UJllfLq5p1-nzIe7-_Buwxwnm"
+      },
+      {
+        "position": 17,
+        "title": "Gigabyte B650M Gaming WIFI Motherboard",
+        "price": "₹10,390",
+        "extracted_price": 10390,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:5390151004942643689,gpcid:15941234743728949765,headlineOfferDocid:1109233000098191986,imageDocid:12518419220465349446,mid:576462894460517008,productid:10472337733858521878,pvo:2,pvt:hg,rds:PC_15941234743728949765%7CPROD_PC_15941234743728949765&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TtIPfXicdVBJrqNWFJWyEm_AEvAenSwP4NGDbTrbwARh-m8wYExnZQORson4K5Eqw6raTLKauDJO7uBOTnfP_fVLHD2iqsnL5BsJWAwncQyDLCQoCCiG_T1v4zL5jpMsxAkAaQhogmEhS1Pk1yKNkqq8pYcsS-9C8-Z9w3GMJQDA3sMyOIuzDPVnWUd5-i_8HSdInIE4SxAYpEjwjoHUZ10mX0magtQPY0hhJE5jGPOlvTfJED9-qDBIv01pGgCGZEgCZ2jmsx2b34j3fryK_POe9H9BE4X_debPpn0Qwv8BX3n1Km-vonqltz_iprmW6d8__eIckLNFnLpZhaGTxsM9XTuubW45fl9wVG4JSSUZFW2cT5eTJ3Rrv6-fXa13pgDU2V1Li8ZGBhyP0mO46dMEFOfyVDG2_FAM4da4UHM8kmtYkSCrOcOCd6GKUyxxKvLNyhE5Gymhw-1ER3XFLcotNaREfrPiRLTloogVtXu4j5gdvQ7j3XEAmGqWaT-Mtu6e3SitUNyC4_tR6yIfgoeef4Sp2VublXDaxjOao5TXyPToxvuCyi5GLK8_zvzEFWLRbFZ7Vdii7ogQJzr4JPKHWRYcLmcu3n22xKfK1CNoNQKUOqqnY-B1F8mhYWoFdEndk_jsE0s7MiRlqDMZSH6DxjODpPMQZoHEV07uwyUfz3UK-ZxmeOTLjNdztZ8tuiTbH3e2T5YAZfFN3zdiwy-Cjj1sz5ygUCsoouWxNPqs51mPOjGqfTBdCGKrp8V0jfsxIs1nP5IqvEZd7jzmUwwEoduLuCkGzCSO8rMQnDK8tkdoGZPdzKaveZFypMPRm2PbhovJPnVZztbDw7k9l3mtRGng1a4sS2Ont7Rk7wY0tJxy4CFt8KmT87vrkce6SXkuze6i-2ykk5xu7QVjPy8xAbGc0Qe_Q9y5rUB8wDgCM4ISs6PHybS066CX9skZa6AAbby5NkoMzc4kyjsMw14zcv8f2Gcqtw",
+        "seller": "Vedant Computers",
+        "rating": 4.4,
+        "reviews": 47,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvSnkGo-69KRdQ7YCGsj6GCFy-f1K4XJXTumtW1Pl337jsDNQQ4zcHSiQapIjWe2-_tC3WwbD0ScuAJ_RWK1QnKq2ipKzxxy-bqo4b81CsRukTtfcZYmN7"
+      },
+      {
+        "position": 18,
+        "title": "MSI Pro B650M-E Motherboard",
+        "price": "₹7,998",
+        "extracted_price": 7998,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:17013491457642640871,gpcid:16122093913361957413,headlineOfferDocid:6574586922105040577,imageDocid:9659268712840339210,mid:576462893511337227,productid:6112407918243430790,pvo:2,pvt:hg,rds:PC_16122093913361957413%7CPROD_PC_16122093913361957413&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4nOwjXicdZJJrqtWGISlrMQbsAScQyfLAzj0YJvONjBBmP4aDBjTWdlApGwivkqkl-FLNpOsJr7KNJmUfukrVdXg__lbHD2iqsnL5E-cxnAAWRySNAUJCmIMjf-at_EXonCCwFjA4gBQOEvSEAffizRKqvKWHrIsvQvN2_cH9SYkQ7EEgWMkBjGSpn8v6yhP_8UsRbIE9Y4lGIgBwL5dn3WZfP8qpAiGBST-LqAJgv7W3ptkiB9fmThOQIxmcYaAAIL3hX22Y_ML8dbHq8g_70n_FzRR-F8jfzTtgxD-D3zl1au8vYrqld5-i5vmWqZ___CTc0DOFnHqZhWGThoP93TtuLa55fh9wVG5JSSVZFS0cT5dTp7Qrf2-fna13pkCUGd3LS0aGxlwPEqP4aZPE1Ccy1PF2PJDMYRb40LN8UiuYUWCrOYMCwicqTjFEqci36wckbOREjrcTnRUV9yi3FJDSuQ3K05EWy6KWFG7h_uI2dHrMN4dB4CpZpn2w2jr7tmN0grFLTgyJLMu8iF46PlHmJq9tVkJp208ozlKeY1Mj268L6jsYsTy-uPMT1whFs1mtVeFLeqOCHGig08if5hlweFy5uLdZ0t8qkw9glYjQKmjejoGXneRHBqmVkCX1D2Jzz6xtCNDUoY6k4HkN2g8M0g6D2EWSHzl5D5c8vFcp5DPaYZHvsx4PVf72aJLsv1xZ_tkCVAW3_R9Izb8IujYw_bMCQq1giJaHkujz3qe9agTo9oH04UgtnpaTNe4HyPSfPYjqcJr1OXOYz7FQBC6vYibYsBM4ig_C8Epw2t7hJYx2c1s-poXKUc6HL05tm24mOxTl-VsPTyc23OZ10qUBl7tyrI0dnpLS_ZuQEPLKQce0gafOjm_ux55rJuU59LsLrrPRjrJ6dZeMPbzEr9_Nmf0we8Qd24rEB8wjsCMoMTs6HEyLe066KV9csYaKEAbb66NEkOzM4nyDsOw14zc_wc1qSo7",
+        "seller": "EliteHubs.com",
+        "rating": 4.8,
+        "reviews": 10,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTWuBPcpJRzkX9uHGADGdz7VoIGP6HNhKcOBInHPi4QVIwV49pzOuYsnROgM6EeAr1xgNBEAt6fKs3V9khpUWTzXuZFFYqawc09MkwrpFDwAy5ewqDxRgDBwg"
+      },
+      {
+        "position": 19,
+        "title": "ASRock H610M-HDV/M.2 Motherboard",
+        "price": "₹6,349",
+        "extracted_price": 6349,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:12917133775662406946,gpcid:6114824783631735564,headlineOfferDocid:7134073088236576966,imageDocid:12371502507501276256,mid:576462900312781494,productid:15563207102054271504,pvo:2,pvt:hg,rds:PC_6114824783631735564%7CPROD_PC_6114824783631735564&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sFj6DHicbVNJrqtGFJWyEm_AElBFFcjyAIoebNPZBiYIA8Y8g8ENnZUNRMom4qdE-hn-ZDPJauKX8Z-cwT3t5P76LU0eSdUUZfY3zfA0pgHAmEWIgRTiIfq9aNMy-wvRNOQYiDmAAI0ByyL4_ZQnWVVe8s3xmN-k5kv2dkMKA4rjGIBYjHiE_izrpMj_p98FANMsxbAUZimawYhh0WddZt_fUogYnqLA-8rRkIff2luTdenjy_VuAwyFaYqhWMh8JcDPtm9-Y974eJ2Kz1t2_4exSfyDlT_b7kaKf8y9iupVXl6n6pVf_kib5lzm__70i7ch3pII-mIWx16edrd87vmuvRTE9UlAhSNllWJV2NrvDrtAus7De_281ubVloA--nNlMvjEgv1WeXQXcxiA5h2eOsWXH5olXRofGl7ACg0vM2w1HqmIoblK0Bx5OBWLmScLLtFiT1jJnu7LS1I4eoxkcTETZLIUkoSXjVu8TrgVnsfpatsBSrfL_N71runv_SSvSNqCLcdy81PRRQ-z-Ihz--4sZtJumY5kTHLRYPOtn65P6HiwUnX-sRcH4SSfmsVsrUtLct0SIsgePcjiZlQlTyi4Q3AbHfmpc3UPWoMBpUnqYRsF14PiYZg7ES7RLUv3ITO1PcciSx_ZSAkb0u85ouy7-BgpYuUVIZyKfl_nUCwwJ5JQ5YK7UIfHyVRU9-PG37MpIsf0Yq4buREnyaQebmAPUKo1kmC1L6378S7yAdpxuruxfQhS547lfE6HKWHt571ndXhOroX3GHcpkKTrWqZtOeIGuVefJ8kr43O7hY41uM1oh0aQaFsc98GYui6cbP5pqupx3j28y3Ma51qSR0Htq6rSX80WK-6qI10raBsRYkvMvUJcnbcidR2059SsDmbIJyYrmM5astbjlL7_p-DMLrwSYd9WIN1QAkNZUUm5yWNnO8a5M0t35_U10IDRX3yXZJbhHhUUbLpubVhF-B-JHCoT",
+        "seller": "Computech Store",
+        "rating": 4.8,
+        "reviews": 262,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEODQ7VU-WYoqeQgAaNNjsmluLoZb1P1tVOojViGloGqj5yFnrUOjGRLVNJq3QFLWq0YXHcqy-juPrQ426-_glMhx640R3WAiOzRLwqnX9oahX9PJGIfAeKw"
+      },
+      {
+        "position": 20,
+        "title": "ASUS TUF Gaming B650M-Plus WIFI Motherboard",
+        "price": "₹22,950",
+        "extracted_price": 22950,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:10735847384300487298,gpcid:18425146978859564430,headlineOfferDocid:8259719981816437468,imageDocid:15686177323805353349,mid:576462563295498638,productid:2772852186511558539,pvo:2,pvt:hg,rds:PC_18425146978859564430%7CPROD_PC_18425146978859564430&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=G5RBAXicdY9LrqNGAEWlrMQbsARUFVXI8gAKMD_bfPwBTxDG_J7BgG0wWNlApGwifuqWOsNObyZZTZyMk8mdnKOre3_9Fkf3qKyz4vSDZTBABGJAIGAYSDAnkC9ZE_-DCOQQC3kBE4IExMO38T1PolNZXJJ1miZXuX57fxAOCZgVBMISlocAQ578XlRRlvyLf7CIJzyLMeAAYRBAAEDhsypO3xHmIc8hHnACggLhAfnWXOtTF9_fpRzGHEEcS3jEsggRBITPpq9_4955f-XZ5_V0-xPaNPyvlT_b7loO_we-svJVXF55-UouX-O6PhfJXz_94q2pN6eiPpuEoZfE3TWZehvXnovSKhf5zJFPpWqV2NrvjjtfbqfBrXq2ldnaMtCHzVQdDSGyYL9V793FfDyA5h2fOiMUH5olX-oNNDwfibWgcKgcUubwPlaKmqM88mw28RTRpVroiUvF0zfKnGaOHvKKNJuICp2LUSQoxjVcRWSJp2G83HaA0e0iuXW9a272mygpadyALUFkmmfd4W5mH2Fi35zZRN7N44EOUSIZKNlu4lXOp0crXkw_9tJDzJW8nk1Wujyn7ZZSUfHYhyKth4XsiRk5-tfBUZ46qXrQGBwoTFo9tge_PaoeholzwAV_PcX7gBubniDe0gd0UIOa9ntC1X0XpgdVKr0sgGPW76sEShkmEg0WxL-JVZCOprpwP67C7TQeaBpfzFWt1NIom8zd9e0HlCuNRnjRF9YtvUmCz--I7q7tDQSxc8NKMmWDmCL7eeuRDs9Rm3n3YRcDWW5XCmsrB_JQ-sUzl70iPDdb6FgPtx7swPAjbYvD3h9i14WjLTzNxSKddnfv8hyHqRYlB7_aLBZq35oNVt1lR7tG1NYSxJaUeJm0PG8lpn1oz7FeHs1AiEwkms5KtlbDGHOQyYjZBS0V900J4jUjcox1KBg3uu9sxzh3ZuHuvL4CGjD6y8alJ8twU5X31123Mqws-Bup-Sr7",
+        "seller": "SCL Gaming",
+        "rating": 4.8,
+        "reviews": 41,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYQ5yqCpD9frkmLd4vW_RruPc9iH_02nxAbIt5szmHdQCO-s5d7tgRqgA1adBUNRFdXSVR_l7zbOzDYU2CUQgrg4OKoBm3UXdMi9a0Mof05NW4aeBq742y"
+      },
+      {
+        "position": 21,
+        "title": "ASRock B660 Pro RS Motherboard",
+        "price": "₹12,390",
+        "extracted_price": 12390,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:4618553251426223637,gpcid:3707057651948239588,headlineOfferDocid:8909491723612788104,imageDocid:12073236998429110216,mid:576462499398181552,productid:566270534237128817,pvo:2,pvt:hg,rds:PC_3707057651948239588%7CPROD_PC_3707057651948239588&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Ynq1LHicbc5LrqNWEAZgKSvxBizB4QAHWR7A4Q22edkGJghjXtdgwDYvKxuIlE3EV91SZ9jJZpLVxJ1xT2ry1f9X_f4tiR9x1eTl-S_IkIimKUCTEDAAUAzFfsnb5C0US7AEzTI0yUEEKI5G6HuRxueqvKa7LEtvYvNjDXEEBzmSfUdJwCJEEvDPso7z9H_-mwQES72N4xAEHEkSgGQ-6_L8_d0MGQA5juIQiUiaBt_aW3Puk8cPZBjwPk5BQLEkeJeyn-3Q_AHe8_Eq8s_b-f4PsHD0kx9_tZydGP3cXnn1Kq-vonql169J01zK9N9ffnN32F1jXlstoshNk_6WLl3Psda8sC14JrfFcyWbFWseD6eDL3bL4F4_u9roLJHSJm8pzzoXm3DYy4_-aowjpbqnp0Zw5YdqitfGg7rr03zDSYCupowIAYkqXrWlschXC1fiHaxGLr-RXM2T1ji3tYiRhNWCl_Caj2NO0m_RNkYbdhklm31PEZpVpvd-cAzv6MVphZOW2iMaLYu8Dx9G_hGl1t1eLcTDOpnwFKeCTqd7L9kWTHYyE2X5cRRGvpCKZrXYauIad3uMecklR0nYTYro8jk6-bfJlp4aqgeq1QFVGrge96HfnWSXhakdsiVzOyfHAMztgGjG1CY6lIMGD0eE5WMfZaEsVG4ewDkfjnUKhZxFAg4U5N_5OshmQ1acjxt3P88hzpKrsW2kRphFg3g4vjVCsVZxzCpDad6zu8D5zAFpzs7yIJXYd1ZKl2SQYNp63gdag5e4y93HdEgoUey2EmlJIRqlQXkWoltGl3YPbXN0mskKdD9W92w0-FPiOHC2uKehKNmyf7jX5zwt1TgN_dpTFHnojJaVnU2P-5ZXdwJkTSF1c2Fz2QtEN6rPudmcjICLDZo37K1obqc5AZDIkdEHHeaPbUUlO4IHhBmWhBM_DpatX3qjdA7uUFMqpQ9Xz8FnU3cymfF3fb_VzTz4Dwj2KcE",
+        "seller": "Ankita Sales",
+        "rating": 4.2,
+        "reviews": 20,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRTOGyN5-JRzG91oFg5Vi3zqettNDEUkE8A2ToNxjYrG6bWMFhjWw31znGLLrnNkrjnZJU1AXOWyHdh2ku79MByUcOMiYRrE71u-BqMN36_aWHQLv_DYx1f"
+      },
+      {
+        "position": 22,
+        "title": "MSI B650M Gaming WIFI DDR5 Motherboard",
+        "price": "₹11,200",
+        "extracted_price": 11200,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:11602122021756157232,gpcid:9027928896768001871,headlineOfferDocid:17957266541469554057,imageDocid:17169205351871178861,mid:576462563335739743,productid:11212686014734407332,pvo:2,pvt:hg,rds:PC_9027928896768001871%7CPROD_PC_9027928896768001871&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NVj-GHicbY5LrqJoAEaTXokbMAH-JzEO4AeUh4qACk4IIiJXEBB5aGoDnfQm2puupGpY3ZvpXk3f20nPavJNTr6T89u3OLpHeZlmx794HnMCLwgfQxDmERGA8EdaxdnxT5ETiChQKmKCKcfxlPA_zkl0zLNrsjqdkptSxp8GIn68MEaQh1hECHKIfM-KKE3-5zwWBQ4B9GngCaWYfy-y4w9EMMQCwgAARIBIIPhW3cpjG9__6_qowhRzPCQAQo4AILxXXfn7595f5_T9dmz-FmwW_iTzi-2slPDn7JXmr-z6Ouev5Po1LstLlvzzy6_uirlTJumTURi6SdzekrHrOfZUkpdnCadr5ZhrVk6s3faw9ZV6HDTFsy7M2laAPnhj7WGIkQW7jXZvr2bfg7l7eOqcmL3NLeVaetBwfSSVoiqgfDhxe4GnuTRfq_05nYxcVXLYPHSlherqnjpl6VoPsSpPRpLKplIUiapxC5cRXZBxGC82LeB0O0uatnNMb-dFSc7iCmwoouNz2u7vZvoWJnaznoyU7TQe2BAlsoGSjRcvz_h0sOLZ-G0n99JZPZeT0VJXpqzeMCapLt-r8mqYKa6U0oN_G9bqU6dFBypDAJnJin6z9-uD5hKYrPckw7djvAuER9VRhC19QHstKFm3o0zbteFpr8m5mwbwkXa7IoFySqjMghn1G6kITg9TmzlvN7E5PvbsFF_NZamW8kMxubvj2z1UijmLyKzLrObUyKKPt1R3VrYHQbxuiJqM-SBmyH42HdLhJapT9z5sY6Ao9VLlbXVPe7WbPc-Km4WXagPXVu-Ugx0YfjTfkLDzh9hx4MMWn-Zsdhq3d_f6fAzjeZTs_cKbzbSuNiuiOYuWtZU0X8mQWHLipvLispG5up8_H-XiYAZiZCLJXC8Vazk8YgFyKTXboGbSrspBvOIkgbP2GedE9629Ni6tmTlbtyvAHBjd1XPY0TKck4b9VdsuDSsN_gXQpip3",
+        "seller": "mdcomputers.in",
+        "rating": 4.9,
+        "reviews": 88,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHFoUffFeD8uTeZApulFLJmtNKRzWsoTEAnrYHIshs3jgX6n8rNJBr8JnWXPSj5tjUZT5SIXuOitBtRr13j8k3AM99MMkRx6vq5_anBoWbk_KmfgNvGnZAGQ"
+      },
+      {
+        "position": 23,
+        "title": "Gigabyte B650M S2H M-ATX AMD Motherboard",
+        "price": "₹8,599",
+        "extracted_price": 8599,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:5426312896205648811,gpcid:1315117015946473777,headlineOfferDocid:12526354112102651281,imageDocid:10267783303317908994,mid:576462472628385184,productid:6330286971086464479,pvo:2,pvt:hg,rds:PC_1315117015946473777%7CPROD_PC_1315117015946473777&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Lai0inicbY5JrqtWFEWljMQTsERx4V705AZcarBNZRvoIIypnsGAMZWVCUTKJOKnRPpp_mQyyWjiRpq_cxp7Le19fv2WxI-4avLy8hcDKJYmKcSxFMGwACGS_D1vkzchaZIhSUiQDAdYAGkI4fcijS9VeUv3WZbexeat_U1SzLuBASRJkQTFMu8u8s-yjvP0f_4OIUQ0TdA0CTkCcRz4qsvLdwaygKUApFgK0YghEfjW3pvLkDze4-zbpxDLQZJAbw0AyH21Y_Mb9b6PV5F_3S_9P5SFox98-bPl7MXox-yVV6_y9iqqV3r7I2maa5n--9Mv7h67G8xrH6soctNkuKdr13OsDS_sCp7NbfFSyWYFzdPxfPTFbh309bOrjc4SaW321vKic7EJxoP8GG7GNNGqe35qBFd-qqZ4azyguz7DN5xEMdWcESFFoopXbWkq8o-VK_EOViOX30qu5kkbnNtaxErCx4qX8IaPY07S79EuRlu4jpLtYaAJzSrTfhgdwzt5cVrhpKUPiEHrIh_Ch5F_RqnV2x8r8bhJZjzHqaAz6cFLdgWbnc1EWX-ehIkvpKL5WO00cYO7A8a85JKTJOxnRXT5HJ39-2xLTw3VI93qFF0auJ4Ood-dZReC1A5hyd4vySmglnZEDGtqMxPKQYPHE8LyaYiyUBYqNw_Ako-nOgVCDpGAAwX5PV8H2WLIivN55_rLEuIsuRm7RmqERTSIh-NbExBrFcdQGUuzz3qB89kj0py95QE6sXsopWsySDBjPfuR0cA17nL3MR8TWhS7nURaUogmaVSeheiW0bU9ANucnGa2At2P1QOMRn9OHAcsFvc0FCVbDw_39lzmtRqnoV97iiKPndFC2dkOeGh5dS8AaAqpmwvb60Egukl9Ls32bARcbDC8Ye9EczcvCQWIHBlD0GH-1FZ0sid4ijDDknDix9Gy9etglM7RHWtapfXx5jn4YupOJrP-fhh2upkH_wHeXCns",
+        "seller": "Theitdepot",
+        "rating": 4.3,
+        "reviews": 50,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5J4TmvbPjXX2NlcnH31X6hWH6AN_AbWUudxnv08Yw6NdTwQY6zewe3ee5jfmLgJkJeDiX8qBP-do_tGATFoB0_mwagB5wrm6J0rkx6NfmzGLLPTJqU20v"
+      },
+      {
+        "position": 24,
+        "title": "ASRock B850M-X WiFi AM5 Micro ATX Motherboard",
+        "price": "₹12,999",
+        "extracted_price": 12999,
+        "link": "https://www.google.com/search?ibp=oshop&gl=in&hl=en&prds=catalogid:1226324341383659788,gpcid:16420122398444639605,headlineOfferDocid:9657737614362044735,imageDocid:17386597450964121362,productid:274546688534494336,pvo:2,pvt:hg,rds:PC_16420122398444639605%7CPROD_PC_16420122398444639605&udm=28&q=search&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=We2xRXicdc5JzqNWAARgKSfxBSwB7zHJ8gIeM9hmsg1sEGb-DQaMmay-QJRTxK201L3s7sskp4mTdbKpzVcq1W9f4-gRVU1eJj9wgqAAAQHEAQMokqUZ5o-8jcvkJ05BAnszYBkIIQVYCiO_F2mUVOUtPWRZehead-8HS5E0DWgKh4AiMAhpQH4r6yhP_-WfOA2Yf3YhibEUxAn83fra3ptkiB9l8p14A6QohiEBhCwEgPrcjs3vxDsfryL_fE_6P6GJwv9688m0D0L4P_jKq1d5exXVK719iZvmWqZ__fKrc0DOFnHqZhWGThoP93TtuLa55fh9wVG5JSSVZFS0cT5dTp7Qrf2-fna13pkCUGd3LS0aGxlwPEqP4aZPE1Ccy1PF2PJDMYRb40LN8UiuYUWCrOYMCwicqTjFEqci36wckbOREjrcTnRUV9yi3FJDSuQ3K05EWy6KWFG7h_uI2dHrMN4dB4CpZpn2w2jr7tmN0grFLTgyJLMu8iF46PlHmJq9tVkJp208ozlKeY1Mj268L6jsYsTy-uPMT1whFs1mtVeFLeqOCHGig08if5hlweFy5uLdZ0t8qkw9glYjQKmjejoGXneRHBqmVkCX1D2Jzz6xtCNDUoY6k4HkN2g8M0g6D2EWSHzl5D5c8vFcp5DPaYZHvsx4PVf72aJLsv1xZ_tkCVAW3_R9Izb8IujYw_bMCQq1giJaHkujz3qe9agTo9oH04UgtnpaTNe4HyPSfPYjqcJr1OXOYz7FQBC6vYibYsBM4ig_C8Epw2t7hJYx2c1s-poXKUc6HL05tm24mOxTl-VsPTyc23OZ10qUBl7tyrI0dnpLS_ZuQEPLKQce0gafOjm_ux55rJuU59LsLrrPRjrJ6dZeMPbzEhMQyxl98DvEndsKxAeMIzAjKDE7epxMS7sOemmfnLEGCtDGm2ujxNDsTKK8wzDsNSP3_wZZZCP1",
+        "seller": "Cloud Tech Asia",
+        "rating": 4.5,
+        "reviews": 8,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOFXGFIRHccVFDbMjz388Itj-oyqsvLjwhly8RD56P8pNeS_RbUWygMcmo7HRmD5AIiGLmEgODJdmDL85i_7b8VW6hBm1_hR5tu9WKNxNpHG7HGvbL7aPWqQ"
+      }
+    ],
+    "reviews_images_count": "29+",
+    "product_attributes": [
+      {
+        "name": "maximum RAM",
+        "value": "96 GB Max RAM"
+      },
+      {
+        "name": "brand",
+        "value": "ASRock"
+      },
+      {
+        "name": "form factor",
+        "value": "Micro ATX"
+      },
+      {
+        "name": "RAM type",
+        "value": "DDR"
+      },
+      {
+        "name": "expansion slot",
+        "value": "PCI"
+      },
+      {
+        "name": "expansion slot",
+        "value": "PCI Express"
+      },
+      {
+        "name": "chipset brand",
+        "value": "AMD Chipset"
+      },
+      {
+        "name": "external ports",
+        "value": "FireWire"
+      },
+      {
+        "name": "external ports",
+        "value": "Ethernet"
+      },
+      {
+        "name": "external ports",
+        "value": "VGA"
+      },
+      {
+        "name": "external ports",
+        "value": "HDMI"
+      },
+      {
+        "name": "external ports",
+        "value": "DisplayPort"
+      },
+      {
+        "name": "external ports",
+        "value": "USB"
+      },
+      {
+        "name": "number of memory slots",
+        "value": "2 Memory Slots"
+      }
+    ],
+    "price_insights": {
+      "price_history": true,
+      "currency": "INR",
+      "price_tracking_available": true,
+      "stores": [
+        {
+          "name": "Theitdepot",
+          "prices": [
+            {
+              "date": "Jun 17, 2026",
+              "price": 7875
+            }
+          ]
+        },
+        {
+          "name": "Amazon.in",
+          "prices": [
+            {
+              "date": "May 15, 2026",
+              "price": 5815
+            },
+            {
+              "date": "May 28, 2026",
+              "price": 10389
+            },
+            {
+              "date": "Jun 16, 2026",
+              "price": 10159
+            },
+            {
+              "date": "Jul 29, 2026",
+              "price": 18661
+            },
+            {
+              "date": "Aug 29, 2026",
+              "price": 18652
+            },
+            {
+              "date": "Aug 30, 2026",
+              "price": 18661
+            },
+            {
+              "date": "Aug 31, 2026",
+              "price": 18602
+            },
+            {
+              "date": "Sep 10, 2026",
+              "price": 18661
+            },
+            {
+              "date": "Sep 15, 2026",
+              "price": 22393
+            },
+            {
+              "date": "Sep 17, 2026",
+              "price": 18652
+            },
+            {
+              "date": "Sep 18, 2026",
+              "price": 22393
+            },
+            {
+              "date": "Sep 25, 2026",
+              "price": 18661
+            },
+            {
+              "date": "Sep 26, 2026",
+              "price": 18652
+            },
+            {
+              "date": "Sep 28, 2026",
+              "price": 18602
+            },
+            {
+              "date": "Sep 29, 2026",
+              "price": 18593
+            },
+            {
+              "date": "Oct 1, 2026",
+              "price": 18543
+            },
+            {
+              "date": "Oct 6, 2026",
+              "price": 22393
+            }
+          ]
+        },
+        {
+          "name": "Links",
+          "prices": [
+            {
+              "date": "Oct 8, 2025",
+              "price": 13001.37
+            },
+            {
+              "date": "Sep 16, 2026",
+              "price": 10075.82
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "__fetched_at": "2026-10-09T19:07:24.662Z",
+  "__part_slug": "b650m"
+}

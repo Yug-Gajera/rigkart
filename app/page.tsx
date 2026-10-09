@@ -1,7 +1,8 @@
 import { SHIPPING_PER_SELLER, compare, sellerCurve, type Basket } from "@/lib/basket";
 import { priceHistory, type Point } from "@/lib/history";
-import { DEFAULT_BUILD_TEXT, parseBuild, type Part } from "@/lib/parts";
+import { DEFAULT_BUILD, DEFAULT_BUILD_TEXT, parseBuild, type Part } from "@/lib/parts";
 import { searchPart, type Listing } from "@/lib/serp";
+import Link from "next/link";
 
 export const dynamic = "force-dynamic";
 
@@ -91,7 +92,16 @@ export default async function Home({
               return (
                 <tr key={part.slug} className="border-b border-zinc-900">
                   <td className="py-3 pr-4">
-                    <div className="font-medium text-zinc-100">{part.label}</div>
+                    {DEFAULT_BUILD.some((p) => p.slug === part.slug) ? (
+                      <Link
+                        href={`/part/${part.slug}`}
+                        className="font-medium text-zinc-100 underline decoration-zinc-700 underline-offset-2 hover:decoration-zinc-400"
+                      >
+                        {part.label}
+                      </Link>
+                    ) : (
+                      <div className="font-medium text-zinc-100">{part.label}</div>
+                    )}
                     <div className="text-xs uppercase text-zinc-600">
                       {part.category ?? `match: ${part.must.join(" + ")}`}
                     </div>

@@ -1,0 +1,263 @@
+{
+  "search_metadata": {
+    "id": "6ac93b54aefbb4cd3d0f7e84",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/16kzzoon4__DHlYqAOgmO0-os27FaMtIbcLwzC8EcCs/6ac93b54aefbb4cd3d0f7e84.json",
+    "markdown_endpoint": "https://serpapi.com/searches/16kzzoon4__DHlYqAOgmO0-os27FaMtIbcLwzC8EcCs/6ac93b54aefbb4cd3d0f7e84.md",
+    "created_at": "2026-10-09 19:07:00 UTC",
+    "processed_at": "2026-10-09 19:07:00 UTC",
+    "google_product_url": "https://www.google.com/search?ibp=oshop&q=search&prds=catalogid%3A18108250609294532598%2Cproductid%3A9804563917688950016%2CheadlineOfferDocid%3A12915288015343016303%2CimageDocid%3A8263188431897317026%2Cgpcid%3A9221402241741380927%2Crds%3APC_15279758237125546814%7CPROD_PC_15279758237125546814%2Cmid%3A576462913760359444%2Cpvt%3Ahg&hl=en&gl=in&udm=28",
+    "raw_html_file": "https://serpapi.com/searches/16kzzoon4__DHlYqAOgmO0-os27FaMtIbcLwzC8EcCs/6ac93b54aefbb4cd3d0f7e84.html",
+    "total_time_taken": 4.3
+  },
+  "search_parameters": {
+    "engine": "google_product",
+    "page_token": "h2lqZ3icdVTLrqtWEm11_0AP-gPO_MpXmzecIw94G2we3jzNBGE2BgwYDNhg1F9zbhIpGSaRMu3fSAb9LU1a6mFPdpVUVbtWLdWqf__l759Z-ZtwtfVkXBhp7146lrQXM2GGI_tj17fokY4l-oVjAUnRBIcxNMtyFAAY_WOajEnd5iX6FWMxwOIUoAGHcyRF4BTH_lxkCarLW2ZdLlkvtemfeTiHUTjLAowiSGL9gwDET2WT5Nl_47-wOE1gLEuuD8cQGANw-luPht9JW4zXQoZjKBYnGAynKJJmMfKfNrSk-P8Ev78_sv71K3wt2e0L9YWhAfjCG9QX0fa-z7s_23E4jpEAx0mMITGCXcEz35oS_UwxNEmvUIm1hqA4kiS_dc_xs8i_ezzq7F-fef1Z3j6L-jO7_dAm3fOS_vHXf8jtJInDJB69rvMlCFwVGUYJQODVPfJ9EYFZNxWuPAWK4YQVlakwcoJ58ZqBSIGiHMLjSmeE-ZI2G7ixHCuqSSrUJ2o9uhjUkKeNqCkU2CD6hKPJ8xX6THTVwVdmx4Wqg-Xk6eYLnhQZ0DVxVB1JM5gdD9SvSDGHyFMCR0YnF8DZX33f1Rtf1UUD7wzDNXBYYo8TmHcOJiSOzx2giI2wjqhA5SYXP718Tx891x8TCdl-QwEUmmpUcVdTnkNP1bVAxmrYUIQfKHdTkUdI-LpTYU10jazTEs1ntyINwFWGi4YzFjmZhMIj3i5QimAadpHR6AeniuYgAC8_MGnURCP0_YtZRYJZKa7r19QhgLThm67ZUNDA2DFZzCpbcaZXBB0MHWDTRWeiXgwVjlCee2-paVdRZj-oKVNBc1ZiShawL4QXhQlW7N748Jeoy2ROOgSTowD97sldgXYtAeXRi248aSoC7TYykWIyqZa6AHfmywoiz73WBqwAEQRRZwTQiyTz6dyOpOVzO1PunlnYEd_NQ3_5HfAKNToWc23AxgyDLo4SUU89m7BCenOEoezy7xizKoMB9LpsDP1D2rZVmf3xtzRWoSzytivu-C3g-H0hwqks-ihvTnsvXmhuP7eOazlcIBDrHpqLx9o7CT2wQxulUz1QWkxtLviynM8afNExRcXXaWTbnWZz0bKDTdFvho83xxKdrchrqyfzUNzFDm_IjubKWzE_ajEtCx9vvCxu-SThZL2buSnhrtfOoPfOFDedeKljx_ew_NpU9C0KmNPrIIZnXTldF-9GXcYq_3hTLUs9yDEveI4cy6Fs2K5mmVtN2jIJQhcaZxKCPtNUwry7xvZ_fOD4u7jt3zV7yxBfMRL7usr7Kw64zbuzZZ_Cxt0L5eD6rovnDq_YTtGurSR_S4LTwosRTgrAm6Qq1Co7E7OIVbNTJhftx1scO1n66LPNqh17ywtmwdPXI9Gc2IZ6LrvXPp24-BVLvXg6Dxa986KRFY0FhTdTCXr8wvQXmY8J6K-G4564g4J76Qyxeqds5RIAw7hTw9nWu-UwHdj79PFmrqOK90EUedkhjrJgzark7FG63O_YZVj4Du4GU4uEuprL8wapkazL46rTMK6EEqB7qqPlqdKDubIulTO9v5EWcNnwSV7JJ2UXtsTkBQzVY46DRs2KyfTu6k6emutgp5yl4vtFG9Q2lVk1eTSPELfV2D_XU-wMjPB0x9E-c8FFryXYH1qTe-p0HXD66XpWm7w38Tx3o_FJCHf92VZ18UIyzMOjdQ69J1tkFSZRhYMf5qfMCHKc4w4DLqjgyiUhr_0NUpvpTGB1or1AdjMKGl_HNw5dKG2cY7Bg-03DbeTaTm0mHF5T64Ts4nkykp1cMCpPAPdpt1BWwltZeDrNgXC-pa9h13pEhS272zHAggOkb51RnsVdewTNyYoExra19Kg9e4HXEV_l7nnz1JL1ltQWiXinpDZpPPH_AacGSJ0",
+    "gl": "in",
+    "hl": "en"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3U7oTK85OwsPp0uEOFriFaygEgfEr-r-RwLyBDPMtF_eW5KFxOsHLTHATLF9OZcPU1iVdc8N93rwgytkGqnNWVESjy8tdVw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRse44gEo0feTP5FN1vPlljf119frQbUQkssHF3YAjLjDU2TqCiDbXIDbn5xV2pPYPZjIgvMu3VUJ-a3ETusImYcoC5T15ZLQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRocLftgdc49b8jWcpQTmcp7weYW3ChdPLjj3eh7_WiTB1mxsjQ0cSDZKTCkdJie2JNZS37axJJslU1TgdPoLnfm4NNg6GS_2dnLCeaxsJCJk7jE0F06tcsPg"
+    ],
+    "title": "AMD Ryzen 5 7600 3.8 GHz 6-core 12 threads",
+    "brand": "AMD",
+    "reviews": 17,
+    "rating": 5,
+    "price_range": "£261-£282",
+    "stores": [
+      {
+        "position": 1,
+        "name": "Tradeindia.com",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tradeindia.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.tradeindia.com/products/amd-ryzen-5-7600-processor-c12231795.html",
+        "title": "AMD Ryzen 5 7600 Processor",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Final sale"
+        ],
+        "price": "₹21,648",
+        "extracted_price": 21648,
+        "shipping": "Free",
+        "total": "₹21,648",
+        "extracted_total": 21648,
+        "merchant_id": "5759431874",
+        "immersive_product_page_token": "uC88KHicdZNLjqNWFIalrKQ24BL3Xh6XKnnA42LA5v2ymSAMGDAYsI2NbWUL2UR10lL3MOnNdDaSYeKOMs3kTL7zS_-RzvfLlywd07Yv6_wbwIDCkKFYioc8zSDI8PjLcOrzSzbW-R88pmiGRTzgWIx5hqIA-1s5ZD8IhICmIKQBRwOEn3Hua31Iy0Luf2AMWQQwpp-D5xDgKMh-OuXn77QtJYCBHM8xGCIOQIahWQzon23XkpP_gZ-G6_hRlR9l-1F3H1X7UXSfs75v6uLPn_72LMmbS4L2_uIRwZXUxBMM4mk-mUuloyUsEd9fBCLNhTTliX4Mc2G9x-F5GugpwmAZNfxozSakHAD1QCf9ftBKCknabup7n7dqQebJ-8vCshYrkghi4JGErIlh-5plzjV5TtMcxxcFzxc52sFi9-Ybc8DxgOEg5Lk3aX560-w5wNQroPlXhF4hzc7evPk10Et2FiwX6tGzp8Tn9X3Nsv37ixzOCYseI9MKyfKcB7qq6tTNBFfcOGu6JNVzJ0m8Irucipnnu_ZcEM1KYMtot2qt0WVWXFxCho0P03hY1tetR0axVhSVq_BsPA6T4eTypY-rfdyO7rBKHIDgvmPul2eJqIV5bJccisqrGd_ZysrYgMuvwvuL-TxWOp4lSSAecoho3RayJ46-Vq7HoGEpNGPqxg5rpRhWULj4kyzb-ZY6KmrXdMuDtlejqneXIbGWx8xsUzWp7CXBBbh6AFLFjBaZ6SE8g2K0p9MxlLazOydqlpcC2jocUplpcJ4eH_t9E1t4sfQh5zXogu5BVpOmPF0GCsXM5OhcQbhyGYVqI5ubFrO2xqzUZJL1XZ-FQyXsNlV2PpCrE524QFZXm2579Be7zVZ7tDkm2vpoeslMTHYJYs5a5Zya85U38CQGzrER9nwhndjKE85wWKFoVB0llqNLqxecS1jxltrbyIezux7nZ869l6LRBCJ1nNQHO25tvugqM1CEhTortPNG5rmDNck4bC0bT9ltas8LiZPRRRb8zc1db7PuKDX36rhTS2HINrfwYkyhThj1kevXtptK_HtVpHlbd4W12xWnf-X7BuDz_yDGFGAQjZ7OIgp9OtT5V4Zj-B9KcvTnPh2uu-z7X-S0EaUuF71DG5iqa6wfipoeciWVSyqTQBQGprEK2yrdx9MaxGuj0egt4K2Qcom7N71t17LeIgOGIk6Rr8tekC-cRnccKqdWwY2YSmy4IJSs6LZzqdvNoMwqDnkpXis3MxqiLcgHdzHUHqXTVuBqLjBgrpbQ3cdeEeooV_vRd7V12A3QOyig8BXTUhWQrd1HsMhv3qKHTkhSrVFIhjQmbt0-bMUuUsKl24THDTKQpZbMVuF7s2E2QaSLqUJ-vZ1Pu--UoDCjZ7F7d9GqNN4G-_4ik6Wd2N3Y53HYt9PbfzJjSEOO-Qf0Wa9V",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uC88KHicdZNLjqNWFIalrKQ24BL3Xh6XKnnA42LA5v2ymSAMGDAYsI2NbWUL2UR10lL3MOnNdDaSYeKOMs3kTL7zS_-RzvfLlywd07Yv6_wbwIDCkKFYioc8zSDI8PjLcOrzSzbW-R88pmiGRTzgWIx5hqIA-1s5ZD8IhICmIKQBRwOEn3Hua31Iy0Luf2AMWQQwpp-D5xDgKMh-OuXn77QtJYCBHM8xGCIOQIahWQzon23XkpP_gZ-G6_hRlR9l-1F3H1X7UXSfs75v6uLPn_72LMmbS4L2_uIRwZXUxBMM4mk-mUuloyUsEd9fBCLNhTTliX4Mc2G9x-F5GugpwmAZNfxozSakHAD1QCf9ftBKCknabup7n7dqQebJ-8vCshYrkghi4JGErIlh-5plzjV5TtMcxxcFzxc52sFi9-Ybc8DxgOEg5Lk3aX560-w5wNQroPlXhF4hzc7evPk10Et2FiwX6tGzp8Tn9X3Nsv37ixzOCYseI9MKyfKcB7qq6tTNBFfcOGu6JNVzJ0m8Irucipnnu_ZcEM1KYMtot2qt0WVWXFxCho0P03hY1tetR0axVhSVq_BsPA6T4eTypY-rfdyO7rBKHIDgvmPul2eJqIV5bJccisqrGd_ZysrYgMuvwvuL-TxWOp4lSSAecoho3RayJ46-Vq7HoGEpNGPqxg5rpRhWULj4kyzb-ZY6KmrXdMuDtlejqneXIbGWx8xsUzWp7CXBBbh6AFLFjBaZ6SE8g2K0p9MxlLazOydqlpcC2jocUplpcJ4eH_t9E1t4sfQh5zXogu5BVpOmPF0GCsXM5OhcQbhyGYVqI5ubFrO2xqzUZJL1XZ-FQyXsNlV2PpCrE524QFZXm2579Be7zVZ7tDkm2vpoeslMTHYJYs5a5Zya85U38CQGzrER9nwhndjKE85wWKFoVB0llqNLqxecS1jxltrbyIezux7nZ869l6LRBCJ1nNQHO25tvugqM1CEhTortPNG5rmDNck4bC0bT9ltas8LiZPRRRb8zc1db7PuKDX36rhTS2HINrfwYkyhThj1kevXtptK_HtVpHlbd4W12xWnf-X7BuDz_yDGFGAQjZ7OIgp9OtT5V4Zj-B9KcvTnPh2uu-z7X-S0EaUuF71DG5iqa6wfipoeciWVSyqTQBQGprEK2yrdx9MaxGuj0egt4K2Qcom7N71t17LeIgOGIk6Rr8tekC-cRnccKqdWwY2YSmy4IJSs6LZzqdvNoMwqDnkpXis3MxqiLcgHdzHUHqXTVuBqLjBgrpbQ3cdeEeooV_vRd7V12A3QOyig8BXTUhWQrd1HsMhv3qKHTkhSrVFIhjQmbt0-bMUuUsKl24THDTKQpZbMVuF7s2E2QaSLqUJ-vZ1Pu--UoDCjZ7F7d9GqNN4G-_4ik6Wd2N3Y53HYt9PbfzJjSEOO-Qf0Wa9V"
+      },
+      {
+        "position": 2,
+        "name": "KRGKart.com",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://krgkart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://krgkart.com/product/amd-ryzen-5-7600-desktop-processor-6-cores-12-threads-am5-cpu-socket/",
+        "title": "AMD Ryzen 5 7600 Desktop Processor | 6 Cores, 12 Threads | AM5 CPU Socket",
+        "rating": 3.9,
+        "reviews": 10,
+        "details_and_offers": [
+          "Out of stock online",
+          "Free delivery between 13–18 Oct"
+        ],
+        "price": "₹13,699",
+        "extracted_price": 13699,
+        "shipping": "Free",
+        "total": "₹13,699",
+        "extracted_total": 13699,
+        "condition": "Out of stock online",
+        "merchant_id": "5546662641",
+        "immersive_product_page_token": "50jhM3icdZPJruJWEIalPMl9Aa58jodzfK9YeDieABvP4I1lPOMBAwYDyivkJW4nLXUvk36ZzotkmdBRtlFJtfnql6qk-n75kiZj0h7KOvsGMKAwZCmO4iHPsDRkefxlOB2ySzrW2R88phiWo3mAOIx5lqIA91s5pD8IhIChIGQAYgCNn3H0te6SMpcPPzCGHA0wZp6NRzRAFOQ-nbLzd2YtxYCFiEcshjQCkGUZDgPm57VjyfH_wE_Ddfyoyo-y_aj7j6r9yPvP6eHQ1PmfP_3tWpI7lwT9_cUlgiNpsSusiKt7ZC6Vth5zRHx_EYg0F5KEJ8YxyITNHgfnaWCmEINF2PCjNZtopQPUgz4Z904vKVrSi-lw8HirFmSevL-olqUuSSyIvktisiGrtadb5lyX5wyDEJ_nPJ9ndAHz4s1bzQHiAYsg5NGbND-96es5wNQrYPhXmn6FDDd7c-dX3yi5mb9QtaO7nmKPN_Y1xx3eX-RgTjj6MbKtEC_OmW9omkHdTHDFjb1hSlI9Z-LYzdPLKZ-5nrOeC6JZCVwZFsvWGh12iaISslzUTWO3qK87l4xirSgaqvBsPA7Tys7kyyGq9lE7OsMytgEN9z17vzyXCFuYResS0WF5NaM7V1kp56PsKry_mM9jpeNZkgTi0jYRrZsqu-Lo6eVm9BuOomds3ayDWsmHJRQu3iTL62xHHRWtb_pFp--1sDo4i4BYi2NqtokWV-sFwTm4ugBS-YwR2ekhPINiuGeSMZB2szsSdctNAGN1XSKzDc6S42O_byILqwsPIrehL_TdT2vSlKfLQNERO9kGygkqF2GgNbK5bTG31tmlFk-yURzSYKiEYlul545c7fCEfFlbbvvd0VOL7U5_tBkm-uZouvFMjIuYZs96ZZ-a85Vf4Un07WMj7PlcOnGVK5zhsKTDUbOVSA4vrZEjh3DiLVnvQg_O7kaUnZFzL8VV44vUcdIe3Lhb83lfmb4iqNos189bmUedNck4aK01ntLb1J5VCcn0RRa87c3Z7NL-KDX36lhopTCk21twWU2BQVjtkRnXtp9K_HuVJ1lb97lVFPnpX_m-AUg_3w9BFvOABtyznvZ1dfb1h08cBzkGfD4kw7VIv_9FTltR6jPR7Vrf1Jzl0jPOuzsF00fVbuBor4KIZBux2faimrWZldEVzFub2vVVG2yGQ6RsJy8I2mjTMDtYTnZv7l3NphJy69IOs0HHnryQdZw7WJrBUPtUVpjAvkUgu-RqQ2edU5gkOG6BMiT99m5S29HtHSNVAyX0FWDK0S276ZugH6DbKSD3FNPSFJBunIevZjdXPUA7IIneKCSldTZqHXfX8RtrY6om4PeRylurwEjCvdG7Ibn7JAjdLv31dj4V3ylBYUfXYpY7ETkXB5KANZaAvxRFZNbDCYU74e0_mTFkIOL-AU9-sWU",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=50jhM3icdZPJruJWEIalPMl9Aa58jodzfK9YeDieABvP4I1lPOMBAwYDyivkJW4nLXUvk36ZzotkmdBRtlFJtfnql6qk-n75kiZj0h7KOvsGMKAwZCmO4iHPsDRkefxlOB2ySzrW2R88phiWo3mAOIx5lqIA91s5pD8IhIChIGQAYgCNn3H0te6SMpcPPzCGHA0wZp6NRzRAFOQ-nbLzd2YtxYCFiEcshjQCkGUZDgPm57VjyfH_wE_Ddfyoyo-y_aj7j6r9yPvP6eHQ1PmfP_3tWpI7lwT9_cUlgiNpsSusiKt7ZC6Vth5zRHx_EYg0F5KEJ8YxyITNHgfnaWCmEINF2PCjNZtopQPUgz4Z904vKVrSi-lw8HirFmSevL-olqUuSSyIvktisiGrtadb5lyX5wyDEJ_nPJ9ndAHz4s1bzQHiAYsg5NGbND-96es5wNQrYPhXmn6FDDd7c-dX3yi5mb9QtaO7nmKPN_Y1xx3eX-RgTjj6MbKtEC_OmW9omkHdTHDFjb1hSlI9Z-LYzdPLKZ-5nrOeC6JZCVwZFsvWGh12iaISslzUTWO3qK87l4xirSgaqvBsPA7Tys7kyyGq9lE7OsMytgEN9z17vzyXCFuYResS0WF5NaM7V1kp56PsKry_mM9jpeNZkgTi0jYRrZsqu-Lo6eVm9BuOomds3ayDWsmHJRQu3iTL62xHHRWtb_pFp--1sDo4i4BYi2NqtokWV-sFwTm4ugBS-YwR2ekhPINiuGeSMZB2szsSdctNAGN1XSKzDc6S42O_byILqwsPIrehL_TdT2vSlKfLQNERO9kGygkqF2GgNbK5bTG31tmlFk-yURzSYKiEYlul545c7fCEfFlbbvvd0VOL7U5_tBkm-uZouvFMjIuYZs96ZZ-a85Vf4Un07WMj7PlcOnGVK5zhsKTDUbOVSA4vrZEjh3DiLVnvQg_O7kaUnZFzL8VV44vUcdIe3Lhb83lfmb4iqNos189bmUedNck4aK01ntLb1J5VCcn0RRa87c3Z7NL-KDX36lhopTCk21twWU2BQVjtkRnXtp9K_HuVJ1lb97lVFPnpX_m-AUg_3w9BFvOABtyznvZ1dfb1h08cBzkGfD4kw7VIv_9FTltR6jPR7Vrf1Jzl0jPOuzsF00fVbuBor4KIZBux2faimrWZldEVzFub2vVVG2yGQ6RsJy8I2mjTMDtYTnZv7l3NphJy69IOs0HHnryQdZw7WJrBUPtUVpjAvkUgu-RqQ2edU5gkOG6BMiT99m5S29HtHSNVAyX0FWDK0S276ZugH6DbKSD3FNPSFJBunIevZjdXPUA7IIneKCSldTZqHXfX8RtrY6om4PeRylurwEjCvdG7Ibn7JAjdLv31dj4V3ylBYUfXYpY7ETkXB5KANZaAvxRFZNbDCYU74e0_mTFkIOL-AU9-sWU"
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 2,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0,
+        "percentage": 0
+      },
+      {
+        "stars": 5,
+        "amount": 17,
+        "percentage": 100
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsfgKb2ydOvRa9nHXDpmuL_9EQ0Wc_J3LMMRP3YDUNT_5WAOy0wJ1tf6uIUUrFrlt414qE4TAio-zNWh-scdK9S9gpx9E36A",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkX6hZ6HA3oTlo1T4xpWkqH_xoNagn4U9g_li_U21akGktwoaEshNsdWbIkt35IaXy9j47W6AJgcTfFAsO1vhmTG4v-B3m",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuhKBKhZ5W9nFX8D3ngUaMxG5AuNfUxfT_3T1JZ2h04UASdzaVdoa9-2Xwsco1o05K7zNgYHlFOW25K147K_WvT8MvkJc5-g",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT20tEtMHwpzmAawBKUeJB7dVQ-_77csP3DaOvnMvi0RKaI33sDDh6WMjC-Vk801TnWTN7bgldkX0s4sIGOSGAhkkZIYMdHyg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5IQitoASsi1SIym328bF6DIwtamVGYWwRqyvdj2OvKTVMvvZq3nhKzoFgQVDBHkKJICymFcRkfCOyyKpA0qyNObgFGE5mDw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjNCufsVZ5mOTrw7Pn3G58q8_oIfKOMb-KoNqB0426agvTyNoKItO6_GV5Pf3GrqOve5r1_duG_zY53yA83czDcvpAPJxw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQoKH9pAgdUtYAsfAIxjbMuExF-mHFEmxrNPcFGLT1-WMEqIyvpKx3rCKbgo3OYmeCMgPzucpKZpEqedTtlIBoeSKdZZzu-cA",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwkcSWGMqmzTKJZV_PoQOI5F2c62FtHPFJnYwdMJHqOR_Z1rlaJspO9qn1-ImBetW2BEzgvE0kZOUoxM907DMUzmMq6tQeng",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTI4TIVw1N3U40MZLQi2MvoThKN7n9HVs3K-mAZPgODDCZC23oSLNexPo7v5N6B4UUzBwPt6Yp2EyIiWuDw2w9umwhbDjiq",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRifKKXv0r_7lp6tJXcpeLzDaTV9muX34pZh3ntQ3CPC3e8jXmL2WGGxk8z0DkIe220e1FQNDC6dPEDf7ynk5sRsvyprVcq",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhHRHCX_IKsaZPJAODF8A1MME-Sy7OL5MCEethWSZAhaxQAupGke4AbYkrwt9bB1392C4jTbKgIeUy8WsQfvFYxH5jIKJ-",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQqwUUXz6n7ymcAw5cPXED0LQq-HBpt8Bv0uCikwdIS8yaky5iKL6DCqMQf0FCdMY3bGNAb4iW7HqIjC7KZ-EB-S1ZpNVl",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjtziB-g_Y6PS7BrSHsd-0hMKx8wUf1lmW5C_TcbDlMW5Mu4k9hMF-ezjPBG5uteqP5EwLg2TFt34f6QCKX7qWuguCVfGq"
+    ],
+    "user_reviews": [
+      {
+        "text": "Performance:Great\n\n6 cores and 12 threads that deliver excellent performance in both gaming and multitasking. It runs cooler than many competitors and offers good upgrade potential with the AM5 socket. Overall, it's an impressive choice for a mid-range build, balancing price and performance effectively.",
+        "user_name": "shahirfitri_",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/21097082/25834875229",
+        "rating": 5,
+        "date": "2 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0MSpEOqqX6BiT09IETS13V5O0nbZVAjxhQ72nVMBE6oiFXN-BeAM5CPXFjSJfkjb4kNA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsfgKb2ydOvRa9nHXDpmuL_9EQ0Wc_J3LMMRP3YDUNT_5WAOy0wJ1tf6uIUUrFrlt414qE4TAio-zNWh-scdK9S9gpx9E36A",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkX6hZ6HA3oTlo1T4xpWkqH_xoNagn4U9g_li_U21akGktwoaEshNsdWbIkt35IaXy9j47W6AJgcTfFAsO1vhmTG4v-B3m",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuhKBKhZ5W9nFX8D3ngUaMxG5AuNfUxfT_3T1JZ2h04UASdzaVdoa9-2Xwsco1o05K7zNgYHlFOW25K147K_WvT8MvkJc5-g"
+        ]
+      },
+      {
+        "text": "Performance:great\nBest Feature:great\nProduct Quality:great\n\nReceived within the week. Bought during the 7/7 sale. Chose this over the 7600x for the lower power draw. Easy to OC either via BIOS or via Ryzen Master. Great shop to buy for their variety and great local warranty.",
+        "source": "shopee.ph",
+        "link": "https://shopee.ph/product/89762129/23919316418",
+        "rating": 5,
+        "date": "3 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT20tEtMHwpzmAawBKUeJB7dVQ-_77csP3DaOvnMvi0RKaI33sDDh6WMjC-Vk801TnWTN7bgldkX0s4sIGOSGAhkkZIYMdHyg",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5IQitoASsi1SIym328bF6DIwtamVGYWwRqyvdj2OvKTVMvvZq3nhKzoFgQVDBHkKJICymFcRkfCOyyKpA0qyNObgFGE5mDw",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjNCufsVZ5mOTrw7Pn3G58q8_oIfKOMb-KoNqB0426agvTyNoKItO6_GV5Pf3GrqOve5r1_duG_zY53yA83czDcvpAPJxw",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQoKH9pAgdUtYAsfAIxjbMuExF-mHFEmxrNPcFGLT1-WMEqIyvpKx3rCKbgo3OYmeCMgPzucpKZpEqedTtlIBoeSKdZZzu-cA",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwkcSWGMqmzTKJZV_PoQOI5F2c62FtHPFJnYwdMJHqOR_Z1rlaJspO9qn1-ImBetW2BEzgvE0kZOUoxM907DMUzmMq6tQeng"
+        ]
+      },
+      {
+        "text": "Received item safely. A few bang marks on the corners here and there, but overall, the item is intact. Delivery was a bit slow than expected but it arrived nonetheless.",
+        "user_name": "bryan_fu74",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/59277182/23717846873",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1KNcRssF-i4VEHTy6pA4K-GnKr8So8fqk4E-kzJ_WgDQsdL3EAqLkTz8QrN5gfTvR1bA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTI4TIVw1N3U40MZLQi2MvoThKN7n9HVs3K-mAZPgODDCZC23oSLNexPo7v5N6B4UUzBwPt6Yp2EyIiWuDw2w9umwhbDjiq",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRifKKXv0r_7lp6tJXcpeLzDaTV9muX34pZh3ntQ3CPC3e8jXmL2WGGxk8z0DkIe220e1FQNDC6dPEDf7ynk5sRsvyprVcq"
+        ]
+      },
+      {
+        "text": "Performance:cost to performance is good\nBest Feature:good for gaming\n\nAll working ty very much.\n\nThe seller is responsive with my queries\n\nGood service even replaced my fan",
+        "user_name": "ken0633",
+        "source": "shopee.ph",
+        "link": "https://shopee.ph/product/89762129/23919316418",
+        "rating": 5,
+        "date": "2 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1C71DC96n8LYobQQUW2OhAL2mWTZvAP4ugtO4Y-eDTTMupB8yvzOCSS7U7yAWS5SlFfA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhHRHCX_IKsaZPJAODF8A1MME-Sy7OL5MCEethWSZAhaxQAupGke4AbYkrwt9bB1392C4jTbKgIeUy8WsQfvFYxH5jIKJ-"
+        ]
+      },
+      {
+        "text": "Best Feature:working great\nProduct Quality:very nice and reliable\nPerformance:10/10",
+        "source": "shopee.ph",
+        "link": "https://shopee.ph/product/89762129/23919316418",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQqwUUXz6n7ymcAw5cPXED0LQq-HBpt8Bv0uCikwdIS8yaky5iKL6DCqMQf0FCdMY3bGNAb4iW7HqIjC7KZ-EB-S1ZpNVl",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjtziB-g_Y6PS7BrSHsd-0hMKx8wUf1lmW5C_TcbDlMW5Mu4k9hMF-ezjPBG5uteqP5EwLg2TFt34f6QCKX7qWuguCVfGq"
+        ]
+      }
+    ],
+    "reviews_images_count": "17+",
+    "product_attributes": [
+      {
+        "name": "clock speed",
+        "value": "3.8 GHz"
+      },
+      {
+        "name": "cache memory",
+        "value": "32 MB Cache Memory"
+      },
+      {
+        "name": "thermal design power",
+        "value": "88 watts"
+      },
+      {
+        "name": "brand",
+        "value": "AMD"
+      },
+      {
+        "name": "number of cores",
+        "value": "Six-core"
+      },
+      {
+        "name": "AMD product line",
+        "value": "AMD Ryzen"
+      },
+      {
+        "name": "AMD ryzen product line",
+        "value": "Ryzen 5"
+      }
+    ],
+    "price_insights": {
+      "price_history": true,
+      "currency": "INR",
+      "price_tracking_available": true,
+      "stores": [
+        {
+          "name": "Tradeindia.com",
+          "prices": [
+            {
+              "date": "Apr 6, 2026",
+              "price": 21648
+            }
+          ]
+        },
+        {
+          "name": "KRGKart.com",
+          "prices": [
+            {
+              "date": "Oct 8, 2025",
+              "price": 18680
+            },
+            {
+              "date": "Oct 16, 2025",
+              "price": 20199
+            },
+            {
+              "date": "Feb 6, 2026",
+              "price": 20099
+            },
+            {
+              "date": "May 14, 2026",
+              "price": 19899
+            },
+            {
+              "date": "Jun 27, 2026",
+              "price": 19999
+            },
+            {
+              "date": "Aug 18, 2026",
+              "price": 13699
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "__fetched_at": "2026-10-09T19:07:04.569Z",
+  "__part_slug": "ryzen-5-7600"
+}

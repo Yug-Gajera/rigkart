@@ -33,10 +33,10 @@ create table if not exists snapshots (
 create index if not exists snapshots_part_time on snapshots (part_slug, captured_at desc);
 
 insert into parts (slug, category, label, search_term) values
-  ('ryzen-5-7600',      'cpu',         'AMD Ryzen 5 7600',            'AMD Ryzen 5 7600 processor'),
+  ('ryzen-5-7600',      'cpu',         'AMD Ryzen 5 7600',            'Ryzen 5 7600 AM5 CPU'),
   ('rtx-4060',          'gpu',         'NVIDIA RTX 4060 8GB',         'NVIDIA RTX 4060 8GB graphics card'),
-  ('ddr5-16gb-6000',    'ram',         'DDR5 16GB 6000MHz',           'Corsair Vengeance DDR5 16GB 6000MHz'),
-  ('b650m-ds3h',        'motherboard', 'Gigabyte B650M DS3H',         'Gigabyte B650M DS3H motherboard'),
-  ('psu-650w-gold',     'psu',         'Corsair RM650 650W Gold',     'Corsair RM650 650W 80 Plus Gold PSU'),
-  ('nzxt-h5-flow',      'case',        'NZXT H5 Flow',                'NZXT H5 Flow cabinet')
+  ('ddr5-16gb-5600',    'ram',         'Crucial DDR5 16GB',           'Crucial DDR5 16GB 5600'),
+  ('b650m',             'motherboard', 'B650M board (any brand)',     'B650M motherboard'),
+  ('psu-650w-gold',     'psu',         'Corsair RM650e 650W',         'Corsair RM650e'),
+  ('nzxt-h5-flow',      'case',        'NZXT H5 Flow',                'NZXT H5 Flow')
 on conflict (slug) do nothing;

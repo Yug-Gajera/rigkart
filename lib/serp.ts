@@ -2,6 +2,7 @@ import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { db } from "./db";
+import type { Part } from "./parts";
 
 const DEMO_MODE = process.env.DEMO_MODE !== "false";
 
@@ -26,8 +27,14 @@ export type SearchResult = {
   fetchedAt: string;
 };
 
+/**
+ * `gl=in` alone is not enough: SerpApi still searches google.com, which fills
+ * the results with import resellers (ubuy.co.in, desertcart) quoting marked-up
+ * prices. `google_domain=google.co.in` returns the retailers Indian builders
+ * actually buy from — mdcomputers.in, primeabgb, Computech.
+ */
 function paramsFor(query: string) {
-  return { engine: ENGINE, q: query, gl: "in", hl: "en", num: "20" };
+  return { engine: ENGINE, q: query, gl: "in", hl: "en", num: "20", google_domain: "google.co.in" };
 }
 
 function hashOf(params: Record<string, string>) {
@@ -39,6 +46,16 @@ function hashOf(params: Record<string, string>) {
 
 export function fixtureName(query: string) {
   return query.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
+
+/**
+ * SerpApi reports the same shop under different spellings — this build's
+ * fixtures contain both "amazon.in" and "Amazon.in". Left unmerged, the basket
+ * optimizer treats them as two shops and charges shipping twice, which is
+ * exactly the number the whole product exists to get right.
+ */
+export function canonicalSeller(raw: string) {
+  return raw.trim().toLowerCase().replace(/^www\./, "");
 }
 
 /** Rupees. Decoy listings sit far below the real market price, so use median. */
@@ -67,19 +84,19 @@ export function rejectDecoys(listings: Listing[]): Listing[] {
   return listings.filter((l) => l.price >= floor);
 }
 
-/** SerpApi `shopping_results[]` -> our shape. Drops unusable and decoy prices. */
+/** SerpApi `shopping_results[]` -> our shape. Drops unpriced rows only. */
 export function normalize(raw: any): Listing[] {
   const listings = (raw?.shopping_results ?? [])
     .map((r: any) => ({
       title: r.title ?? "",
       price: typeof r.extracted_price === "number" ? r.extracted_price : NaN,
-      seller: r.source ?? r.seller ?? "unknown",
+      seller: canonicalSeller(r.source ?? r.seller ?? "unknown"),
       link: r.product_link ?? r.link ?? "",
       thumbnail: r.thumbnail,
       delivery: r.delivery,
     }))
     .filter((l: Listing) => Number.isFinite(l.price) && l.price > 0 && l.seller !== "unknown");
-  return rejectDecoys(listings);
+  return listings;
 }
 
 async function fromFixture(query: string) {
@@ -94,12 +111,12 @@ async function fromFixture(query: string) {
  */
 export async function shoppingSearch(
   query: string,
-  { refresh = false }: { refresh?: boolean } = {},
+  { refresh = false, live = false }: { refresh?: boolean; live?: boolean } = {},
 ): Promise<SearchResult> {
   const params = paramsFor(query);
   const hash = hashOf(params);
 
-  if (DEMO_MODE) {
+  if (DEMO_MODE && !live) {
     const raw = await fromFixture(query);
     return { query, listings: normalize(raw), source: "fixture", fetchedAt: raw.__fetched_at ?? "fixture" };
   }
@@ -134,4 +151,36 @@ export async function shoppingSearch(
     );
   }
   return { query, listings: normalize(raw), source: "live", fetchedAt };
+}
+
+/**
+ * Whole systems that merely *contain* the part. The "Ryzen 5 7600" query came
+ * back with ₹79k-₹230k prebuilt gaming PCs, which are not a CPU purchase.
+ * Shared across every part, since no component search wants them.
+ */
+const PREBUILT = [
+  "prebuilt", "pre", "desktop", "pc", "laptop", "workstation", "računalo", "combo", "bundle",
+];
+
+/** Keep only listings that are plausibly the requested part itself. */
+export function relevant(listings: Listing[], part: Part): Listing[] {
+  const word = (t: string) => new RegExp(`(^|[^a-z0-9])${t}([^a-z0-9]|$)`, "i");
+  return listings.filter((l) => {
+    const title = l.title.toLowerCase();
+    if (!part.must.every((t) => title.includes(t.toLowerCase()))) return false;
+    if (PREBUILT.some((t) => word(t).test(title))) return false;
+    return !(part.not ?? []).some((t) => word(t).test(title));
+  });
+}
+
+/** `shoppingSearch` plus part-aware relevance filtering. Use this, not the raw search. */
+/**
+ * `shoppingSearch` plus filtering, in the order that matters: relevance FIRST,
+ * then the decoy floor. Reversed, the floor is computed over a result set full
+ * of wrong products — the DDR5 query medians at ₹65k, giving a ₹16k floor that
+ * would delete every correctly-priced 16GB stick. Use this, not the raw search.
+ */
+export async function searchPart(part: Part, opts: { refresh?: boolean; live?: boolean } = {}) {
+  const result = await shoppingSearch(part.searchTerm, opts);
+  return { ...result, listings: rejectDecoys(relevant(result.listings, part)) };
 }

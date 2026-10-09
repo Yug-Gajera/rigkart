@@ -29,6 +29,7 @@ for (const [k, v] of Object.entries({
   gl: "in",
   hl: "en",
   num: "20",
+  google_domain: "google.co.in",
   api_key: key,
 })) url.searchParams.set(k, v);
 

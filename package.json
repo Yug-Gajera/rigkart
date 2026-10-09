@@ -5,7 +5,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "smoke": "tsx scripts/smoke.ts"
+    "smoke": "tsx scripts/smoke.mts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",

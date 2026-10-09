@@ -41,9 +41,35 @@ export function fixtureName(query: string) {
   return query.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
 
-/** SerpApi `shopping_results[]` -> our shape. Drops entries with no usable price. */
-function normalize(raw: any): Listing[] {
-  return (raw?.shopping_results ?? [])
+/** Rupees. Decoy listings sit far below the real market price, so use median. */
+const DECOY_FLOOR_RATIO = 0.25;
+
+function median(ns: number[]) {
+  const s = [...ns].sort((a, b) => a - b);
+  const m = s.length / 2;
+  return s.length % 2 ? s[Math.floor(m)] : (s[m - 1] + s[m]) / 2;
+}
+
+/**
+ * Google Shopping mixes decoys into real results. The live RTX 4060 query came
+ * back with a "₹3" and a "₹4" listing from amazon.in — accessories or price
+ * bait, not GPUs. `extracted_price` parses them perfectly; they are simply not
+ * the product. A naive min() picks one every time, so drop anything sitting far
+ * below the median of the result set.
+ *
+ * ponytail: median floor, self-calibrating per query, no per-category table to
+ * maintain. If a legitimately cheap tier ever gets dropped, upgrade to matching
+ * title tokens against the query instead.
+ */
+export function rejectDecoys(listings: Listing[]): Listing[] {
+  if (listings.length < 4) return listings; // too few to infer a market price
+  const floor = median(listings.map((l) => l.price)) * DECOY_FLOOR_RATIO;
+  return listings.filter((l) => l.price >= floor);
+}
+
+/** SerpApi `shopping_results[]` -> our shape. Drops unusable and decoy prices. */
+export function normalize(raw: any): Listing[] {
+  const listings = (raw?.shopping_results ?? [])
     .map((r: any) => ({
       title: r.title ?? "",
       price: typeof r.extracted_price === "number" ? r.extracted_price : NaN,
@@ -53,6 +79,7 @@ function normalize(raw: any): Listing[] {
       delivery: r.delivery,
     }))
     .filter((l: Listing) => Number.isFinite(l.price) && l.price > 0 && l.seller !== "unknown");
+  return rejectDecoys(listings);
 }
 
 async function fromFixture(query: string) {

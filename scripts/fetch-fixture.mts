@@ -1,7 +1,7 @@
 /**
  * Spend exactly one SerpApi credit and save the raw response as a fixture.
  *
- *   SERPAPI_KEY=... npx tsx scripts/fetch-fixture.ts "NVIDIA RTX 4060 8GB graphics card"
+ *   SERPAPI_KEY=... npx tsx scripts/fetch-fixture.mts "NVIDIA RTX 4060 8GB graphics card"
  *
  * Refuses to overwrite an existing fixture, so a stray re-run can't quietly
  * burn a credit off the 250/month budget.
@@ -11,7 +11,7 @@ import path from "node:path";
 import { fixtureName } from "../lib/serp";
 
 const query = process.argv[2];
-if (!query) throw new Error('usage: tsx scripts/fetch-fixture.ts "<search term>"');
+if (!query) throw new Error('usage: tsx scripts/fetch-fixture.mts "<search term>"');
 
 const key = process.env.SERPAPI_KEY;
 if (!key) throw new Error("SERPAPI_KEY unset");

@@ -134,6 +134,12 @@ Each of these came out of real responses, not speculation:
    shown* (₹4,625 against the ₹4,879 on screen). Category parts now match
    any-of `cabinet / case / tower`, and the cheapest case is an Ant Esports at
    ₹3,449. Ant Esports, Zebronics, Chiptronex and Gamdias all reach the results.
+   The PSU is a category part for the same reason — pinned to a Corsair SKU it
+   cost ₹8,699, and as a wattage band it is a Circle 500W at ₹1,829, with Ant
+   Esports and Zebronics in between. **The band is deliberate**: no single
+   wattage has enough Indian supply to compare (a 650W query returns one
+   genuine 650W unit), so the part is a 500-650W class, every member of which
+   powers this build. That is looser than like-for-like and the label says so.
 8. **Derived tokens get one retry.** Typing `Ant Esports VS650L 650W SMPS`
    yields `vs650l` + `650w`, but the real listing reads "VS650L 650 Watt" and
    matches neither pair. Rather than guess harder, a search that matches nothing
@@ -150,7 +156,7 @@ The free tier is 250 searches/month, so spending is deliberate:
 - **`scripts/fetch-fixture.mts`** refuses to overwrite an existing fixture, so a
   stray re-run cannot quietly burn credits.
 
-Total spend building this: 44 searches — 23 on the shopping queries and their
+Total spend building this: 48 searches — 23 on the shopping queries and their
 dead ends, 6 on the first price snapshot, 1 live UI test, 7 on product lookups,
 and a handful retargeting parts Google Shopping India does not stock.
 

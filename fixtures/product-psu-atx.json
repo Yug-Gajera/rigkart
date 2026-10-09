@@ -1,0 +1,540 @@
+{
+  "search_metadata": {
+    "id": "6ac93f5597c19ff6cad4f4cc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Wq5B-wyAOPFHRlpTgpLZxMke_ufNL6N7k9SPzXk7h1k/6ac93f5597c19ff6cad4f4cc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Wq5B-wyAOPFHRlpTgpLZxMke_ufNL6N7k9SPzXk7h1k/6ac93f5597c19ff6cad4f4cc.md",
+    "created_at": "2026-10-09 19:24:05 UTC",
+    "processed_at": "2026-10-09 19:24:05 UTC",
+    "google_product_url": "https://www.google.com/search?ibp=oshop&q=search&prds=catalogid%3A16782792693314635432%2Cproductid%3A10873125596229775691%2CheadlineOfferDocid%3A8754615107362329870%2CimageDocid%3A1290674716347381340%2Cgpcid%3A12557303270101465588%2Cmid%3A576462873776836114%2Cpvt%3Ahg&hl=en&gl=in&udm=28",
+    "raw_html_file": "https://serpapi.com/searches/Wq5B-wyAOPFHRlpTgpLZxMke_ufNL6N7k9SPzXk7h1k/6ac93f5597c19ff6cad4f4cc.html",
+    "total_time_taken": 1.72
+  },
+  "search_parameters": {
+    "engine": "google_product",
+    "page_token": "rFiQ-nicLVTLrqtWFuyof6A_4cyvLG3e4CMPAPOyAWMeG8zEwuxtwDyNDTaM8yGtc5NIyTCJlFFL_RvJIN8SHyWztVSTqrWq6s9__ecDF7-Z6-MmuUW9PlLFw6adSzvm9L79setbNKT3Av1KAJ6jCJJhBJYkBY5jWIH4MU3uSdVmnzDL8SQnkKxAUQTNUgxNkT_nOEFV0eDd-Yz7dZsW6BeeY2iWYAjAUSxJkQLPgZ-KOsnw3zBBCoDlaI5gKZqjeIKiwdce3f77_XXA_fQ_FoDwi2c53pcsqYsm-9K1D9x_uQ1dV03fZ136yeTFkaMARXKAAC8qDMPzX-sC_cxwLM2SLxUcx_IUSxD01268f-TZd8NQ4f9_ZNVH0Xzk1QdufmiTbjynf3zzVelTWR5TaR90HVy7wJcJeRdJWhjCp02qcVwSobXOjYiIa9vPplhTzbiONz4BA6tkFH9tH-IQXq1ZoRHcFAkFt-giUvu5MvyLO9h1THpES8Foo1gUCmHpNmaoRuhiM2l431gANXYFb_iCzjFwGTNAeujbnncpH7Fq21ZTMtGMtnsqTzzK7sOSppGaJycyZj0Y92lJM4lePjzt7pn-hnYngoJQPaRr9HTJqg3Ke46rXApD-2GFzANrUDFhvI81nrFC9eZFKuvClgxC13TXUpiUdrWPNvfTOjf3lSR5KqTiYGPCKvZwU5Jp5TYHKptjmBFeUB3cCNl-eQBWIDBB7eaha0S-4p69Wp1DfWO8dHYI0CDQuhHVGQhCPjFKVUkpg4mrjeprNm1XXe-SKb1TlYcJ0fWkdUFcvvgoxiOGynfPW3_-HYgqc_d23IHazqK8uOw0CJ9oUjlUXs5TWOu8uCQ4gXh5gwc0xws_pG1bFviPf3_r2cZ6JW52BBmpE1wTTXZAHOiiSRtPz9MTV3H1iIKDXNw90sIT4BbJHF73skZWpLOPBVCMmuwftCM22ikkL3Dt38QOzbDKaDujW1-59aOCjPc3byd7K1n8nBTRlfWjJ1qKZ_jKSs72xpFVpPc3UZFXYpIIyqYfLIhZiY8t6xBQ58d-oxOQmE_ZNG1ISXO7WTOsSJgPIfXknTN5q6Wz9f6m7XaaqRxFKfCUoxIpluMbO3v10kgnAsOdEoAxQjwtMEvfWv1zk89NXvVLw1mRLKCWHADEEgtnsOQSDJZnzKIlYhl2yVIgXTKY4RZLbwUcTA-ily3O6WXY6qRpGurTeLy_HY8eToceLzzfdVaiZOcieykKVoQAD-TLBxfB3ZyYQ67SozPeTT0tLt5RGYQzeoZFq-zi2UZcpdHYfQzurCSRl6dCuvcQR6xjijE2jjnOQo-v2VAtmuz9bQ1X-8VOaQpVriOAH-syMkoHyzhJ9WuQK3n7_vb5Z_lKy7KoeLSoSLuntvZ2fcRpVYPqOsf6raxw9IS76WbX9US0Q_7K5g05tVZs53wnRbEynSbbpJWZbzLLvIVQvuSmbighcxkNMiEX5A7OyALkkwjJJjmOWhJzRTjdKKaz96cxXG_l22GPt0NRYUsXE5kyIXxE8VW5k081TphFbZf6HUg6vMxcvAYiupwKp3U6WN_AM58Ge0fL52szr8OC5ruZcwqJoOM0InTX0zvUVKwq3vzM4quUUFVy_7CE_Sz720VMJaeUzu5s-2oBY8THA3cuWoEJnYUk681zMRjGsePO1LYbKL3i40kYr_peOBaZZJWBBK4PfRZw4KrtRCX6Rnil3J8J1bkvCCFP3V5obrrIB8qrdrtMyxxpFE4thjwJ9W02dveW0Vr1HGUR_RTzJHDUThlNxztl_F8A_iYH",
+    "gl": "in",
+    "hl": "en"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVaOqbN6VXtwceUbR00PzdQjH1JjgJR0chWNFypgXWUzGmwZGB8TIFxACcQ_hnGl_qdHEPsySxKKWypu5DLHIob30jXpEiG2crlUOEGxUzMwm1q8WOSQgCrA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSb4NYhnSW5geaCv9pED988Kr1MjgjGUx3Wzq2cEPz2KoYHMiC2GXSKP3KrIbz0VECwHl2Ejk_42HqA60OqrYdOZQEE5gCBWgDtz4lzi9CWDmxLPrTftY_V"
+    ],
+    "title": "Circle CG RAW Power 500 WATTS Gaming Power Supply/PSU Non-Modular",
+    "brand": "Circle",
+    "price_range": "₹1,899-₹1,925",
+    "stores": [
+      {
+        "position": 1,
+        "name": "Amazon.in",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.amazon.in/Circle-CG-Power-500-Supply/dp/B0D2J52SPN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX",
+        "title": "Circle CG RAW Power 500 WATTS Gaming Power Supply/PSU - Non-Modular | 80 Plus White Certified | 120mm Fan | with Active PFC, Flat Black Cables | 500",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery"
+        ],
+        "price": "₹1,829",
+        "extracted_price": 1829,
+        "shipping": "Free",
+        "total": "₹1,829",
+        "extracted_total": 1829
+      }
+    ],
+    "about_the_product": {
+      "features": [
+        {
+          "title": "80 PLUS Rating",
+          "value": "80 PLUS"
+        },
+        {
+          "title": "Brand",
+          "value": "Circle"
+        },
+        {
+          "title": "Power Output",
+          "value": "500 watts"
+        }
+      ]
+    },
+    "more_options": [
+      {
+        "position": 1,
+        "title": "Ant Value ECO500 Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRE_WXSj97EM5SQuPcPpoiaDiddyQHCf46K-XPvIQrbwUHYUSp76g2qgjW9uo4pOWRtxPBtOXgMmagqJao_iAV6noCGaYCXDWFytNJy67Whyrw-SIAMhGD9",
+        "price": "₹879",
+        "extracted_price": 879,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PT3PSHicJVTLzrNGEp1oXmBe4s_mkyO6m2t2GBobm_vdbCzcYMBcDdjYfpro-yeRkmUSaVYjzWtMFvMsgxO11CWdU5dTJVX972__-MzKf2nycZeM0bC9o3I2aOvS3Qva7n7uhy69kalMfwcUzyEAGUZgIRQ4jmEF8DNJpqTu8jL9TRAAL1AspCgKIAZyNMP-WmRJWpdtZp7P2SB3ZHHjBX5xQkhYomkaCAihX8omybO_aBoJHE0BjmeWOoADPMP-eL1lw_PfLEWFH65uuR950pRt_tF3czZ8jLe-r58_5v07GkDIcIBjEVgeQ3MC5L42Zforw7E0C3kIERTg0oZAf-3v02eRf-b1Z9l-FvVn1v7UJf39TP745iseiCTdydr2-z6QHcrDfexBfz6Fzv6E9MlUDHTaxHRQ91S4Le4pVZd-FcMTiF0TM8lpq9D25TAlYaEGjYIJVlAWKFqmqPPBK-owBG626VWnLiwzMkbnJdJEApOHg3MapFrsFVsDgqeO0sT1C-ngO9OpOTwzrOh2sJ7jduedFIUlSsC4UbGLUHp3If0ygrXqBPXZrh4aadPGlIuNuRE6L4wtPwwmQw4kQjlIb_iXA40raQ6TuQGRC_lXfDFmu7GZrDFa04tRINdt5jueX6VMGK2fpoIZgorG8QEIcf10KgN7EpAJSsPwsnZj3JcGnMwEOY4HBInAWA6V3nJwBT1HjYKmP7uNAk9-oRpKoRE5p3y5mF04Pu1IT9RqmRNSmbg2gEOBjqBeX7TQYbtrjOahB1DQ9KYfDahPto__-RiH838pUWEm1-Tsg4CO9gHvPIhwKbTakaGqk3Sx1vP3gBMAwyGe5iiB_Yl0XVVmf_z9W9eU3C9IlkT1C1p_uFh0pO3RFXXsqh5-E7mtHlm8frMilhZETBIB7wZtMm-xWWcBuHsa0ZXTXo4M1etusU2E56NqU9eNazLJ90h6uT2YY_GdY2OaGw0fxbXv4iOOsG55qmksaVV5-TJ05iFHJQLFpwDw6AsSPX3B_xIPl61YkLeIYbGq9WYY6jtIg-8gohfLrxb8z34iDeUyK_pA2gv33RMwDzOa-LcCOVh4n7HD6sr556GLZrmK1MrKpOxAVnuS46J7-x2PbkZuQ7ZyPeddSVwbhcheNFo7AjlX6YIZaukxKjvZUOrYiQaHiFqxqgfzHMjVNusaRZjay6vyRIXrRC9mt4ORY8xVwayiztK2G-T1bmiIzmrf308ShTfvusafk5Cuy-6J2IU2XpuPjexaYRuv2yrQM9PKiavHJat2SApKR89v4_Xar0cIGz4NL7Dx5imVU6WoAD1qF-_hE6owVqfXwczx9a72I1KrlyQ1_SZrtkQ6kGQOZu9QptKJZy0j3SrMcXvX77swFumgK25A5pmJxAoistpoG0fqylEy1wfzJEND4c57qh4ja173a2dufWanOE98qIzDA2x675EdHr41SFa9qYZr7jpW7IKRb7TzfcVW9cC4cSvVGbbqQDnUlpGIE-Txahgs1rSIgVSoiNdX7k6sQUmNVDfPUqP4Q1O8qKuD1726F_HTsbfuIJ6tTDSUjYf5B2pXsj5ykb-noqmWylQhWnsmcX2CyvAc7WdvlzdhuTfcSRwLL67Q_dEn0fMyn867ByUKQbt3dsQg11bKvw7p-MNyK8__-T-88f8y",
+        "link": "https://www.google.com/search?prds=catalogid:9918906200013527456,gpcid:1225717631313547927,headlineOfferDocid:8980623396914419333,imageDocid:4397401785559171856,mid:576462822329208794,productid:4686947368816038265,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "Amazon.in"
+      },
+      {
+        "position": 2,
+        "title": "Ant Esports VS400L",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGWUy8eiII70HjyfeQEE8dwTcqWlsPhhNDtsgftKpwfgfr5EqkdJDVAvR_Y630JSmu44m6JjFwu74VqY66OekUnCSDjZuW_2pn6Wn1ma4_6IIlsL6mcPGU",
+        "price": "₹1,009",
+        "extracted_price": 1009,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EV08qXicLZRJzuvGFYUTZAPexMvkhwwWe2bGpiiREvtWnAhUsRWLjUhKlLQa43-2AWfoBPDIQLYRD7KWUC-Z1AXOufWdWwVU_edP333m9W8H5aSnUzzu7lS9mLR96e8V7fS_DGOf3dBcZ_8EBM9RgGQYgSVJgeMYVgC_oHROcV_W2T8YhhAYwFIEzfIkB9YW-tcqTzNcd7lVFPmo9OhNodc-AlAcucIIADiGY_9et2mZ_98naIKheJ6iCJYFLEOTLPnT9ZaPz99Zgog-PMP2Psq0rbvyY-iXfPyYbsOAnz-Vw7ftgKY4gaZXLMcIgKQJkv7a1tmvawzNkmuqILCAZzmS_Trc58-q_CzxZ919Vvgz737u0-FeoD_-_BWOSJbvSHKCYQgVl_DVAbhxcsl3rpoBl0aB3nrbaowUKUkCfW_6eJcFIDoHDOkAXFi7njqGwjOPhj4k-sUKExy0AjYa1TdASVoQgQyEsxXp8HxRG0vBjYHDLYKqbAXT02tcOQsWkCr6ZISDlHXN7EegQr7OJmoynBs9yHyHSl_Jzr00jHPBPnpVsaesVCBpKOoZhNV96rtJSs6-3z6KLJrAeUvMPlR91OK9tx2ORlfhMBLUoNONCCLCex3nlELgCELGeeGH0SHGaFXKbao669wqDDLX36GH1wyyGwkrdy6SxsTRdqZcmDyR7978OPTyOBscSr16GC7eK9TThxaH7VB4rUqeg0oz1eqAlJIIlGrxyOnpxEaqNSpElMYkWO99Qk3C1pyiQI2CYO6NUNBN1WD8l4QzBS4GiX58TGPxb0JUmdmzOOcoUCfnCHWfpGAtdIcTQzRn-WJLy98AJwCGo3iaIwT2Z9T3TZ3_8Ze_epbsfaEUWdS-UNKHB0VX3p080YCe5sO3UTraiYXS2xWhvCpimgpQHw-zdUssnIfg7h-QoZ73Smxqfn9LHCQ8H02XeV6C0azcY_nlDWBJxDdja1nbAzyJUuDBE4yhYfuaZa5YTVmXnCrWd0OkAsFnAPDUF0r0jVX_3_AkTQmr8h5iXKtmvx2G-J6kwfckRa-V36z6t_PEB6pUWDEA8l6460_APKx45t8TKOHqB4wTNVcuKMY-XpQm1ho7l_Mj2uxRCav-3Xc6eTm6jfnG8913kiiZlcheDvThBJRSoytmxPJjUnXFVHHixqOLxEO1waNVhEqzy_tWFebu8mp8UeV60U_Y3WiWEHJNuGhUbx92W8ofvMgU3c1-uJ9lAm7fuea3m5Cv69sToUc6ULIeW8Wzoy6RuiY0cssukWckNav1lBzWrlHeput1kCaSbPksupCtv8yZkqlVA-jpcPEfASIqc3N-Ha0SXu_aMFFa85Lldtjm7Q7JR5Qu4eIf60w-86xtZjuVOe3uxl2PEpEO--oGFJ6ZUaJSSNHaw9aV-3qSLelonRXSVLliT-ApthdpkNylCxhddZ_w2JjHB9gO_iM_PgJ7lG28bcZr6bl24oGJbw_FfcM2eGS8pJNxDm0cqkdsm6k4kzzcjKPNWjYyKY1Uxeur9GbWJORWxu2zPhD8sa1exNWF0qDtRfh0nZ03ioWdi6a69SH_oLqNYkxcHOyJeMZynano0BUowWdSHZ-T8xyc-ibQSObO4lT5SUPdH0MaPy_LudAfhCiE3d7VkYmunVx-HbPph_WvLP71X_yXA4A",
+        "link": "https://www.google.com/search?prds=catalogid:5509516304682712294,gpcid:11437944757759124024,headlineOfferDocid:14509013727310117576,imageDocid:10405388330661654262,mid:576462727996186726,productid:1666728215141226896,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "Amazon.in"
+      },
+      {
+        "position": 3,
+        "title": "MSI MAG A500N-H 500 Watt SMPS",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTsxNnGtxJBVOQI3HGu7_MOtSJrrFhMJqwZp6-RfZRll94leJapgmUJe0xafgPi3Zb90RZXi8zvOtkG3tZWUPdwa-X32MS53oORKRcOXJkKIP_ft78f0mjp",
+        "price": "₹3,230",
+        "extracted_price": 3230,
+        "reviews": 1,
+        "rating": 5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5OHEVnicbZTJruvGEYaD5AWyyCvcbA5kdLM5ZkdxljjP4kbgJJLiKJISJcJPc25swFk6AbIKkNewF3mWUL5bb7qA-rr--ruBqv_94c-fefVvlT8f4ikc5QeqFh03r_2jxK3-p2Hss3s6V9m_IKApBDGCYEgMYyiKIBn4UxrPcdMXb0wiioYbxylEkxABiNDPZR5nTdXlxuWSj3yfVtk_aYZhACQBjuEYYiCD4-gfVRsX-TdMEACDFEkjAuFbRxyj4Q-3ez6-_kMCEHw4mul8FHFbdcXH0C_5-DHdh6F5_VAM36ohwikCEVst2AQgTn9tq-xngiJxcrPG0BQgII0o-HV4zJ9l8Vk0n1X3WTafefdjHw-PS_rrH_8i9AvPTQtnecPg8zZwsEjVoB2mgTdHYIEOJiqBnI2Wl90zX1utNVJyv3mdANS9OtvrvFh7V1GPmvJkw72pekMVuf6adQcyg3aZCYyRomwfBbqUSIxquOVF9bMl8SNSl_3Gl6JZq20989LVhweUXP3BlZWnJg2xLw0gCvUy68RQDRglqXGUYqVtB80auaKh18uay9qaQnbORAZzAlu0u7Lx_AhpbRRlNSG7nv7I6mfjNn7t1FHsgdnXXrCMmmx1OhsFYb2m4aCf2sNgd-yqt8xdu4rHEyi9cGUxTaBXQ-5fiVfGDjzggdcMrrBptPARdFmgC03pdo2ayJmRwPKqtdnFumZ3V5qviXxYsq48JoBeQmQBRypWzd1DzxdND5RdXNuOH9iqLW2Cnl_FrT_agBnj1npaYRNovC74gGhccMKSrnSj1ndOWD3r3rQGvgA14XD3pNQRYXQLwVBmLVQc3j45iMV1kcVTYR61Wlyl6rC3Zf1lBJGjB_6UBN4SBeIUtUPv1iJhg3n16-GhdaKtg3n_9-c0Xn4BrEjMjkGCAA-DglTlZJkC6ph5Ce1i1voiWutvkGIgsQ0BTgGG-jHt-7rKf_3TXx2Dc74gnmOVL2j_4Qiszclnh9UER3GFNygs5UwK-zdlBW7LsHHMCIdRnY17ZDS5Dx-ummpicuRDXXH7e2SlzOtZd5njRE0684-QW50BLhH71pAMQ1KFM7v3HOEshIJmuoqhb7IKvx05utAYBWIG0BncJuILYl1ty38zj-GI2TJvE-MWFfNNCPAdhsPvMIRvkd5t-d_eE6qo4EnWg9yReRxekHga4Uy_HfD-xj3CCuob5V3GPlz4OlRqM-fyU7o7poVQ9u9757OTp_cx3zmu_e7E7vWSJa8qrp4hXyh4SYwN95zEA6-LTWSHo52yarlrRuPi87Wc963IzN11rV1WpHrWjUh51AtBoGp_UVBvqrKE3MEJdNbeHYdHwgFBevfVf_sJ7pZyHCs4mCXsjafEO2bQRfuu9rXcMIvU0aKKVHrE-ZWtFffpdhv2E4a1dBZcsdZd5ozPxLKG-KRe3aeXglLfJevJKITbQxkmpNQrx7WDlLdyyp3SePEX91RlXEKTpp7JInGWH9rjEEQs7vflHfI0MaeRiFJeaVXJ5vpq4oz9yUh4TBepyxE0U2gu-2FvL51HHET7JZxq_fSE0uA-89PTM0fObKR6vBWObUYOnOhWvTx2ZN2MhBN1XJMLZuOLp8bUY3bGaGE3jiZpmKmOFExkb2vhzKQOuJZr2lelAvrUliu42cJ-UI6s8LIt2RnZi5mzuii5Av1E3Y7XJir0jiCcG67KxFTtLmnUJJg4vibrNVjVncFTjkrYaRvYGj2eQxy-rktyOTwBy_jd0T6kenrruOLrmE2_YCZ3_p1V_r1pG_z599m2zy___T_kAzYj",
+        "link": "https://www.google.com/search?prds=catalogid:16378112547386130133,gpcid:5513475354100341148,headlineOfferDocid:8999016042423919443,imageDocid:5502176835341084281,mid:576462549870518371,productid:12056549757150870011,pvo:2,pvt:hg,rds:PC_5513475354100341148%7CPROD_PC_5513475354100341148&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "mdcomputers.in"
+      },
+      {
+        "position": 4,
+        "title": "Gigabyte P650G 650 Watt 80 Plus Gold",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrYHGry8FaPGXSicT_5vJhwOpb4VI_eSHofPnyTa1ycM6K-Wo3MjkcylTh1jgYwDujxRPIZovxAK5sKJNpIooPBLptVIL2H8AhJBms5fmUHU6XYKWsGfT9",
+        "price": "₹4,494",
+        "extracted_price": 4494,
+        "reviews": 244,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=C_7H9HicbVTLzqvIGYySF8gir3Cy-eVRQ3PNjrvBpsHNnY2FAQPmasAXrHma_2RGmixnImUVKa8xs8izBJ8sk0X3J1V1V1V3q79__-6Pn3n1j718NJIpHLd3WD0QZV_6e0kd-p-Gsc9u6VxlfycAx0KCpGmeIUmeZWmGJ35Kkzlp-qLKfoE0xTE8S3EcxbEUBRmO-bnMk6yputw6n_NR7tO3Cgc4CElIsASgKI7gIQH-VrVJkX_jf6EoYtVhSZZfPQCELMf_cL3l4_JPBoDgwzFt56NI2qorPob-kY8f020YmuWHYlh3_8xQBAe5NRrkOEjTHEN8bVeYZhmKITmeA6s4AXmK_zrc58-y-Cyaz6r7LJvPvPuxT4b7Of3t939S-ocsTQ_p4A2DL2PgdOXTbETi5OEkbTPjVE9L4KMh6XzGrQjDckU5huotqeND4qLJrZ--peFzrsWV0yKUKfQlcrHmBgcygmUfXDIlaIabecG-4_UvrPGao60-0N9Gl0b1vHpBsIcxyBKsPbcYDI3nG9f4hcM4GIZUO5CxZjwQ4O2gpkmXGELv5d98BYGkMzpLKRaHMC6uQ3heWzJpAOjEVx5IoV8xUJ0oHPxEiUDsqXEUog53vpxvjacblJpX49FRzQVdjMSSy32mqfdYmyX_Ek-HoAFIPrxOXXPDsg6C0G_SQAcIlgtSayIBhm6F4oDk-IpUtXF99Aq2TXeSy5vjNt6J5HEmGzu3w-Q6RrQ1zCyIlqjOGtTSYtQSo7_1B9yVL6-N4Ckwyb2fmYFXxrlGqycCUYeaZxKPv_pyJpkubpM2BuutkVjGMK7rZX2Tyyk8OCoRX0MwlFlL6I6MIwcKFFIFKlXm0azVl1YZIt6ixQpiHFyM-NDOgX8RdexHpE_G97gdehMaoufNdaA0-K_PaTz_CgSVnh2LbZaTP0-KQPXCY5-Og0FdBFafs74R_kKwPEGzkKNYwHM_pn1fV_lvf_izY0nOFyhLgv4Fih-OImBpe3QEU3F0V3kTxUE_Mor4ZgVFWhEhSXjFGPezdYutJveJu7tPTfW0k0Oku_0tPqT88qy7zHHiJp3leyi9nIF4xMJbQ7Msba8cBdFzlKMSKqbt6hZaZXV5nXJ45kgWJDzgMmL9M1-g4Jor_t_wJAX5FXmHGNeq22-GBt-RFPEdCam1cpsV_3aecA8LmRE8Qtrxd2Mh6KcVztw7geyvvEcfgvrKeuexDx9yHeq1nUt5lG52aaGU_Xvd8ejk6W3MN46L306CiEqBueyp_ZGQC50q6bGRnpNqyEhtYhyOOBX25aYZrbMv19u8b1V-7i6v2hVUthfcmNmOqFAUtvYfOuzt_VaD7uAESMCb3XA_SUDR3r7o201I11SSBMUhD4poPTXZsYMuFrvaN3PLLlLHjCtG76HkV9gsbtP1OogTSbZcFlzI1n3MmZypZU1Q0_7iPr0UlGhzekVWoVzv-jBBvX5JUjtoebtNpShNHv7DjapMOnGMjbKtSh-3d_NuBLFA-X15I2SOntNYhamst3sNS301SZYYWSeZRCp73oFmCu2HOIj40Xm0oeJFiWoUPQltcJ959PTsUbIbrR6vhYPt2CEmrt2f7xumbkbaiTupyRW78dWosVEizCSnbMbRZiw7RVAnVeH6KpyZQUBqpaZdqj3gorZ8gStWxEHfCcqCD1tnFM52LiBVcxXuCbuNbE5s6O1AODdSlanpvjuncXMi1XGZDstwqG48lUrsSZhKN67h_Tkk4XJ5nM7GEwi83-2wkaL02knF1zGbfgW2dPzfTv69jS35-H-ptZuf__UfJEI0hQ",
+        "link": "https://www.google.com/search?prds=catalogid:3548697488487443686,gpcid:641838756388355861,headlineOfferDocid:18083323171044819310,imageDocid:4414867279297033789,mid:576462898014813949,productid:14020895557287020621,pvo:2,pvt:hg,rds:PC_641838756388355861%7CPROD_PC_641838756388355861&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "Computech Store"
+      },
+      {
+        "position": 5,
+        "title": "Ant Esports VS550L 550 Watt Non-Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0PZHEnqoOnJzCvPmjXUkfXjz9XPLYq3StAGqda9diFJuApLEVo0Ga-26qlet8dYXaLAeofOfjp-1BXhnX8r1sxKVlopQFIUnen2mXIVD_084LZRE2vpO1",
+        "price": "₹2,269",
+        "extracted_price": 2269,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SP23kHicLZTLrqvGEoYT5QXOS-xMlhzRzT0zDI3By1wbMGZi4QYDprkYsI39NNHaSaScYRQpo0jnNU4GeZbYO5l0Sf9XXX9VS9V_ffWfj7z6faPt1-kYD8aVrW425566a8l53S_90GUXMlXZb4CRRBZAnpcFCGVR5AUZ_ELSKaVd8cIcw3OCACQBPhNYHkoC_2uZpxmt2tw5HvNB68grj4c8K0GO5wXIAU4QeZH7b9WkRf4vfxKZ4yAnPT1YURYAC386X_Lh_ofAMNs3bLn4rUibqi3e-u6WD2_jpe_p_aei_3IdipIscTwHRJYR5Wd9EX5uquxXXhQ4AUqswPIMBJwI2c_9dfooi4-CflTtR0k_8vbnLu2vR_Ln15_RQFT1SpZe2PeR5jMY2G7AJjo2EpQ0HZOdlDtZjRA_ipnE-jqEM5cYS8eDfYiNKEwM6-6j7IZp1obAtvOGuhEjG8Ejai0IesuwT9vWrxOkUwz9cxAn0QFYTEoR8GsL5lvd2tHewm04pxgMlpaAyOiXHkwQ1myEV3SVwBE4EeL9Juk8kJUZWzNJrIc2lOd0O6NtGPlhDZxDEE1-CKAVLFv88KbosVxbq7UXtOvmUI98hqI0gmvPj-TwoJkMMUot2k5sbug0gzRwDModUMaGDK0yLeIPj8i2kV9hsIaHyF9hvbQSqodO3D8wWt92DQeCNkky2IGtoTt5tE5834yjpj_iRoeHsDRtvdwQrWBCrbxhON692ErNWkeENfmE2ppHk94PyorUsp1rkUf0zLGpP_lt5qQPmwsM8uM8Dsf_M4rOT9gR6f0QTSNSuE65bcjQr7mTIppT1lHleyDKgBdZiRMZWfqZdF1d5X9-8y12VPyJ1VTF_MQu3zBSfNXYY8VC2AzQCxSeuRfQ8kUVpD4VJU1ltB42k3NJHJpH4BpsiKUf3rXYNoPuknhEvs91m2GcUDJp11h94B7cEuVVY-U4qw3aK8sQoz2KkeUGpmM_y5ra88jZowRFJpUZKQNAYj-xSmA99X-ahxwrP5VXE8Mzmu6L8Mx3zx36DrLcM0qLp_5lnnjDFpqghEB9l6_rO-BnJ56kVwda9OQh723rsxgehy6-aXVs1m6u5juyeCcFKrtX3n6Pc3IZ8gUO_JeTsrRLRThtuM0eaIXJlfxA1XnU15qt08SPB58om3JBB-cYabWRd40uT-3pUQeKLnZKkAjGYBcIiXV0M9nO3RgrNujx1lb8xXt_PagMWr187S8voZ6fu6cgDD20dOaVht1tmyzbOrJyxy0ItpJKMDtWjSrfKi7j-dwvRwgbKdueYBPcpkzL9LIG3Lg5BXNImNJeHB47p0Dnq9mPrFk_VLXpV3ljEHVH0lt0C3ZVph4kwbUzQ-f3xtW6rreJwkVdeQGaxE8k0Vmimc1m5atdNarOcuccNGjr4vGdoWPs3pb90r-1Ib_W_Tva1fZuBqs-mPPdHLqD6tJVPZwL7LsJBqPUbI7XhVDTgcdJq9IcuTTSd9S1U2WCEloMgys4LrFZE-rK-VHgSbAZtVFpc682jLRrygdz9tGyN98VdPc9Aw_K0c0VW18FSJrZdqFZoxiH70w8UbXKdLJpjyShB6gP99G79151kTmiigdlLIOkZq9zn8b30-1wXM-MIkftu78mNjm3avF5yMYfnn_l8X9_Azv5AUs",
+        "link": "https://www.google.com/search?prds=catalogid:14054661862962352865,gpcid:12789845417307946772,headlineOfferDocid:15253824556241467574,imageDocid:14559442489773796132,mid:576462836350214723,productid:3263140896379217017,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "Amazon.in"
+      },
+      {
+        "position": 6,
+        "title": "Ant Esports VS600L Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4eLqdqMU8zPSxtMJAVOIi2zLA9xzHksSoGjUwuf4XUIHTrpdwUreg0gLXlqJraBIZlVl-z5eIjzoeiZXzAEBIYg2P2z6Nb9x96dH34f51THrU-8RZF-XRWA",
+        "price": "₹2,240",
+        "extracted_price": 2240,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sS6zuXicLVTJruvGEU2QH8hPvGwuZLDZHL2jOImUODZJkdwIVHMUR5EURelrgvtiA87SMOCVgfxGvMi3RHr2pgs4p_rU6UJV_-8vf__Mql8P0klPpnDcLbC6m5R96ZeScvqfhrFPb3iu0l8AwbEQkDTNMyTJsyzN8OAnnMxJ0xdvGjIkCxiaZAjAEhTJ8hT9c5klaVN1mZXn2Sj1-FseQfIkTdAUxcKXDEnx9L-rNimyP3mKZkmGoSiaoWmOpTkKwB-ut2x8_MYQxPEDGTb6KJK26oqPob9n48d0G4bm8UMxfLsOIAcBARiKYziKYTmGYr-2VfozzTIUQ1KQ5xiShxzD0F-HZf4si8-i-ay6z7L5zLof-2RYcvz7X7_KIxbFBW8dfxgCySVQFz3OgPd8ryB8MlgdDz9iwoRBXSIDGMBtTMdr3evB54lYTZX4EiypUpq-mlpHyb1mR5pwYXrLjjKZksWa-bxq-EptXHQUEeUcEM0VqWluqDTwgGulqu76MKXSrolTBPLwGcdp7RJGqI-pr08BDFYMCjoAJX1sy9WUBxX72jP14sAJh8j3gz67uHrUgvVc4zlWGsXfuYq3C_zIp69uo6_nXUqiroEYxMtZMSdXjh3_uX24UoOc0L2bz3hrKfEeA530gHI8B0p-lHTD92IxqmXoEtOKQE96u0ENlPThN2WS-pgwZEBa6p06A9NInsoRyY3vuFoYtEOOWoU8-6VmKuUBS69eSuUdkdPDCY1EqxUZQ42OX1aP7QydS2N6knbPWnNIgiF0dyXAXeAhcr2iWv7XOo35fwlBoWdksZaJ3eTSX6pQX6qTP_PwEp19AlVV8T1geUCzkKNYgud_xH1fV9nvf_sHskT0BUqioH2B2w8kC664OyHBkJHmyW-icLQTI2_frCCLL0RIEl7Wx8Ns3WKryQKweAdsKOe9FJqa199iB_OPte5ShOIGz9ISik80gHssvDVUy1IP8knY-kg-yaFs2J5mmS9ZTXodGcw5kiUSnuBSADj4BQqe8cL_MP-e3BfyNjG-oma_GZr4jqTAdySkXpHbvPBv7wkPsJAYwQfinl_0B6BXK5y5twMpePE-7RzrK-vnYx_epTrUajsTswhv9riQy_6ddzqhDN_GbIM8911J2JqlwFwO1OEEpEKjSnpsxHVSdMlUmtgNRxcLh3LTjFYeSPUu61uFn7vLs_YEhe0FL2Z2o1nIMlsHdw329mGnQm9AR1NwN_thOYuErL7rmt86IV5fuyfIiHTkrbWqErKPXbzt6sDILLvAyIgrRuuhGFSuUdym63XYTiTZcunxQrbefU6l1-bVgJoOF299zWNpbs7PyCrk66INE9Tqpyi2g5q1OyxGOLkHdy-qUvHMMbaZ7hT6tFuMRT_GAhX05Q1IHD3jWIFY0tqD6op9NYnWNrLOEmkqbL4nmim079th6947n9YV9yFHtRmtQB28NYtW3x5Fu1Hr8Vog144RmLj2kC8bpm5GGsWd2GSy3QRK1NhmIswkJ2_G0WYsG5tQIxXh-izQzJiE2IpN-6gOBBe15ZO4uvJ20PaC_HCdHRqF3M4EU1E9mVtht5GMiQ39PRHOjVilCj50OY6bM6mMj8l5DE514ykssmdhKr24hss6JOHjcj_n-koIfNDtXR2b-NqJxdcxnf75-ivz__wfscsDFQ",
+        "link": "https://www.google.com/search?prds=catalogid:13627165260170427945,gpcid:11383101648684678647,headlineOfferDocid:13029250544739772495,imageDocid:14572664456558758413,mid:576462439862938665,productid:11842957958158692458,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "Vedant Computers"
+      },
+      {
+        "position": 7,
+        "title": "Artis Vip 450r12 Pro 450 Watts Computer Psu With 2 Sata Cables",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRg0G_RFhruJ0vtqmUf5BpTRBpLFtqncS25Wn8-v8h3plTQLAK704rNMGUyUEurLpDzbCX4r0kD_tHcOiHhLL3HpoA8otosjGG9AfTl4D5Ta40bpqycYekY6f8",
+        "price": "₹949",
+        "extracted_price": 949,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7zigJnicJVTLrqtGFu1W_0D_xO3J0YmK4t0zzMv48DKPAjOxcIEBUzwMGGN_TXRuJ1J6mI7Uo0j5jWSQb2l8uwa1pbX23mtVqXb9-Ze_f-bVf03luEvHeNjOdHW3GffSzSWz737qhy674anKfqGAwNMUZFmRg1DkeZYTqZ9wOqWkK140zQOB4gHLQcAJHMPzEP5c5mlGqjZ3zud8UDpcZT_TUIA8x1KvfI5dF_x31aRF_o39hYKcCACkRY5mALW2YyD1w_WWD49fOQCiN99y_bcibaq2eOu7ez68jbe-J48fin4t_w8HKABoZpWA3FrNcwL_tVlFWZ5jOCgAmuYFkRIphvvaz9NnWXwW5LNqP0vymbc_dmk_n_Eff_2qDliWZ7zZh32PFA_44fQIgOedlMTMtt3TCnYkIOSSN2Rjw5pOL17tB3ab1OKSAIIs3R5T2E8WveliiFp8SUqb2m0RyYw9RFS0TcY8mhib9HQel8SnkOJrWYBRtuxJAeJn9rSJdsEteiRPvPhx4kWR-DzA5XaKQhrry5zr-zvSd3qAtDZHaPSDXZOGHneKKBbTfeloNkJNfQ_rkglgj_aAnU8ReFj6-LTIbmuBfhOoKPZ1Eia6dw-fmZaArD3BnXOod1EkUzVWKTcK1CUhyLBrAwSNxlhbG5ooY08RYr0WmQlcVERbjEWsKVP2j9UnQCEAPiCT1YgDCtCIPCNGTX_2Gw2ewtKwtdLESgFCpbz7cHzsYys1ak3FtMEmRGXyi21nEWAxJQ5BYFFJk9wOTTlbdNInahJ6Ef7XMg7n34GksZPv8I6NvfTSXap4N1fHcBLpy-EUAr-qin9SvEixPC0wPBDFH3HX1VX-x9_-4Tuy_4VWZMn4Qm_efFXy5O3RlyzVNwL1RRR748ipmxcrqfKKSGkqqrvBnJxb4pAcUXNgYks7fSixbQTdLdlj8bHUbeb7CcGTMsfy0--peyK9euiOo5vqUdqEvnpUY9VyA8Ox17aGsm45fV7HAqQiEDKKEugvtBRYK_5_85ChxRV5mRjWaLgvhgXfQYb6DtLMGoX3Ff92ntikC4WTQkr-EOfdg2IXJ56ElwMFrXzI7qP6yofnoYvvSh0btZvL-QG_f-BCLbtX3vHo5_g25O9-4L2UpI1dStzFZMwjpRQGU7IDkZdR2ym2RhIvHjwsmeU7GZwzUupt3jWaOLWXZx1IGt9JQcJtB7tQVb5Gd4PuXHOr00HvR7bkvX_080kGqv7Stb_dhHxdZ09SfbhXN86iK74btcmmrZGVO26BfSupOKOjZVR5VnEbr9d-M0LYCFl0gU1wX99gppU1xYzmJVhCDEr7_fQ8OIV6nY1-pI36KctNr-fNFssHnN7RPThUmXwSONfOthp73M7WvIsSiUFdeaMUgZ1wotFYMRpT9-SuGmVnc3BOCrQ1_vwByBi7902_8e5tyO4076EeavuwUHofLPlhCd1BdoleD9fC99zEp0ahMc_zO1eTgfWTVia56hKkHYhrp9IEBfV9GFzOcbFNG1CTrs_CnzgbyI1MmkdlAmEdhCe4euqmNz4k9eHtt_4gnd1csjU9UIWFbt8Va-Tj8APEE5GrTMNme8YJOUFteIz7R7-vbiKDZf4kjWWQ1PS89Gn8uNxP590CJBG1H94O2_jaysXXIRu_X__K82__Ayb-A2A",
+        "link": "https://www.google.com/search?prds=catalogid:13708170562068647722,gpcid:6010034282261177687,headlineOfferDocid:328276511370655552,imageDocid:12690023963401170421,mid:576462803378919146,productid:2563483550888707536,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "Amazon.in"
+      },
+      {
+        "position": 8,
+        "title": "DeepCool PL550D ATX 3.1 80 Plus Bronze Smps",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSCQQVAPJ77KBFlTWsOIH9mVTjLBKZfIr7u_JsxJuF4euKgU_gWKeYM-fjQ0aRaqQIQzy62ursAwpMgKxxbaO_k3-aq6wi1PtCYzv4vlDExwU_fkH6ww8W0ZA",
+        "price": "₹3,700",
+        "extracted_price": 3700,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oiiNAXicNVTLrqtGFu1W_0B-4vbkyFdQvDPDUGB8zMMUFI-JhQsMmKcB29hfE52bRLoZJpEyipTfSAb9LY3T6kHVltbatfaq0t71n39885GVv-3UwzYZw2FzY8q7xTrn7law--5rP3TplUxl-itNiQJDA46TeAAkQeB4if5Kkimpu7xMfwE0LYg8ByggAQAEiZe4n4ssSeuyzezTKRvUjrxUWJYTAQ9YnheASDMSYLmfyibJs__zvMgyLCPwr8VRgKXpHy7XbHj8zlNU8IZMB73lSVO2-Vvf3bPhbbz2ff34Ie-X47-IFMWwYDEqSoIksKzE81-aMv2ZW_R4wPEMQzGSBBajX_rb9FHkH3n9UbYfRf2RtT92SX87kb_--QUORFFuZL33-x6rLoWeW_WoS36Ee90M-82RSnkM_Bl57oQaMkf0diSw5lCAY7eWksyPOJ_elqS6c1jVrn5Jd1mT-n7QnyJqKjGzXfi6R9CfPA33uzCnAzWlTbxGwdnSfYh1rKW-u6mHBNcgU_Ez20D2qG8dgjHlN1vkMrERN3Mfb1w_qnAZ1zVrejmT0mvVBZqftFoQVCLl-TR9hDQkYbG3tLT1MebwcxugKrVDxmpSBtvBBk-uptm21juJl5pYK86oqpVEn9oA1shqzKcH6gQFUxQ0cWJiqzpqheFWFEegxSeAK9BGfmAmnxdvmtnAe7bpKLepKxwWlb02Qtz0J9Ro4OgXhqUVO6LmlK8WdwTGxz40E6PSIGEMLq7d8NhaRoBTgDzCYX8eAp165T5MGq_9J2RwQ76fx-H0JyVr3IRswbaIm5y7cxlub-XBnyTmHB19CpVl_i0tSDS3dAQrUJL0I-m6qsz--te_ka2gT4yqyMYnZv2GoOwqmwOSTYgMD76IfG8ceLh-sTJUFkROEgluh91kX2O7zjB983bE1I7vamgZXneN90R6zFWbIhTXZFJvofJEPX2P5ZeGbtv6Dh7ktY_gAYbQdDzDthZZQ122jDmJQKASiRJTmhaZT4zsmQv-P_OAZaQFeZkYlmg4L4ajPi_T8Rkw7BLF1YL_fZ9wx-QqL_u08i7dtg-am-1wEl8OVLzwPrcPqovgn4YuvKtVaFROpmQRWb2THBbdK-9wQBm5Dtlqae9XJXltFTJ_3rG7A63mBltwQ63Mo7ZVLa2O3XBwibwrVvVgn7BabbKu0aSpPT8rT9aETvZifjNYOYRChe8G0zm7jc54PQos2V2997ejQkH9Vdf6-yWUyzJ7MkRgD9f2rKvICdp43VbYzGwnJ8iMS97oGAWXrplfx8ulX48ANGIanEHj3adUTbWiotlxd_Zmn1CFtTo-IzuHl5vRj4xRPRWl6fWs2RAlIskd372oTJWjyDtWutG4w-Zm3rZBLLO4K660KnITiTWGqEaz012lK0fFXkf2UQWWJpzeqXoMnfu6X7v31ue2mvuAUWVFM6333pxFs-8MilPr1XDJkevEiB7FZne6rfiqHjgUt0qdQafGWlQ7ViJPQISrYXB42yEWYwBNvjxzNPEWpTRK3TzKHSVGTfGkLi5c98a7DB_ufoMG-eRksqXpHhRnpl2p5iiE_jsVTrVSphrZtScS10egDY9x_-j35VViiSIc5bHw4oq5zX0SPs7342k7U7KE23d3SyxyaZX8y5CO3y1_5emP_wJdxgJm",
+        "link": "https://www.google.com/search?prds=catalogid:2117865202922279695,gpcid:8003428738979744966,headlineOfferDocid:14458262466728139245,imageDocid:14684343764376502411,mid:576462563303992865,productid:567323248556018767,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "seller": "pcstudio.in"
+      },
+      {
+        "position": 9,
+        "title": "GIGABYTE 550W 80+ Bronze Power Supply P550B",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQf9gfiH4KJRof6c98yra2Vx6LzfyuhF7t4m_O_Retol3TI6X9LpclyDoYqIKV4LJDglTDmz1hzUfnItdDBEExvBf0wxwrqra9_1x9hKSPvdxsBq6r1UAgCNw",
+        "price": "₹3,675",
+        "extracted_price": 3675,
+        "reviews": 152,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tIkx4nicdVRJruvIETTsC3jhK3xvHl6jisXRO44S-TiJo8SNQBUpTsVBJCVKgk_zvruB9rLbgFcGfI3uhc9i6vfW3lQCEZWRkYmq_M_v_viZV_80laORTvtxe0PVYtNu3d9Ketf_OIx9dsVzlf0DAp5DkGIYgaUogeMYVoA_4nROSV9U2c-UACgaIArxDI94KHCA_6nM04xUXe6cz_mo9PilQq_JAo-4VYZmBYRogfl71aZF_o3_meMgh3gAaUQBjoccR8HvL9d8fPyLBSB-8y3XfyvStuqKt6Ff8vFtug4DeXxfDN_UIc1RiOZXKyy1WgQAoK9tlf3EcOxvCKJYQYA0zX8dbvNnWXwW5LPqPkvymXc_9OlwO-Nff_8ntV8UeVrkXTgMkeIBP7Bbv52n4Cl1u9ag_E1i-6o2HACGJ5KoSUsYrA734Gk98mZWD8_ECRubiRWjT8G9D2C08UCzBADQOIrMNSfFe5Li2OsCCs6nbXk_kYLByDNs4n2YEX6a4WxZaHBOFL9gwD_TLaZOyBhwlGx9KoojEulxbZS4tSmr0WAYSaqnLo8wiJyENHQeG14SSLG1uT_scDbyerekSLpnT8lPa03FdRb7KAswTKY8nNABGItfYxjUiXLaJ1EuwyHZDkmu2WcL2pc4HFovjIgV2dMuCqkECtKhNlAAhQvelIwVSbskCJH_bNCesstASWrcED2kyM4mWoyfnhVqWb_6uqbEZgNiwGTt91BHGyc2wtPG8MxQuJyAnRyQXe-fWmt3WmXGWRLW0taMMbOrCZUR_bHbE_u0ES6eZteOOj-TsLycSMnihilz0jAROvgaTC57MJRZC3Vf8Q4-EmlbE2mszuM6r-emMiRvaz-cOAmi0Eusdu69jiy4C4EVDVMca5YXhtAMtApTsPvbfRrPvwBRY2bf4WQgLSx7JDHa3YNMj3ZeOV1jHgBp9xfICZBZXzHNQQB-wH3fVPmvf_iz78j-F6TIov4FSW--Knry9uiLlurrgfoiip1-ZFXpxYqqvCJimgqqMZqzc00ckkfwFpjY0k4fyt7Wg_6a7LDwuDdd5vsJwbNy28tPf4BLIr40No6zMdWjKIW-elT3quUGumOvsrqyHjk68xQHUgHwGYQ8-oLEwFrx38xTNBJW5GViXKPuvhgGfEfR8Lv1g62Rf1_xb_3sTVQorBhC-UO4GQ_I3J39zL8cKNHKh8wubi5ceB77_aI0e71xczk_4PcPXKhl_7p3PPo5vo75ux94r0qiZJciW5u0eYRKodMlMxL5PmmGYmsk8fajh0WzfCejc46UZpv3rSbMXf1sAlHjejFI2O1oF6rKNdGio941txsUDH5si977x3A7yUDdvOra3yYhX7Asi6pP7VTJuW8U3427ROqayModt8C-lVSs3iM5qjyruE6XyyBNFNXyWVxTbbDMmZJpZQPpyayDe4hBab-fngenUC83fZiQ3jxluR02ebvF8gGnS7QEhyqTTzzr2tlWY47bm3Uz4kSko768QoVnZpxoCCt6a248ua8m2ZEOzkmhbI07fwAy7d1FGiRv6ULG0LyHemjswx1uhuCeH-6hO8ou2TTjpfA9N_HhxLfm-fbONmRk_KSTSa66JNIOxLVTcaZ49X0cXdZxsY10ShMvz8KfWRvIrUzaR2UC_tCWT3DxVGnQP0T14e22_iie3Vy0tU2g8nfUvSvWxO3DD7CfiVxlGja7M07IidLGx7R7DLvqKtBY5k7iVAZJg273Id0_6uV0Nu5AFKLuwzOwjS-dXHwds-kX2pWP_2uX_9X1HOX4f8h1o5___V-4-DSf"
+      },
+      {
+        "position": 10,
+        "title": "MSI MAG A550BN 550 Watt 80 Plus Bronze SMPS",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxMCW6J_MDAarVIVELJcV8elk5_s-mtCA9CuNPCvyKCSZUMn-vLLesf9icLm32ebcPK4maz8ElYHiPrc4swmH_lj10XuHUrnpK3EbiXikGKYIQQzo-BamX",
+        "price": "₹4,675",
+        "extracted_price": 4675,
+        "reviews": 307,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ORJHH3icdZTLrqvIFYaj5AUyyCucTLZ2q4rimhnmYuNtCiiguEwsDBgwV4NtsNVPs0-6pc6w01JGkfIa3YM8S-yTaTJZS_q_qrX-tVSqf__uj5959Y-dut8mUzhubqiaMWuf-lvJOv1Pw9hn1_RSZb9AIAoIMhwn8QwjCQLHS_CnNLkkTV-8MIc47klZHgIWQcgCRvi5zJOsqbrcOh7zUe3TKvs7YhBkWR6IDPcMvMiIwt-qNinyb_gXyLAAASQJIidxPC9yDGJ-OF_z8f5PHoDgzTVt961I2qor3oZ-zse36ToMzf2HYvh2XYASRCLPIenpAyBBEMSvbZX9zAk8yzOixPCiIAGOg9zX4Xb5LIvPovmsus-y-cy7H_tkuB3T337_J62fVWWaFccfBqoS4NYNkz7wKgvKJA0IzSD24o7GNBhuO5-UbquHph7fSZ11KR1uCaUdrUmTaMYSncg6ZhZIQT2nLbZSumqDMD5GjL94PkCHlu5CpkF56zAHJKMM6laiaTNphnsEliZuth0NydkKKUz0Abi07LCKJxOuDNwOEQ2wn6kp53gNwQpUEgWyUf30vHZA1HJ9sh46M2CXhLk89WX0fT3EHe1MgHkTSjNmtncr4LRYI-SgyzD1SjtqJZJ18kwf9BbUg2mpRPUB8b2mB3gNaapmNALEdBDRgxM9xSFxPF9C9FHMuB7cNMCs02DDW2frBFxs55SytOXoARI9953F9DWWwhhiH_aZD9Us4Cq6MVB2Ijt_TRwfxVevJmq8aVSir8ZMLYlH-3tQl3YScLdsnR3zuiTmA6tp0HiYKVG8oZPbxpYL4sjtTFeH8TkEQ5m10HBVErlIZrEus6l2Gc1af6yr7Yps8HP22N0F2CM1teOOnL360h_0oTqE2PfDuPV0rFIXdn9dpvH4K5B17uJaggJWM8_vmwA5i5cZ1CHldA1EAFbOX6AgQU5AIis83-CPad_XVf7bH_7sWor7BamKbHxBqzdXk4my2buyqbmGp71A4Rh7Xlu9qKwpT0VOEknbjruLdY2tJqfw5u1SUz98qOFzt_01dlLpvtRd5rpxk17UW6g83AHOsfyqsbas9U7byyvf1fZaqJm2Z1j4WdZQnyFHR5ERQCIBMYNQRF-Q7JlP_b_mGRZJT-VlYnxmw34RDnzHsPA7BrHPLL4_9W_zhDtUqLzsQ-VDum3vkFus8CK-HKj0yX3OCeqz4B_HPpzVOjRqO1fyKH3_SAut7F_n9ns3T69j_u565NVJXuFS5k87dreHamGwJTc2yjLpWxXrTUzCkaTyrnxvRutI1XqT960uXbrTo_ZkXehlL-Y3Iy40TajpbKDe3m3WyBvcAMvk_WO4HRSgrV998bdNKOdUUWTNZRxtZS1r1bWDLl51NTVzyy5S14wr3uiRQitiFtfpfB5WE8O0YhacmNabL5ma6WUN2Wl38hY_BSV-Pzwiq9DON2OYkFE_FKUd1nm7SZUoTWY6e1GVKQeRt3G20bn95mbetkEss7Qvr1AVuUsa6yhVjXa3JkpfTYq1iqyDymBdOH6AZgrteTWsyNz53FYndy2qcbTA9eAtebT49qjYzboez4VL7NiFk9jujrd3vm5Gzo07pck1u6F61Ng4kS-MqL2Po81bdoqRwejy-VG4Fx4DpVWa9l7tgBi15QOcibYajA9ZuxNn447y0c5lrK89TVxQ966akxD6HyC8NEqV6emuO6Zxc2D08T4598GprhKbKsJBnkovrtFtGZLwfpoPx-0CZIl2H2Sb4vTcKcXXMZt-ZW1l_7_-8u9tYqn7_wOfP_rxX_8BYVEzWg"
+      },
+      {
+        "position": 11,
+        "title": "Corsair 80 Plus Bronze Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6EzTOkErO8pZYLty6VfCCDc6Gkuu6ZUd0E81F6BXVWjyrZLTQH4SFSkM9eeqDLDa2BlAZX1p_7gyd03hkV3GoyIsSaCjmQ179GDuxYi_6ZPviul1_EROb",
+        "price": "₹3,899",
+        "extracted_price": 3899,
+        "reviews": 1000,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Zo2LGHicbVRNzqvIFY2SDWSQLbxMPrlVRfGbGebPYCgwBRiYWDZgwBQGg22wldV8L91SZ9jdUkaRso3uQdYS-2Xak7rSOVX3nKq69_73D3_-LOp_2erO2o_xsLqjesKsd-ruFbvpfuyHLr9l1zr_BQJRQJDhOIlnGEkQOF6CP2b765525ZvmWYGVBAgEHiGW4aCImJ-qYp_T-ly4x2MxqF32LQ3P8oiVWEGQWJaDnASkf9btviy-8T8jASIgcgwQRCSykshA_vvLrRge_-YB2H4QxyMf5b6tz-VH303F8DHe-p4-vi_792kBiPzLiMixEEgAcIAVvrZ1_hMnvFQZlhUYwDLo5Rx97e_Xz6r8LOlnff6s6Gdx_qHb9_dj9tsf_6J1k6qMk7IJ-z5SfUC2VWxvGy5npHu-CjnHgFZIe6doOa8Icz-AvrPX88450SYPmkce0Vuq6lGm5mO4oj154nUW-0oe5SaB2NzTiguMbj4gavgwREWT2i6B2whYasL4rR1EgDQ5V-gmlzBzkLXpHQc568DU9lfy7Dzz-zauNKJmk2vANdbwZquXnNNw3eZknbPGhynCONPCOWgsvF-lx7DVaahaV8LAJoGV76NkwgCS1Ji9SNXtwogsN6Trgsrz5kQvh7PfYEZic2p1YTuhbGVpJA7nKMxHvKrcCEjrg25VrgbtCESgOPlseqLqHqRHv4Vcfs5BQH3Hhx3jnHt8IFBJEHVJs3n4RlUR3VJTRDnczJMbWnPU4m0QiixpOIjDkN0G9H5ox2e0pfXWSNiAyesU9QHWfZwTGG4a7ogZHKSRM-MtPvmguSaofxJQhZlaEh2mlxj0Vd5Ck6h-QpDMYl1mM-06OI3-NGpr6a_ww92mYRRO84bpXTf0bTvumzDAaqiViKxSbv8Ar7-4on_M43D8Fcg6dyUu6ylOmqzXxTbjaZhwSE4XHGqXwmiUf4OCBDnhVb2vboA_ZF3X1MVvf_orcRXyBamKbH5Byw-iyb6y2hHZ0YgZaG-i3Jg7Xlu-WVlTXoi830uaNdhX95a6tIjgPbAzRz-s1RibQXdLN5n0mJtzTkhKs6t6j5Un6eGUyu8chusatraTlyHRdlqsOV5guviV1lRfS4GOIiOAvQTEHL6a9QuSA-eF_988wyLphbxNDK9oem-GA98xLPyOQewriosX_u0-sY1KlZdDqKylu_WA3OzGV_HtQI1efMhtts1FCI9DF09qE5uNVyhFki3WWalV3XvfbkeK7DYUCxL4byV5iSuZP9msvYNqabIVN1BlHl8Fg3Wa-vHgZ7JdLejgHiO1WRVdq0vX8-nZBLIudHKQ8qsBl5omNNFkos6zVwYKerLFsr9Y9_eDAjTjrYu_vYRyyRRF1giz0ZbubKjE257T5bmJnML1yow4ac2bHVKi2nfK23i59MuRYVox356YNpiuuZrrVQPZ0T4Fc5iBCi8Oz8Qttcvd7EdkNk9FaXujaFeZkmT7KZqCpM6Vg8h7OF_p3G51d-7WNpXZqKtuUBW5a5bqKFPN1jZ8patHxV0m7kFlsC4c14COsTct-6U_nUPO0v2HljQ4maHRB3ORzKE3KB41muFSEt9LCRzF1j7eF3xDB46kZ4UWmkcjPaEe3stXRtQWw-DxrpdhZDK6fHmW5MpjoLQKbR-1DcSkrZ7g4mvL3lzL2sPfrMggH71CxroRaOKMzgvVGYU4XIP4SpU61zP7fMxSemD04TFuHv2mvklspggHeayCtEH3ud_Hj9N0OFozkKXovPatDGeXs1J-HfLxV8ZTdr8zyv_u-a66-33uNc-P__kfqYAwvQ"
+      },
+      {
+        "position": 12,
+        "title": "Ant Esports VS500L Gaming Power Supply",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbfcBKroMOmW_vieJzHlfEAh6IhV0kI5-4wM_V3TAyg_jPi9RpzEIIAqHqiy_xg5rDNg9Kokfu2BaWImASvpnEEQm8C_gzviihZcZxIaUm2H44w30e8mex-A",
+        "price": "₹1,999",
+        "extracted_price": 1999,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4jzZV3icJZTLzrNGEoYnmhuYm_iz-eSou6E5ZIc5GRtzbsBsLNxgwBwN-Hg10fdPIiXLJNKsRprbmCzmWsZONl3S-5Sq3mp19f_-9o_PvPqXqezX6RSPqytT3SzWOfXXknX7n4exzy50rrLfIRB4BiKMRQ4hkecxJ8KfaTqnTV-8MY8xwDyCLOJ5wIiIw8yvZZ5mTdXl9vGYj0pPq-w3EUOeFXjMQpFnAQQQi79UbVrkf2HMCFhkGYyAwCIWARGzP54v-fj4NwdA9OFvHf-jSNuqKz6G_paPH9NlGJrHj8VA3yZYAAACHIYMyzOIRywQvrZV9ivmOZZDwssVJ7AYsgL4Olznz7L4LJrPqvssm8-8-6lPh-uR_vHNV3WksnylS5cMQ6h4wK8zL2tD5hAPptsRNte3LFVDn7YzjNQ5TBprSNGE6WmZppGBfRCudy25ZzI07WANArUhQZCtyNOLrcZqYuQ-KBKeFrozfqc5aY2PpMUsATANI-_hx9lzSxIzQDuc6vAcKevZDMJnFA1poAOcIBiRk2VGXdlsNe9K2unhq7ebG2QDWYWap99vhIRVAObERRBY0Lgf6rBOm1KlpJgp2iEP3ZiArEGKDGzpmbcl4orEjU4U60Hq-RYCgkJiYa8V1UM9n7wmtNzYWlPN2kSrcMig12W1RdxYeoZhMkekAGmTKVRPlO1TM_1Im924uVCCE88z4rAdjn6roQMpDUsrTaoUgCjlzUfTw423qVFrKmUMnDSe4UHP21XQO2jNw_RhnNf3PgYqJqRMkkZroxX9530aj_8FkoZn32YdeZvsNps8olxDdpiRkgVm2iU_6cX3kBch5hmB5V-v7Sfa93WV__H3b31b9r8wiiwZX5jlh69Knrza-9JW9Y1AfYPCNfacunxTSZVfipSmoroezdm-JHaTh_AamHSrHTZKbBlBf0lcKj7udZf5ftLQWbnG8tMf4C2R3jV029ZNdS8tia_u1VjdOoFhW6-yhvI6cuYoIB6kIhAyCAXmCyMF25f-l3nEMuJLeZsYX9Fw3gSD7xALv0MM-4rC4qX_OU9sMoXCSQTKG_G6fkB8t-NZeDtQwhcn2I3qM0-OYx_flDo2aieX8x1dbGihlv07b7_3c3oZ84UfeO9O0tIqJe5ksuYeKoXBlnhs5PukrRVLaxIvHj0qmeWiGe1jqNSrvG81ce5OzzqQNL6XgoRbjVahqnwd3gymd8yVzgSDH1mSt9gM14MMVP3d1_rzJuTza_ck1UeuurTvuuI7UZcsuzrc5rZTUH-bVJzRM3JYedviMp3Pw3JCqBWy6ITa4DZnSqaVNWQn8xTcCQWltTg8d3ahnq_GMDFG_ZTldtDzdkXlHU1v4S3YVZl8EDjHylYa3q-u2-s6SiQ27MsLVAQ800RjqGK0pu7JfTXJ9nJnHxRkafxxA5opdm7LYendOoLXmvdQd7W1u0N9CO757k6cUXYavR7Phe85iQ8noTWP1wVXNyP2k05uctVpQm3XOFYqzUhQF-PocLZDLcZAmnR-Fv7MWUBu5aZ9VCYQdm35BGdPXQ7GRlIfnrvyR-no5JKl6YEq3JluoWwnPiYbEM-NXGUaNbsjTZoD0sbH5D4Gt7qILJX5gzSVQVIz1_uQxo_T7XBc34Ekht3GW1OLnju5-Dpm0w-vv_L4n_8DMxYA7Q"
+      },
+      {
+        "position": 13,
+        "title": "Circle CG RAW Power 750 WATTS Gaming Power Supply/PSU Non-Modular",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBehCfE3Jc4R2d7cvD87BXL6Am2XMEsDSGSxKR9SGrarYQAJdhvblTj7SRN6hCcsJjKjeazv-6AeMoBZKTIORr3_XSMK4Ndsgbp0voG11RelXPaS5OdUWoFg",
+        "price": "₹3,849",
+        "extracted_price": 3849,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xVNGLHicJVTLrqNGEE2UH8hPTDZXHjVvyA5DY2Pzbt4bi5eBy9OAsfHXRHcyI02Wk0hZRcpvZBb5luBJq9UlnVM6daqk6n-_-_EtK_9UxNMhGv1hPxPlTSON124uSLP73A9dek2mMv0DAyxDYDhFcTSOcwxD0Rz2OYmmqO7yJ81gHAk4gLMUsyYRHEHSX4osSuuyzfTzORvELnnmESTAGZLG6fWS-Ho47reyifLsG_87Qz71GY4iKZxgAUsz2MfLNRuWv2gAvBekGuglj5qyzV_67pYNL-O17-vlY97_r85wBEHiNEuTFI2TgOTwD02ZfqEYeq3J0jSgKBYjKIb60M_TW5G_5fVb2b4V9VvWfuqifj4nX7__AIdEEOZkazp974oWQF6opK51iN2tltk8YfpW6T7yKQLaEmBhiEStSx9Sjzxr0cRw1h0sCp3J0_1w0Jy0S334cJvaDBoOj716iiutTvfhzvV70XSkKZSqxRY118R6MgbF2ca2Vw06N0eq6QTmQGu1OW3TyMLS3gWAjB7FzXWmvV1NSJM40Xm4ReDXpeWBKXLTR-jUkUNYF7eW6KBRidQJ8QDXsMjrRbVib7rnULpo3exdQqU7uKjt9piJlo2gNTrNAU_aYAmbvjI96pDAVFZ31urD9WLMmrMdZXg1T8UwPPugJq3XsExwzFJ3xRi3luN59YI8jIq9g4CcYu9itepasu82_Rk1Eh47haxJhZKIOXDE4obwcTF9NZIrCSaETIW1ZGiu1ZntdvFsCSA8IOzXFIvWWcW-NAYeIJADf72Pw_kfwEvUhHSKzK7DYw_vxRhmyLwq-9bNzSng6on_GWM4jGIIlmQwgH9Kuq4qs68__IR0Ab0jRIGX3xHbFwR5S9ifEK9CJNvwSeSmfKLh9snyUFgRPoo4eBiUSb-Gep252GwriSrFR9HXZLu7hmbCLfeqTREK62QSZ194oB67hfxTY6frOwWe-K2D4An6UDVsWddWWVlcn4w4szgDIg6wKYaxxDuCt9UV_988ThLcijxNDGuUjSdDgfc4ib3HCXKN7GbFv_XjK0Qu0ryDCUduPiwYddf9iX06EN2VdyjTqy6Mcx46_yZWvlwZmZAFyeaY5LDonnmnE8qS65BtkG09K_FbreDpV4VUTpiYy2RBDbVwH6WDqEl1aPmDlfBKsakH_eyK1T7rGomb2tdHZfMS0_F2SO8HLYeQqdybTHSGst8R9rorGm9tjv0cCwDunnW1b5MQLuvu8RDhJtzq952IDK8Nt23lqplu5AlSw5KWO0JwS0vNr-Pl0m9HHG_Y1HvFG_s2pWIqFRVGjsqrfXcSUGib-BHoObzMcj8ScvUQhKbfZc0-EYIkurk3OyhTIWZpQ0v3EnXaz-p88EKedLviioksNSWhRCSi3Cg7S-jKUdC3gR6LuCYx5yOoR9-4bfutdWsd6iBZCwwqLbhju96-Z8HdMQbBqHfVcMmRZYQIG9lGOc8buqoHCoWtUGfQqF0pqA0t4iechZthMGjdSDRCxiX-8sjRRGtAaIS6WUoFsEFTPMDFgttePvJwscw9GvizkfGatLMheyfajaiOjO8cgT_VQplKidKek7COcWlYRnPpzfLKkYnAxPxY2GFFzPc-8pfXW3w-3AHPue3ROiRacmmF_MOQjr-sf-X57_8A7bADyA"
+      },
+      {
+        "position": 14,
+        "title": "Deepcool PF500 80 Plus Standard SMPS",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTEjFcuOom7dt3FjipIs877cDF17kt5NDH4Utkobe2IiGLjHr7WTBVsIOLlrcIiTGXd3be2ciU3kIEsqdipHR-6QHHL92_vYQcrVeiVs-hja3h7sYdpS8_d",
+        "price": "₹2,905",
+        "extracted_price": 2905,
+        "reviews": 4,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gkQ3UnicbVTLzuu2GSzaF-iir3C6-eGA1F3dybrbulP3jSFTsmTralm2ZCNP858mQLJMCnRVoK-RLPoslZNtuCCBGXJmSPD7_venv34W538b0mGX3eJRe5Dn2aKcS_-oKLf_YRj7_I6nc_4vCDiWhARN8wxB8CxLMzz8AWdT1vTlm4aQIzkIaYohWZpfB8H9VBVZ3py7wj6dilHq8Tn_mYc8AAS_ygCGBiwFWPbHc5uVxe_06kDSEFIs4FYvCkCW_O56L8bnfxgAog9kOuijzNpzV34M_VyMH7f7MDTP78rhfZpgIIA0zXEsDUnAcJAhvrbn_CeaZSiG4PhVkKNYnqDB1-ExfVblZ9l8nrvPqvksuu_7bHic8K9__pvcz5J4m0U3GIZQ8oCv8L0fbslUxlP-Sp201pcoGvw0rsBRbaxcG6RUqrqcqC6oHsIk1oEfVv4RWGMu5TVuBhiQyt2qracn7QIsVU98UZQ8MMmwpQjvFYbuE4qeNjxyNRePoUwkQfq0_Gp2I8XMgDWEkEdhAKiwG9wjoBWsNBoieMfyPRdFU2RHvObGMulBT038kvS1bRZcLM1XqjGMmvnYhFUQ5ijUtmPQ8mt-TCSduRyb3LbAEOUBr4dPePEiuguCZXYvHuHDZELkQIXEMtqB97JUSBSap5tBw5hQyVI_FL1XNbmQPyWRp2Iij6ygqlJNoY-SS6TSDqA6bQLJY1JViY4-no6RZ3hAnwPVagIy3BUqtIOWblPSMqyLPBXR0GQERbivSvFf1mzKqeVFOwbFeWRG0MlUL8KhJ6ftbkEyzWAVQyNWeltO90gES-TLy9F3kQLTawyGKm-hjiQvQaRAWYpAYXkazVp5qefd1tOspx2lfh7slONLodOgct16eLgRf_LbqjJBvrXCavZA0_1zuY2nX4Cg0BOyaaq4jy9NXqpbWiD3bmhdWLpTwjeT8A_I8pBmyfWjQUB8j_u-Phe__uXvyBbRF1ISBf0Luf1AsuCJ2gEJpox0X34TpasfGHn7ZgVZXBEhy3h5NxqTfU_tpgjhwzewqRz3Umzpfn9PXcw_l7rLEUobPEmPWHyhAc6p8NZQbVs15IOwDZB8kGPZdHzdtlZZXVqngjxxBAsyHnD5u3K_kIJvrvjv4QmK5FfkHWJcV915MzT4hqDgNwRJrSu3WfHf7hMbZCkxQgDFPf_YPSG92PHEvRNI4coHtBvVVzY4jX08S3Ws104hFgne7HEpV_173-GACnwfiw3yvbeTsLUqgbkYlHGAUqlTFT024nJTdpKlNKkXjx4WjGrTjPYplGqt6FuFn7rLq_YFhe0FP2W00Splma3DWSd7x9BU0h9QZAneZj88jiKQ1bev9dtLiFcsioKMCFfe2osqISfq0m1Xh2ZhOyVGZnpm9J4Uw7Nnlvfb9TpsbwTRcnl0IVp_ntYCV6oaUjfj4i8BBpW1Ob4Su5SvD324kXr9EsV2UItWw2KCszmc_eS81jjHOGvjUOiD9jAfuygVqLCv7lDi6AmnCoklvTVUT-zPN9HeJvZRIiyFPe1Bc4udeTtsvbkL6J3iPeWktpIFqoO_FMkSOKPoNGo9XkvkOSmCN641To8NUzcjjdJObArZaUIlaRwrEyaCkzfj6DC2gy1SJxTh-irRxFhAbMWmfZ4NwCVt9QJXT94O-l6Qn56roVE4OYVgKaovcwvZbSTzxsbBHsRTI55zBRvdCafNkVDG5819Du75zlNYZI_CrfLTmnwsQxY_L_PxtFuAwIfd3tthC187sfw65rdfCEc8_EEr_9bxbOnwx9zaz0___T97RjI0"
+      },
+      {
+        "position": 15,
+        "title": "ZEBRONICS ZS500 500W Power Supply – Price in India | PhoenixPC",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSR43yhR9ZxfUhE_qzp8wHqdBVMLzj2FfxnhGYTBdw0FWFiyjKFAfJ04hB-VfaxL_iCSaQiue3f6HqEBS0DKAg3iYwzaQxtPqt_R30nl8ZjPynoq98oLL9-",
+        "price": "₹1,229",
+        "extracted_price": 1229,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Fizo7nicJVRLrqNGFE2UDWQTncmTIyj-mWEoDBjzB2MmFi6-5mvABrOa6HUSKRl2ImUUKdtID7KW4M6g6krnlO45deve-verb9-T4k9NPKvREPTygygmnTSv7SMnrfbXrm_jOxqL-A8cYxkCBxTF0QBwDEPRHP4risaoarMXTTMsYDhAcwSBkzRBkQT4lCdRXBVNYqRp0ostKuJPHGA57n-epRmaItnfijrKki_s7xxLc9SqhOGAxWhAcBj78-2e9M-_aAw7vjkH03nLorposreunZL-bbh3XfX8OevQy8PqjiEwAjAYjq0mKIplP9arKMXQJA1W_wxDswSN4-TH7jG-59l7Vr0XzXtevSfNL23UPVL0-esrbCdBGKat5XWdL9qYC6XQ8XID7XIJlQiLsBm3y3lGS077ZdXbHmWewKjoiyTHV590Xb877vRd6FfYAYy5C6j8IoXXGA-fDiHNUZM7FuDasOlsf11WrWKOR42xZN8sVz3GUt56eEdFhIrHixrpUjX5dV5Gki_bmEcFuC3bVXj3gmz0JDWNALuEUq7p9Uj6RGhHgHvqWFhYdXUzJLt3GmWOfPUW1XPoAV8JFogj2U9DLI5sQBlhnSu2sBb4SE0-HpeHwKetwA4ieUvrzQmz4agjWe9gHh-jitufgnB0YIYd4TgZom0Z8laLFnWL5rawPHtB16r2KnVxiE48QG4fyeoj8TvF88PZ2Nm-LUIQ11IaTz_NQ5_-g_ESNToGRSb3fpHhnA9h4lh3TW78zBpPXDXyP-AMh6-Py5IMjoFfUNuWRfL5m-8cQ3A-EKLAKx-I7ZsDeVuQzw5_gI7iwheRWcqZhtsXy0NhRfgo4qDaa6NxD40q8fGHq6GDdNmLga647T20EPecyyZ2nLBCo_gIhMXp8CnkXzl2hrHT4Jnfeg48wwAeTFcx9DWtIq5bQqTrEGDR2rYxjrPEB4J3Dyv-v3lAEtyKvEz0a1TMF0Nh3wMS_x4Q5BrZzYp_uU-gEZlI8x4u7LmH-sSp2QhG9uVA9Ffeo6xjeWO8tG-DSSwDpTQTITmhzR5lMG9f585nJ0H3Ptk4rv1S4rd6ztNXjdTOuJgpZE71lTAPkiqu7RXaQW8jXss3VW-kvljKSVtL3Nhcl9LlJabl3ZCWez2DkCn9SSFaU5N3hNs5R523N_vucREwuHvp6l8qIdyQIPDQARbcGvNOdMxjE26b0j8khpkh5xAWtNISgl_Yh-w-3G7ddgCgZuPjFdTuNMbiOgQlTg7a1Z09hOX65rKcjAzeHko3EEq5CELd7ZJaRsIJRZM_uaciFi4sbeqxLFFn-XF4qMeQJ_02v-MiS40olAgkKrW2s4W2GARjezIuItAlJt1j1RCY07bb2lPjUapkP-Gp1E8zvuvcOTnNntkLZrUr-1vm2Gbo4ANba-ljQ6_TTzlhI1QJNCtfOlWmHvEjYOGm703aMJFOKEDib0vmjLSOCbVQ1c9Cw9hTnS_YzYbbTtnz8GlbstPzqZnwurRzITsTzUY8DEzg7bFgrIQilpDWpCisLkDqn4P17KzizpFIYC78kLthSTzmLgqe1-mSqjPGc36zt1Wko1sjZB_7ePhx_fLSv_8DtEjwiA"
+      },
+      {
+        "position": 16,
+        "title": "Circle 500 Watts PSU (SMPS) for Gaming cabinet and Server",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgkccGljxHsfK-U5fZvUgLqt6zTnRkVyNym4Uc1irXYusnheMg4aQgiFT18PIHdRaOUyh6qjP5Jy4--cec5QOECg5svXrDasEFyh8kfp6lyTB8onwuGu38tA",
+        "price": "₹4,899",
+        "extracted_price": 4899,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Dwu2J3icLZRLzqNGEMcT5QK5xGTzyVE3zTM7DI0NxoB5w8bCgAHzNGCDfZrom0ykyXIUKatIuUayyFmCk2y6pPpVV_2ru7r__urb97T4TRWPSjT4_faOikkjjUt7z8lD-7nr2-QWj0XyKwQsgyBBURxNEBzDUDQHP8fRGFVt9sI0wxIMR9AcQpCkEUUi4kueRklVNKl-Pqe92MavOEgAyAGa4EiCIABHUIj4paijLP2fE4CiSQ5RFLUghuE4lvl0vaX943caAO_N2hvWWxbVRZO9de2U9m_Dreuqx6es-287RTEIIIIBECw6KIplP9ZF8oViaJImlhYYhmYRDSH5sbuP73n2nlXvRfOeV-9p83Mbdfdz_NfXF9xOgjBM64PTda5oAguMhobD7gS5-dRUV-cSql6VXOzGpZJKOTulPKWlNrrOTMVeRjqedomQgnXPJG0i37m-dnVABkygWIdao123nD0MtdTF88HjPNXPi32j3cJLFWoXEyQF3LlbpTJLaPtAsmI3mH2UTdZljVRPsdy6q5yaQ65drZM63ByqYPS2iuo8ecp0latnK4VXj73qS1pQmufkaXrBRdNdKXvottZENZy0Te675UhGdn4_lZ3u1pJoYWkTlRURAhee7KSPUQWCp4s91xxO0HzgPPGiitsFfjhaOAMeHiddNA_6dq1GT2Udz21xcMxnfKlqx9FKDctjfHEtzenapJ4jb9sJ6Sa_p17XBjUFk-mneejPfwJeokZLp8kEPwQVHXv-DPeA9IN9vTnOxzPaH36ADAeXy2VJBgL0c9y2ZZH-9c13li5YH5Ao8PIHtH6zMG8K26PF77El2_gFsoN8pPH6RXksLB4-ijis9Oqo30K9Sl14t9V4L512oq_JdnsLDzH3mMsmsaywikfx7gtPq4NTyL9ybHR9o-Ijv3YsfMQ-3hu2rGtLWllclhSdl3cAIg6wCYQs-oB4e7_4_xNPkIhbPC8R_WJl40Uo8D1Bwu8JRC6WXS3-f_vxVZSJNO9AYcfdlQekZt0f2ZcC0V24Qx288so45771J7H05dJIhTSIV7s4w3n7ijserTS-9enKss1XJX6t5Tx9UUn1CMVMJnOqr4R5kBRRk6rQ9Hsz5tV8VfX62RXLbdrWEjc2l2dp8xLT8nZIb3stw5gp3UlGraFuN8juLE_jzdWuu58EgDevutq_JyFcY0HgsUUc8FqfN6JleE24bkp3n-pGFlv7sKDlFgluYe6z23C9duuBIGo28S5EbU9jIiZSXkJyUC_27MQg11anZ6Bn-HqXuwHJ5VMQ6m6T1ttYCOJocic7KBLhxNKGlmwl6ri97--KF_Kk2-Y3KLLUGIcSikW5Vjem0BaDoK8D_SQSmsScd6AafGNad2tzahxKkZZZD0otmOGms-c0mB2jF4xqU_bXzDKN0IIDW6vn-4ouq56ywkaoUmxUrhRUhhbxI8HiVd8btG7EGpIJib8-M2ukNSDUQlU_ChWwQZ0_wdXE607e8fhhHrbWMvZGymvSxsbsjJqVuB8Y39kBf6yEIpFitTnHYXUipP4xHB7dobhxZCwwJ37I7bBE97mL_MdlOp2VGfCc2-xMJdbiayNkH_tk-HH58s5__APlLfJ1"
+      },
+      {
+        "position": 17,
+        "title": "Ant Value ECO400 Power Supply 400 Watts PSU",
+        "price": "₹699",
+        "extracted_price": 699,
+        "link": "https://www.google.com/search?prds=catalogid:2226866105223708545,gpcid:9135922421676670083,headlineOfferDocid:18331818763567075936,imageDocid:14727513363435142594,mid:576462853494924961,productid:12159602001549870982,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cvGIw3icLVBLsqJIAIyYk3gBO6gqis8zXJRFoSgCAvqQjaEFAo-vgIpeYU4xr2MmomfZ06fpo8xq7IjZZC4yMyIzf__Gj_2xqJMs-gdCKCmSBAQMIZIFBYv4z6ThL0UFCKsQihBIsiTJgqCg72l8jIqsiu3zOW61-mX7ARSEgAIUWUL45ZKxiqS_s_KYxP_rogxlDBCSkIgwECFWxa9lFn3HsiRKUMFIVEUViqoEvjVtHV15_ysFAVYlAQoCwKKqyIKqwK_Nrf7jF_afafKZFJ9Z9ZkWn3H1F6_rPIt__vavZ1NvSokxGXmMuHRx8MiaeYbPpjTZGAeJzSYjwuiUHI8qW7Zmb19Du4h34OabfK2fVlpgGX59DTdcfQx5FXleWPBeuwX06TXgHpLJaG7bc5MdyGzrsQML2NrxDduaGto0RmcFysJRFZQIvH5589dTIKsAy1BE6hudtm-GMwVY-AJF8AUi8cXK-O3VODBRoklkC-hKvS0fAA920CuTkbabbvHmPb_I23NbB3ctD4zciWm85-MVT1haT0aHgxfzaxuPPd91pmRmpUT6MEXzALTEEFPcFnTo9KVm6UXoBq3LiZmOi9Y-77R8EdelrvbVxzP3iS7XxA-lRWsljMn57m6g2jEXc-Q33rtF3PGquZ2owOaTkfVaSy-cUsI8uGEze5hrnvNehbMq361j20m4tw4zyagR3WXuOrl2l0sz6yAslej9A5b-vY-0SE9zIHbmhz9suZBa49NzbyfscjOaDhn5k9KymcflgtM9P953d3-fRfSkSI4VLXR8WNzWt-V7SMRdnV6BpuCehzrimlGac5fWWUft2d4-adDS5fNKKLrAuc-amXuvtnipuw-2z639AOaNP8T7Yeu01CnmeXtJPNcJPdAppXm-jaW8aLEXVrSImVPs9H3hWEfSQ4WN29aRbIdbyIA6uTwTr5csgZa0KB-ZKSj7Mn0KF5fNGmNF2MPdLLyWnJ2YWPrcZ8qAqrG27uRguxKCvqBZpHOzOvOwOEG9fXSbR7PJrqrIqXwiXeqHOboNzTF4fNxP5-UgEHVXrdwlt_ilosl_Pso9Uw",
+        "seller": "Amazon.in",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0oeKN1HzkTysRXx_fVIm77qdwSqGXH6g6CGCLGZS8W0LblJ0TYBAhSO9jup5vxInaZ-m2JI-c4zXTVImKyS1i4ItXdLNfXkO2Y1JgiIprSjc1Q3UsoqXR"
+      },
+      {
+        "position": 18,
+        "title": "MSI MAG A550BN 550W 80 Plus Bronze Non‐Modular Power Supply",
+        "price": "₹3,690",
+        "extracted_price": 3690,
+        "link": "https://www.google.com/search?prds=catalogid:13319016850455302,gpcid:7464298475345436537,headlineOfferDocid:4531217663278929237,imageDocid:8916980607829952346,mid:576462913715859246,productid:14069572841904622862,pvo:2,pvt:hg,rds:PC_12896138909417030798%7CPROD_PC_12896138909417030798&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tKnc43icdZBNsqpGAIWrshI34Cu6m5_uaznAplEUAQG9yMTSBoHLr4C_lSVkE_FWUvUyy0s2kywlo_gq40zOGZxvcM756Svf9_uiTrLod4AQIAKQsSSIkoQE-EvS8Cz6QxFlERIsKhISJRHJElK-pfE-KrIqto_HuNXq75goIQCBIssIKphAApHyW1buk_i_GBMgEyzIgoIhIRJEovxZZtE3SZFFGRKAFCBhiUBR_tq0dXTmfRb9CURBJpICsfhq9sIgluFnc6l__q79M00-26j7S3ToDkBMZIAwEYgIFAEJCsE_Oq6t7f4nfCbFM6ueafGMq195XedZ_PcP_3g29cZUNUYDj6kune08dck8w2djmqyMncwmo4HK6Fjd7wmbt2Zvn0O7iDfg4pt8qR8WWmAZfn0OV5zcb3kVeV5Y8F67BPThNeAaqqPB1LanJtupk7XHdixgS8c3bGtsaOMYHTFUhD0RcAQARm_-cgwUAl4PiIi80XH7ZjhjIAlfoAi-vC58OR6-vRoHJko0WV0DuiCX-R1INzvo8WigbcZrafWen5T1sa2Dq5YHRu7ENN7y4YInLK1Hg93Oi_m5jYee7zpjdWKlqvxhiuYOaIkhplJb0FunzzVLL0I3aF2umumwaO3jRstncV3qpK8-Hrmv6kqt-qE8a62EMSXfXA1UO-ZsivzGe7dUd7hoLgcqsOloYL3W0hOnVGUeXLGJfZtqnvNehZMq3yxj20m4twwz2agR3WTuMjl3p1Mz6SAscfT-AUv_2kdapKc5EDvzw7-tuZBaw8NjayfsdDGaDhn5g9KymcbljNMt3183V3-bRfSAZceKZrq0m12Wl_l7qIqbOj0DDUs9D3XENaM0py6ts47ak6190KClK8eFUHSBc500E_daraW57t7ZNre2NzBt_Fu8va2dljrFNG9Piec6oQc6XJrHy1DOi1bywooWMXOKjb4tHGuv9hCzYds6su1wCxlQV0-PxOtlS6AlLcp7Zgp4W6YP4eSySWMsVHZ3VzOvVY9OrFr61Gf4hqqhtuyUYL0Qgr6gWaRzszrysDhAvb13q3uzys5E5FQ5qF3qhzm63Jp9cP-4Ho7zm6CSTbVw59zip4om_wJF1EvI",
+        "seller": "Kryptronix",
+        "rating": 4.9,
+        "reviews": 58,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxP9XcDnQLEhDWEEUkkvjGCZCx8ZPAMkdZDPjbosmzfujVSOi_oF49TgmMy6ve8O-8qmxUHyv8h7MPg7vb6zwqodyUB7sCW9MeM5icWHYPioqcQ1BjqOTmzg"
+      },
+      {
+        "position": 19,
+        "title": "Gigabyte P550SS Silver 550 Watt ATX 3.1 Smps",
+        "price": "₹3,700",
+        "extracted_price": 3700,
+        "link": "https://www.google.com/search?prds=catalogid:13842478793577404407,gpcid:3543345760204506164,headlineOfferDocid:4267450526576082459,imageDocid:9296919750192767572,mid:576462914490031494,productid:2184579196688820167,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2wgz2XicJY9N0qJIFEUjeiVuwAoySf4-w0GaJIoiIKAiE0MTBD5-BVR0C72KtqI7onpYXauppfSoqejJe4N7brx3fv_GTt0pr-I0_AF4GUEkyZLCC5KEOIQ46c-4Zmn4Dy8gnkeCJHKQQwInAhF9T6JTmKdlZF0uUaNWvzAERWmIBSj-QmWIBOXvtDjF0f-xAhVRAYokcECBkigJEvxapOH3AUYiVABCCsfxACnoW91U4Y11QwkCeTg81ERRlmXIAVH6Wt-rP-Awu3cSv-P8nZbvJH9H5V-sqrI0-vnbv65F3CnB-mTkUuyQxdHFa-rqHp2SeKMfRTqbjDAlU3w6KXTZGJ11C6w82oG7Z7C1dl6pvql71S3YMOXZZ2XoukHOOvXuk5dbg0eAJ6O5Zc0NesSzrUuP1Kdr29Mtc6qr04i_yFDiTgonhwDI_Ie3noLBYRBGvPJBps2Hbk-BwH2BCHyBPBq2PP4YPvYNPlZFvAVkpdyXTyD0lt_Jk5G6m26FzT67SttLU_kPNfP1zI5IdGDjFYtpUk1Gx6MbsVsTjV3Psad4ZiZY_DSQcQRqrKNEaHLSt9pSNbU8cPzGYdhIxnljXXZqtoiqQlO68vOVeViTKuwF4qIxY0qlbPfQ-co2FnPeq929iZ3xqr6fCUfnk5E52JIrIwRTF27ozOrnqmvvy2BWZrt1ZNkxc9dBKuoVT3aps45v7fVaz1oICzncf8LCe3ShGmpJBlBrfHr9lnGJOT6_DlZMr3e9bnk9exFS1POoWDByYKfH7uEd0pCcZdE2w4UmHBf39X25DzDaVckNqLLQsUDjmaoXxtwhVdoSa3awzio0Nemy4vLWtx-zeuY8yq2w1JwnPWTmoQfz2uujQ7-1G2Ln86y5xq5jBy5o5cK43MdiljeCG5Qkj6id77RDbpsn3EGZjpvGFi2bmbwONXx9xW4nmhwpSF48U4OTD0Xy4q4OndX6CtOns1m4Db7YETa1uUflni_H6rqV_O2K87ucpKHGjPLCgvwMtebZbp71Jr0piBHpjNvECzL-3tcn__n5OF-WPYeVXblylsxk15LE_wHx7j0J",
+        "seller": "mdcomputers.in",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQqJ7_FbmgGz2OR2oMZbmaVkXqlu7O_c_SEjsvPyW_ArW_8fG9JJ74sd6s2BNGKZbFVCtwvDwAM-0iyQzLyL1g5DZbNmAkmhuR-PxIHQfAEzXjlwA_L4EyD"
+      },
+      {
+        "position": 20,
+        "title": "Ant Esports VS450L",
+        "price": "₹1,939",
+        "extracted_price": 1939,
+        "link": "https://www.google.com/search?prds=catalogid:12851892285166867085,gpcid:8937640668868606787,headlineOfferDocid:16532744331250215204,imageDocid:4706316670430391973,mid:576462847617261268,productid:11404556328858759012,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=li_RV3icHY9drqpIAISTWYkb8Ibu5qc5xoe2aRRFQEAP8mK0QeDwK6CiW5hVzLmZSe483pnVzFLmaTzzUpVUJV-qfv3Bj_2xqJMs-htALAGswi-TZSwrApZ-TxqeRX9hFSmyKLxS_CoEWcHKzzQ-RkVWxfb5HLdazb8IsoSgIooIASgJEEhQEP_MymMS_9__JSqCjF5sRRCRgFSgKuh7mUU_pRdchlhUZKBAGUAZ_2jaOrry_gsKREGUJBlBjCWsSKoA4PfmVv_2pf1nmnwmxWdWfabFZ1z9wes6z-J_fvnXs6k3pcSYjDxGXLo4eGTNPMNnU5psjIPMZpMRYXRKjkeVLVuzt6-hXcQ7cPNNvtZPKy2wDL--hhuuPoa8ijwvLHiv3QL69BpwD8lkNLftuckOZLb12IEFbO34hm1NDW0aozOGinBUBRwBgNGbv54CRQWSAkWkvtFp-2Y4UyAJ36AIvkEkvhyP316LAxMlmky2gK7U2_IBpMEOejwZabvpVtq85xdle27r4K7lgZE7MY33fLziCUvryehw8GJ-beOx57vOlMyslMgfpmgegJYYYiq1BR06falZehG6QetyYqbjorXPOy1fxHWpq3318cx9ois18UN50VoJY0q-uxuodszFHPmN924Rd7xqbicqsPlkZL3e0gunlDAPbtjMHuaa57xX4azKd-vYdhLurcNMNmpEd5m7Tq7d5dLMOghLHL1_wNK_95EW6WkOxM788IctF1JrfHru7YRdbkbTISN_Ulo287hccLrnx_vu7u-ziJ6w7FjRQpcOi9v6tnwPibir0yvQsNTzUEdcM0pz7tI666g929snDVq6cl4JRRc491kzc-_VVlrq7oPtc2s_gHnjD_F-2DotdYp53l4Sz3VCD3S4NM-3sZwXreSFFS1i5hQ7fV841pH0ELNx2zqy7XALGVAnl2fi9bIl0JIW5SMzBbwv06dwcdmsMVaEPdzNwmvJ2YmJpc99hgdUjbV1pwTblRD0Bc0inZvVmYfFCerto9s8mk12VUVOlRPpUj_M0W1ojsHj4346LweBqLtq5S65xS8VTf4DfoU9ZQ",
+        "seller": "Amazon.in",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjRKJp_s21zB2KNHkwcHN9BK-4G03RBMdwkZsaLv_ASrARid3QgpR4wpLOAsUDlkeCg1ggdL_-1fJsor0vNY1Yf8tnMuqPhfngffy40sDQLQtvFuC5tiox9A"
+      },
+      {
+        "position": 21,
+        "title": "Ant Esports RX550 80 Plus Bronze Gaming Power Supply",
+        "price": "₹2,699",
+        "extracted_price": 2699,
+        "link": "https://www.google.com/search?prds=catalogid:13040505483519617506,gpcid:10130237933579557976,headlineOfferDocid:14426106770058739059,imageDocid:18417484164586877771,mid:576462851182687818,productid:11326610318610448408,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Hp9bwHicLU9dzqJIFE1mJW7ADkXxU3zGh7IoFEVAQEVejBYIfPwKqOgWZhVjZybpeezManop_TT0ZG5yz03uuefknt-_sVN3yqs4Df8BkBM4kRMFBEWgSEAWOenPuGa_KG4geSgrEIqyIg4tS9-T6BTmaRlZl0vUqNV_d4LAS4CTZJnjRCRDhROVv9PiFEf_80gAsjCAJIhIQvJQ4GuRht9FWRIkHokAIH7YI4C-1U0V3lj3SwUgLw22EKABhUHPoa_1vfqDH7B7J_E7zt9p-U7yd1T-xaoqS6Mfv_10LeJOCdYnI5dihyyOLl5TV_folMQb_SjR2WSEKZni00mhy8borFtg5dEO3D2DrbXzSvVN3atuwYYpzz4rQ9cNctapd5-83Bo8AjwZzS1rbtAjnm1deqQ-XduebplTXZ1G8IJ4mTspHAqHVPDDW0-BrABR5gWofJBp86HbUyByX3gBfOGhMEw0_hg-9g0YqxLeArJS7ssnEHvL79BkpO6mW3Gzz67y9tJU_kPNfD2zIxId2HjFYppUk9Hx6Ebs1kRj13PsKZ6ZCZY-DcE4AjXWhURsctK32lI1tTxw_MZh2EjGeWNddmq2iKpCU7ry85V5WJMr7AXSojFjSuVs99BhZRuLOfRqd29iZ7yq72fC0flkZA5pyZURgqnLb-jM6ueqa-_LYFZmu3Vk2TFz10Eq6RUku9RZx7f2eq1nLc8XKNx_8oX36EI11JIMCK3x6fVbxiXm-Pw6WDG93vW6hXr2IqSo51GxYOTATo_dwzukITkjyTbDhSYeF_f1fbkPsLCrkhtQkdixQINM1Qtj7pAqbYk1O1hnlTc1-bLi8ta3H7N65jzKrbjUnCc9ZOahB_Pa66NDv7UbYufzrLnGrmMHLmhRYVzuYynLG9ENSpJH1M532iG3zRPueETHTWNLls1MqPMavr5it5NMjhQkL56pwaFDkby4q0Nntb7C9OlsFm6DL3aETW3uUdTDcqyuW9nfrji_y0kaaswoLyzIz7zWPNvNs96kN0VgRD7jNvGCDN77-uQ_Px_ny7LnsLIrV86Smexakvhf3_A9vg",
+        "seller": "Computech Store",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRowGIlzu1eyxcC7p0k_iQ05sxqpPDxWWF5v8txbp4cIQJEDIT9DeYznxr6K2mBcDcp5JlOsLbuPQiI6rcPAMoEgItnolA3mAhBvOOpVi8ROqgsarWJfOB79w"
+      },
+      {
+        "position": 22,
+        "title": "Gigabyte P550SS 550W 80+ Silver Power Supply",
+        "price": "₹3,249",
+        "extracted_price": 3249,
+        "link": "https://www.google.com/search?prds=catalogid:18106826856591395012,gpcid:10294812336426270839,headlineOfferDocid:7401293975269830901,imageDocid:8606828369656762699,mid:576462892695954532,productid:510733482224335655,pvo:2,pvt:hg,rds:PC_7520931960860609553%7CPROD_PC_7520931960860609553&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rT9VFHicbZBdjqtGEIWlrGQ24Cu6Gxp6LD-0G7CxMWDAHsyLZTcYGH4N-Fd3CdlE5iqRbh5vsplkKXkKo7zmpUqqr0rnnPr5Oz_0h6JOsuhPoAABKxArEpYIQEQSAPw1afgnEiARFQARwiLEUBYURH6k8SEqsiq2T6e4Veth7w9ZHG4IIrIEMVGQQATwe1Yekvg_rOBPAQVhgiUs42GHfCuz6IckYxFDhQwDiUiihOD3pq2jC-8_IRBkhEQFQigiNHiTvjXX-hc41P4jTb61UfcXdNh-0BQIAgQLnzICkST01XFtdf__7CMpPrLqIy0-4uo3Xtd5Fv_90z-ezbwJo8b4xdOoy-Z7j640z_C1CUvWxh5r0_EL1diEHg5EW7Rmb19Cu4i34OqbfKUfl2pgGX59CdecPO55FXleWPBevQbs6TXgFtLxy8y2Z6a2p9ONp-21QFs5vmFbE0OdxOikDM89EEGJAFDQq7-aAJkASR6ik1c2aV8NZwIk4QsUwReIxKEro9fBcWCiRMV0A9iSXBcPIN3toFfGL-p2spHWb_lZ3pzaOripeWDkTsziHR8teaKl9fhlv_difmnjkee7zoROrZTid1M090BNDDGV2oLdO32hWnoRukHrcmqmo6K1T1s1n8d1qZO-en_mPtXlmvohnrdWomlyvr0ZqHbM-Qz5jfdmUXe0bK5HJmiz8Ys1pGVnzhjVPLjWpvZ9pnrOWxVOq3y7im0n4d4qzLBRI7bN3FVy6c7nZtpBWCrR2zss_VsfqZGe5kDszHf_vuFCao2Oz52daOer0XTIyJ-Mlc0sLuec7fjhtr35uyxiRwU7VjTXpf38urou3kIqbuv0AlRF6nmoI64apTlzWZ11zJ7u7KMKLV0-LYWiC5zbtJm6t2ojLXT3oe1ya3cHs8a_x7v7xmmZU8zy9px4rhN6oFNK83Qd4bxoJS-sWBFrTrHVd4VjHWgPFW3Utg62HW4hA-r0_Ey8HlsCK1lRPjJTUHZl-hTOrjZtjCXVHu567rX05MTU0me-ptxRNVJXnRxslkLQFyyLdG5WJx4WR6i3j279aNbZhYicyUfapX6Yo-u9OQSP99vxtLgLlGyrpbvgFj9XLPkX5tZLvQ",
+        "seller": "Novelty Computech",
+        "rating": 5,
+        "reviews": 9,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVNjhIPZgIfQq-e5rAUHPnw1cU00Dl4TqQY-qErTKkaXFlVW1lS-0aINF1TM8cjsV_vyOr1zJumezcsoRH4ih9ARJSFPGbRQ95TtNVwS9EN2Fpc2PNIaTD"
+      },
+      {
+        "position": 23,
+        "title": "Ant Esports FG550 V2 Gold 550 Watt Fully Modular Smps",
+        "price": "₹3,985",
+        "extracted_price": 3985,
+        "link": "https://www.google.com/search?prds=catalogid:839695107149690996,gpcid:6835677672472069334,headlineOfferDocid:5004880926238095749,imageDocid:13686590821571270573,mid:576462874592938260,productid:4828767189644787040,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OIcHJ3icHY9fzqJIFMWTWYkbsAMUFMVnfCiLQlEEBFTkxWiBwMdfARXdQq9i7Ewn3Y89s5pZyjwNMy_33OTcnHN_X3-wU3fKqzgNfyGgQEXiOZkXh4VTFPhHXLM0_BMiIEFZhrIgygIHFQDEX0l0CvO0jKzLJWrU6r8zieNEhDhFgAIYRJJF5WdanOLof_svHkAEJYVDAi_JvCBzkgy-FUOvJEMRCkgWJUVQABIg96NuqvDGuiFURIMDZR4pUBRlJHMi962-V78Lw-zeSfyO83davpP8HZXfWVVlafT3b_-4FnGnBOuTkUuxQxZHF6-pq3t0SuKNfoR0NhlhSqb4dFLosjE66xZYebTj757B1tp5pfqm7lW3YMOUZ5-VoesGOevUu09ebs0_AjwZzS1rbtAjnm1deqQ-XduebplTXZ1G4IIGvtPAGvI8Ah_eesrLyoAtiED5INPmQ7envMR9EUT-iwDEQdH4Y_jYN0CsQrzlyUq5L5-81Ft-hyYjdTfdSpt9dpW3l6byH2rm65kdkejAxisW06SajI5HN2K3Jhq7nmNP8cxMMPw0ROPIq7EuJlKTk77Vlqqp5YHjNw7DRjLOG-uyU7NFVBWa0pWfr8zDmlxhL4CLxowplbPdQweVbSzmwKvdvYmd8aq-nwlH55OROdCSKyMEU1fY0JnVz1XX3pfBrMx268iyY-augxTqFSC71FnHt_Z6rWetIBQo3H8KhffoQjXUkowXW-PT67eMS8zx-XWwYnq963UL9OxFSFHPo2LByIGdHruHd0hDckbQNsOFJh0X9_V9uQ-wuKuSG68iqWOBBpiqF8bcIVXaEmt2sM6qYGryZcXlrW8_ZvXMeZRbaak5T3rIzEPPz2uvjw791m6Inc-z5hq7jh24fIsK43IfwyxvJDcoSR5RO99ph9w2T7gTEB03jQ0tm5lAFzR8fcVuB02OFCQvnqnBoUORvLirQ2e1vsL06WwWboMvdoRNbe5R1INyrK5b2d-uOL_LSRpqzCgvLMjPgtY8282z3qQ3RWREPuM28YIM3Pv65D8_H-fLsuewsitXzpKZ7FqS-F-_Rzz8",
+        "seller": "Vedant Computers",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSV9lOomO91wwP1bJ1qy0VLOf73lrS8rPcBcSpmYPRc1VbgGeXepwwf0NtQVx2nD1XGt_fW5yl2biCtokBa75qs7V7sonbAjOBCAHv9bgJAk8YKCi_W6iS4qw"
+      },
+      {
+        "position": 24,
+        "title": "GIGABYTE ICE P550SS Silver ATX 3.0 Smps",
+        "price": "₹4,499",
+        "extracted_price": 4499,
+        "link": "https://www.google.com/search?prds=catalogid:2694163303574564816,gpcid:13680386808827009232,headlineOfferDocid:15834132251214677332,imageDocid:17870731491903764728,mid:576462567122956222,productid:1999701921026642071,pvo:2,pvt:hg&ibp=oshop&gl=in&q=search&udm=28&hl=en&pvorigin=2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=luTgp3icLVBN0qpGAKzKSbyAr5gZGOCzXIzDoCgCAvohG0sHBD5-BVT0CjlFvldJ1cvy5Z3mHSWrmFQ23V3VvejuX7_xY38s6iSL_oJYFQFGSECSLEpYVAD-PWl4Fv0ACCsCUl6gKFAWBBUi-D2Nj1GRVbF9PsetVv-XkxQkAgShBCAQsSwjBP_MymMS_-_LiizICIgqUAUkY1GGytcyi75LL42hhGUAoSphCOG3pq2jK-9fvYCqqrIAVAgEiLEIBRl8bW71b_CF_WeafCbFZ1Z9psVnXP3B6zrP4p-__O3Z1JtSYkxGHiMuXRw8smae4bMpTTbGAbPZZEQYnZLjUWXL1uzta2gX8Q7cfJOv9dNKCyzDr6_hhquPIa8izwsL3mu3gD69BtxDMhnNbXtusgOZbT12YAFbO75hW1NDm8bo_O9TR1VQIgAU9Oavp0BWgSRDEalvdNq-Gc4USMIXKIIvEIkvVsZvr8aBiRINky2gK_W2fABpsINemYy03XQrbd7zi7w9t3Vw1_LAyJ2Yxns-XvGEpfVkdDh4Mb-28djzXWdKZlZK8IcpmgegJYaYSm1Bh05fapZehG7QupyY6bho7fNOyxdxXepqX308c5_ock38EC9aK2FMznd3A9WOuZgjv_HeLeKOV83tRAU2n4ys11p64ZQS5sENm9nDXPOc9yqcVfluHdtOwr11mGGjRnSXuevk2l0uzayDsFSi9w9Y-vc-0iI9zYHYmR_-sOVCao1Pz72dsMvNaDpk5E9Ky2YelwtO9_x43939fRbRk4IdK1ro0mFxW9-W7yERd3V6BZoi9TzUEdeM0py7tM46as_29kmDli6fV0LRBc591szce7WVlrr7YPvc2g9g3vhDvB-2TkudYp63l8RzndADnVKa59sY50UreWFFi5g5xU7fF451JD1U2LhtHWw73EIG1MnlmXg9tgRa0qJ8ZKag7Mv0KVxcNmuMFWEPd7PwWnJ2YmLpc58pA6rG2rqTg-1KCPqCZpHOzerMw-IE9fbRbR7NJruqIqfyiXSpH-boNjTH4PFxP52Xg0DUXbVyl9zil4om_wD5Wz1B",
+        "seller": "Amazon.in",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFlUIhuKHZZiUfh3T1-koYuG6RvjQSOaXj0kvyIxCFoGLnPi2zf-xswtvATZIs5K3GNG5D6qPFxGrdQQNFo5gsYiJqJdQYufGB6vIbB-bvzl1IyLaIEshcrA"
+      }
+    ],
+    "product_attributes": [
+      {
+        "name": "power output",
+        "value": "500 watts"
+      },
+      {
+        "name": "80 plus rating",
+        "value": "80 PLUS"
+      },
+      {
+        "name": "brand",
+        "value": "Circle"
+      }
+    ],
+    "price_insights": {
+      "price_history": true,
+      "currency": "INR",
+      "price_tracking_available": true,
+      "stores": [
+        {
+          "name": "Amazon.in",
+          "prices": [
+            {
+              "date": "Oct 9, 2025",
+              "price": 2399
+            },
+            {
+              "date": "Nov 25, 2025",
+              "price": 1999
+            },
+            {
+              "date": "Dec 3, 2025",
+              "price": 2099
+            },
+            {
+              "date": "Dec 8, 2025",
+              "price": 2119
+            },
+            {
+              "date": "Dec 9, 2025",
+              "price": 1999
+            },
+            {
+              "date": "Dec 15, 2025",
+              "price": 2099
+            },
+            {
+              "date": "Dec 17, 2025",
+              "price": 1999
+            },
+            {
+              "date": "Jan 6, 2026",
+              "price": 1949
+            },
+            {
+              "date": "Jan 7, 2026",
+              "price": 1958
+            },
+            {
+              "date": "Jan 8, 2026",
+              "price": 1913
+            },
+            {
+              "date": "Jan 9, 2026",
+              "price": 1985
+            },
+            {
+              "date": "Jan 10, 2026",
+              "price": 1983
+            },
+            {
+              "date": "Jan 12, 2026",
+              "price": 1866
+            },
+            {
+              "date": "Jan 15, 2026",
+              "price": 1899
+            },
+            {
+              "date": "Jan 16, 2026",
+              "price": 1866
+            },
+            {
+              "date": "Jan 19, 2026",
+              "price": 1849
+            },
+            {
+              "date": "Jan 20, 2026",
+              "price": 1866
+            },
+            {
+              "date": "Jan 21, 2026",
+              "price": 1816
+            },
+            {
+              "date": "Feb 4, 2026",
+              "price": 1757
+            },
+            {
+              "date": "Feb 5, 2026",
+              "price": 1706
+            },
+            {
+              "date": "Feb 11, 2026",
+              "price": 1807
+            },
+            {
+              "date": "Feb 13, 2026",
+              "price": 1706
+            },
+            {
+              "date": "Feb 25, 2026",
+              "price": 1907
+            },
+            {
+              "date": "Mar 20, 2026",
+              "price": 1918
+            },
+            {
+              "date": "Mar 21, 2026",
+              "price": 1907
+            },
+            {
+              "date": "Mar 23, 2026",
+              "price": 1775
+            },
+            {
+              "date": "Mar 31, 2026",
+              "price": 1793
+            },
+            {
+              "date": "Apr 2, 2026",
+              "price": 1775
+            },
+            {
+              "date": "Apr 11, 2026",
+              "price": 1700
+            },
+            {
+              "date": "May 7, 2026",
+              "price": 1799
+            },
+            {
+              "date": "May 8, 2026",
+              "price": 1699
+            },
+            {
+              "date": "May 15, 2026",
+              "price": 1718
+            },
+            {
+              "date": "May 21, 2026",
+              "price": 1700
+            },
+            {
+              "date": "Jun 17, 2026",
+              "price": 1989
+            },
+            {
+              "date": "Jun 19, 2026",
+              "price": 1999
+            },
+            {
+              "date": "Jun 25, 2026",
+              "price": 1700
+            },
+            {
+              "date": "Jun 26, 2026",
+              "price": 1718
+            },
+            {
+              "date": "Jul 1, 2026",
+              "price": 1956
+            },
+            {
+              "date": "Jul 2, 2026",
+              "price": 2009
+            },
+            {
+              "date": "Jul 7, 2026",
+              "price": 1899
+            },
+            {
+              "date": "Jul 10, 2026",
+              "price": 1925
+            },
+            {
+              "date": "Aug 7, 2026",
+              "price": 1899
+            },
+            {
+              "date": "Aug 14, 2026",
+              "price": 1925
+            },
+            {
+              "date": "Aug 15, 2026",
+              "price": 1899
+            },
+            {
+              "date": "Aug 22, 2026",
+              "price": 1925
+            },
+            {
+              "date": "Aug 23, 2026",
+              "price": 2299
+            },
+            {
+              "date": "Aug 25, 2026",
+              "price": 1925
+            },
+            {
+              "date": "Aug 27, 2026",
+              "price": 2299
+            },
+            {
+              "date": "Aug 28, 2026",
+              "price": 1899
+            },
+            {
+              "date": "Sep 23, 2026",
+              "price": 1999
+            },
+            {
+              "date": "Oct 7, 2026",
+              "price": 1959
+            },
+            {
+              "date": "Oct 8, 2026",
+              "price": 1829
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "__fetched_at": "2026-10-09T19:24:07.445Z",
+  "__part_slug": "psu-atx"
+}

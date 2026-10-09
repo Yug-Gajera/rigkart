@@ -37,6 +37,6 @@ insert into parts (slug, category, label, search_term) values
   ('rtx-4060',          'gpu',         'NVIDIA RTX 4060 8GB',         'NVIDIA RTX 4060 8GB graphics card'),
   ('ddr5-16gb-5600',    'ram',         'Crucial DDR5 16GB',           'Crucial DDR5 16GB 5600'),
   ('b650m',             'motherboard', 'B650M board (any brand)',     'B650M motherboard'),
-  ('psu-650w-gold',     'psu',         'Corsair RM650e 650W',         'Corsair RM650e'),
+  ('psu-atx',           'psu',         'ATX PSU, 500-650W',           '600W SMPS gaming power supply'),
   ('atx-case',          'case',        'ATX mid-tower case',          'ATX mid tower cabinet')
 on conflict (slug) do nothing;

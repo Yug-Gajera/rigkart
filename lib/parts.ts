@@ -36,7 +36,7 @@ export const DEFAULT_BUILD: Part[] = [
   { slug: "rtx-4060",       category: "gpu",         label: "NVIDIA RTX 4060 8GB",     searchTerm: "NVIDIA RTX 4060 8GB graphics card", must: ["4060"],  not: ["ti", "4060ti", "pc", "desktop"] },
   { slug: "ddr5-16gb-5600", category: "ram",         label: "Crucial DDR5 16GB",       searchTerm: "Crucial DDR5 16GB 5600",   must: ["ddr5", "16gb"],  not: ["32gb", "64gb", "sodimm", "ecc", "rdimm", "pc", "desktop"] },
   { slug: "b650m",          category: "motherboard", label: "B650M board (any brand)", searchTerm: "B650M motherboard",        must: ["b650m"] },
-  { slug: "psu-650w-gold",  category: "psu",         label: "Corsair RM650e 650W",     searchTerm: "Corsair RM650e",                   must: ["rm650"] },
+  { slug: "psu-atx",        category: "psu",         label: "ATX PSU, 500-650W",       searchTerm: "600W SMPS gaming power supply", must: [], anyOf: ["500w", "550w", "600w", "650w", "500 watt", "550 watt", "600 watt", "650 watt", "500l", "550l", "600l", "650l", "cx650", "rx550"], not: ["12v", "24v", "led", "rainproof", "adapter", "charger", "laptop", "ups", "din", "converter", "inverter", "cctv", "nas", "qnap", "server"] },
   { slug: "atx-case",       category: "case",        label: "PC case / cabinet",       searchTerm: "ATX mid tower cabinet",    must: [], anyOf: ["cabinet", "case", "tower"], not: ["panel", "bracket", "riser", "filter", "cable", "fan", "keyboard", "mouse", "chair", "desk", "rack"] },
 ];
 

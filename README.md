@@ -86,7 +86,7 @@ The free tier is 250 searches/month, so spending is deliberate:
 - **`scripts/fetch-fixture.mts`** refuses to overwrite an existing fixture, so a
   stray re-run cannot quietly burn credits.
 
-Total spend building this: ~24 searches, including the query-tuning dead ends.
+Total spend building this: 23 searches, including the query-tuning dead ends.
 
 ## How the optimizer works
 

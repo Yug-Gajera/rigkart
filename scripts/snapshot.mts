@@ -15,7 +15,7 @@ import { existsSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { db } from "../lib/db";
 import { DEFAULT_BUILD } from "../lib/parts";
-import { fixtureName, normalize, shoppingSearch } from "../lib/serp";
+import { fixtureName, searchPart } from "../lib/serp";
 
 const live = process.argv.includes("--live");
 
@@ -30,15 +30,19 @@ for (const part of DEFAULT_BUILD) {
 
   // Without --live, an existing fixture is a real timestamped observation
   // already — reuse it rather than paying for the same data twice.
-  const { listings, source, fetchedAt } = await shoppingSearch(part.searchTerm, {
+  // searchPart, not shoppingSearch: history must store the same filtered
+  // listings the UI shows, or the sparkline tracks decoys and wrong products.
+  const { listings, source, fetchedAt } = await searchPart(part, {
     live: live || !haveFixture,
     refresh: live,
   });
   if (source === "live") credits++;
 
-  if (!haveFixture && source === "live") {
-    // Re-fetch of the raw payload is free here: shoppingSearch already cached it.
-    console.log(`  (no fixture for ${part.slug}; run fetch-fixture.mts to commit one)`);
+  if (!haveFixture) console.log(`  (no fixture for ${part.slug}; fetch-fixture.mts commits one)`);
+
+  if (!listings.length) {
+    console.log(`${part.slug.padEnd(16)} SKIPPED — no relevant listings`);
+    continue;
   }
 
   const captured_at = /^\d{4}-/.test(fetchedAt) ? fetchedAt : new Date().toISOString();

@@ -260,7 +260,12 @@ Stated here rather than discovered by a reader:
 
 ## Demo
 
-<!-- TODO: paste the demo video link here before submitting -->
+**[Watch the 2:54 demo →](https://youtu.be/-5hlGUr-7hM)**
+
+The video shows a live SerpApi call (the source badge going `cache` → `live`),
+the two baskets, the delivery slider crossing the ₹3,008 breakeven and flipping
+the verdict, and a per-part page with real per-seller delivery and Google's own
+price history.
 
 ## Not built, deliberately
 

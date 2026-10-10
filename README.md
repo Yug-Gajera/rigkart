@@ -6,12 +6,42 @@ Indian sellers and answers the question price-comparison sites never do:
 **buying every part from its own cheapest seller means paying delivery N times.**
 
 RigKart prices the whole basket both ways — cheapest-per-item against cheapest
-consolidated across the fewest sellers — and shows which actually wins in
-rupees. Every lookup is snapshotted, so repeat searches show price movement.
+consolidated across the fewest sellers — and shows which actually wins in rupees.
 
-On the current live data the answer is counterintuitive and the tool says so:
-buying per item wins by **₹18,237**, because the only shops that carry the whole
-build charge far more per item than five deliveries cost.
+On the committed data the answer is counterintuitive, and the tool says so
+rather than flattering its own premise:
+
+| | Sellers | Items | Delivery | **Total** |
+|---|---|---|---|---|
+| Cheapest per item | 6 | ₹89,026 | ₹2,400 | **₹91,426** |
+| Cheapest consolidated | 3 | ₹98,050 | ₹1,200 | **₹99,250** |
+
+Buying separately wins by **₹7,824** — the shops that stock everything charge
+more per item than the extra deliveries cost. So the headline output is not a
+verdict but a **breakeven: ₹3,008 of delivery per seller**. Below that, buy
+separately; above it, consolidate. Real Indian delivery is nowhere near ₹3,008,
+which is the honest answer for this build — and the slider on the page lets you
+drag delivery past the crossover and watch the verdict flip.
+
+*(Figures from `npm run smoke`, which asserts them on every run.)*
+
+## What you see
+
+- **A parts list you type**, one part per line. Match tokens are derived from
+  model numbers, so `Crucial P3 Plus 1TB NVMe SSD` filters on `p3` + `1tb`.
+- **Per-part cheapest listing**, with the seller, the number of competing
+  offers, and a **source badge** — `fixture`, `cache` or `live` — so credit
+  spend is never hidden. Expand any part for its full offer list.
+- **The two baskets**, a draggable delivery charge, and the breakeven.
+- **A seller-count curve**: delivery falls as you consolidate while item prices
+  rise, and the bars show where they cross.
+- **A page per part** (`/part/<slug>`) using a second SerpApi engine: every
+  seller of that exact SKU with **real per-seller delivery**, plus Google's own
+  dated price history.
+- **Honesty markers** throughout: `uncorroborated` when no second seller comes
+  within 2× of the cheapest price, `not itemised` when delivery is derived
+  rather than stated, and a note when a match had to be loosened to find
+  anything.
 
 ## Run it
 
@@ -19,8 +49,17 @@ build charge far more per item than five deliveries cost.
 npm install
 cp .env.example .env.local   # works as-is: DEMO_MODE=true needs no keys at all
 npm run dev                  # http://localhost:3000
-npm run smoke                # asserts pricing, filtering and basket arithmetic
 ```
+
+Requires Node 20.6+ (the scripts use Node's own `--env-file-if-exists`).
+
+| Script | What it does |
+|---|---|
+| `npm run dev` | The app, on port 3000 |
+| `npm run smoke` | Asserts pricing, filtering, seller identity and basket arithmetic against the committed fixtures. No network, no keys |
+| `npm run fixture "<term>"` | Spends 1 credit, commits a shopping fixture. Refuses to overwrite |
+| `npm run fixture:product <slug>` | Spends 1 credit, commits a product fixture for that part |
+| `npm run snapshot -- --live` | Records a price snapshot of the whole build to Postgres |
 
 `DEMO_MODE=true` (the default) serves the committed fixtures in `fixtures/`, so
 the app is fully demoable with **zero SerpApi credits and no Supabase project**.
@@ -162,16 +201,66 @@ and a handful retargeting parts Google Shopping India does not stock.
 
 ## How the optimizer works
 
-`lib/basket.ts`. Brute force over seller subsets: with ~35 sellers that is
-35 + 595 + 6,545 combinations for up to 3 shops, each scored across six parts —
-11ms, and exactly optimal within the cap rather than a greedy guess. The
-seller-count curve is the real output: delivery falls as you consolidate while
-item prices rise, and the chart shows where they cross for your build.
+`lib/basket.ts`. Brute force over seller subsets: the committed data has 45
+distinct sellers, so up to 3 shops is 45 + 990 + 14,190 = **15,225 combinations**,
+each scored across six parts. Measured at **13.7ms**, which is why the delivery
+slider can rerun the whole comparison in the browser on every drag instead of
+round-tripping to the server. Exactly optimal within the cap, rather than a
+greedy guess that can miss the pairing that matters.
+
+The breakeven is not searched for — a basket's picks depend only on item prices,
+so each candidate crosses the per-item basket at exact arithmetic:
+
+```
+Sp + n·S  vs  Sc + k·S    =>    S > (Sc − Sp) / (n − k)
+```
+
+taken as the minimum across every candidate, because a two-seller basket can
+carry a bigger item premium yet save more deliveries and so overtake first.
+`npm run smoke` asserts the crossover holds a rupee either side of it.
+
+## Project layout
+
+| Path | What lives there |
+|---|---|
+| `lib/serp.ts` | The SerpApi client, the three-tier read path, and all the filtering: decoy floor, relevance, seller canonicalisation |
+| `lib/product.ts` | The `google_product` engine: per-SKU offers, real delivery, price history |
+| `lib/basket.ts` | The optimizer and the breakeven. Pure functions, no I/O — which is why the slider can rerun it in the browser |
+| `lib/parts.ts` | The demo build, and deriving match tokens from a typed line |
+| `lib/history.ts` | Snapshot reads for the sparklines |
+| `app/page.tsx` | Server component: fetches, filters, renders the table |
+| `app/basket-explorer.tsx` | The only client component — the delivery slider and the comparison |
+| `app/part/[slug]/page.tsx` | Per-SKU offers and the price-history chart |
+| `scripts/smoke.mts` | The whole test suite, asserted against real committed responses |
+| `fixtures/` | 12 committed SerpApi responses: 6 shopping, 6 product |
 
 ## Schema
 
-`supabase/001_init.sql` — `parts` (catalog), `lookups` (the response cache),
-`snapshots` (append-only price observations).
+`supabase/001_init.sql` — `parts` (catalog), `lookups` (the response cache,
+keyed by a hash of the request params), `snapshots` (append-only price
+observations).
+
+Supabase is **optional**. With no credentials the client is `null`, the cache
+and snapshot writes become no-ops, and the app runs entirely from fixtures.
+
+## Known limits
+
+Stated here rather than discovered by a reader:
+
+- **Delivery on the main page is a flat estimate**, adjustable with the slider.
+  `google_shopping` does not report it reliably across 40 listings. The per-part
+  pages use `google_product`, which does report it, and say so.
+- **The PSU is a wattage band (500-650W), not one SKU.** No single wattage has
+  enough Indian supply to compare like-for-like; every member of the band powers
+  this build, and the label says so.
+- **The optimizer is exact up to 3 sellers.** Beyond that the subset search is
+  exponential; it would need a greedy pass or a set-cover solver.
+- **Price history needs two snapshot runs** to draw a sparkline. Google's own
+  `price_insights` on the per-part pages is richer and needs none.
+
+## Demo
+
+<!-- TODO: paste the demo video link here before submitting -->
 
 ## Not built, deliberately
 
